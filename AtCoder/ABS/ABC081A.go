@@ -1,18 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"strings"
+)
 
 func main() {
-	var a int
+	var a string
 	fmt.Scan(&a)
-	num := 0
-	for {
-		if a%10 != 0 {
-			num++
-		} else if a/10 == 0 {
-			break
-		}
-		a /= 10
-	}
-	fmt.Println(num)
+	fmt.Println(strings.Count(a, "1"))
 }
