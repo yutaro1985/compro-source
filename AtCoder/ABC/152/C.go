@@ -5,40 +5,61 @@ import (
 	"fmt"
 	"os"
 	"strconv"
-	"strings"
 )
+
+const (
+	initialBufSize = 10000
+	maxBufSize     = 1000000009
+)
+
+var buf []byte = make([]byte, maxBufSize)
 var sc = bufio.NewScanner(os.Stdin)
 
-func main() {
-	var s1,s2 string
-	if sc.Scan() {
-        s1 = sc.Text()
-    }
-    if sc.Scan() {
-        s2 = sc.Text()
-	}
-	nums, _ := strconv.Atoi(s1)
-	slice := strings.Split(s2, " ")
-	inputNum := stringToint(slice)
+func init() {
+	sc.Split(bufio.ScanWords)
+	sc.Buffer(buf, maxBufSize)
+}
 
-	truenums := 0
+func main() {
+	nums := nextInt()
+	trueTotal := 0
+	min := 1000000
+	var cur int
 	for i := 0; i < nums; i++ {
-		if min(inputNum[:i+1]) >= inputNum[i] {
-			truenums++
+		cur = nextInt()
+		if min >= cur {
+			trueTotal++
+			min = cur
 		}
 	}
-	fmt.Println(truenums)
+	fmt.Println(trueTotal)
 }
-// 今回は未使用
-// func Scanner() []string {
-// 	sc := bufio.NewScanner(os.Stdin)
-// 	var s string
-// 	if sc.Scan() {
-// 		s = sc.Text()
-// 	}
-// 	slice := strings.Split(s, " ")
-// 	return slice
-// }
+
+func nextLine() string {
+	sc.Scan()
+	return sc.Text()
+}
+
+func nextInt() int {
+	sc.Scan()
+	i, e := strconv.Atoi(sc.Text())
+	if e != nil {
+		panic(e)
+	}
+	return i
+}
+
+func readInt64() int64 {
+	sc.Scan()
+	r, _ := strconv.ParseInt(sc.Text(), 10, 64)
+	return r
+}
+
+func readFloat64() float64 {
+	sc.Scan()
+	r, _ := strconv.ParseFloat(sc.Text(), 64)
+	return r
+}
 
 func stringToint(s []string) []int {
 	f := make([]int, len(s))
@@ -47,24 +68,3 @@ func stringToint(s []string) []int {
 	}
 	return f
 }
-
-func max(a []int) int {
-    max := a[0]
-    for _, i := range a {
-        if i > max {
-            max = i
-        }
-    }
-    return max
-}
-
-func min(a []int) int {
-    min := a[0]
-    for _, i := range a {
-        if i < min {
-            min = i
-        }
-    }
-    return min
-}
-
