@@ -9,14 +9,24 @@ import (
 )
 var sc = bufio.NewScanner(os.Stdin)
 
+func nextLine() string {
+    sc.Scan()
+    return sc.Text()
+}
+
+func nextInt() int {
+    sc.Scan()
+    i, e := strconv.Atoi(sc.Text())
+    if e != nil {
+        panic(e)
+    }
+    return i
+}
+
 func main() {
 	var s1,s2 string
-	if sc.Scan() {
-        s1 = sc.Text()
-    }
-    if sc.Scan() {
-        s2 = sc.Text()
-	}
+	s1 = nextLine()
+	s2 = nextLine()
 	nums, _ := strconv.Atoi(s1)
 	slice := strings.Split(s2, " ")
 	inputNum := stringToint(slice)
