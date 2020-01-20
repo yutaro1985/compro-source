@@ -82,7 +82,7 @@ func sumNumber(s string) int {
 }
 
 // 各桁合計その2 intで読み込んだとき
-func degitsum(n int) int {
+func degitSum(n int) int {
 	var total int
 	for {
 		total += n % 10
@@ -92,4 +92,34 @@ func degitsum(n int) int {
 		}
 	}
 	return total
+}
+
+// 文字配列の重複排除
+func strUniq(list []string) []string {
+	m := make(map[string]struct{})
+	newList := make([]string, 0)
+
+	for _, element := range list {
+		// mapでは、第二引数にその値が入っているかどうかの真偽値が入っている
+		if _, ok := m[element]; ok == false {
+			m[element] = struct{}{}
+			newList = append(newList, element)
+		}
+	}
+	return newList
+}
+
+// Int配列の重複排除
+func intUniq(list []int) []int {
+	m := make(map[int]struct{})
+	newList := make([]int, 0)
+
+	for _, element := range list {
+		// mapでは、第二引数にその値が入っているかどうかの真偽値が入っている
+		if _, ok := m[element]; ok == false {
+			m[element] = struct{}{}
+			newList = append(newList, element)
+		}
+	}
+	return newList
 }
