@@ -70,6 +70,7 @@ func stringToint(s []string) []int {
 	return f
 }
 
+// 各桁合計その1 文字で読み込んだとき
 func sumNumber(s string) int {
 	numbers := strings.Split(s, "")
 	var sum int
@@ -78,4 +79,17 @@ func sumNumber(s string) int {
 		sum += iv
 	}
 	return sum
+}
+
+// 各桁合計その2 intで読み込んだとき
+func degitsum(n int) int {
+	var total int
+	for {
+		total += n % 10
+		n /= 10
+		if n == 0 {
+			break
+		}
+	}
+	return total
 }
