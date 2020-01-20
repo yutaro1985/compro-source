@@ -5,6 +5,7 @@ import (
 	"fmt"
 	"os"
 	"strconv"
+	"strings"
 )
 
 const (
@@ -67,4 +68,14 @@ func stringToint(s []string) []int {
 		f[n], _ = strconv.Atoi(s[n])
 	}
 	return f
+}
+
+func sumNumber(s string) int {
+	numbers := strings.Split(s, "")
+	var sum int
+	for _, sv := range numbers {
+		iv, _ := strconv.Atoi(sv)
+		sum += iv
+	}
+	return sum
 }
