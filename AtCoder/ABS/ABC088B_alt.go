@@ -31,8 +31,7 @@ func main() {
 	n, _ := strconv.Atoi(s1)
 	s2 := readLine()
 	an := stringToint(strings.Split(s2, " "))
-	Alice := 0
-	Bob := 0
+	Total := 0
 	sort.Ints(an)
 	// 逆順ソート
 	// sort.Sort(sort.Reverse(sort.StringSlice(an)))
@@ -41,15 +40,15 @@ func main() {
 		num := an[n-i-1]
 		switch i % 2 {
 		case 0:
-			Alice += num
+			Total += num
 		case 1:
-			Bob += num
+			Total -= num
 		default:
 			fmt.Println("error")
 			break
 		}
 	}
-	fmt.Println(Alice - Bob)
+	fmt.Println(Total)
 }
 
 func stringToint(s []string) []int {
