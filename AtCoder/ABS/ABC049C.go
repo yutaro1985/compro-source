@@ -15,6 +15,7 @@ func main() {
 	// dreamdream,dreamdreamer
 	// dreamerdream,dreamerdreamer,dreamererase,dreamereraser
 	// dreameraserを先にチェック、その次にdreameraseをチェック
+	// 消すのではなく、一旦関係ない文字に置換して別の文字列を形成しないようにする
 	s = strings.Replace(s, "dreameraser", "X", -1)
 	s = strings.Replace(s, "dreamerase", "X", -1)
 	s = strings.Replace(s, "dreamer", "X", -1)
