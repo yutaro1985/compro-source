@@ -36,17 +36,22 @@ func main() {
 		nextgoal := readNums()
 		// 次の目的地までの所要時間と距離
 		nextdist := []int{0, 0, 0}
-		// 時間は必ず次の値が大きくなるので絶対値とらない
-		nextdist[0] = nextgoal[0] - prev[0]
-		x := nextgoal[1] - prev[1]
-		y := nextgoal[2] - prev[2]
-		nextdist[1] = int(math.Abs(float64(x)))
-		nextdist[2] = int(math.Abs(float64(y)))
-		// 次の目的地までの距離を残りの移動可能回数から引いた値が偶数ならたどり着ける
-		// また、距離が移動可能回数を
-		if (nextdist[0]-(nextdist[1]+nextdist[2]))%2 != 0 || nextgoal[0] < nextgoal[1]+nextgoal[2] {
+		if nextgoal[0] < nextgoal[1]+nextgoal[2] {
+			// t > x + yを満たさないと物理的に到達不可
 			fmt.Println("No")
 			return
+		} else {
+			// 時間は必ず次の値が大きくなるので絶対値とらない
+			nextdist[0] = nextgoal[0] - prev[0]
+			x := nextgoal[1] - prev[1]
+			y := nextgoal[2] - prev[2]
+			nextdist[1] = int(math.Abs(float64(x)))
+			nextdist[2] = int(math.Abs(float64(y)))
+			// 次の目的地までの距離を残りの移動可能回数から引いた値が偶数ならたどり着ける
+			if (nextdist[0]-(nextdist[1]+nextdist[2]))%2 != 0 {
+				fmt.Println("No")
+				return
+			}
 		}
 	}
 	fmt.Println("Yes")
