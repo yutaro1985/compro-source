@@ -23,11 +23,27 @@ func init() {
 func main() {
 	n := nextInt()
 	m := nextInt()
-	// cleared :=make()
+	clearedlist := make([]bool, n)
+	penaltycount := make([]int, n)
+	clearcount := 0
+	penalty := 0
+
 	for i := 0; i < m; i++ {
 		p := nextInt()
 		s := nextLine()
+		if s == "AC" && clearedlist[p-1] != true {
+			clearedlist[p-1] = true
+			clearcount++
+		} else if s == "WA" && clearedlist[p-1] != true {
+			penaltycount[p-1]++
+		}
 	}
+	for i, p := range penaltycount {
+		if clearedlist[i] == true {
+			penalty += p
+		}
+	}
+	fmt.Println(clearcount, penalty)
 }
 
 func nextLine() string {
@@ -43,12 +59,3 @@ func nextInt() int {
 	}
 	return i
 }
-
-func stringToint(s []string) []int {
-	f := make([]int, len(s))
-	for n := range s {
-		f[n], _ = strconv.Atoi(s[n])
-	}
-	return f
-}
-
