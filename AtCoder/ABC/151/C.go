@@ -31,10 +31,13 @@ func main() {
 	for i := 0; i < m; i++ {
 		p := nextInt()
 		s := nextLine()
-		if s == "AC" && clearedlist[p-1] != true {
+		if clearedlist[p-1] == true {
+			continue
+		}
+		if s == "AC" {
 			clearedlist[p-1] = true
 			clearcount++
-		} else if s == "WA" && clearedlist[p-1] != true {
+		} else if s == "WA" {
 			penaltycount[p-1]++
 		}
 	}
