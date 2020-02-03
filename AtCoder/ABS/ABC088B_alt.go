@@ -61,3 +61,4 @@ func stringToint(s []string) []int {
 
 // こちらのほうがスマート
 //　https://qiita.com/Suzuki_Cecil/items/3620ad0445dc32d3d02a#%E7%AC%AC-%EF%BC%96-%E5%95%8F-abc-088-b---card-game-for-two-200-%E7%82%B9
+// https://qiita.com/259_Momone/items/991d31ccc1f830a1d578#%E7%AC%AC-4-%E5%95%8F--abc087b---coins
