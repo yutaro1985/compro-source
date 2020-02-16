@@ -24,10 +24,7 @@ func main() {
 	N = nextInt()
 	for i := 0; i < N; i++ {
 		An = nextInt()
-		if An%2 == 1 {
-			continue
-		}
-		if An%3 != 0 && An%5 != 0 {
+		if An%2 != 1 && An%3 != 0 && An%5 != 0 {
 			fmt.Println("DENIED")
 			return
 		}
