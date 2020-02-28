@@ -4,8 +4,8 @@ import (
 	"bufio"
 	"fmt"
 	"os"
-	"strconv"
 	"sort"
+	"strconv"
 )
 
 const (
@@ -34,14 +34,34 @@ func main() {
 		keys = append(keys, k)
 	}
 	sort.Ints(keys)
-	for i := 1; i < N; i++ {
-		if keys[i-1] + m[keys[i-1]]  >= max {
-			max = keys[i-1] + m[keys[i-1]]
-		}
-		if max > keys[i] - m[keys[i]] {
-			delete(m,keys[i])
+	for _, x := range keys {
+		// if x-m[x] >= max {
+		// 	max = x+m[x]
+		// } else {
+		// 	delete(m, x)
+		// }
+		if max > x-m[x] {
+			delete(m, x)
+		} else {
+			max = x + m[x]
 		}
 	}
+	// for i := 0; i < N; i++ {
+	// 	// if keys[i]-m[keys[i]] >= max {
+	// 	// 	max = keys[i-1] + m[keys[i-1]]
+	// 	// }
+	// 	// if max > keys[i]-m[keys[i]] {
+	// 	// 	delete(m, keys[i])
+	// 	// } else {
+	// 	// 	max = keys[i]+m[keys[i]]
+	// 	// }
+	// 	if keys[i]-m[keys[i]] >= max {
+	// 		max = keys[i]+m[keys[i]]
+	// 	} else {
+	// 		delete(m, keys[i])
+	// 	}
+	// }
+	fmt.Println(m)
 	fmt.Println(len(m))
 }
 
