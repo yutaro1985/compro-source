@@ -125,6 +125,8 @@ func intUniq(list []int) []int {
 	return newList
 }
 
+// ここから拝借
+// https://qiita.com/kojamam/items/dad162a7360408c9332d
 // absをintでラップ
 func abs(a int) int {
 	return int(math.Abs(float64(a)))
@@ -134,4 +136,28 @@ func abs(a int) int {
 // 10の階乗についてはmath.Pow10(n int)を使えばいい
 func pow(p, q int) int {
 	return int(math.Pow(float64(p), float64(q)))
+}
+
+// 引数のうち最小のもの
+func min(nums ...int) int {
+	if len(nums) == 0 {
+		panic("funciton min() requires at least one argument.")
+	}
+	res := nums[0]
+	for i := 0; i < len(nums); i++ {
+		res = int(math.Min(float64(res), float64(nums[i])))
+	}
+	return res
+}
+
+// 引数のうち最大のもの
+func max(nums ...int) int {
+	if len(nums) == 0 {
+		panic("funciton max() requires at least one argument.")
+	}
+	res := nums[0]
+	for i := 0; i < len(nums); i++ {
+		res = int(math.Max(float64(res), float64(nums[i])))
+	}
+	return res
 }
