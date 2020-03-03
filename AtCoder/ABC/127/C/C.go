@@ -5,7 +5,6 @@ import (
 	"fmt"
 	"math"
 	"os"
-	"sort"
 	"strconv"
 )
 
@@ -25,42 +24,21 @@ func init() {
 func main() {
 	N := nextInt()
 	M := nextInt()
-	m := make(map[int]int)
-	keys := make([]int, 0, M)
-	for i := 0; i < M; i++ {
-		L := nextInt()
-		m[L] = nextInt()
-	}
-	for k := range m {
-		keys = append(keys, k)
-	}
-	sort.Ints(keys)
-	// fmt.Println(keys, m)
 	maxleft := 1
 	minright := N
-	L := 0
-	R := 0
-	for _, k := range keys {
-		L = k
-		R = m[L]
-		// 全てのL〜Rに共通する範囲を出す
-		fmt.Println(L, R, maxleft, minright)
+	// 全てのMに置いて重複している範囲が分かれば良い
+	// 値を格納する必要はなく、一つ一つ比較していけばOK
+	for i := 0; i < M; i++ {
+		L := nextInt()
+		R := nextInt()
+		// 重なるところがなかった場合はその時点で0確定
 		if maxleft > R || minright < L {
 			fmt.Println(0)
 			return
 		}
-		if L < maxleft {
-			L = maxleft
-		} else {
-			maxleft = L
-		}
-		if minright < R {
-			R = minright
-		} else {
-			minright = R
-		}
+		maxleft = max(L, maxleft)
+		minright = min(R, minright)
 	}
-	fmt.Println(minright, maxleft)
 	fmt.Println(minright - maxleft + 1)
 }
 
