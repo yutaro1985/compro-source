@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"sort"
 	"strconv"
 )
 
@@ -21,6 +22,7 @@ func init() {
 }
 
 func main() {
+	// 方針としては解説PDFの考え方2（いもす法）に近かったが、実装に色々問題が合ったためTLEとWA
 	N := nextInt()
 	M := nextInt()
 	m := make(map[int]int)
@@ -36,7 +38,7 @@ func main() {
 	for k := range m {
 		keys = append(keys, k)
 	}
-	// sort.Ints(keys)
+	sort.Ints(keys)
 	// fmt.Println(keys, m)
 	// ※共通範囲を配列の数字のカウントで表そうとしたが、計算量が多すぎるためアウト
 	// また、ここではmapに値を入れているが、L、Rが重複していない保証がなかったため失敗するケースがあった(testcase_12)
