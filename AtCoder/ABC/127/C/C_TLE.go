@@ -38,6 +38,7 @@ func main() {
 	}
 	// sort.Ints(keys)
 	// fmt.Println(keys, m)
+	// ※共通範囲を配列の数字のカウントで表そうとしたが、計算量が多すぎるためアウト
 	for row, L := range keys {
 		for i := L - 1; i <= m[L]-1; i++ {
 			// fmt.Println(L, i)
