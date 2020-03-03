@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"math"
 	"os"
 	"strconv"
 	"strings"
@@ -122,4 +123,15 @@ func intUniq(list []int) []int {
 		}
 	}
 	return newList
+}
+
+// absをintでラップ
+func abs(a int) int {
+	return int(math.Abs(float64(a)))
+}
+
+// powをintでラップ
+// 10の階乗についてはmath.Pow10(n int)を使えばいい
+func pow(p, q int) int {
+	return int(math.Pow(float64(p), float64(q)))
 }
