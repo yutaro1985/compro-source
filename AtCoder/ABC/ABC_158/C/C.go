@@ -12,7 +12,7 @@ func main() {
 	if high8 < low10 || high10 < low8 {
 		fmt.Println(-1)
 	} else if low8 < low10 {
-		fmt.Println(high8)
+		fmt.Println(low10)
 	} else {
 		fmt.Println(low8)
 	}
