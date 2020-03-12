@@ -139,27 +139,26 @@ func pow(p, q int) int {
 }
 
 // 引数のうち最小のもの
-func min(nums ...int) int {
-	if len(nums) == 0 {
-		panic("funciton min() requires at least one argument.")
+// Mathパッケージを使ったものは失敗した…
+func MinOf(vars ...int) int {
+	min := vars[0]
+	for _, i := range vars {
+		if min > i {
+			min = i
+		}
 	}
-	res := nums[0]
-	for i := 0; i < len(nums); i++ {
-		res = int(math.Min(float64(res), float64(nums[i])))
-	}
-	return res
+	return min
 }
 
 // 引数のうち最大のもの
-func max(nums ...int) int {
-	if len(nums) == 0 {
-		panic("funciton max() requires at least one argument.")
+func MaxOf(vars ...int) int {
+	max := vars[0]
+	for _, i := range vars {
+		if max < i {
+			max = i
+		}
 	}
-	res := nums[0]
-	for i := 0; i < len(nums); i++ {
-		res = int(math.Max(float64(res), float64(nums[i])))
-	}
-	return res
+	return max
 }
 
 // 最大公約数、最小公倍数（2つセット）
