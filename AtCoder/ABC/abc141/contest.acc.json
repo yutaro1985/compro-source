@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "abc141",
+    "title": "AtCoder Beginner Contest 141",
+    "url": "https://atcoder.jp/contests/abc141"
+  },
+  "tasks": [
+    {
+      "id": "abc141_a",
+      "label": "A",
+      "title": "Weather Prediction ",
+      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc141_b",
+      "label": "B",
+      "title": "Tap Dance",
+      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_b"
+    },
+    {
+      "id": "abc141_c",
+      "label": "C",
+      "title": "Attack Survival",
+      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_c"
+    },
+    {
+      "id": "abc141_d",
+      "label": "D",
+      "title": "Powerful Discount Tickets",
+      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_d"
+    },
+    {
+      "id": "abc141_e",
+      "label": "E",
+      "title": "Who Says a Pun?",
+      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_e"
+    },
+    {
+      "id": "abc141_f",
+      "label": "F",
+      "title": "Xor Sum 3",
+      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_f"
+    }
+  ]
+}
