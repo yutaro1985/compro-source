@@ -28,6 +28,7 @@ func main() {
 	max := -1000000009
 	for i := 0; i < N; i++ {
 		x := nextInt()
+		// Lはm[x]で表される
 		m[x] = nextInt()
 	}
 	for k := range m {
