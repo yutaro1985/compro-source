@@ -25,7 +25,11 @@
       "id": "abc141_c",
       "label": "C",
       "title": "Attack Survival",
-      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_c"
+      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc141_d",
