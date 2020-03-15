@@ -1,0 +1,57 @@
+{
+  "contest": {
+    "id": "panasonic2020",
+    "title": "Panasonic Programming Contest 2020",
+    "url": "https://atcoder.jp/contests/panasonic2020"
+  },
+  "tasks": [
+    {
+      "id": "panasonic2020_a",
+      "label": "A",
+      "title": "Kth Term",
+      "url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "panasonic2020_b",
+      "label": "B",
+      "title": "Bishop",
+      "url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "panasonic2020_c",
+      "label": "C",
+      "title": "Sqrt Inequality",
+      "url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "panasonic2020_d",
+      "label": "D",
+      "title": "String Equivalence",
+      "url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_d"
+    },
+    {
+      "id": "panasonic2020_e",
+      "label": "E",
+      "title": "Three Substrings",
+      "url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_e"
+    },
+    {
+      "id": "panasonic2020_f",
+      "label": "F",
+      "title": "Fractal Shortest Path",
+      "url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_f"
+    }
+  ]
+}
