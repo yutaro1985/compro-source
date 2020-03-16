@@ -25,7 +25,7 @@ func main() {
 	N := nextInt()
 	m := make(map[int]int)
 	keys := make([]int, 0, N)
-	max := -1000000009
+	max := -10000000009
 	for i := 0; i < N; i++ {
 		x := nextInt()
 		// Lはm[x]で表される
@@ -47,6 +47,7 @@ func main() {
 			max = x + m[x]
 		}
 	}
+	// TODO #1 なぜ正解のパターンと答えが変わってしまうのかを考える
 	// for i := 0; i < N; i++ {
 	// 	// if keys[i]-m[keys[i]] >= max {
 	// 	// 	max = keys[i-1] + m[keys[i-1]]
@@ -62,6 +63,7 @@ func main() {
 	// 		delete(m, keys[i])
 	// 	}
 	// }
+	fmt.Println(len(keys))
 	fmt.Println(m)
 	fmt.Println(len(m))
 }
