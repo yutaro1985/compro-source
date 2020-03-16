@@ -1,0 +1,57 @@
+{
+  "contest": {
+    "id": "abc154",
+    "title": "AtCoder Beginner Contest 154",
+    "url": "https://atcoder.jp/contests/abc154"
+  },
+  "tasks": [
+    {
+      "id": "abc154_a",
+      "label": "A",
+      "title": "Remaining Balls",
+      "url": "https://atcoder.jp/contests/abc154/tasks/abc154_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc154_b",
+      "label": "B",
+      "title": "I miss you...",
+      "url": "https://atcoder.jp/contests/abc154/tasks/abc154_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc154_c",
+      "label": "C",
+      "title": "Distinct or Not",
+      "url": "https://atcoder.jp/contests/abc154/tasks/abc154_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc154_d",
+      "label": "D",
+      "title": "Dice in Line",
+      "url": "https://atcoder.jp/contests/abc154/tasks/abc154_d"
+    },
+    {
+      "id": "abc154_e",
+      "label": "E",
+      "title": "Almost Everywhere Zero",
+      "url": "https://atcoder.jp/contests/abc154/tasks/abc154_e"
+    },
+    {
+      "id": "abc154_f",
+      "label": "F",
+      "title": "Many Many Paths",
+      "url": "https://atcoder.jp/contests/abc154/tasks/abc154_f"
+    }
+  ]
+}
