@@ -24,6 +24,7 @@ func init() {
 func main() {
 	N := nextInt()
 	command := nextLine()
+	//TODO #5 このケースでも通ってしまうが、本来はダメらしいので正しい解き方のパターンを作る
 	L := []string{"AA", "AB", "AX", "AY", "BA", "BB", "BX", "BY", "XA", "XB", "XX", "XY", "YA", "YB", "YX", "YY"}
 	R := []string{"AA", "AB", "AX", "AY", "BA", "BB", "BX", "BY", "XA", "XB", "XX", "XY", "YA", "YB", "YX", "YY"}
 	min := N + 1
