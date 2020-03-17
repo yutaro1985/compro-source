@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": "arc002",
+    "title": "AtCoder Regular Contest 002",
+    "url": "https://atcoder.jp/contests/arc002"
+  },
+  "tasks": [
+    {
+      "id": "arc002_1",
+      "label": "A",
+      "title": "うるう年",
+      "url": "https://atcoder.jp/contests/arc002/tasks/arc002_1"
+    },
+    {
+      "id": "arc002_2",
+      "label": "B",
+      "title": "割り切れる日付",
+      "url": "https://atcoder.jp/contests/arc002/tasks/arc002_2"
+    },
+    {
+      "id": "arc002_3",
+      "label": "C",
+      "title": "コマンド入力",
+      "url": "https://atcoder.jp/contests/arc002/tasks/arc002_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "arc002_4",
+      "label": "D",
+      "title": "ボードゲーム",
+      "url": "https://atcoder.jp/contests/arc002/tasks/arc002_4"
+    }
+  ]
+}
