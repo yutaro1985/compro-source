@@ -169,6 +169,8 @@ func gcdof2numbers(a int, b int) int {
 	return gcdof2numbers(b, a%b)
 }
 
+// https://qiita.com/drken/items/0c88a37eec520f82b788#%E5%95%8F%E9%A1%8C-2-abc-148-c---snack-300-%E7%82%B9
+// ここを参考に、bをかけるのは最後にした
 func lcmof2numbers(a int, b int) int {
-	return a * b / gcdof2numbers(a, b)
+	return a / gcdof2numbers(a, b) * b
 }
