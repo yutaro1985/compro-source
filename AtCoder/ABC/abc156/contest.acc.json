@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "abc156",
+    "title": "AtCoder Beginner Contest 156",
+    "url": "https://atcoder.jp/contests/abc156"
+  },
+  "tasks": [
+    {
+      "id": "abc156_a",
+      "label": "A",
+      "title": "Beginner",
+      "url": "https://atcoder.jp/contests/abc156/tasks/abc156_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc156_b",
+      "label": "B",
+      "title": "Digits",
+      "url": "https://atcoder.jp/contests/abc156/tasks/abc156_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc156_c",
+      "label": "C",
+      "title": "Rally",
+      "url": "https://atcoder.jp/contests/abc156/tasks/abc156_c"
+    },
+    {
+      "id": "abc156_d",
+      "label": "D",
+      "title": "Bouquet",
+      "url": "https://atcoder.jp/contests/abc156/tasks/abc156_d"
+    },
+    {
+      "id": "abc156_e",
+      "label": "E",
+      "title": "Roaming",
+      "url": "https://atcoder.jp/contests/abc156/tasks/abc156_e"
+    },
+    {
+      "id": "abc156_f",
+      "label": "F",
+      "title": "Modularness",
+      "url": "https://atcoder.jp/contests/abc156/tasks/abc156_f"
+    }
+  ]
+}
