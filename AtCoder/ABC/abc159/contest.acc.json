@@ -49,7 +49,11 @@
       "id": "abc159_e",
       "label": "E",
       "title": "Dividing Chocolate",
-      "url": "https://atcoder.jp/contests/abc159/tasks/abc159_e"
+      "url": "https://atcoder.jp/contests/abc159/tasks/abc159_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests"
+      }
     },
     {
       "id": "abc159_f",
