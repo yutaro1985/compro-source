@@ -1,0 +1,61 @@
+{
+  "contest": {
+    "id": "abc159",
+    "title": "AtCoder Beginner Contest 159",
+    "url": "https://atcoder.jp/contests/abc159"
+  },
+  "tasks": [
+    {
+      "id": "abc159_a",
+      "label": "A",
+      "title": "The Number of Even Pairs",
+      "url": "https://atcoder.jp/contests/abc159/tasks/abc159_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc159_b",
+      "label": "B",
+      "title": "String Palindrome",
+      "url": "https://atcoder.jp/contests/abc159/tasks/abc159_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc159_c",
+      "label": "C",
+      "title": "Maximum Volume",
+      "url": "https://atcoder.jp/contests/abc159/tasks/abc159_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc159_d",
+      "label": "D",
+      "title": "Banned K",
+      "url": "https://atcoder.jp/contests/abc159/tasks/abc159_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc159_e",
+      "label": "E",
+      "title": "Dividing Chocolate",
+      "url": "https://atcoder.jp/contests/abc159/tasks/abc159_e"
+    },
+    {
+      "id": "abc159_f",
+      "label": "F",
+      "title": "Knapsack for All Segments",
+      "url": "https://atcoder.jp/contests/abc159/tasks/abc159_f"
+    }
+  ]
+}
