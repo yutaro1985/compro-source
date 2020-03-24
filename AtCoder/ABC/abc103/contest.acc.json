@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": "abc103",
+    "title": "AtCoder Beginner Contest 103",
+    "url": "https://atcoder.jp/contests/abc103"
+  },
+  "tasks": [
+    {
+      "id": "abc103_a",
+      "label": "A",
+      "title": "Task Scheduling Problem",
+      "url": "https://atcoder.jp/contests/abc103/tasks/abc103_a"
+    },
+    {
+      "id": "abc103_b",
+      "label": "B",
+      "title": "String Rotation",
+      "url": "https://atcoder.jp/contests/abc103/tasks/abc103_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc103_c",
+      "label": "C",
+      "title": "Modulo Summation",
+      "url": "https://atcoder.jp/contests/abc103/tasks/abc103_c"
+    },
+    {
+      "id": "abc103_d",
+      "label": "D",
+      "title": "Islands War",
+      "url": "https://atcoder.jp/contests/abc103/tasks/abc103_d"
+    }
+  ]
+}
