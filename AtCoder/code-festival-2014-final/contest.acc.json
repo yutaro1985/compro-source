@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "code-festival-2014-final",
+    "title": "CODE FESTIVAL 2014 決勝",
+    "url": "https://atcoder.jp/contests/code-festival-2014-final"
+  },
+  "tasks": [
+    {
+      "id": "code_festival_final_a",
+      "label": "A",
+      "title": "50m走",
+      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "code_festival_final_b",
+      "label": "B",
+      "title": "暗算ゲーム",
+      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "code_festival_final_c",
+      "label": "C",
+      "title": "N進数",
+      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_c"
+    },
+    {
+      "id": "code_festival_final_d",
+      "label": "D",
+      "title": "パスカルの三角形",
+      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_d"
+    },
+    {
+      "id": "code_festival_final_e",
+      "label": "E",
+      "title": "常ならずグラフ",
+      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_e"
+    },
+    {
+      "id": "code_festival_final_f",
+      "label": "F",
+      "title": "誤情報",
+      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_f"
+    },
+    {
+      "id": "code_festival_final_g",
+      "label": "G",
+      "title": "魔方陣",
+      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_g"
+    },
+    {
+      "id": "code_festival_final_h",
+      "label": "H",
+      "title": "部屋割り",
+      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_h"
+    },
+    {
+      "id": "code_festival_final_i",
+      "label": "I",
+      "title": "Shapes",
+      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_i"
+    },
+    {
+      "id": "code_festival_final_j",
+      "label": "J",
+      "title": "2つのカップ",
+      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_j"
+    }
+  ]
+}
