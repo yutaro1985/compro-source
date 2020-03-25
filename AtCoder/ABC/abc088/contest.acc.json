@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "abc088",
+    "title": "AtCoder Beginner Contest 088",
+    "url": "https://atcoder.jp/contests/abc088"
+  },
+  "tasks": [
+    {
+      "id": "abc088_a",
+      "label": "A",
+      "title": "Infinite Coins",
+      "url": "https://atcoder.jp/contests/abc088/tasks/abc088_a"
+    },
+    {
+      "id": "abc088_b",
+      "label": "B",
+      "title": "Card Game for Two",
+      "url": "https://atcoder.jp/contests/abc088/tasks/abc088_b"
+    },
+    {
+      "id": "abc088_c",
+      "label": "C",
+      "title": "Takahashi's Information",
+      "url": "https://atcoder.jp/contests/abc088/tasks/abc088_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc088_d",
+      "label": "D",
+      "title": "Grid Repainting",
+      "url": "https://atcoder.jp/contests/abc088/tasks/abc088_d"
+    }
+  ]
+}
