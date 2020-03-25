@@ -44,7 +44,7 @@ func main() {
 			}
 		}
 		if ok != true {
-			break
+			continue
 		}
 		a[1] = c[1][0] - b[0]
 		for j, _ := range c[1] {
@@ -54,7 +54,7 @@ func main() {
 			}
 		}
 		if ok != true {
-			break
+			continue
 		}
 		a[2] = c[2][0] - b[0]
 		for j, _ := range c[2] {
@@ -64,7 +64,7 @@ func main() {
 			}
 		}
 		if ok != true {
-			break
+			continue
 		}
 		fmt.Println("Yes")
 		return
