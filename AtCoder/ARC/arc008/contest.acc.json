@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": "arc008",
+    "title": "AtCoder Regular Contest 008",
+    "url": "https://atcoder.jp/contests/arc008"
+  },
+  "tasks": [
+    {
+      "id": "arc008_1",
+      "label": "A",
+      "title": "たこ焼き買えるかな？",
+      "url": "https://atcoder.jp/contests/arc008/tasks/arc008_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "arc008_2",
+      "label": "B",
+      "title": "謎のたこ焼きおじさん",
+      "url": "https://atcoder.jp/contests/arc008/tasks/arc008_2"
+    },
+    {
+      "id": "arc008_3",
+      "label": "C",
+      "title": "THE☆たこ焼き祭り2012",
+      "url": "https://atcoder.jp/contests/arc008/tasks/arc008_3"
+    },
+    {
+      "id": "arc008_4",
+      "label": "D",
+      "title": "タコヤキオイシクナール",
+      "url": "https://atcoder.jp/contests/arc008/tasks/arc008_4"
+    }
+  ]
+}
