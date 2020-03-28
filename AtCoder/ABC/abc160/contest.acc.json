@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc160",
+    "title": "AtCoder Beginner Contest 160",
+    "url": "https://atcoder.jp/contests/abc160"
+  },
+  "tasks": [
+    {
+      "id": "abc160_a",
+      "label": "A",
+      "title": "Coffee",
+      "url": "https://atcoder.jp/contests/abc160/tasks/abc160_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc160_b",
+      "label": "B",
+      "title": "Golden Coins",
+      "url": "https://atcoder.jp/contests/abc160/tasks/abc160_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc160_c",
+      "label": "C",
+      "title": "Traveling Salesman around Lake",
+      "url": "https://atcoder.jp/contests/abc160/tasks/abc160_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc160_d",
+      "label": "D",
+      "title": "Line++",
+      "url": "https://atcoder.jp/contests/abc160/tasks/abc160_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc160_e",
+      "label": "E",
+      "title": "Red and Green Apples",
+      "url": "https://atcoder.jp/contests/abc160/tasks/abc160_e"
+    },
+    {
+      "id": "abc160_f",
+      "label": "F",
+      "title": "Distributing Integers",
+      "url": "https://atcoder.jp/contests/abc160/tasks/abc160_f"
+    }
+  ]
+}
