@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "code-festival-2015-qualb",
+    "title": "CODE FESTIVAL 2015 予選B",
+    "url": "https://atcoder.jp/contests/code-festival-2015-qualb"
+  },
+  "tasks": [
+    {
+      "id": "codefestival_2015_qualB_a",
+      "label": "A",
+      "title": "Double String",
+      "url": "https://atcoder.jp/contests/code-festival-2015-qualb/tasks/codefestival_2015_qualB_a"
+    },
+    {
+      "id": "codefestival_2015_qualB_b",
+      "label": "B",
+      "title": "Grading",
+      "url": "https://atcoder.jp/contests/code-festival-2015-qualb/tasks/codefestival_2015_qualB_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "codefestival_2015_qualB_c",
+      "label": "C",
+      "title": "Hotel",
+      "url": "https://atcoder.jp/contests/code-festival-2015-qualb/tasks/codefestival_2015_qualB_c"
+    },
+    {
+      "id": "codefestival_2015_qualB_d",
+      "label": "D",
+      "title": "Squares, Pieces and Coloring",
+      "url": "https://atcoder.jp/contests/code-festival-2015-qualb/tasks/codefestival_2015_qualB_d"
+    }
+  ]
+}
