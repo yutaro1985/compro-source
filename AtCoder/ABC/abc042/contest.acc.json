@@ -1,0 +1,41 @@
+{
+  "contest": {
+    "id": "abc042",
+    "title": "AtCoder Beginner Contest 042",
+    "url": "https://atcoder.jp/contests/abc042"
+  },
+  "tasks": [
+    {
+      "id": "abc042_a",
+      "label": "A",
+      "title": "Iroha and Haiku (ABC Edition)",
+      "url": "https://atcoder.jp/contests/abc042/tasks/abc042_a"
+    },
+    {
+      "id": "abc042_b",
+      "label": "B",
+      "title": "Iroha Loves Strings (ABC Edition)",
+      "url": "https://atcoder.jp/contests/abc042/tasks/abc042_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "arc058_a",
+      "label": "C",
+      "title": "Iroha's Obsession",
+      "url": "https://atcoder.jp/contests/abc042/tasks/arc058_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "arc058_b",
+      "label": "D",
+      "title": "Iroha and a Grid",
+      "url": "https://atcoder.jp/contests/abc042/tasks/arc058_b"
+    }
+  ]
+}
