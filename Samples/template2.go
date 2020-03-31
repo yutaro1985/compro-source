@@ -8,8 +8,8 @@ import (
 )
 
 const (
-	initialBufSize = 10000
-	maxBufSize     = 1000000009
+	initialBufSize = 1e4
+	maxBufSize     = 1e8 + 7
 )
 
 var buf []byte = make([]byte, maxBufSize)
