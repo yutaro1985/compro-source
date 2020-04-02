@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "code-festival-2017-qualb",
+    "title": "CODE FESTIVAL 2017 qual B",
+    "url": "https://atcoder.jp/contests/code-festival-2017-qualb"
+  },
+  "tasks": [
+    {
+      "id": "code_festival_2017_qualb_a",
+      "label": "A",
+      "title": "XXFESTIVAL",
+      "url": "https://atcoder.jp/contests/code-festival-2017-qualb/tasks/code_festival_2017_qualb_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "code_festival_2017_qualb_b",
+      "label": "B",
+      "title": "Problem Set",
+      "url": "https://atcoder.jp/contests/code-festival-2017-qualb/tasks/code_festival_2017_qualb_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "code_festival_2017_qualb_c",
+      "label": "C",
+      "title": "3 Steps",
+      "url": "https://atcoder.jp/contests/code-festival-2017-qualb/tasks/code_festival_2017_qualb_c"
+    },
+    {
+      "id": "code_festival_2017_qualb_d",
+      "label": "D",
+      "title": "101 to 010",
+      "url": "https://atcoder.jp/contests/code-festival-2017-qualb/tasks/code_festival_2017_qualb_d"
+    },
+    {
+      "id": "code_festival_2017_qualb_e",
+      "label": "E",
+      "title": "Popping Balls",
+      "url": "https://atcoder.jp/contests/code-festival-2017-qualb/tasks/code_festival_2017_qualb_e"
+    },
+    {
+      "id": "code_festival_2017_qualb_f",
+      "label": "F",
+      "title": "Largest Smallest Cyclic Shift",
+      "url": "https://atcoder.jp/contests/code-festival-2017-qualb/tasks/code_festival_2017_qualb_f"
+    }
+  ]
+}
