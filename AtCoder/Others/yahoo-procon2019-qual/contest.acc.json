@@ -1,0 +1,57 @@
+{
+  "contest": {
+    "id": "yahoo-procon2019-qual",
+    "title": "Yahoo Programming Contest 2019",
+    "url": "https://atcoder.jp/contests/yahoo-procon2019-qual"
+  },
+  "tasks": [
+    {
+      "id": "yahoo_procon2019_qual_a",
+      "label": "A",
+      "title": "Anti-Adjacency",
+      "url": "https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "yahoo_procon2019_qual_b",
+      "label": "B",
+      "title": "Path",
+      "url": "https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "yahoo_procon2019_qual_c",
+      "label": "C",
+      "title": "When I hit my pocket...",
+      "url": "https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "yahoo_procon2019_qual_d",
+      "label": "D",
+      "title": "Ears",
+      "url": "https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_d"
+    },
+    {
+      "id": "yahoo_procon2019_qual_e",
+      "label": "E",
+      "title": "Odd Subrectangles",
+      "url": "https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_e"
+    },
+    {
+      "id": "yahoo_procon2019_qual_f",
+      "label": "F",
+      "title": "Pass",
+      "url": "https://atcoder.jp/contests/yahoo-procon2019-qual/tasks/yahoo_procon2019_qual_f"
+    }
+  ]
+}
