@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc012",
+    "title": "AtCoder Regular Contest 012",
+    "url": "https://atcoder.jp/contests/arc012"
+  },
+  "tasks": [
+    {
+      "id": "arc012_1",
+      "label": "A",
+      "title": "週末",
+      "url": "https://atcoder.jp/contests/arc012/tasks/arc012_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc012_2",
+      "label": "B",
+      "title": "アキレスと亀",
+      "url": "https://atcoder.jp/contests/arc012/tasks/arc012_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc012_3",
+      "label": "C",
+      "title": "五目並べチェッカー",
+      "url": "https://atcoder.jp/contests/arc012/tasks/arc012_3"
+    },
+    {
+      "id": "arc012_4",
+      "label": "D",
+      "title": "Don't worry. Be Together",
+      "url": "https://atcoder.jp/contests/arc012/tasks/arc012_4"
+    }
+  ]
+}
