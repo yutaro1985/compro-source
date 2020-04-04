@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc161",
+    "title": "AtCoder Beginner Contest 161",
+    "url": "https://atcoder.jp/contests/abc161"
+  },
+  "tasks": [
+    {
+      "id": "abc161_a",
+      "label": "A",
+      "title": "ABC Swap",
+      "url": "https://atcoder.jp/contests/abc161/tasks/abc161_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc161_b",
+      "label": "B",
+      "title": "Popular Vote",
+      "url": "https://atcoder.jp/contests/abc161/tasks/abc161_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc161_c",
+      "label": "C",
+      "title": "Replacing Integer",
+      "url": "https://atcoder.jp/contests/abc161/tasks/abc161_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc161_d",
+      "label": "D",
+      "title": "Lunlun Number",
+      "url": "https://atcoder.jp/contests/abc161/tasks/abc161_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc161_e",
+      "label": "E",
+      "title": "Yutori",
+      "url": "https://atcoder.jp/contests/abc161/tasks/abc161_e"
+    },
+    {
+      "id": "abc161_f",
+      "label": "F",
+      "title": "Division or Substraction",
+      "url": "https://atcoder.jp/contests/abc161/tasks/abc161_f"
+    }
+  ]
+}
