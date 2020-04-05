@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc097",
+    "title": "AtCoder Beginner Contest 097",
+    "url": "https://atcoder.jp/contests/abc097"
+  },
+  "tasks": [
+    {
+      "id": "abc097_a",
+      "label": "A",
+      "title": "Colorful Transceivers",
+      "url": "https://atcoder.jp/contests/abc097/tasks/abc097_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc097_b",
+      "label": "B",
+      "title": "Exponential",
+      "url": "https://atcoder.jp/contests/abc097/tasks/abc097_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc097_a",
+      "label": "C",
+      "title": "K-th Substring",
+      "url": "https://atcoder.jp/contests/abc097/tasks/arc097_a"
+    },
+    {
+      "id": "arc097_b",
+      "label": "D",
+      "title": "Equals",
+      "url": "https://atcoder.jp/contests/abc097/tasks/arc097_b"
+    }
+  ]
+}
