@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc007",
+    "title": "AtCoder Regular Contest 007",
+    "url": "https://atcoder.jp/contests/arc007"
+  },
+  "tasks": [
+    {
+      "id": "arc007_1",
+      "label": "A",
+      "title": "帰ってきた器物損壊！高橋君",
+      "url": "https://atcoder.jp/contests/arc007/tasks/arc007_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc007_2",
+      "label": "B",
+      "title": "迷子のCDケース",
+      "url": "https://atcoder.jp/contests/arc007/tasks/arc007_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc007_3",
+      "label": "C",
+      "title": "節約生活",
+      "url": "https://atcoder.jp/contests/arc007/tasks/arc007_3"
+    },
+    {
+      "id": "arc007_4",
+      "label": "D",
+      "title": "破れた宿題",
+      "url": "https://atcoder.jp/contests/arc007/tasks/arc007_4"
+    }
+  ]
+}
