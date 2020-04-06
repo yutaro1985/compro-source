@@ -13,9 +13,12 @@ func main() {
 	for i := 0; i <= M; i++ {
 		fmt.Scan(&nextdisk)
 		for j, num := range disk {
+			// diskを一つずつ見ていって、次に出すディスクの番号と一致したらそこに現在のディスクを入れて、
+			// 次のディスクはケースの外（配列の先頭）に出す
 			if num == nextdisk {
 				disk[j] = disk[0]
 				disk[0] = nextdisk
+				break
 			}
 		}
 	}
