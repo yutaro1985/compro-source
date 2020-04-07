@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc086",
+    "title": "AtCoder Regular Contest 086",
+    "url": "https://atcoder.jp/contests/arc086"
+  },
+  "tasks": [
+    {
+      "id": "arc086_a",
+      "label": "C",
+      "title": "Not so Diverse",
+      "url": "https://atcoder.jp/contests/arc086/tasks/arc086_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc086_b",
+      "label": "D",
+      "title": "Non-decreasing",
+      "url": "https://atcoder.jp/contests/arc086/tasks/arc086_b"
+    },
+    {
+      "id": "arc086_c",
+      "label": "E",
+      "title": "Smuggling Marbles",
+      "url": "https://atcoder.jp/contests/arc086/tasks/arc086_c"
+    },
+    {
+      "id": "arc086_d",
+      "label": "F",
+      "title": "Shift and Decrement",
+      "url": "https://atcoder.jp/contests/arc086/tasks/arc086_d"
+    }
+  ]
+}
