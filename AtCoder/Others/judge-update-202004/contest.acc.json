@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "judge-update-202004",
+    "title": "Judge System Update Test Contest 202004",
+    "url": "https://atcoder.jp/contests/judge-update-202004"
+  },
+  "tasks": [
+    {
+      "id": "judge_update_202004_a",
+      "label": "A",
+      "title": "Walking Takahashi",
+      "url": "https://atcoder.jp/contests/judge-update-202004/tasks/judge_update_202004_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "judge_update_202004_b",
+      "label": "B",
+      "title": "Picking Balls",
+      "url": "https://atcoder.jp/contests/judge-update-202004/tasks/judge_update_202004_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "judge_update_202004_c",
+      "label": "C",
+      "title": "Numbering Blocks",
+      "url": "https://atcoder.jp/contests/judge-update-202004/tasks/judge_update_202004_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "judge_update_202004_d",
+      "label": "D",
+      "title": "Calculating GCD",
+      "url": "https://atcoder.jp/contests/judge-update-202004/tasks/judge_update_202004_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    }
+  ]
+}
