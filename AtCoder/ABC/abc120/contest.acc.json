@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc120",
+    "title": "AtCoder Beginner Contest 120",
+    "url": "https://atcoder.jp/contests/abc120"
+  },
+  "tasks": [
+    {
+      "id": "abc120_a",
+      "label": "A",
+      "title": "Favorite Sound",
+      "url": "https://atcoder.jp/contests/abc120/tasks/abc120_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc120_b",
+      "label": "B",
+      "title": "K-th Common Divisor",
+      "url": "https://atcoder.jp/contests/abc120/tasks/abc120_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc120_c",
+      "label": "C",
+      "title": "Unification",
+      "url": "https://atcoder.jp/contests/abc120/tasks/abc120_c"
+    },
+    {
+      "id": "abc120_d",
+      "label": "D",
+      "title": "Decayed Bridges",
+      "url": "https://atcoder.jp/contests/abc120/tasks/abc120_d"
+    }
+  ]
+}
