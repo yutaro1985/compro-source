@@ -39,7 +39,12 @@
       "id": "abc154_d",
       "label": "D",
       "title": "Dice in Line",
-      "url": "https://atcoder.jp/contests/abc154/tasks/abc154_d"
+      "url": "https://atcoder.jp/contests/abc154/tasks/abc154_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
     },
     {
       "id": "abc154_e",
