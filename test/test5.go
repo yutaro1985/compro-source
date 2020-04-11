@@ -6,10 +6,14 @@ import (
 )
 
 func main() {
-	fmt.Println(int(1000000000000000000.0))
+	//ただのテスト用
+	fmt.Println(math.MaxInt64)
+	var a, b int
+	fmt.Scan(&a, &b)
+	fmt.Println(min(a, b))
 }
 
-// 下記を検証する
+// TODO #4 mathパッケージのMin、Maxを使った最小値、最大値がうまく行かなかった件について検証する
 func min(nums ...int) int {
 	if len(nums) == 0 {
 		panic("funciton min() requires at least one argument.")
