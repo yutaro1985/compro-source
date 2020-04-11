@@ -1,0 +1,1 @@
+../AtCoder/Others/judge-update-202004/b/B.go

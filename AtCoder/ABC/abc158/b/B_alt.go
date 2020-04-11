@@ -2,6 +2,7 @@ package main
 
 import (
 	"fmt"
+	"math"
 )
 
 func main() {
@@ -17,6 +18,7 @@ func main() {
 	// if A == 0 {
 	// 	fmt.Println(0)
 	// } else
+	fmt.Println(rem, A, MinOf(rem, A), min(rem, A))
 	fmt.Println(div*A + MinOf(rem, A))
 }
 
@@ -28,4 +30,15 @@ func MinOf(vars ...int) int {
 		}
 	}
 	return min
+}
+
+func min(nums ...int) int {
+	if len(nums) == 0 {
+		panic("funciton min() requires at least one argument.")
+	}
+	res := nums[0]
+	for i := 0; i < len(nums); i++ {
+		res = int(math.Min(float64(res), float64(nums[i])))
+	}
+	return res
 }
