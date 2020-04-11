@@ -1,0 +1,1 @@
+../AOJ/ITP1/ITP1_7_D.go
