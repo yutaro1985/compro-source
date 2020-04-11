@@ -1,0 +1,1 @@
+../AtCoder/Others/tenka1-2012-qualA/a/A.go

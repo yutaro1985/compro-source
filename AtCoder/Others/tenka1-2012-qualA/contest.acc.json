@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "tenka1-2012-qualA",
+    "title": "天下一プログラマーコンテスト2012 予選A",
+    "url": "https://atcoder.jp/contests/tenka1-2012-qualA"
+  },
+  "tasks": [
+    {
+      "id": "tenka1_2012_qualA_1",
+      "label": "A",
+      "title": "算盤の書",
+      "url": "https://atcoder.jp/contests/tenka1-2012-qualA/tasks/tenka1_2012_qualA_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "tenka1_2012_qualA_2",
+      "label": "B",
+      "title": "分類たん",
+      "url": "https://atcoder.jp/contests/tenka1-2012-qualA/tasks/tenka1_2012_qualA_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "tenka1_2012_qualA_3",
+      "label": "C",
+      "title": "敵対的引用",
+      "url": "https://atcoder.jp/contests/tenka1-2012-qualA/tasks/tenka1_2012_qualA_3"
+    },
+    {
+      "id": "tenka1_2012_qualA_4",
+      "label": "D",
+      "title": "アリの巣",
+      "url": "https://atcoder.jp/contests/tenka1-2012-qualA/tasks/tenka1_2012_qualA_4"
+    }
+  ]
+}
