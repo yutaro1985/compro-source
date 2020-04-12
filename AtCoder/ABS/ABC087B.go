@@ -36,7 +36,7 @@ func max100ycoins(rest int, b int, c int) (int, int) {
 		maxh = rest / 100
 		rest %= 100
 	}
-	if rest <= c*50 && rest%50 == 0 {
+	if rest <= c*50 {
 		minf = rest / 50
 	}
 	return maxh, minf
