@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": "abc162",
+    "title": "AtCoder Beginner Contest 162",
+    "url": "https://atcoder.jp/contests/abc162"
+  },
+  "tasks": [
+    {
+      "id": "abc162_a",
+      "label": "A",
+      "title": "Lucky 7",
+      "url": "https://atcoder.jp/contests/abc162/tasks/abc162_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc162_b",
+      "label": "B",
+      "title": "FizzBuzz Sum",
+      "url": "https://atcoder.jp/contests/abc162/tasks/abc162_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc162_c",
+      "label": "C",
+      "title": "Sum of gcd of Tuples (Easy)",
+      "url": "https://atcoder.jp/contests/abc162/tasks/abc162_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc162_d",
+      "label": "D",
+      "title": "RGB Triplets",
+      "url": "https://atcoder.jp/contests/abc162/tasks/abc162_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc162_e",
+      "label": "E",
+      "title": "Sum of gcd of Tuples (Hard)",
+      "url": "https://atcoder.jp/contests/abc162/tasks/abc162_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc162_f",
+      "label": "F",
+      "title": "Select Half",
+      "url": "https://atcoder.jp/contests/abc162/tasks/abc162_f"
+    }
+  ]
+}
