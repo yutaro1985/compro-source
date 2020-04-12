@@ -6,45 +6,42 @@ import (
 
 func main() {
 	// 全探索でないやり方を考える
-	var a, b, c, x int
+	var a, b, c, x, rest, ans int
 	fmt.Scan(&a, &b, &c, &x)
-	rest := x
-	flag := false
 	for i := 0; i <= a; i++ {
-		// for j := 0; j <= b; j++ {
-		// 	rest := x - i*500 - j*100
-		// 	if rest >= 0 && rest%50 == 0 && rest/50 <= c {
-		// 		count++
-		// 	}
-		// }
-
-		// TODO #8 ネストしないで計算する方法を考える
-		h := 0
-		f := 0
-		if rest >= 500 {
-			rest = x - 500*i
-		} else {
-			rest = x
-			flag = true
-		}
-		if rest <= 100*b {
-			if rest <= c*50 {
-				f += rest / 50
-			}
-			h += rest / 100
-			fmt.Println(h, f)
-		} else {
-			if rest <= c*50 {
-				f += rest / 50
-			}
-			h += rest / 100
-			fmt.Println(h, f)
-
-		}
-		if flag {
-			fmt.Println(i)
-			fmt.Println(i + h + f)
+		if x < 500*i {
 			break
+		} else {
+			rest = x - 500*i
+		}
+		// 100円玉を最も多く使った払い方と、最も少なく使った払い方を求める
+		var maxh, minf int
+		if rest >= 100*b {
+			maxh = b
+			rest -= 100 * b
+		} else {
+			maxh = rest / 100
+			rest %= 100
+		}
+		if rest <= c*50 && rest%50 == 0 {
+			minf = rest / 50
+		}
+		rest = x - 500*i
+		var minh, maxf int
+		if rest >= 50*c {
+			if (rest-50*c)%100 != 0 {
+				maxf = c - 1
+			} else {
+				maxf = c
+			}
+			rest -= 50 * maxf
+			minh = rest / 100
+		} else {
+			maxf = rest / 50
+		}
+		if 500*i+100*maxh+50*minf == x && 500*i+100*minh+50*maxf == x {
+			ans += maxh - minh + 1
 		}
 	}
+	fmt.Println(ans)
 }
