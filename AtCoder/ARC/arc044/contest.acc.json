@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc044",
+    "title": "AtCoder Regular Contest 044",
+    "url": "https://atcoder.jp/contests/arc044"
+  },
+  "tasks": [
+    {
+      "id": "arc044_a",
+      "label": "A",
+      "title": "素数判定",
+      "url": "https://atcoder.jp/contests/arc044/tasks/arc044_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc044_b",
+      "label": "B",
+      "title": "最短路問題",
+      "url": "https://atcoder.jp/contests/arc044/tasks/arc044_b"
+    },
+    {
+      "id": "arc044_c",
+      "label": "C",
+      "title": "ビーム",
+      "url": "https://atcoder.jp/contests/arc044/tasks/arc044_c"
+    },
+    {
+      "id": "arc044_d",
+      "label": "D",
+      "title": "suffix array",
+      "url": "https://atcoder.jp/contests/arc044/tasks/arc044_d"
+    }
+  ]
+}
