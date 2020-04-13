@@ -19,13 +19,23 @@
       "id": "abc082_b",
       "label": "B",
       "title": "Two Anagrams",
-      "url": "https://atcoder.jp/contests/abc082/tasks/abc082_b"
+      "url": "https://atcoder.jp/contests/abc082/tasks/abc082_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
     },
     {
       "id": "arc087_a",
       "label": "C",
       "title": "Good Sequence",
-      "url": "https://atcoder.jp/contests/abc082/tasks/arc087_a"
+      "url": "https://atcoder.jp/contests/abc082/tasks/arc087_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
     },
     {
       "id": "arc087_b",
