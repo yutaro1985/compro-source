@@ -22,18 +22,11 @@ func init() {
 
 func main() {
 	N := nextInt()
-	An := make([]int, N)
-	var maxAn, ans int
-	for i := range An {
-		An[i] = nextInt()
-		if maxAn < An[i] {
-			maxAn = An[i]
-		}
-	}
-	// 普通の配列だといらないところを数えてしまうので、mapを使う
+	ans := 0
 	AnCnt := make(map[int]int)
-	for _, Ai := range An {
-		AnCnt[Ai]++
+	// 普通の配列だといらないところを数えてしまうので、mapを使う
+	for i := 0; i < N; i++ {
+		AnCnt[nextInt()]++
 	}
 	for i, cnt := range AnCnt {
 		if cnt > i {
