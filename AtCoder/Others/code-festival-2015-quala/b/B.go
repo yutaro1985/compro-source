@@ -21,23 +21,12 @@ func init() {
 }
 
 func main() {
-	nums := nextInt()
-	trueTotal := 0
-	min := 1000000
-	var cur int
-	for i := 0; i < nums; i++ {
-		cur = nextInt()
-		if min >= cur {
-			trueTotal++
-			min = cur
-		}
+	N := nextInt()
+	sum := 0
+	for i := 0; i < N; i++ {
+		sum = nextInt() + sum*2
 	}
-	fmt.Println(trueTotal)
-}
-
-func nextLine() string {
-	sc.Scan()
-	return sc.Text()
+	fmt.Println(sum)
 }
 
 func nextInt() int {

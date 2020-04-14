@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"sort"
 	"strconv"
 )
 
@@ -21,23 +22,31 @@ func init() {
 }
 
 func main() {
-	nums := nextInt()
-	trueTotal := 0
-	min := 1000000
-	var cur int
-	for i := 0; i < nums; i++ {
-		cur = nextInt()
-		if min >= cur {
-			trueTotal++
-			min = cur
-		}
+	N := nextInt()
+	T := nextInt()
+	Dn := make([]int, N)
+	var sumA, sumB int
+	for i := 0; i < N; i++ {
+		Ai, Bi := nextInt(), nextInt()
+		sumA += Ai
+		sumB += Bi
+		// Dn[i] = Ai - Bi
+		Dn[i] = Bi - Ai
 	}
-	fmt.Println(trueTotal)
-}
+	if sumB > T {
+		fmt.Println(-1)
+		return
+	}
+	sort.Ints(Dn)
 
-func nextLine() string {
-	sc.Scan()
-	return sc.Text()
+	// Nを含めないとWAになる
+	for i := 0; i <= N; i++ {
+		if sumA <= T {
+			fmt.Println(i)
+			return
+		}
+		sumA += Dn[i]
+	}
 }
 
 func nextInt() int {

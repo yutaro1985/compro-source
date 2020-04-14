@@ -1,0 +1,45 @@
+{
+  "contest": {
+    "id": "code-festival-2015-quala",
+    "title": "CODE FESTIVAL 2015 予選A",
+    "url": "https://atcoder.jp/contests/code-festival-2015-quala"
+  },
+  "tasks": [
+    {
+      "id": "codefestival_2015_qualA_a",
+      "label": "A",
+      "title": "CODE FESTIVAL 2015",
+      "url": "https://atcoder.jp/contests/code-festival-2015-quala/tasks/codefestival_2015_qualA_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "codefestival_2015_qualA_b",
+      "label": "B",
+      "title": "とても長い数列",
+      "url": "https://atcoder.jp/contests/code-festival-2015-quala/tasks/codefestival_2015_qualA_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "codefestival_2015_qualA_c",
+      "label": "C",
+      "title": "8月31日",
+      "url": "https://atcoder.jp/contests/code-festival-2015-quala/tasks/codefestival_2015_qualA_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "codefestival_2015_qualA_d",
+      "label": "D",
+      "title": "壊れた電車",
+      "url": "https://atcoder.jp/contests/code-festival-2015-quala/tasks/codefestival_2015_qualA_d"
+    }
+  ]
+}
