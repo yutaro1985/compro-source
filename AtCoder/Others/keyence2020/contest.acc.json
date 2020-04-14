@@ -1,0 +1,57 @@
+{
+  "contest": {
+    "id": "keyence2020",
+    "title": "Keyence Programming Contest 2020",
+    "url": "https://atcoder.jp/contests/keyence2020"
+  },
+  "tasks": [
+    {
+      "id": "keyence2020_a",
+      "label": "A",
+      "title": "Painting",
+      "url": "https://atcoder.jp/contests/keyence2020/tasks/keyence2020_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "keyence2020_b",
+      "label": "B",
+      "title": "Robot Arms",
+      "url": "https://atcoder.jp/contests/keyence2020/tasks/keyence2020_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "keyence2020_c",
+      "label": "C",
+      "title": "Subarray Sum",
+      "url": "https://atcoder.jp/contests/keyence2020/tasks/keyence2020_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "keyence2020_d",
+      "label": "D",
+      "title": "Swap and Flip",
+      "url": "https://atcoder.jp/contests/keyence2020/tasks/keyence2020_d"
+    },
+    {
+      "id": "keyence2020_e",
+      "label": "E",
+      "title": "Bichromization",
+      "url": "https://atcoder.jp/contests/keyence2020/tasks/keyence2020_e"
+    },
+    {
+      "id": "keyence2020_f",
+      "label": "F",
+      "title": "Monochromization",
+      "url": "https://atcoder.jp/contests/keyence2020/tasks/keyence2020_f"
+    }
+  ]
+}
