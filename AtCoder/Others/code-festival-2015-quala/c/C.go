@@ -30,7 +30,6 @@ func main() {
 		Ai, Bi := nextInt(), nextInt()
 		sumA += Ai
 		sumB += Bi
-		// Dn[i] = Ai - Bi
 		Dn[i] = Bi - Ai
 	}
 	if sumB > T {
