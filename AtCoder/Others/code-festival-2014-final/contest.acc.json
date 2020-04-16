@@ -29,7 +29,12 @@
       "id": "code_festival_final_c",
       "label": "C",
       "title": "N進数",
-      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_c"
+      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
     },
     {
       "id": "code_festival_final_d",
