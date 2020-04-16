@@ -23,7 +23,6 @@ func init() {
 func main() {
 	N, K, R, S, P := nextInt(), nextInt(), nextInt(), nextInt(), nextInt()
 	T := nextLine()
-	// Tn := strings.Split(T, "")
 	W := make([]bool, N)
 	ans := 0
 	v := map[byte]int{
