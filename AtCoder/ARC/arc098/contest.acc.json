@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc098",
+    "title": "AtCoder Regular Contest 098",
+    "url": "https://atcoder.jp/contests/arc098"
+  },
+  "tasks": [
+    {
+      "id": "arc098_a",
+      "label": "C",
+      "title": "Attention",
+      "url": "https://atcoder.jp/contests/arc098/tasks/arc098_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc098_b",
+      "label": "D",
+      "title": "Xor Sum 2",
+      "url": "https://atcoder.jp/contests/arc098/tasks/arc098_b"
+    },
+    {
+      "id": "arc098_c",
+      "label": "E",
+      "title": "Range Minimum Queries",
+      "url": "https://atcoder.jp/contests/arc098/tasks/arc098_c"
+    },
+    {
+      "id": "arc098_d",
+      "label": "F",
+      "title": "Donation",
+      "url": "https://atcoder.jp/contests/arc098/tasks/arc098_d"
+    }
+  ]
+}
