@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc131",
+    "title": "AtCoder Beginner Contest 131",
+    "url": "https://atcoder.jp/contests/abc131"
+  },
+  "tasks": [
+    {
+      "id": "abc131_a",
+      "label": "A",
+      "title": "Security",
+      "url": "https://atcoder.jp/contests/abc131/tasks/abc131_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc131_b",
+      "label": "B",
+      "title": "Bite Eating",
+      "url": "https://atcoder.jp/contests/abc131/tasks/abc131_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc131_c",
+      "label": "C",
+      "title": "Anti-Division",
+      "url": "https://atcoder.jp/contests/abc131/tasks/abc131_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc131_d",
+      "label": "D",
+      "title": "Megalomania",
+      "url": "https://atcoder.jp/contests/abc131/tasks/abc131_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc131_e",
+      "label": "E",
+      "title": "Friendships",
+      "url": "https://atcoder.jp/contests/abc131/tasks/abc131_e"
+    },
+    {
+      "id": "abc131_f",
+      "label": "F",
+      "title": "Must Be Rectangular!",
+      "url": "https://atcoder.jp/contests/abc131/tasks/abc131_f"
+    }
+  ]
+}
