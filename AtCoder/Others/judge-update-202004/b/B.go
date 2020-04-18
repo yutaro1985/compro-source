@@ -43,6 +43,8 @@ func main() {
 	// https://c2masamichi.hatenablog.com/entry/2019/12/16/225519
 	// 複数キーのソート
 	// https://or3.hatenablog.com/entry/2018/01/15/212029
+	// 二次元配列を一つのキーでソート
+	// https://atcoder.jp/contests/abc131/submissions/6065761
 	sort.Slice(b, func(i, j int) bool {
 		if b[i].color > b[j].color {
 			return true
