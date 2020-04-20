@@ -1,0 +1,45 @@
+{
+  "contest": {
+    "id": "abc037",
+    "title": "AtCoder Beginner Contest 037",
+    "url": "https://atcoder.jp/contests/abc037"
+  },
+  "tasks": [
+    {
+      "id": "abc037_a",
+      "label": "A",
+      "title": "饅頭",
+      "url": "https://atcoder.jp/contests/abc037/tasks/abc037_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc037_b",
+      "label": "B",
+      "title": "編集",
+      "url": "https://atcoder.jp/contests/abc037/tasks/abc037_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc037_c",
+      "label": "C",
+      "title": "総和",
+      "url": "https://atcoder.jp/contests/abc037/tasks/abc037_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests"
+      }
+    },
+    {
+      "id": "abc037_d",
+      "label": "D",
+      "title": "経路",
+      "url": "https://atcoder.jp/contests/abc037/tasks/abc037_d"
+    }
+  ]
+}
