@@ -31,7 +31,12 @@
       "id": "code_festival_2017_qualc_c",
       "label": "C",
       "title": "Inserting 'x'",
-      "url": "https://atcoder.jp/contests/code-festival-2017-qualc/tasks/code_festival_2017_qualc_c"
+      "url": "https://atcoder.jp/contests/code-festival-2017-qualc/tasks/code_festival_2017_qualc_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
     },
     {
       "id": "code_festival_2017_qualc_d",
