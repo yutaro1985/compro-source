@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc046",
+    "title": "AtCoder Beginner Contest 046",
+    "url": "https://atcoder.jp/contests/abc046"
+  },
+  "tasks": [
+    {
+      "id": "abc046_a",
+      "label": "A",
+      "title": "AtCoDeer and Paint Cans",
+      "url": "https://atcoder.jp/contests/abc046/tasks/abc046_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc046_b",
+      "label": "B",
+      "title": "Painting Balls with AtCoDeer",
+      "url": "https://atcoder.jp/contests/abc046/tasks/abc046_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc062_a",
+      "label": "C",
+      "title": "AtCoDeer and Election Report",
+      "url": "https://atcoder.jp/contests/abc046/tasks/arc062_a"
+    },
+    {
+      "id": "arc062_b",
+      "label": "D",
+      "title": "AtCoDeer and Rock-Paper",
+      "url": "https://atcoder.jp/contests/abc046/tasks/arc062_b"
+    }
+  ]
+}
