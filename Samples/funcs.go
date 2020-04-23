@@ -174,3 +174,11 @@ func gcdof2numbers(a int, b int) int {
 func lcmof2numbers(a int, b int) int {
 	return a / gcdof2numbers(a, b) * b
 }
+
+func fuctorial(a int) int {
+	if a == 1 {
+		return 1
+	} else {
+		return fuctorial(a-1) * a
+	}
+}
