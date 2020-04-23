@@ -175,8 +175,9 @@ func lcmof2numbers(a int, b int) int {
 	return a / gcdof2numbers(a, b) * b
 }
 
+// マイナスの場合は考慮していない
 func fuctorial(a int) int {
-	if a == 1 {
+	if a == 1 || a == 0 {
 		return 1
 	} else {
 		return fuctorial(a-1) * a
