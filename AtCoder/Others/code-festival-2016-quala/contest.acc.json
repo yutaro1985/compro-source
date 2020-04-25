@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "code-festival-2016-quala",
+    "title": "CODE FESTIVAL 2016 qual A",
+    "url": "https://atcoder.jp/contests/code-festival-2016-quala"
+  },
+  "tasks": [
+    {
+      "id": "codefestival_2016_qualA_a",
+      "label": "A",
+      "title": "CODEFESTIVAL 2016",
+      "url": "https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "codefestival_2016_qualA_b",
+      "label": "B",
+      "title": "Friendly Rabbits",
+      "url": "https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "codefestival_2016_qualA_c",
+      "label": "C",
+      "title": "Next Letter",
+      "url": "https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_c"
+    },
+    {
+      "id": "codefestival_2016_qualA_d",
+      "label": "D",
+      "title": "Grid and Integers",
+      "url": "https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_d"
+    },
+    {
+      "id": "codefestival_2016_qualA_e",
+      "label": "E",
+      "title": "LRU Puzzle",
+      "url": "https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_e"
+    }
+  ]
+}
