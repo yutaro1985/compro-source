@@ -32,27 +32,13 @@ func main() {
 		ll[i] = make([]string, 2*N)
 		ll[i] = strings.Split(readLine(), "")
 	}
-	O := strings.Split(readLine(), "")
-	for i := 0; i < N*2; i += 2 {
-		ans := i/2 + 1
-		loc := i
-		moved := false
-		for j := 0; j < L; j++ {
-			if loc != N*2-2 {
-				if ll[j][loc+1] == "-" {
-					loc += 2
-					moved = true
-				}
-			}
-			if loc != 0 && !moved {
-				if ll[j][loc-1] == "-" {
-					loc -= 2
-				}
-			}
-		}
-		if O[loc] == "o" {
-			fmt.Println(ans)
-			return
+	O := strings.Index(readLine(), "o")
+	for i := L - 1; i >= 0; i-- {
+		if O > 0 && ll[i][O-1] == "-" {
+			O -= 2
+		} else if O < N*2-2 && ll[i][O+1] == "-" {
+			O += 2
 		}
 	}
+	fmt.Println(O/2 + 1)
 }
