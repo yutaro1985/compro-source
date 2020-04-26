@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "abc150",
+    "title": "AtCoder Beginner Contest 150",
+    "url": "https://atcoder.jp/contests/abc150"
+  },
+  "tasks": [
+    {
+      "id": "abc150_a",
+      "label": "A",
+      "title": "500 Yen Coins",
+      "url": "https://atcoder.jp/contests/abc150/tasks/abc150_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc150_b",
+      "label": "B",
+      "title": "Count ABC",
+      "url": "https://atcoder.jp/contests/abc150/tasks/abc150_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc150_c",
+      "label": "C",
+      "title": "Count Order",
+      "url": "https://atcoder.jp/contests/abc150/tasks/abc150_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc150_d",
+      "label": "D",
+      "title": "Semi Common Multiple",
+      "url": "https://atcoder.jp/contests/abc150/tasks/abc150_d"
+    },
+    {
+      "id": "abc150_e",
+      "label": "E",
+      "title": "Change a Little Bit",
+      "url": "https://atcoder.jp/contests/abc150/tasks/abc150_e"
+    },
+    {
+      "id": "abc150_f",
+      "label": "F",
+      "title": "Xor Shift",
+      "url": "https://atcoder.jp/contests/abc150/tasks/abc150_f"
+    }
+  ]
+}
