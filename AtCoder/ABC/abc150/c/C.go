@@ -22,7 +22,7 @@ func init() {
 	sc.Buffer(buf, maxBufSize)
 }
 
-// TODO 深さ優先探索の実装もやってみる
+// TODO #10 深さ優先探索の実装もやってみる
 func main() {
 	N := nextInt()
 	P := make([]int, N)
