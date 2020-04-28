@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc139",
+    "title": "AtCoder Beginner Contest 139",
+    "url": "https://atcoder.jp/contests/abc139"
+  },
+  "tasks": [
+    {
+      "id": "abc139_a",
+      "label": "A",
+      "title": "Tenki",
+      "url": "https://atcoder.jp/contests/abc139/tasks/abc139_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc139_b",
+      "label": "B",
+      "title": "Power Socket",
+      "url": "https://atcoder.jp/contests/abc139/tasks/abc139_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc139_c",
+      "label": "C",
+      "title": "Lower",
+      "url": "https://atcoder.jp/contests/abc139/tasks/abc139_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc139_d",
+      "label": "D",
+      "title": "ModSum",
+      "url": "https://atcoder.jp/contests/abc139/tasks/abc139_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc139_e",
+      "label": "E",
+      "title": "League",
+      "url": "https://atcoder.jp/contests/abc139/tasks/abc139_e"
+    },
+    {
+      "id": "abc139_f",
+      "label": "F",
+      "title": "Engines",
+      "url": "https://atcoder.jp/contests/abc139/tasks/abc139_f"
+    }
+  ]
+}
