@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc034",
+    "title": "AtCoder Grand Contest 034",
+    "url": "https://atcoder.jp/contests/agc034"
+  },
+  "tasks": [
+    {
+      "id": "agc034_a",
+      "label": "A",
+      "title": "Kenken Race",
+      "url": "https://atcoder.jp/contests/agc034/tasks/agc034_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "agc034_b",
+      "label": "B",
+      "title": "ABC",
+      "url": "https://atcoder.jp/contests/agc034/tasks/agc034_b"
+    },
+    {
+      "id": "agc034_c",
+      "label": "C",
+      "title": "Tests",
+      "url": "https://atcoder.jp/contests/agc034/tasks/agc034_c"
+    },
+    {
+      "id": "agc034_d",
+      "label": "D",
+      "title": "Manhattan Max Matching",
+      "url": "https://atcoder.jp/contests/agc034/tasks/agc034_d"
+    },
+    {
+      "id": "agc034_e",
+      "label": "E",
+      "title": "Complete Compress",
+      "url": "https://atcoder.jp/contests/agc034/tasks/agc034_e"
+    },
+    {
+      "id": "agc034_f",
+      "label": "F",
+      "title": "RNG and XOR",
+      "url": "https://atcoder.jp/contests/agc034/tasks/agc034_f"
+    }
+  ]
+}
