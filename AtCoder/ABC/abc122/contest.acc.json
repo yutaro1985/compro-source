@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc122",
+    "title": "AtCoder Beginner Contest 122",
+    "url": "https://atcoder.jp/contests/abc122"
+  },
+  "tasks": [
+    {
+      "id": "abc122_a",
+      "label": "A",
+      "title": "Double Helix",
+      "url": "https://atcoder.jp/contests/abc122/tasks/abc122_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc122_b",
+      "label": "B",
+      "title": "ATCoder",
+      "url": "https://atcoder.jp/contests/abc122/tasks/abc122_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc122_c",
+      "label": "C",
+      "title": "GeT AC",
+      "url": "https://atcoder.jp/contests/abc122/tasks/abc122_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc122_d",
+      "label": "D",
+      "title": "We Like AGC",
+      "url": "https://atcoder.jp/contests/abc122/tasks/abc122_d"
+    }
+  ]
+}
