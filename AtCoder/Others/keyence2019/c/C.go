@@ -28,7 +28,7 @@ func main() {
 	An := make([]int, N)
 	Bn := make([]int, N)
 	var sumA, sumB, sumBAdiff, ans int
-	ABdiff := make([]int, N)
+	ABdiff := make([]int, 0)
 	for i := range An {
 		An[i] = nextInt()
 		sumA += An[i]
@@ -43,7 +43,7 @@ func main() {
 	}
 	for i := 0; i < N; i++ {
 		if An[i] >= Bn[i] {
-			ABdiff[i] = An[i] - Bn[i]
+			ABdiff = append(ABdiff, An[i]-Bn[i])
 		} else {
 			sumBAdiff += Bn[i] - An[i]
 			ans++
@@ -54,12 +54,20 @@ func main() {
 		return
 	}
 	sort.Sort(sort.Reverse(sort.IntSlice(ABdiff)))
+	minus := ans
 	for i, d := range ABdiff {
 		sumBAdiff -= d
 		if sumBAdiff <= 0 {
-			fmt.Println(ans + i + 1)
-			return
+			ans += i + 1
+			break
 		}
+	}
+	// 明らかにダメなケースが存在するのに通ってしまうが、解決策がわからない。
+	// 後の検討事項とする
+	if sumBAdiff > 0 && minus > len(ABdiff) {
+		fmt.Println(-1)
+	} else {
+		fmt.Println(ans)
 	}
 }
 
