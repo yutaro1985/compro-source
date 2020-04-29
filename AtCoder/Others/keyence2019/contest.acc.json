@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "keyence2019",
+    "title": "KEYENCE Programming Contest 2019",
+    "url": "https://atcoder.jp/contests/keyence2019"
+  },
+  "tasks": [
+    {
+      "id": "keyence2019_a",
+      "label": "A",
+      "title": "Beginning",
+      "url": "https://atcoder.jp/contests/keyence2019/tasks/keyence2019_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "keyence2019_b",
+      "label": "B",
+      "title": "KEYENCE String",
+      "url": "https://atcoder.jp/contests/keyence2019/tasks/keyence2019_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "keyence2019_c",
+      "label": "C",
+      "title": "Exam and Wizard",
+      "url": "https://atcoder.jp/contests/keyence2019/tasks/keyence2019_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "keyence2019_d",
+      "label": "D",
+      "title": "Double Landscape",
+      "url": "https://atcoder.jp/contests/keyence2019/tasks/keyence2019_d"
+    },
+    {
+      "id": "keyence2019_e",
+      "label": "E",
+      "title": "Connecting Cities",
+      "url": "https://atcoder.jp/contests/keyence2019/tasks/keyence2019_e"
+    },
+    {
+      "id": "keyence2019_f",
+      "label": "F",
+      "title": "Paper Cutting",
+      "url": "https://atcoder.jp/contests/keyence2019/tasks/keyence2019_f"
+    }
+  ]
+}
