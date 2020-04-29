@@ -21,7 +21,7 @@ func init() {
 }
 
 func main() {
-	// TODO 理屈をきちんと理解する
+	// TODO #11 理屈をきちんと理解する
 	N := nextInt()
 	fmt.Println(N*(N+1)/2 - N)
 }
