@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc064",
+    "title": "AtCoder Beginner Contest 064",
+    "url": "https://atcoder.jp/contests/abc064"
+  },
+  "tasks": [
+    {
+      "id": "abc064_a",
+      "label": "A",
+      "title": "RGB Cards",
+      "url": "https://atcoder.jp/contests/abc064/tasks/abc064_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc064_b",
+      "label": "B",
+      "title": "Traveling AtCoDeer Problem",
+      "url": "https://atcoder.jp/contests/abc064/tasks/abc064_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc064_c",
+      "label": "C",
+      "title": "Colorful Leaderboard",
+      "url": "https://atcoder.jp/contests/abc064/tasks/abc064_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc064_d",
+      "label": "D",
+      "title": "Insertion",
+      "url": "https://atcoder.jp/contests/abc064/tasks/abc064_d"
+    }
+  ]
+}
