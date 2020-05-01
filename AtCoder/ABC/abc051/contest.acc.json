@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "abc051",
+    "title": "AtCoder Beginner Contest 051",
+    "url": "https://atcoder.jp/contests/abc051"
+  },
+  "tasks": [
+    {
+      "id": "abc051_a",
+      "label": "A",
+      "title": "Haiku",
+      "url": "https://atcoder.jp/contests/abc051/tasks/abc051_a"
+    },
+    {
+      "id": "abc051_b",
+      "label": "B",
+      "title": "Sum of Three Integers",
+      "url": "https://atcoder.jp/contests/abc051/tasks/abc051_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc051_c",
+      "label": "C",
+      "title": "Back and Forth",
+      "url": "https://atcoder.jp/contests/abc051/tasks/abc051_c"
+    },
+    {
+      "id": "abc051_d",
+      "label": "D",
+      "title": "Candidates of No Shortest Paths",
+      "url": "https://atcoder.jp/contests/abc051/tasks/abc051_d"
+    }
+  ]
+}
