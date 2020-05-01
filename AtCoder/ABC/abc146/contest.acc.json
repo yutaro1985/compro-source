@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "abc146",
+    "title": "AtCoder Beginner Contest 146",
+    "url": "https://atcoder.jp/contests/abc146"
+  },
+  "tasks": [
+    {
+      "id": "abc146_a",
+      "label": "A",
+      "title": "Can't Wait for Holiday",
+      "url": "https://atcoder.jp/contests/abc146/tasks/abc146_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc146_b",
+      "label": "B",
+      "title": "ROT N",
+      "url": "https://atcoder.jp/contests/abc146/tasks/abc146_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc146_c",
+      "label": "C",
+      "title": "Buy an Integer",
+      "url": "https://atcoder.jp/contests/abc146/tasks/abc146_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc146_d",
+      "label": "D",
+      "title": "Coloring Edges on Tree",
+      "url": "https://atcoder.jp/contests/abc146/tasks/abc146_d"
+    },
+    {
+      "id": "abc146_e",
+      "label": "E",
+      "title": "Rem of Sum is Num",
+      "url": "https://atcoder.jp/contests/abc146/tasks/abc146_e"
+    },
+    {
+      "id": "abc146_f",
+      "label": "F",
+      "title": "Sugoroku",
+      "url": "https://atcoder.jp/contests/abc146/tasks/abc146_f"
+    }
+  ]
+}
