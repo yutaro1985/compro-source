@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc004",
+    "title": "AtCoder Regular Contest 004",
+    "url": "https://atcoder.jp/contests/arc004"
+  },
+  "tasks": [
+    {
+      "id": "arc004_1",
+      "label": "A",
+      "title": "2点間距離の最大値 ( The longest distance )",
+      "url": "https://atcoder.jp/contests/arc004/tasks/arc004_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc004_2",
+      "label": "B",
+      "title": "2点間距離の最大と最小 ( Maximum and Minimum )",
+      "url": "https://atcoder.jp/contests/arc004/tasks/arc004_2"
+    },
+    {
+      "id": "arc004_3",
+      "label": "C",
+      "title": "平均値太郎の憂鬱 ( The melancholy of Taro Heikinchi )",
+      "url": "https://atcoder.jp/contests/arc004/tasks/arc004_3"
+    },
+    {
+      "id": "arc004_4",
+      "label": "D",
+      "title": "表現の自由 ( Freedom of expression )",
+      "url": "https://atcoder.jp/contests/arc004/tasks/arc004_4"
+    }
+  ]
+}
