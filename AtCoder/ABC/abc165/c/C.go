@@ -21,7 +21,7 @@ func init() {
 }
 
 // 深さ優先探索の問題
-// TODO 深さ優先探索の練習をした後に実装する
+// TODO #15 深さ優先探索の練習をした後に実装する
 
 type nums struct {
 	A int
