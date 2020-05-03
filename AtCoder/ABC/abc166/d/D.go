@@ -22,13 +22,18 @@ func init() {
 
 func main() {
 	X := nextInt()
-	for i := -200; i < 200; i++ {
-		for j := -200; j < 200; j++ {
-			A5 := i * i * i * i * i
-			B5 := j * j * j * j * j
-			if A5-B5 == X {
+	var n int
+	// 一応、値決め打ちでなくてちゃんと計算させた場合
+	for i := 0; i*i*i*i*i-(i-1)*(i-1)*(i-1)*(i-1)*(i-1) < 1e9; i++ {
+		n = i + 1
+	}
+	for i := 0; i <= n; i++ {
+		for j := 0; j <= i; j++ {
+			if i*i*i*i*i-j*j*j*j*j == X {
 				fmt.Println(i, j)
 				return
+			} else if i*i*i*i*i+j*j*j*j*j == X {
+				fmt.Println(i, -j)
 			}
 		}
 	}
