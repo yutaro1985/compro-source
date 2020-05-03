@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc166",
+    "title": "AtCoder Beginner Contest 166",
+    "url": "https://atcoder.jp/contests/abc166"
+  },
+  "tasks": [
+    {
+      "id": "abc166_a",
+      "label": "A",
+      "title": "A?C",
+      "url": "https://atcoder.jp/contests/abc166/tasks/abc166_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc166_b",
+      "label": "B",
+      "title": "Trick or Treat",
+      "url": "https://atcoder.jp/contests/abc166/tasks/abc166_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc166_c",
+      "label": "C",
+      "title": "Peaks",
+      "url": "https://atcoder.jp/contests/abc166/tasks/abc166_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc166_d",
+      "label": "D",
+      "title": "I hate Factorization",
+      "url": "https://atcoder.jp/contests/abc166/tasks/abc166_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc166_e",
+      "label": "E",
+      "title": "This Message Will Self-Destruct in 5s",
+      "url": "https://atcoder.jp/contests/abc166/tasks/abc166_e"
+    },
+    {
+      "id": "abc166_f",
+      "label": "F",
+      "title": "Three Variables Game",
+      "url": "https://atcoder.jp/contests/abc166/tasks/abc166_f"
+    }
+  ]
+}
