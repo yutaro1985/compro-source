@@ -34,6 +34,7 @@ func main() {
 				return
 			} else if i*i*i*i*i+j*j*j*j*j == X {
 				fmt.Println(i, -j)
+				return
 			}
 		}
 	}
