@@ -21,7 +21,8 @@ func init() {
 }
 
 // 深さ優先探索の問題
-// TODO #15 深さ優先探索の練習をした後に実装する
+// とても参考になる記事
+// https://drken1215.hatenablog.com/entry/2020/05/04/190252
 
 type nums struct {
 	A int
@@ -33,35 +34,14 @@ type nums struct {
 func main() {
 	N, M, Q := nextInt(), nextInt(), nextInt()
 	nums := make([]nums, Q)
+	A := make([]int, 0)
 	for i := range nums {
 		nums[i].A = nextInt() - 1
 		nums[i].B = nextInt() - 1
 		nums[i].C = nextInt()
 		nums[i].D = nextInt()
 	}
-	A := make([]int, N)
-	var dfs func(index int, last int) int
-	dfs = func(index int, last int) int {
-		if index > N {
-			sum := 0
-			for i := 0; i < Q; i++ {
-				if A[nums[i].B]-A[nums[i].A] == nums[i].C {
-					sum += nums[i].D
-				}
-			}
-			return sum
-		}
-		max := 0
-		for i := 0; i+last < M; i++ {
-			A[index] = last + i
-			d := dfs(index, last+i)
-			if max < d {
-				max = d
-			}
-		}
-		return max
-	}
-	fmt.Println(dfs(0, 0))
+	fmt.Println(dfs(A, N, M, nums))
 }
 
 func nextInt() int {
@@ -73,6 +53,33 @@ func nextInt() int {
 	return i
 }
 
-// func dfs(A []int)  {
+func dfs(A []int, size int, maxnum int, nums []nums) int {
+	if len(A) == size {
+		return score(A, nums)
+	}
+	// Ai <= Ai+1なので、一つ前の項の最高値を次の項のスタートにする
+	var prevmax, max int
+	if len(A) != 0 {
+		prevmax = A[len(A)-1]
+	}
+	for i := prevmax; i < maxnum; i++ {
+		A = append(A, i)
+		maxscore := dfs(A, size, maxnum, nums)
+		if max < maxscore {
+			max = maxscore
+		}
+		A = A[:len(A)-1]
+	}
+	return max
+}
 
-// }
+// 生成した配列が条件に沿った長さになったらさせる処理を関数として外に出している
+func score(A []int, nums []nums) int {
+	var score int
+	for i := 0; i < len(nums); i++ {
+		if A[nums[i].B]-A[nums[i].A] == nums[i].C {
+			score += nums[i].D
+		}
+	}
+	return score
+}
