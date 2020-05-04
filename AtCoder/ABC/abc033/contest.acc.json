@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc033",
+    "title": "AtCoder Beginner Contest 033",
+    "url": "https://atcoder.jp/contests/abc033"
+  },
+  "tasks": [
+    {
+      "id": "abc033_a",
+      "label": "A",
+      "title": "暗証番号",
+      "url": "https://atcoder.jp/contests/abc033/tasks/abc033_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc033_b",
+      "label": "B",
+      "title": "町の合併",
+      "url": "https://atcoder.jp/contests/abc033/tasks/abc033_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc033_c",
+      "label": "C",
+      "title": "数式の書き換え",
+      "url": "https://atcoder.jp/contests/abc033/tasks/abc033_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc033_d",
+      "label": "D",
+      "title": "三角形の分類",
+      "url": "https://atcoder.jp/contests/abc033/tasks/abc033_d"
+    }
+  ]
+}
