@@ -5,7 +5,10 @@ import "fmt"
 // dfsの練習としてまずは見様見真似実装
 // https://drken1215.hatenablog.com/entry/2020/05/04/190252
 
-const M = 2
+const (
+	M = 3
+	N = 5
+)
 
 func main() {
 	A := make([]int, 0)
@@ -13,7 +16,7 @@ func main() {
 }
 
 func dfs(A []int) {
-	if len(A) == 10 {
+	if len(A) == N {
 		for _, bi := range A {
 			fmt.Printf("%v", bi)
 		}
@@ -22,8 +25,10 @@ func dfs(A []int) {
 	}
 
 	for i := 0; i < M; i++ {
+		// push
 		A = append(A, i)
 		dfs(A)
+		// pop
 		A = A[:len(A)-1]
 	}
 }
