@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc114",
+    "title": "AtCoder Beginner Contest 114",
+    "url": "https://atcoder.jp/contests/abc114"
+  },
+  "tasks": [
+    {
+      "id": "abc114_a",
+      "label": "A",
+      "title": "753",
+      "url": "https://atcoder.jp/contests/abc114/tasks/abc114_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc114_b",
+      "label": "B",
+      "title": "754",
+      "url": "https://atcoder.jp/contests/abc114/tasks/abc114_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc114_c",
+      "label": "C",
+      "title": "755",
+      "url": "https://atcoder.jp/contests/abc114/tasks/abc114_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc114_d",
+      "label": "D",
+      "title": "756",
+      "url": "https://atcoder.jp/contests/abc114/tasks/abc114_d"
+    }
+  ]
+}
