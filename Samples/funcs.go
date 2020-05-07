@@ -3,7 +3,6 @@ package main
 import (
 	"bufio"
 	"fmt"
-	"math"
 	"os"
 	"sort"
 	"strconv"
@@ -127,16 +126,30 @@ func intUniq(list []int) []int {
 }
 
 // ここから拝借
-// https://qiita.com/kojamam/items/dad162a7360408c9332d
-// absをintでラップ
 func abs(a int) int {
-	return int(math.Abs(float64(a)))
+	if a > 0 {
+		return a
+	} else {
+		return -a
+	}
 }
 
+// 小数を扱わないものにする
 // powをintでラップ
-// 10の階乗についてはmath.Pow10(n int)を使えばいい
+// // 10の階乗についてはmath.Pow10(n int)を使えばいい
+// func pow(p, q int) int {
+// 	return int(math.Pow(float64(p), float64(q)))
+// }
+// q >=0 の場合のみ
 func pow(p, q int) int {
-	return int(math.Pow(float64(p), float64(q)))
+	res := p
+	if q == 0 {
+		return 1
+	}
+	for i := 0; i < q-1; i++ {
+		res *= p
+	}
+	return res
 }
 
 // 引数のうち最小のもの
