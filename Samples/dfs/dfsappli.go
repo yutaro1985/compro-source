@@ -1,0 +1,1 @@
+../../AtCoder/ABC/abc114/c/C.go
