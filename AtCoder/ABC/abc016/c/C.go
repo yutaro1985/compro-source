@@ -20,7 +20,7 @@ func init() {
 	sc.Buffer(buf, maxBufSize)
 }
 
-// TODO 解説曰く、解き方がいくつかあるので別の解き方もやってみる
+// TODO #16 解説曰く、解き方がいくつかあるので別の解き方もやってみる
 // https://www.slideshare.net/chokudai/abc016
 
 func main() {
