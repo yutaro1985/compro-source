@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc016",
+    "title": "AtCoder Beginner Contest 016",
+    "url": "https://atcoder.jp/contests/abc016"
+  },
+  "tasks": [
+    {
+      "id": "abc016_1",
+      "label": "A",
+      "title": "12月6日",
+      "url": "https://atcoder.jp/contests/abc016/tasks/abc016_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc016_2",
+      "label": "B",
+      "title": "A±B Problem",
+      "url": "https://atcoder.jp/contests/abc016/tasks/abc016_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc016_3",
+      "label": "C",
+      "title": "友達の友達",
+      "url": "https://atcoder.jp/contests/abc016/tasks/abc016_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc016_4",
+      "label": "D",
+      "title": "一刀両断",
+      "url": "https://atcoder.jp/contests/abc016/tasks/abc016_4"
+    }
+  ]
+}
