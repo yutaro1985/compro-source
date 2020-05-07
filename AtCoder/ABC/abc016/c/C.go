@@ -20,6 +20,9 @@ func init() {
 	sc.Buffer(buf, maxBufSize)
 }
 
+// TODO 解説曰く、解き方がいくつかあるので別の解き方もやってみる
+// https://www.slideshare.net/chokudai/abc016
+
 func main() {
 	N, M := nextInt(), nextInt()
 	friends := make([]map[int]bool, N)
