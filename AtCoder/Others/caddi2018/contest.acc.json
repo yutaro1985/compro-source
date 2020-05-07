@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "caddi2018",
+    "title": "CADDi 2018",
+    "url": "https://atcoder.jp/contests/caddi2018"
+  },
+  "tasks": [
+    {
+      "id": "caddi2018_a",
+      "label": "C",
+      "title": "Product and GCD",
+      "url": "https://atcoder.jp/contests/caddi2018/tasks/caddi2018_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "caddi2018_b",
+      "label": "D",
+      "title": "Harlequin",
+      "url": "https://atcoder.jp/contests/caddi2018/tasks/caddi2018_b"
+    },
+    {
+      "id": "caddi2018_c",
+      "label": "E",
+      "title": "Negative Doubling",
+      "url": "https://atcoder.jp/contests/caddi2018/tasks/caddi2018_c"
+    },
+    {
+      "id": "caddi2018_d",
+      "label": "F",
+      "title": "Square",
+      "url": "https://atcoder.jp/contests/caddi2018/tasks/caddi2018_d"
+    }
+  ]
+}
