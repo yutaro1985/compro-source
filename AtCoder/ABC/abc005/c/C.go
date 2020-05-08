@@ -31,20 +31,15 @@ func main() {
 	for i := range Bn {
 		Bn[i] = nextInt()
 	}
-	ans := "yes"
-	if M > N {
-		ans = "no"
-	} else {
-		j := 0
-		for i := 0; i < N; i++ {
-			if An[i]+T >= Bn[j] && An[i] <= Bn[j] {
-				j++
-			}
-			if j == len(Bn) {
-				ans = "yes"
-				break
-			}
-			ans = "no"
+	ans := "no"
+	j := 0
+	for i := 0; i < N; i++ {
+		if An[i]+T >= Bn[j] && An[i] <= Bn[j] {
+			j++
+		}
+		if j == len(Bn) {
+			ans = "yes"
+			break
 		}
 	}
 	fmt.Println(ans)
