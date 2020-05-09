@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "abc039",
+    "title": "AtCoder Beginner Contest 039",
+    "url": "https://atcoder.jp/contests/abc039"
+  },
+  "tasks": [
+    {
+      "id": "abc039_a",
+      "label": "A",
+      "title": "高橋直体",
+      "url": "https://atcoder.jp/contests/abc039/tasks/abc039_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc039_b",
+      "label": "B",
+      "title": "エージェント高橋君",
+      "url": "https://atcoder.jp/contests/abc039/tasks/abc039_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc039_c",
+      "label": "C",
+      "title": "ピアニスト高橋君",
+      "url": "https://atcoder.jp/contests/abc039/tasks/abc039_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc039_d",
+      "label": "D",
+      "title": "画像処理高橋君",
+      "url": "https://atcoder.jp/contests/abc039/tasks/abc039_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    }
+  ]
+}
