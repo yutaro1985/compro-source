@@ -40,13 +40,14 @@ func main() {
 		sortedAn = append(sortedAn, cur)
 		cur = An[cur-1]
 	}
-	looplength := len(sortedAn) - Revisit[cur]
-	if K <= Revisit[cur] {
+	l := Revisit[cur]
+	looplength := len(sortedAn) - l
+	if K <= l {
 		fmt.Println(sortedAn[K])
 	} else {
-		K -= Revisit[cur]
+		K -= l
 		K %= looplength
-		fmt.Println(sortedAn[K+Revisit[cur]])
+		fmt.Println(sortedAn[K+l])
 	}
 
 }
