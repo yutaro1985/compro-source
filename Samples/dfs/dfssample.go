@@ -6,7 +6,7 @@ import "fmt"
 // https://drken1215.hatenablog.com/entry/2020/05/04/190252
 
 const (
-	M = 3
+	M = 2
 	N = 5
 )
 
