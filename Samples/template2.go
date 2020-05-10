@@ -22,18 +22,8 @@ func init() {
 }
 
 func main() {
-	nums := nextInt()
-	trueTotal := 0
-	min := 1000000
-	var cur int
-	for i := 0; i < nums; i++ {
-		cur = nextInt()
-		if min >= cur {
-			trueTotal++
-			min = cur
-		}
-	}
-	fmt.Println(trueTotal)
+	N := nextInt()
+	fmt.Println()
 }
 
 func nextLine() string {
