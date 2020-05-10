@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc167",
+    "title": "AtCoder Beginner Contest 167",
+    "url": "https://atcoder.jp/contests/abc167"
+  },
+  "tasks": [
+    {
+      "id": "abc167_a",
+      "label": "A",
+      "title": "Registration",
+      "url": "https://atcoder.jp/contests/abc167/tasks/abc167_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc167_b",
+      "label": "B",
+      "title": "Easy Linear Programming",
+      "url": "https://atcoder.jp/contests/abc167/tasks/abc167_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc167_c",
+      "label": "C",
+      "title": "Skill Up",
+      "url": "https://atcoder.jp/contests/abc167/tasks/abc167_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc167_d",
+      "label": "D",
+      "title": "Teleporter",
+      "url": "https://atcoder.jp/contests/abc167/tasks/abc167_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc167_e",
+      "label": "E",
+      "title": "Colorful Blocks",
+      "url": "https://atcoder.jp/contests/abc167/tasks/abc167_e"
+    },
+    {
+      "id": "abc167_f",
+      "label": "F",
+      "title": "Bracket Sequencing",
+      "url": "https://atcoder.jp/contests/abc167/tasks/abc167_f"
+    }
+  ]
+}
