@@ -1,0 +1,1 @@
+../../AOJ/ALDS1/ALDS1_1_A.go
