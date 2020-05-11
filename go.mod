@@ -1,6 +1,6 @@
 module github.com/yutaro1985/compro-source
 
-go 1.14.1
+go 1.14
 
 require (
 	dmitri.shuralyov.com/gpu/mtl v0.0.0-20191203043605-d42048ed14fd // indirect
