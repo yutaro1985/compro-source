@@ -8,6 +8,7 @@ import (
 func main() {
 	// Go 1.6ではbig.SqrtがまだないのでCEになる
 	// https://github.com/golang/go/commits/master/src/math/big/sqrt.go
+	// これでは通らない
 	var a, b, c big.Float
 	var as, bs, cs, sum big.Float
 	fmt.Scan(&a, &b, &c)
