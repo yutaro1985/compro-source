@@ -49,14 +49,19 @@ func main() {
 			// i人目が0の場合は見なくて良い
 			if uint(bit)>>uint(i)&1 == 1 {
 				for j := 0; j < len(people[i].x); j++ {
-					if people[i].y[j] == 1 && uint(bit)>>uint(people[i].x[j])&1 == 0 {
+					// xorを使って一つにまとめられる
+					if uint(people[i].y[j])^uint(bit)>>uint(people[i].x[j])&1 == 1 {
 						ok = false
 						break
 					}
-					if people[i].y[j] == 0 && uint(bit)>>uint(people[i].x[j])&1 == 1 {
-						ok = false
-						break
-					}
+					// if people[i].y[j] == 1 && uint(bit)>>uint(people[i].x[j])&1 == 0 {
+					// 	ok = false
+					// 	break
+					// }
+					// if people[i].y[j] == 0 && uint(bit)>>uint(people[i].x[j])&1 == 1 {
+					// 	ok = false
+					// 	break
+					// }
 				}
 			}
 			if !ok {
