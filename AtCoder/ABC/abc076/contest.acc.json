@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc076",
+    "title": "AtCoder Beginner Contest 076",
+    "url": "https://atcoder.jp/contests/abc076"
+  },
+  "tasks": [
+    {
+      "id": "abc076_a",
+      "label": "A",
+      "title": "Rating Goal",
+      "url": "https://atcoder.jp/contests/abc076/tasks/abc076_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc076_b",
+      "label": "B",
+      "title": "Addition and Multiplication",
+      "url": "https://atcoder.jp/contests/abc076/tasks/abc076_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc076_c",
+      "label": "C",
+      "title": "Dubious Document 2",
+      "url": "https://atcoder.jp/contests/abc076/tasks/abc076_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc076_d",
+      "label": "D",
+      "title": "AtCoder Express",
+      "url": "https://atcoder.jp/contests/abc076/tasks/abc076_d"
+    }
+  ]
+}
