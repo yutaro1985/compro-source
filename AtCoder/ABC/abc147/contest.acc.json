@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "abc147",
+    "title": "AtCoder Beginner Contest 147",
+    "url": "https://atcoder.jp/contests/abc147"
+  },
+  "tasks": [
+    {
+      "id": "abc147_a",
+      "label": "A",
+      "title": "Blackjack",
+      "url": "https://atcoder.jp/contests/abc147/tasks/abc147_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc147_b",
+      "label": "B",
+      "title": "Palindrome-philia",
+      "url": "https://atcoder.jp/contests/abc147/tasks/abc147_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc147_c",
+      "label": "C",
+      "title": "HonestOrUnkind2",
+      "url": "https://atcoder.jp/contests/abc147/tasks/abc147_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc147_d",
+      "label": "D",
+      "title": "Xor Sum 4",
+      "url": "https://atcoder.jp/contests/abc147/tasks/abc147_d"
+    },
+    {
+      "id": "abc147_e",
+      "label": "E",
+      "title": "Balanced Path",
+      "url": "https://atcoder.jp/contests/abc147/tasks/abc147_e"
+    },
+    {
+      "id": "abc147_f",
+      "label": "F",
+      "title": "Sum Difference",
+      "url": "https://atcoder.jp/contests/abc147/tasks/abc147_f"
+    }
+  ]
+}
