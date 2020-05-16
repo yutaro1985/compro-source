@@ -27,7 +27,7 @@ type restaurant struct {
 	score int
 }
 
-// TODO 新ジャッジサーバになったら提出する
+// TODO #17 # 新ジャッジサーバになったら提出する
 
 type SortByName [][]restaurant
 
