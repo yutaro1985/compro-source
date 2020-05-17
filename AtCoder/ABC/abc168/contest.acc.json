@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc168",
+    "title": "AtCoder Beginner Contest 168",
+    "url": "https://atcoder.jp/contests/abc168"
+  },
+  "tasks": [
+    {
+      "id": "abc168_a",
+      "label": "A",
+      "title": "∴ (Therefore)",
+      "url": "https://atcoder.jp/contests/abc168/tasks/abc168_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc168_b",
+      "label": "B",
+      "title": "... (Triple Dots)",
+      "url": "https://atcoder.jp/contests/abc168/tasks/abc168_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc168_c",
+      "label": "C",
+      "title": ": (Colon)",
+      "url": "https://atcoder.jp/contests/abc168/tasks/abc168_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc168_d",
+      "label": "D",
+      "title": ".. (Double Dots)",
+      "url": "https://atcoder.jp/contests/abc168/tasks/abc168_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc168_e",
+      "label": "E",
+      "title": "∙ (Bullet)",
+      "url": "https://atcoder.jp/contests/abc168/tasks/abc168_e"
+    },
+    {
+      "id": "abc168_f",
+      "label": "F",
+      "title": ". (Single Dot)",
+      "url": "https://atcoder.jp/contests/abc168/tasks/abc168_f"
+    }
+  ]
+}
