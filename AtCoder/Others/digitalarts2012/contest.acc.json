@@ -1,0 +1,32 @@
+{
+  "contest": {
+    "id": "digitalarts2012",
+    "title": "DigitalArts プログラミングコンテスト2012",
+    "url": "https://atcoder.jp/contests/digitalarts2012"
+  },
+  "tasks": [
+    {
+      "id": "digitalarts_1",
+      "label": "A",
+      "title": "C-Filter",
+      "url": "https://atcoder.jp/contests/digitalarts2012/tasks/digitalarts_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "digitalarts_2",
+      "label": "B",
+      "title": "Password",
+      "url": "https://atcoder.jp/contests/digitalarts2012/tasks/digitalarts_2"
+    },
+    {
+      "id": "digitalarts_3",
+      "label": "C",
+      "title": "Chokutter",
+      "url": "https://atcoder.jp/contests/digitalarts2012/tasks/digitalarts_3"
+    }
+  ]
+}
