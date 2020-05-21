@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc010",
+    "title": "AtCoder Beginner Contest 010",
+    "url": "https://atcoder.jp/contests/abc010"
+  },
+  "tasks": [
+    {
+      "id": "abc010_1",
+      "label": "A",
+      "title": "ハンドルネーム",
+      "url": "https://atcoder.jp/contests/abc010/tasks/abc010_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc010_2",
+      "label": "B",
+      "title": "花占い",
+      "url": "https://atcoder.jp/contests/abc010/tasks/abc010_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc010_3",
+      "label": "C",
+      "title": "浮気調査",
+      "url": "https://atcoder.jp/contests/abc010/tasks/abc010_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc010_4",
+      "label": "D",
+      "title": "浮気予防",
+      "url": "https://atcoder.jp/contests/abc010/tasks/abc010_4"
+    }
+  ]
+}
