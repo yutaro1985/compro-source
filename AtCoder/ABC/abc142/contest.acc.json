@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc142",
+    "title": "AtCoder Beginner Contest 142",
+    "url": "https://atcoder.jp/contests/abc142"
+  },
+  "tasks": [
+    {
+      "id": "abc142_a",
+      "label": "A",
+      "title": "Odds of Oddness",
+      "url": "https://atcoder.jp/contests/abc142/tasks/abc142_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc142_b",
+      "label": "B",
+      "title": "Roller Coaster",
+      "url": "https://atcoder.jp/contests/abc142/tasks/abc142_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc142_c",
+      "label": "C",
+      "title": "Go to School",
+      "url": "https://atcoder.jp/contests/abc142/tasks/abc142_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc142_d",
+      "label": "D",
+      "title": "Disjoint Set of Common Divisors",
+      "url": "https://atcoder.jp/contests/abc142/tasks/abc142_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc142_e",
+      "label": "E",
+      "title": "Get Everything",
+      "url": "https://atcoder.jp/contests/abc142/tasks/abc142_e"
+    },
+    {
+      "id": "abc142_f",
+      "label": "F",
+      "title": "Pure",
+      "url": "https://atcoder.jp/contests/abc142/tasks/abc142_f"
+    }
+  ]
+}
