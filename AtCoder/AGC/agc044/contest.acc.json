@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc044",
+    "title": "AtCoder Grand Contest 044",
+    "url": "https://atcoder.jp/contests/agc044"
+  },
+  "tasks": [
+    {
+      "id": "agc044_a",
+      "label": "A",
+      "title": "Pay to Win",
+      "url": "https://atcoder.jp/contests/agc044/tasks/agc044_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "agc044_b",
+      "label": "B",
+      "title": "Joker",
+      "url": "https://atcoder.jp/contests/agc044/tasks/agc044_b"
+    },
+    {
+      "id": "agc044_c",
+      "label": "C",
+      "title": "Strange Dance",
+      "url": "https://atcoder.jp/contests/agc044/tasks/agc044_c"
+    },
+    {
+      "id": "agc044_d",
+      "label": "D",
+      "title": "Guess the Password",
+      "url": "https://atcoder.jp/contests/agc044/tasks/agc044_d"
+    },
+    {
+      "id": "agc044_e",
+      "label": "E",
+      "title": "Random Pawn",
+      "url": "https://atcoder.jp/contests/agc044/tasks/agc044_e"
+    },
+    {
+      "id": "agc044_f",
+      "label": "F",
+      "title": "Name-Preserving Clubs",
+      "url": "https://atcoder.jp/contests/agc044/tasks/agc044_f"
+    }
+  ]
+}
