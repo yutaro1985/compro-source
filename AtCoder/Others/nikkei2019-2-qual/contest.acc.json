@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "nikkei2019-2-qual",
+    "title": "NIKKEI Programming Contest 2019-2",
+    "url": "https://atcoder.jp/contests/nikkei2019-2-qual"
+  },
+  "tasks": [
+    {
+      "id": "nikkei2019_2_qual_a",
+      "label": "A",
+      "title": "Sum of Two Integers",
+      "url": "https://atcoder.jp/contests/nikkei2019-2-qual/tasks/nikkei2019_2_qual_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "nikkei2019_2_qual_b",
+      "label": "B",
+      "title": "Counting of Trees",
+      "url": "https://atcoder.jp/contests/nikkei2019-2-qual/tasks/nikkei2019_2_qual_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "nikkei2019_2_qual_c",
+      "label": "C",
+      "title": "Swaps",
+      "url": "https://atcoder.jp/contests/nikkei2019-2-qual/tasks/nikkei2019_2_qual_c"
+    },
+    {
+      "id": "nikkei2019_2_qual_d",
+      "label": "D",
+      "title": "Shortest Path on a Line",
+      "url": "https://atcoder.jp/contests/nikkei2019-2-qual/tasks/nikkei2019_2_qual_d"
+    },
+    {
+      "id": "nikkei2019_2_qual_e",
+      "label": "E",
+      "title": "Non-triangular Triplets",
+      "url": "https://atcoder.jp/contests/nikkei2019-2-qual/tasks/nikkei2019_2_qual_e"
+    },
+    {
+      "id": "nikkei2019_2_qual_f",
+      "label": "F",
+      "title": "Mirror Frame",
+      "url": "https://atcoder.jp/contests/nikkei2019-2-qual/tasks/nikkei2019_2_qual_f"
+    }
+  ]
+}
