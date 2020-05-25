@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc015",
+    "title": "AtCoder Grand Contest 015",
+    "url": "https://atcoder.jp/contests/agc015"
+  },
+  "tasks": [
+    {
+      "id": "agc015_a",
+      "label": "A",
+      "title": "A+...+B Problem",
+      "url": "https://atcoder.jp/contests/agc015/tasks/agc015_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "agc015_b",
+      "label": "B",
+      "title": "Evilator",
+      "url": "https://atcoder.jp/contests/agc015/tasks/agc015_b"
+    },
+    {
+      "id": "agc015_c",
+      "label": "C",
+      "title": "Nuske vs Phantom Thnook",
+      "url": "https://atcoder.jp/contests/agc015/tasks/agc015_c"
+    },
+    {
+      "id": "agc015_d",
+      "label": "D",
+      "title": "A or...or B Problem",
+      "url": "https://atcoder.jp/contests/agc015/tasks/agc015_d"
+    },
+    {
+      "id": "agc015_e",
+      "label": "E",
+      "title": "Mr.Aoki Incubator",
+      "url": "https://atcoder.jp/contests/agc015/tasks/agc015_e"
+    },
+    {
+      "id": "agc015_f",
+      "label": "F",
+      "title": "Kenus the Ancient Greek",
+      "url": "https://atcoder.jp/contests/agc015/tasks/agc015_f"
+    }
+  ]
+}
