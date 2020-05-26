@@ -19,6 +19,7 @@ func main() {
 	tmp1000 := 1000 * n
 	if tmp1000 > y {
 		fmt.Println(-1, -1, -1)
+		return
 	}
 	rest := y - tmp1000
 	for i := 0; i <= rest/4000; i++ {
