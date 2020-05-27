@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "abc094",
+    "title": "AtCoder Beginner Contest 094",
+    "url": "https://atcoder.jp/contests/abc094"
+  },
+  "tasks": [
+    {
+      "id": "abc094_a",
+      "label": "A",
+      "title": "Cats and Dogs",
+      "url": "https://atcoder.jp/contests/abc094/tasks/abc094_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc094_b",
+      "label": "B",
+      "title": "Toll Gates",
+      "url": "https://atcoder.jp/contests/abc094/tasks/abc094_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc095_a",
+      "label": "C",
+      "title": "Many Medians",
+      "url": "https://atcoder.jp/contests/abc094/tasks/arc095_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc095_b",
+      "label": "D",
+      "title": "Binomial Coefficients",
+      "url": "https://atcoder.jp/contests/abc094/tasks/arc095_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    }
+  ]
+}
