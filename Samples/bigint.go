@@ -1,0 +1,1 @@
+../AtCoder/ABC/abc169/b/B.go
