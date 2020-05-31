@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc169",
+    "title": "AtCoder Beginner Contest 169",
+    "url": "https://atcoder.jp/contests/abc169"
+  },
+  "tasks": [
+    {
+      "id": "abc169_a",
+      "label": "A",
+      "title": "Multiplication 1",
+      "url": "https://atcoder.jp/contests/abc169/tasks/abc169_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc169_b",
+      "label": "B",
+      "title": "Multiplication 2",
+      "url": "https://atcoder.jp/contests/abc169/tasks/abc169_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc169_c",
+      "label": "C",
+      "title": "Multiplication 3",
+      "url": "https://atcoder.jp/contests/abc169/tasks/abc169_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc169_d",
+      "label": "D",
+      "title": "Div Game",
+      "url": "https://atcoder.jp/contests/abc169/tasks/abc169_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc169_e",
+      "label": "E",
+      "title": "Count Median",
+      "url": "https://atcoder.jp/contests/abc169/tasks/abc169_e"
+    },
+    {
+      "id": "abc169_f",
+      "label": "F",
+      "title": "Knapsack for All Subsets",
+      "url": "https://atcoder.jp/contests/abc169/tasks/abc169_f"
+    }
+  ]
+}
