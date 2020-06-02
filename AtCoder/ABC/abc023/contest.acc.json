@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc023",
+    "title": "AtCoder Beginner Contest 023",
+    "url": "https://atcoder.jp/contests/abc023"
+  },
+  "tasks": [
+    {
+      "id": "abc023_a",
+      "label": "A",
+      "title": "加算王",
+      "url": "https://atcoder.jp/contests/abc023/tasks/abc023_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc023_b",
+      "label": "B",
+      "title": "手芸王",
+      "url": "https://atcoder.jp/contests/abc023/tasks/abc023_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc023_c",
+      "label": "C",
+      "title": "収集王",
+      "url": "https://atcoder.jp/contests/abc023/tasks/abc023_c"
+    },
+    {
+      "id": "abc023_d",
+      "label": "D",
+      "title": "射撃王",
+      "url": "https://atcoder.jp/contests/abc023/tasks/abc023_d"
+    }
+  ]
+}
