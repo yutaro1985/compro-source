@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc143",
+    "title": "AtCoder Beginner Contest 143",
+    "url": "https://atcoder.jp/contests/abc143"
+  },
+  "tasks": [
+    {
+      "id": "abc143_a",
+      "label": "A",
+      "title": "Curtain",
+      "url": "https://atcoder.jp/contests/abc143/tasks/abc143_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc143_b",
+      "label": "B",
+      "title": "TAKOYAKI FESTIVAL 2019",
+      "url": "https://atcoder.jp/contests/abc143/tasks/abc143_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc143_c",
+      "label": "C",
+      "title": "Slimes",
+      "url": "https://atcoder.jp/contests/abc143/tasks/abc143_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc143_d",
+      "label": "D",
+      "title": "Triangles",
+      "url": "https://atcoder.jp/contests/abc143/tasks/abc143_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc143_e",
+      "label": "E",
+      "title": "Travel by Car",
+      "url": "https://atcoder.jp/contests/abc143/tasks/abc143_e"
+    },
+    {
+      "id": "abc143_f",
+      "label": "F",
+      "title": "Distinct Numbers",
+      "url": "https://atcoder.jp/contests/abc143/tasks/abc143_f"
+    }
+  ]
+}
