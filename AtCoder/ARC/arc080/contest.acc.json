@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc080",
+    "title": "AtCoder Regular Contest 080",
+    "url": "https://atcoder.jp/contests/arc080"
+  },
+  "tasks": [
+    {
+      "id": "arc080_a",
+      "label": "C",
+      "title": "4-adjacent",
+      "url": "https://atcoder.jp/contests/arc080/tasks/arc080_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc080_b",
+      "label": "D",
+      "title": "Grid Coloring",
+      "url": "https://atcoder.jp/contests/arc080/tasks/arc080_b"
+    },
+    {
+      "id": "arc080_c",
+      "label": "E",
+      "title": "Young Maids",
+      "url": "https://atcoder.jp/contests/arc080/tasks/arc080_c"
+    },
+    {
+      "id": "arc080_d",
+      "label": "F",
+      "title": "Prime Flip",
+      "url": "https://atcoder.jp/contests/arc080/tasks/arc080_d"
+    }
+  ]
+}
