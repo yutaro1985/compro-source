@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc117",
+    "title": "AtCoder Beginner Contest 117",
+    "url": "https://atcoder.jp/contests/abc117"
+  },
+  "tasks": [
+    {
+      "id": "abc117_a",
+      "label": "A",
+      "title": "Entrance Examination",
+      "url": "https://atcoder.jp/contests/abc117/tasks/abc117_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc117_b",
+      "label": "B",
+      "title": "Polygon",
+      "url": "https://atcoder.jp/contests/abc117/tasks/abc117_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc117_c",
+      "label": "C",
+      "title": "Streamline",
+      "url": "https://atcoder.jp/contests/abc117/tasks/abc117_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc117_d",
+      "label": "D",
+      "title": "XXOR",
+      "url": "https://atcoder.jp/contests/abc117/tasks/abc117_d"
+    }
+  ]
+}
