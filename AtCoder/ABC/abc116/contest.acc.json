@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc116",
+    "title": "AtCoder Beginner Contest 116",
+    "url": "https://atcoder.jp/contests/abc116"
+  },
+  "tasks": [
+    {
+      "id": "abc116_a",
+      "label": "A",
+      "title": "Right Triangle",
+      "url": "https://atcoder.jp/contests/abc116/tasks/abc116_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc116_b",
+      "label": "B",
+      "title": "Collatz Problem",
+      "url": "https://atcoder.jp/contests/abc116/tasks/abc116_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc116_c",
+      "label": "C",
+      "title": "Grand Garden",
+      "url": "https://atcoder.jp/contests/abc116/tasks/abc116_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc116_d",
+      "label": "D",
+      "title": "Various Sushi",
+      "url": "https://atcoder.jp/contests/abc116/tasks/abc116_d"
+    }
+  ]
+}
