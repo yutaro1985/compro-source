@@ -19,7 +19,12 @@
       "id": "arc003_2",
       "label": "B",
       "title": "さかさま辞書",
-      "url": "https://atcoder.jp/contests/arc003/tasks/arc003_2"
+      "url": "https://atcoder.jp/contests/arc003/tasks/arc003_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
     },
     {
       "id": "arc003_3",
