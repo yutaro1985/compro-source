@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc091",
+    "title": "AtCoder Regular Contest 091",
+    "url": "https://atcoder.jp/contests/arc091"
+  },
+  "tasks": [
+    {
+      "id": "arc091_a",
+      "label": "C",
+      "title": "Flip,Flip, and Flip......",
+      "url": "https://atcoder.jp/contests/arc091/tasks/arc091_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc091_b",
+      "label": "D",
+      "title": "Remainder Reminder",
+      "url": "https://atcoder.jp/contests/arc091/tasks/arc091_b"
+    },
+    {
+      "id": "arc091_c",
+      "label": "E",
+      "title": "LISDL",
+      "url": "https://atcoder.jp/contests/arc091/tasks/arc091_c"
+    },
+    {
+      "id": "arc091_d",
+      "label": "F",
+      "title": "Strange Nim",
+      "url": "https://atcoder.jp/contests/arc091/tasks/arc091_d"
+    }
+  ]
+}
