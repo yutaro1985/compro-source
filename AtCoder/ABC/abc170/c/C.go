@@ -53,7 +53,6 @@ func main() {
 			return
 		}
 	}
-	// fmt.Println(pn, dn)
 }
 
 func nextLine() string {
