@@ -31,7 +31,6 @@ func main() {
 	for i := 0; i < N; i++ {
 		pn[nextInt()] = true
 	}
-	// fmt.Println(pn)
 	for i := 0; i <= 100; i++ {
 		var pl, mi bool
 		if _, e := pn[X-i]; e {
@@ -40,7 +39,6 @@ func main() {
 		if _, e := pn[X+i]; e {
 			pl = true
 		}
-		// fmt.Println(i, X-i, X+i)
 		if pl && mi {
 			continue
 		}
