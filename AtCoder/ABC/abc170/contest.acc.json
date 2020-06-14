@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc170",
+    "title": "AtCoder Beginner Contest 170",
+    "url": "https://atcoder.jp/contests/abc170"
+  },
+  "tasks": [
+    {
+      "id": "abc170_a",
+      "label": "A",
+      "title": "Five Variables",
+      "url": "https://atcoder.jp/contests/abc170/tasks/abc170_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc170_b",
+      "label": "B",
+      "title": "Crane and Turtle",
+      "url": "https://atcoder.jp/contests/abc170/tasks/abc170_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc170_c",
+      "label": "C",
+      "title": "Forbidden List",
+      "url": "https://atcoder.jp/contests/abc170/tasks/abc170_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc170_d",
+      "label": "D",
+      "title": "Not Divisible",
+      "url": "https://atcoder.jp/contests/abc170/tasks/abc170_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc170_e",
+      "label": "E",
+      "title": "Smart Infants",
+      "url": "https://atcoder.jp/contests/abc170/tasks/abc170_e"
+    },
+    {
+      "id": "abc170_f",
+      "label": "F",
+      "title": "Pond Skater",
+      "url": "https://atcoder.jp/contests/abc170/tasks/abc170_f"
+    }
+  ]
+}
