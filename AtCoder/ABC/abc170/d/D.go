@@ -25,12 +25,13 @@ func main() {
 	N := nextInt()
 	key := make([]int, N)
 	An := make(map[int]int)
-	var ans int
+	var ans, max int
 	for i := range key {
 		key[i] = nextInt()
+		max = MaxOf(key[i], max)
 	}
 	for i := 0; i < N; i++ {
-		for j := 1; j*key[i] <= int(1e6); j++ {
+		for j := 1; j*key[i] <= max; j++ {
 			if An[key[i]] >= 2 {
 				break
 			}
