@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "code-formula-2014-qualb",
+    "title": "Code Formula 2014 予選B",
+    "url": "https://atcoder.jp/contests/code-formula-2014-qualb"
+  },
+  "tasks": [
+    {
+      "id": "code_formula_2014_qualB_a",
+      "label": "A",
+      "title": "サイコロ",
+      "url": "https://atcoder.jp/contests/code-formula-2014-qualb/tasks/code_formula_2014_qualB_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "code_formula_2014_qualB_b",
+      "label": "B",
+      "title": "11の倍数",
+      "url": "https://atcoder.jp/contests/code-formula-2014-qualb/tasks/code_formula_2014_qualB_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "code_formula_2014_qualB_c",
+      "label": "C",
+      "title": "仲良し文字列",
+      "url": "https://atcoder.jp/contests/code-formula-2014-qualb/tasks/code_formula_2014_qualB_c"
+    },
+    {
+      "id": "code_formula_2014_qualB_d",
+      "label": "D",
+      "title": "お釣りの嫌いな高橋君",
+      "url": "https://atcoder.jp/contests/code-formula-2014-qualb/tasks/code_formula_2014_qualB_d"
+    }
+  ]
+}
