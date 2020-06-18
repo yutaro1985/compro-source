@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": "cf17-final",
+    "title": "CODE FESTIVAL 2017 Final",
+    "url": "https://atcoder.jp/contests/cf17-final"
+  },
+  "tasks": [
+    {
+      "id": "cf17_final_a",
+      "label": "A",
+      "title": "AKIBA",
+      "url": "https://atcoder.jp/contests/cf17-final/tasks/cf17_final_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "cf17_final_b",
+      "label": "B",
+      "title": "Palindrome-phobia",
+      "url": "https://atcoder.jp/contests/cf17-final/tasks/cf17_final_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "cf17_final_c",
+      "label": "C",
+      "title": "Time Gap",
+      "url": "https://atcoder.jp/contests/cf17-final/tasks/cf17_final_c"
+    },
+    {
+      "id": "cf17_final_d",
+      "label": "D",
+      "title": "Zabuton",
+      "url": "https://atcoder.jp/contests/cf17-final/tasks/cf17_final_d"
+    },
+    {
+      "id": "cf17_final_e",
+      "label": "E",
+      "title": "Combination Lock",
+      "url": "https://atcoder.jp/contests/cf17-final/tasks/cf17_final_e"
+    },
+    {
+      "id": "cf17_final_f",
+      "label": "F",
+      "title": "Distribute Numbers",
+      "url": "https://atcoder.jp/contests/cf17-final/tasks/cf17_final_f"
+    },
+    {
+      "id": "cf17_final_g",
+      "label": "G",
+      "title": "Mancala",
+      "url": "https://atcoder.jp/contests/cf17-final/tasks/cf17_final_g"
+    },
+    {
+      "id": "cf17_final_h",
+      "label": "H",
+      "title": "Poor Penguin",
+      "url": "https://atcoder.jp/contests/cf17-final/tasks/cf17_final_h"
+    },
+    {
+      "id": "cf17_final_i",
+      "label": "I",
+      "title": "Full Tournament",
+      "url": "https://atcoder.jp/contests/cf17-final/tasks/cf17_final_i"
+    },
+    {
+      "id": "cf17_final_j",
+      "label": "J",
+      "title": "Tree MST",
+      "url": "https://atcoder.jp/contests/cf17-final/tasks/cf17_final_j"
+    }
+  ]
+}
