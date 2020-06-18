@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "tokiomarine2020",
+    "title": "Tokio Marine & Nichido Fire Insurance Programming Contest 2020",
+    "url": "https://atcoder.jp/contests/tokiomarine2020"
+  },
+  "tasks": [
+    {
+      "id": "tokiomarine2020_a",
+      "label": "A",
+      "title": "Nickname",
+      "url": "https://atcoder.jp/contests/tokiomarine2020/tasks/tokiomarine2020_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "tokiomarine2020_b",
+      "label": "B",
+      "title": "Tag",
+      "url": "https://atcoder.jp/contests/tokiomarine2020/tasks/tokiomarine2020_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "tokiomarine2020_c",
+      "label": "C",
+      "title": "Lamps",
+      "url": "https://atcoder.jp/contests/tokiomarine2020/tasks/tokiomarine2020_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "tokiomarine2020_d",
+      "label": "D",
+      "title": "Knapsack Queries on a tree",
+      "url": "https://atcoder.jp/contests/tokiomarine2020/tasks/tokiomarine2020_d"
+    },
+    {
+      "id": "tokiomarine2020_e",
+      "label": "E",
+      "title": "O(rand)",
+      "url": "https://atcoder.jp/contests/tokiomarine2020/tasks/tokiomarine2020_e"
+    },
+    {
+      "id": "tokiomarine2020_f",
+      "label": "F",
+      "title": "Triangles",
+      "url": "https://atcoder.jp/contests/tokiomarine2020/tasks/tokiomarine2020_f"
+    }
+  ]
+}
