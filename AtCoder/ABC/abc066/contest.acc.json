@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc066",
+    "title": "AtCoder Beginner Contest 066",
+    "url": "https://atcoder.jp/contests/abc066"
+  },
+  "tasks": [
+    {
+      "id": "abc066_a",
+      "label": "A",
+      "title": "ringring",
+      "url": "https://atcoder.jp/contests/abc066/tasks/abc066_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc066_b",
+      "label": "B",
+      "title": "ss",
+      "url": "https://atcoder.jp/contests/abc066/tasks/abc066_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc077_a",
+      "label": "C",
+      "title": "pushpush",
+      "url": "https://atcoder.jp/contests/abc066/tasks/arc077_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc077_b",
+      "label": "D",
+      "title": "11",
+      "url": "https://atcoder.jp/contests/abc066/tasks/arc077_b"
+    }
+  ]
+}
