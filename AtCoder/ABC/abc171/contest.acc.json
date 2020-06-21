@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc171",
+    "title": "AtCoder Beginner Contest 171",
+    "url": "https://atcoder.jp/contests/abc171"
+  },
+  "tasks": [
+    {
+      "id": "abc171_a",
+      "label": "A",
+      "title": "αlphabet",
+      "url": "https://atcoder.jp/contests/abc171/tasks/abc171_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc171_b",
+      "label": "B",
+      "title": "Mix Juice",
+      "url": "https://atcoder.jp/contests/abc171/tasks/abc171_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc171_c",
+      "label": "C",
+      "title": "One Quadrillion and One Dalmatians",
+      "url": "https://atcoder.jp/contests/abc171/tasks/abc171_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc171_d",
+      "label": "D",
+      "title": "Replacing",
+      "url": "https://atcoder.jp/contests/abc171/tasks/abc171_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc171_e",
+      "label": "E",
+      "title": "Red Scarf",
+      "url": "https://atcoder.jp/contests/abc171/tasks/abc171_e"
+    },
+    {
+      "id": "abc171_f",
+      "label": "F",
+      "title": "Strivore",
+      "url": "https://atcoder.jp/contests/abc171/tasks/abc171_f"
+    }
+  ]
+}
