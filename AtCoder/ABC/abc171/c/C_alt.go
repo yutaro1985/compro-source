@@ -6,6 +6,7 @@ import (
 	"os"
 	"sort"
 	"strconv"
+	"strings"
 )
 
 const (
@@ -21,19 +22,27 @@ func init() {
 	sc.Buffer(buf, maxBufSize)
 }
 
+// 桁数を先に割り出してから計算するパターン
+// 一つズレるのがポイント
+
 func main() {
 	N := nextInt()
-	an := make([]int, 0)
-	for N > 0 {
-		N--
-		an = append(an, N%26+'a')
+	var digits int
+	N--
+	for i := 1; i <= 12; i++ {
+		num := pow(26, i)
+		if N < num {
+			digits = i
+			break
+		}
+		N -= num
+	}
+	an := make([]string, digits)
+	for i := 0; i < digits; i++ {
+		an[len(an)-1-i] = string(N%26 + 'a')
 		N /= 26
 	}
-	ans := make([]rune, len(an))
-	for i := 0; i < len(an); i++ {
-		ans[len(ans)-1-i] = rune(an[i])
-	}
-	fmt.Println(string(ans))
+	fmt.Println(strings.Join(an, ""))
 }
 
 func nextLine() string {
