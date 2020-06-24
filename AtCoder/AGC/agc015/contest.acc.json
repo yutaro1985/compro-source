@@ -20,7 +20,12 @@
       "id": "agc015_b",
       "label": "B",
       "title": "Evilator",
-      "url": "https://atcoder.jp/contests/agc015/tasks/agc015_b"
+      "url": "https://atcoder.jp/contests/agc015/tasks/agc015_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
     },
     {
       "id": "agc015_c",
