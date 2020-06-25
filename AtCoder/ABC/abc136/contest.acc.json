@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc136",
+    "title": "AtCoder Beginner Contest 136",
+    "url": "https://atcoder.jp/contests/abc136"
+  },
+  "tasks": [
+    {
+      "id": "abc136_a",
+      "label": "A",
+      "title": "Transfer",
+      "url": "https://atcoder.jp/contests/abc136/tasks/abc136_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc136_b",
+      "label": "B",
+      "title": "Uneven Numbers",
+      "url": "https://atcoder.jp/contests/abc136/tasks/abc136_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc136_c",
+      "label": "C",
+      "title": "Build Stairs",
+      "url": "https://atcoder.jp/contests/abc136/tasks/abc136_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc136_d",
+      "label": "D",
+      "title": "Gathering Children",
+      "url": "https://atcoder.jp/contests/abc136/tasks/abc136_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc136_e",
+      "label": "E",
+      "title": "Max GCD",
+      "url": "https://atcoder.jp/contests/abc136/tasks/abc136_e"
+    },
+    {
+      "id": "abc136_f",
+      "label": "F",
+      "title": "Enclosed Points",
+      "url": "https://atcoder.jp/contests/abc136/tasks/abc136_f"
+    }
+  ]
+}
