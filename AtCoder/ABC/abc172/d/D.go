@@ -30,6 +30,7 @@ func main() {
 			ans += i * j
 		}
 	}
+	// 1はすべての約数なので、1からNまでの和をここで足している
 	ans += N * (N + 1) / 2
 	fmt.Println(ans)
 }
