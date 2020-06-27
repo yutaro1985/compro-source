@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc172",
+    "title": "AtCoder Beginner Contest 172",
+    "url": "https://atcoder.jp/contests/abc172"
+  },
+  "tasks": [
+    {
+      "id": "abc172_a",
+      "label": "A",
+      "title": "Calc",
+      "url": "https://atcoder.jp/contests/abc172/tasks/abc172_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc172_b",
+      "label": "B",
+      "title": "Minor Change",
+      "url": "https://atcoder.jp/contests/abc172/tasks/abc172_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc172_c",
+      "label": "C",
+      "title": "Tsundoku",
+      "url": "https://atcoder.jp/contests/abc172/tasks/abc172_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc172_d",
+      "label": "D",
+      "title": "Sum of Divisors",
+      "url": "https://atcoder.jp/contests/abc172/tasks/abc172_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc172_e",
+      "label": "E",
+      "title": "NEQ",
+      "url": "https://atcoder.jp/contests/abc172/tasks/abc172_e"
+    },
+    {
+      "id": "abc172_f",
+      "label": "F",
+      "title": "Unfair Nim",
+      "url": "https://atcoder.jp/contests/abc172/tasks/abc172_f"
+    }
+  ]
+}
