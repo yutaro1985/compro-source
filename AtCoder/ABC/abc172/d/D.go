@@ -25,17 +25,11 @@ func main() {
 	N := nextInt()
 	var ans int
 	// 1はすべての約数なのでどこかで足す
-	// wg := new(sync.WaitGroup)
-	// wg.Add(1)
-	// go func() {
 	for i := 2; i <= N; i++ {
 		for j := 1; i*j <= N; j++ {
 			ans += i * j
 		}
 	}
-	// 	wg.Done()
-	// }()
-	// wg.Wait()
 	ans += N * (N + 1) / 2
 	fmt.Println(ans)
 }
