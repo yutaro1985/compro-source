@@ -19,7 +19,12 @@
       "id": "arc008_2",
       "label": "B",
       "title": "謎のたこ焼きおじさん",
-      "url": "https://atcoder.jp/contests/arc008/tasks/arc008_2"
+      "url": "https://atcoder.jp/contests/arc008/tasks/arc008_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
     },
     {
       "id": "arc008_3",
