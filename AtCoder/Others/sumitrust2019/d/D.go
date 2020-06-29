@@ -22,7 +22,7 @@ func init() {
 	sc.Buffer(buf, maxBufSize)
 }
 
-// TODO 動的計画法で解いてみる
+// TODO #18 動的計画法で解いてみる
 // https://img.atcoder.jp/sumitrust2019/editorial.pdf
 
 func main() {
