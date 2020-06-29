@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "sumitrust2019",
+    "title": "Sumitomo Mitsui Trust Bank Programming Contest 2019",
+    "url": "https://atcoder.jp/contests/sumitrust2019"
+  },
+  "tasks": [
+    {
+      "id": "sumitb2019_a",
+      "label": "A",
+      "title": "November 30",
+      "url": "https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "sumitb2019_b",
+      "label": "B",
+      "title": "Tax Rate",
+      "url": "https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "sumitb2019_c",
+      "label": "C",
+      "title": "100 to 105",
+      "url": "https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "sumitb2019_d",
+      "label": "D",
+      "title": "Lucky PIN",
+      "url": "https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "sumitb2019_e",
+      "label": "E",
+      "title": "Colorful Hats 2",
+      "url": "https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_e"
+    },
+    {
+      "id": "sumitb2019_f",
+      "label": "F",
+      "title": "Interval Running",
+      "url": "https://atcoder.jp/contests/sumitrust2019/tasks/sumitb2019_f"
+    }
+  ]
+}
