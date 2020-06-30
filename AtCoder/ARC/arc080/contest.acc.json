@@ -20,7 +20,12 @@
       "id": "arc080_b",
       "label": "D",
       "title": "Grid Coloring",
-      "url": "https://atcoder.jp/contests/arc080/tasks/arc080_b"
+      "url": "https://atcoder.jp/contests/arc080/tasks/arc080_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
     },
     {
       "id": "arc080_c",
