@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc021",
+    "title": "AtCoder Beginner Contest 021",
+    "url": "https://atcoder.jp/contests/abc021"
+  },
+  "tasks": [
+    {
+      "id": "abc021_a",
+      "label": "A",
+      "title": "足し算",
+      "url": "https://atcoder.jp/contests/abc021/tasks/abc021_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc021_b",
+      "label": "B",
+      "title": "嘘つきの高橋くん",
+      "url": "https://atcoder.jp/contests/abc021/tasks/abc021_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc021_c",
+      "label": "C",
+      "title": "正直者の高橋くん",
+      "url": "https://atcoder.jp/contests/abc021/tasks/abc021_c"
+    },
+    {
+      "id": "abc021_d",
+      "label": "D",
+      "title": "多重ループ",
+      "url": "https://atcoder.jp/contests/abc021/tasks/abc021_d"
+    }
+  ]
+}
