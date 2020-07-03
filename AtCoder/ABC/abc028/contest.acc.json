@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "abc028",
+    "title": "AtCoder Beginner Contest 028",
+    "url": "https://atcoder.jp/contests/abc028"
+  },
+  "tasks": [
+    {
+      "id": "abc028_a",
+      "label": "A",
+      "title": "テスト評価",
+      "url": "https://atcoder.jp/contests/abc028/tasks/abc028_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc028_b",
+      "label": "B",
+      "title": "文字数カウント",
+      "url": "https://atcoder.jp/contests/abc028/tasks/abc028_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc028_c",
+      "label": "C",
+      "title": "数を3つ選ぶマン",
+      "url": "https://atcoder.jp/contests/abc028/tasks/abc028_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc028_d",
+      "label": "D",
+      "title": "乱数生成",
+      "url": "https://atcoder.jp/contests/abc028/tasks/abc028_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    }
+  ]
+}
