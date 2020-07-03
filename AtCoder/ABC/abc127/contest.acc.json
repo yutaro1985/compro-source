@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc127",
+    "title": "AtCoder Beginner Contest 127",
+    "url": "https://atcoder.jp/contests/abc127"
+  },
+  "tasks": [
+    {
+      "id": "abc127_a",
+      "label": "A",
+      "title": "Ferris Wheel",
+      "url": "https://atcoder.jp/contests/abc127/tasks/abc127_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc127_b",
+      "label": "B",
+      "title": "Algae",
+      "url": "https://atcoder.jp/contests/abc127/tasks/abc127_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc127_c",
+      "label": "C",
+      "title": "Prison",
+      "url": "https://atcoder.jp/contests/abc127/tasks/abc127_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc127_d",
+      "label": "D",
+      "title": "Integer Cards",
+      "url": "https://atcoder.jp/contests/abc127/tasks/abc127_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc127_e",
+      "label": "E",
+      "title": "Cell Distance",
+      "url": "https://atcoder.jp/contests/abc127/tasks/abc127_e"
+    },
+    {
+      "id": "abc127_f",
+      "label": "F",
+      "title": "Absolute Minima",
+      "url": "https://atcoder.jp/contests/abc127/tasks/abc127_f"
+    }
+  ]
+}
