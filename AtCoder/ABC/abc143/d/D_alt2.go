@@ -21,8 +21,6 @@ func init() {
 	sc.Buffer(buf, maxBufSize)
 }
 
-// 普通に計算して通ってしまったが、恐らく想定の解き方ではない
-
 func main() {
 	N := nextInt()
 	Ln := make([]int, N)
