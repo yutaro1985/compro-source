@@ -53,7 +53,12 @@
       "id": "abc166_e",
       "label": "E",
       "title": "This Message Will Self-Destruct in 5s",
-      "url": "https://atcoder.jp/contests/abc166/tasks/abc166_e"
+      "url": "https://atcoder.jp/contests/abc166/tasks/abc166_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
     },
     {
       "id": "abc166_f",
