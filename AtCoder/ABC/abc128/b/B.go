@@ -27,8 +27,6 @@ type restaurant struct {
 	score int
 }
 
-// TODO #17 # 新ジャッジサーバになったら提出する
-
 type SortByName [][]restaurant
 
 func main() {
