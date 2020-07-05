@@ -1,5 +1,11 @@
 # bit全探索問題リスト
 
+## ABC079 C
+
+8通りなのでbit全探索でなく手で全列挙でもできるが…
+[C - Train Ticket](https://atcoder.jp/contests/abc079/tasks/abc079_c)
+[コード](../../AtCoder/ABC/abc079/c/C.go)
+
 ## ABC114 C
 
 [C - 755](https://atcoder.jp/contests/abc114/tasks/abc114_c)
