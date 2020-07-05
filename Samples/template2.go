@@ -2,6 +2,7 @@ package main
 
 import (
 	"bufio"
+	"container/heap"
 	"fmt"
 	"os"
 	"sort"
@@ -182,4 +183,93 @@ func (s *Stack) Empty() bool {
 func NewStack() *Stack {
 	s := new(Stack)
 	return s
+}
+
+// golangの公式サンプルより
+// https://xn--go-hh0g6u.com/pkg/container/heap/#example__intHeap
+// IntHeap は，整数の最小ヒープです。
+type IntHeap []int
+
+func (h IntHeap) Len() int           { return len(h) }
+func (h IntHeap) Less(i, j int) bool { return h[i] < h[j] }
+func (h IntHeap) Swap(i, j int)      { h[i], h[j] = h[j], h[i] }
+
+func (h *IntHeap) Push(x interface{}) {
+	// Push と Pop はポインタレシーバを使っています。
+	// なぜなら，スライスの中身だけでなく，スライスの長さも変更するからです。
+	*h = append(*h, x.(int))
+}
+
+func (h *IntHeap) Pop() interface{} {
+	old := *h
+	n := len(old)
+	x := old[n-1]
+	*h = old[0 : n-1]
+	return x
+}
+
+// この例では IntHeap にいくつかの整数を挿入しています。そして，最小値をチェックしてから，
+// 優先度順に取り除いています。
+func Example_intHeap() {
+	h := &IntHeap{2, 1, 5}
+	heap.Init(h)
+	heap.Push(h, 3)
+	fmt.Printf("minimum: %d\n", (*h)[0])
+	for h.Len() > 0 {
+		fmt.Printf("%d ", heap.Pop(h))
+	}
+	// Output:
+	// minimum: 1
+	// 1 2 3 5
+}
+
+// golangの公式サンプルより
+// https://xn--go-hh0g6u.com/pkg/container/heap/#example__priorityQueue
+
+// Item は，優先キューで管理する項目です。
+type Item struct {
+	value    string // 値。任意です。
+	priority int    // キューにおける優先度
+	// index は heap.Interface メソッドで更新されます。
+	index int // ヒープにおけるインデックス
+}
+
+// PriorityQueue は heap.Interface を実装し，Item のリストを保持します。
+type PriorityQueue []*Item
+
+func (pq PriorityQueue) Len() int { return len(pq) }
+
+func (pq PriorityQueue) Less(i, j int) bool {
+	// Pop が最小ではなく最大の優先度を持つ項目を返して欲しいので，ここでは > を使っています。
+	return pq[i].priority > pq[j].priority
+}
+
+func (pq PriorityQueue) Swap(i, j int) {
+	pq[i], pq[j] = pq[j], pq[i]
+	pq[i].index = i
+	pq[j].index = j
+}
+
+func (pq *PriorityQueue) Push(x interface{}) {
+	n := len(*pq)
+	item := x.(*Item)
+	item.index = n
+	*pq = append(*pq, item)
+}
+
+func (pq *PriorityQueue) Pop() interface{} {
+	old := *pq
+	n := len(old)
+	item := old[n-1]
+	old[n-1] = nil  // メモリリークを避ける
+	item.index = -1 // 安全のため
+	*pq = old[0 : n-1]
+	return item
+}
+
+// update はキューの Item の優先度と値を更新します。
+func (pq *PriorityQueue) update(item *Item, value string, priority int) {
+	item.value = value
+	item.priority = priority
+	heap.Fix(pq, item.index)
 }
