@@ -4,6 +4,7 @@
 
 [C - たくさんの数式](https://atcoder.jp/contests/abc045/tasks/arc061_a)
 [コード](../../AtCoder/ABC/abc045/c/C.go)
+[コード（別実装）](../../AtCoder/ABC/abc045/c/C_alt.go)
 
 ## ABC079 C
 
