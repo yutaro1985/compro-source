@@ -1,5 +1,10 @@
 # bit全探索問題リスト
 
+## ABC045 C
+
+[C - たくさんの数式](https://atcoder.jp/contests/abc045/tasks/arc061_a)
+[コード](../../AtCoder/ABC/abc045/c/C.go)
+
 ## ABC079 C
 
 8通りなのでbit全探索でなく手で全列挙でもできるが…

@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc045",
+    "title": "AtCoder Beginner Contest 045",
+    "url": "https://atcoder.jp/contests/abc045"
+  },
+  "tasks": [
+    {
+      "id": "abc045_a",
+      "label": "A",
+      "title": "Trapezoids",
+      "url": "https://atcoder.jp/contests/abc045/tasks/abc045_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc045_b",
+      "label": "B",
+      "title": "Card Game for Three (ABC Edit)",
+      "url": "https://atcoder.jp/contests/abc045/tasks/abc045_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc061_a",
+      "label": "C",
+      "title": "Many Formulas",
+      "url": "https://atcoder.jp/contests/abc045/tasks/arc061_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc061_b",
+      "label": "D",
+      "title": "Snuke's Coloring",
+      "url": "https://atcoder.jp/contests/abc045/tasks/arc061_b"
+    }
+  ]
+}
