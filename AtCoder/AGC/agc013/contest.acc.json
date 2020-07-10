@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc013",
+    "title": "AtCoder Grand Contest 013",
+    "url": "https://atcoder.jp/contests/agc013"
+  },
+  "tasks": [
+    {
+      "id": "agc013_a",
+      "label": "A",
+      "title": "Sorted Arrays",
+      "url": "https://atcoder.jp/contests/agc013/tasks/agc013_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "agc013_b",
+      "label": "B",
+      "title": "Hamiltonish Path",
+      "url": "https://atcoder.jp/contests/agc013/tasks/agc013_b"
+    },
+    {
+      "id": "agc013_c",
+      "label": "C",
+      "title": "Ants on a Circle",
+      "url": "https://atcoder.jp/contests/agc013/tasks/agc013_c"
+    },
+    {
+      "id": "agc013_d",
+      "label": "D",
+      "title": "Piling Up",
+      "url": "https://atcoder.jp/contests/agc013/tasks/agc013_d"
+    },
+    {
+      "id": "agc013_e",
+      "label": "E",
+      "title": "Placing Squares",
+      "url": "https://atcoder.jp/contests/agc013/tasks/agc013_e"
+    },
+    {
+      "id": "agc013_f",
+      "label": "F",
+      "title": "Two Faced Cards",
+      "url": "https://atcoder.jp/contests/agc013/tasks/agc013_f"
+    }
+  ]
+}
