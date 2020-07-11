@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc069",
+    "title": "AtCoder Regular Contest 069",
+    "url": "https://atcoder.jp/contests/arc069"
+  },
+  "tasks": [
+    {
+      "id": "arc069_a",
+      "label": "C",
+      "title": "Scc Puzzle",
+      "url": "https://atcoder.jp/contests/arc069/tasks/arc069_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc069_b",
+      "label": "D",
+      "title": "Menagerie",
+      "url": "https://atcoder.jp/contests/arc069/tasks/arc069_b"
+    },
+    {
+      "id": "arc069_c",
+      "label": "E",
+      "title": "Frequency",
+      "url": "https://atcoder.jp/contests/arc069/tasks/arc069_c"
+    },
+    {
+      "id": "arc069_d",
+      "label": "F",
+      "title": "Flags",
+      "url": "https://atcoder.jp/contests/arc069/tasks/arc069_d"
+    }
+  ]
+}
