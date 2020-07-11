@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "aising2020",
+    "title": "AIsing Programming Contest 2020",
+    "url": "https://atcoder.jp/contests/aising2020"
+  },
+  "tasks": [
+    {
+      "id": "aising2020_a",
+      "label": "A",
+      "title": "Number of Multiples",
+      "url": "https://atcoder.jp/contests/aising2020/tasks/aising2020_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "aising2020_b",
+      "label": "B",
+      "title": "An Odd Problem",
+      "url": "https://atcoder.jp/contests/aising2020/tasks/aising2020_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "aising2020_c",
+      "label": "C",
+      "title": "XYZ Triplets",
+      "url": "https://atcoder.jp/contests/aising2020/tasks/aising2020_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "aising2020_d",
+      "label": "D",
+      "title": "Anything Goes to Zero",
+      "url": "https://atcoder.jp/contests/aising2020/tasks/aising2020_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "aising2020_e",
+      "label": "E",
+      "title": "Camel Train",
+      "url": "https://atcoder.jp/contests/aising2020/tasks/aising2020_e"
+    },
+    {
+      "id": "aising2020_f",
+      "label": "F",
+      "title": "Two Snuke",
+      "url": "https://atcoder.jp/contests/aising2020/tasks/aising2020_f"
+    }
+  ]
+}
