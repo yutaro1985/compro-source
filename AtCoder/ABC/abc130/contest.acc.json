@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc130",
+    "title": "AtCoder Beginner Contest 130",
+    "url": "https://atcoder.jp/contests/abc130"
+  },
+  "tasks": [
+    {
+      "id": "abc130_a",
+      "label": "A",
+      "title": "Rounding",
+      "url": "https://atcoder.jp/contests/abc130/tasks/abc130_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc130_b",
+      "label": "B",
+      "title": "Bounding",
+      "url": "https://atcoder.jp/contests/abc130/tasks/abc130_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc130_c",
+      "label": "C",
+      "title": "Rectangle Cutting",
+      "url": "https://atcoder.jp/contests/abc130/tasks/abc130_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc130_d",
+      "label": "D",
+      "title": "Enough Array",
+      "url": "https://atcoder.jp/contests/abc130/tasks/abc130_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc130_e",
+      "label": "E",
+      "title": "Common Subsequence",
+      "url": "https://atcoder.jp/contests/abc130/tasks/abc130_e"
+    },
+    {
+      "id": "abc130_f",
+      "label": "F",
+      "title": "Minimum Bounding Box",
+      "url": "https://atcoder.jp/contests/abc130/tasks/abc130_f"
+    }
+  ]
+}
