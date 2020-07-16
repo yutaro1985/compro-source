@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc066",
+    "title": "AtCoder Regular Contest 066",
+    "url": "https://atcoder.jp/contests/arc066"
+  },
+  "tasks": [
+    {
+      "id": "arc066_a",
+      "label": "C",
+      "title": "Lining Up",
+      "url": "https://atcoder.jp/contests/arc066/tasks/arc066_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc066_b",
+      "label": "D",
+      "title": "Xor Sum",
+      "url": "https://atcoder.jp/contests/arc066/tasks/arc066_b"
+    },
+    {
+      "id": "arc066_c",
+      "label": "E",
+      "title": "Addition and Subtraction Hard",
+      "url": "https://atcoder.jp/contests/arc066/tasks/arc066_c"
+    },
+    {
+      "id": "arc066_d",
+      "label": "F",
+      "title": "Contest with Drinks Hard",
+      "url": "https://atcoder.jp/contests/arc066/tasks/arc066_d"
+    }
+  ]
+}
