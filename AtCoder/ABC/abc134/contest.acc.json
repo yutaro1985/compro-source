@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc134",
+    "title": "AtCoder Beginner Contest 134",
+    "url": "https://atcoder.jp/contests/abc134"
+  },
+  "tasks": [
+    {
+      "id": "abc134_a",
+      "label": "A",
+      "title": "Dodecagon",
+      "url": "https://atcoder.jp/contests/abc134/tasks/abc134_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc134_b",
+      "label": "B",
+      "title": "Golden Apple",
+      "url": "https://atcoder.jp/contests/abc134/tasks/abc134_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc134_c",
+      "label": "C",
+      "title": "Exception Handling",
+      "url": "https://atcoder.jp/contests/abc134/tasks/abc134_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc134_d",
+      "label": "D",
+      "title": "Preparing Boxes",
+      "url": "https://atcoder.jp/contests/abc134/tasks/abc134_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc134_e",
+      "label": "E",
+      "title": "Sequence Decomposing",
+      "url": "https://atcoder.jp/contests/abc134/tasks/abc134_e"
+    },
+    {
+      "id": "abc134_f",
+      "label": "F",
+      "title": "Permutation Oddness",
+      "url": "https://atcoder.jp/contests/abc134/tasks/abc134_f"
+    }
+  ]
+}
