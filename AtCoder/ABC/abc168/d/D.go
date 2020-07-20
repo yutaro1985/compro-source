@@ -23,7 +23,7 @@ func init() {
 
 // BFSの練習
 // https://qiita.com/drken/items/4a7869c5e304883f539b
-// TODO queueを別の方法でやってみる
+// TODO #19 queueを別の方法でやってみる
 
 func main() {
 	N, M := nextInt(), nextInt()
