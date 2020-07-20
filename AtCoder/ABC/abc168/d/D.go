@@ -60,50 +60,8 @@ func main() {
 	}
 	fmt.Println("Yes")
 	for i := 1; i < N; i++ {
-		// fmt.Println(dist[i])
 		fmt.Println(ans[i] + 1)
 	}
-	// for _, v := range prev {
-	// 	for aisle := range rooms[v] {
-	// 		if aisle != 0 && Signposts[aisle] != 1 {
-	// 			Signposts[aisle] = v + 1
-	// 			memo = append(memo, aisle)
-	// 			// cnt--
-	// 		}
-	// 		// if cnt == 0 {
-	// 		// 	break
-	// 		// }
-	// 		// fmt.Println(Signposts)
-	// 	}
-	// 	// if cnt == 0 {
-	// 	// 	break
-	// 	// }
-	// }
-	// // prev := make([]int, 0)
-	// prev = append(prev, memo...)
-
-	// // fmt.Println(rooms, prev, cnt)
-	// // fmt.Println(Signposts)
-	// ok := true
-	// fmt.Println(Signposts)
-	// for i := 1; i < N; i++ {
-	// 	if Signposts[i] == 0 {
-	// 		ok = false
-	// 	}
-	// }
-	// if ok {
-	// 	fmt.Println("Yes")
-	// 	for i := 1; i < N; i++ {
-	// 		fmt.Println(Signposts[i])
-	// 	}
-	// } else {
-	// 	fmt.Println("No")
-	// }
-
-	// // 順番は保証されそう
-	// for _, room := range rooms {
-	// 	fmt.Println(room)
-	// }
 }
 
 func nextLine() string {
