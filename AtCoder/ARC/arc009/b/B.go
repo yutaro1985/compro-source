@@ -26,13 +26,9 @@ func init() {
 // https://golang.org/pkg/sort/#Slice
 
 func main() {
-	b := make([]string, 10)
-	for i := range b {
-		b[i] = nextLine()
-	}
 	bmap := make(map[string]int)
 	for i := 0; i <= 9; i++ {
-		bmap[b[i]] = i
+		bmap[nextLine()] = i
 	}
 	N := nextInt()
 	an := make([]string, N)
