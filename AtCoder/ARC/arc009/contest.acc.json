@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc009",
+    "title": "AtCoder Regular Contest 009",
+    "url": "https://atcoder.jp/contests/arc009"
+  },
+  "tasks": [
+    {
+      "id": "arc009_1",
+      "label": "A",
+      "title": "元気にお使い！高橋君",
+      "url": "https://atcoder.jp/contests/arc009/tasks/arc009_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc009_2",
+      "label": "B",
+      "title": "おとぎの国の高橋君",
+      "url": "https://atcoder.jp/contests/arc009/tasks/arc009_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc009_3",
+      "label": "C",
+      "title": "高橋君、24歳",
+      "url": "https://atcoder.jp/contests/arc009/tasks/arc009_3"
+    },
+    {
+      "id": "arc009_4",
+      "label": "D",
+      "title": "覚醒ノ高橋君",
+      "url": "https://atcoder.jp/contests/arc009/tasks/arc009_4"
+    }
+  ]
+}
