@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc133",
+    "title": "AtCoder Beginner Contest 133",
+    "url": "https://atcoder.jp/contests/abc133"
+  },
+  "tasks": [
+    {
+      "id": "abc133_a",
+      "label": "A",
+      "title": "T or T",
+      "url": "https://atcoder.jp/contests/abc133/tasks/abc133_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc133_b",
+      "label": "B",
+      "title": "Good Distance",
+      "url": "https://atcoder.jp/contests/abc133/tasks/abc133_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc133_c",
+      "label": "C",
+      "title": "Remainder Minimization 2019",
+      "url": "https://atcoder.jp/contests/abc133/tasks/abc133_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc133_d",
+      "label": "D",
+      "title": "Rain Flows into Dams",
+      "url": "https://atcoder.jp/contests/abc133/tasks/abc133_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc133_e",
+      "label": "E",
+      "title": "Virus Tree 2",
+      "url": "https://atcoder.jp/contests/abc133/tasks/abc133_e"
+    },
+    {
+      "id": "abc133_f",
+      "label": "F",
+      "title": "Colorful Tree",
+      "url": "https://atcoder.jp/contests/abc133/tasks/abc133_f"
+    }
+  ]
+}
