@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc029",
+    "title": "AtCoder Beginner Contest 029",
+    "url": "https://atcoder.jp/contests/abc029"
+  },
+  "tasks": [
+    {
+      "id": "abc029_a",
+      "label": "A",
+      "title": "複数形",
+      "url": "https://atcoder.jp/contests/abc029/tasks/abc029_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc029_b",
+      "label": "B",
+      "title": "カキ",
+      "url": "https://atcoder.jp/contests/abc029/tasks/abc029_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc029_c",
+      "label": "C",
+      "title": "Brute-force Attack",
+      "url": "https://atcoder.jp/contests/abc029/tasks/abc029_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc029_d",
+      "label": "D",
+      "title": "1",
+      "url": "https://atcoder.jp/contests/abc029/tasks/abc029_d"
+    }
+  ]
+}
