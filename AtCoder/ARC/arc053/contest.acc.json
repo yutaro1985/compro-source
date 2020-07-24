@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc053",
+    "title": "AtCoder Regular Contest 053",
+    "url": "https://atcoder.jp/contests/arc053"
+  },
+  "tasks": [
+    {
+      "id": "arc053_a",
+      "label": "A",
+      "title": "ドミノ色塗り",
+      "url": "https://atcoder.jp/contests/arc053/tasks/arc053_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc053_b",
+      "label": "B",
+      "title": "回文分割",
+      "url": "https://atcoder.jp/contests/arc053/tasks/arc053_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc053_c",
+      "label": "C",
+      "title": "魔法使い高橋君",
+      "url": "https://atcoder.jp/contests/arc053/tasks/arc053_c"
+    },
+    {
+      "id": "arc053_d",
+      "label": "D",
+      "title": "2 つの山札",
+      "url": "https://atcoder.jp/contests/arc053/tasks/arc053_d"
+    }
+  ]
+}
