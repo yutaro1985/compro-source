@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "abc002",
+    "title": "AtCoder Beginner Contest 002",
+    "url": "https://atcoder.jp/contests/abc002"
+  },
+  "tasks": [
+    {
+      "id": "abc002_1",
+      "label": "A",
+      "title": "正直者",
+      "url": "https://atcoder.jp/contests/abc002/tasks/abc002_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc002_2",
+      "label": "B",
+      "title": "罠",
+      "url": "https://atcoder.jp/contests/abc002/tasks/abc002_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc002_3",
+      "label": "C",
+      "title": "直訴",
+      "url": "https://atcoder.jp/contests/abc002/tasks/abc002_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc002_4",
+      "label": "D",
+      "title": "派閥",
+      "url": "https://atcoder.jp/contests/abc002/tasks/abc002_4",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    }
+  ]
+}
