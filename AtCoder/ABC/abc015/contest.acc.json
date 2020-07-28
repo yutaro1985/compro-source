@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "abc015",
+    "title": "AtCoder Beginner Contest 015",
+    "url": "https://atcoder.jp/contests/abc015"
+  },
+  "tasks": [
+    {
+      "id": "abc015_1",
+      "label": "A",
+      "title": "高橋くんの研修",
+      "url": "https://atcoder.jp/contests/abc015/tasks/abc015_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc015_2",
+      "label": "B",
+      "title": "高橋くんの集計",
+      "url": "https://atcoder.jp/contests/abc015/tasks/abc015_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc015_3",
+      "label": "C",
+      "title": "高橋くんのバグ探し",
+      "url": "https://atcoder.jp/contests/abc015/tasks/abc015_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc015_4",
+      "label": "D",
+      "title": "高橋くんの苦悩",
+      "url": "https://atcoder.jp/contests/abc015/tasks/abc015_4",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    }
+  ]
+}
