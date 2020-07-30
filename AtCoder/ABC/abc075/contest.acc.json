@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc075",
+    "title": "AtCoder Beginner Contest 075",
+    "url": "https://atcoder.jp/contests/abc075"
+  },
+  "tasks": [
+    {
+      "id": "abc075_a",
+      "label": "A",
+      "title": "One out of Three",
+      "url": "https://atcoder.jp/contests/abc075/tasks/abc075_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc075_b",
+      "label": "B",
+      "title": "Minesweeper",
+      "url": "https://atcoder.jp/contests/abc075/tasks/abc075_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc075_c",
+      "label": "C",
+      "title": "Bridge",
+      "url": "https://atcoder.jp/contests/abc075/tasks/abc075_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc075_d",
+      "label": "D",
+      "title": "Axis-Parallel Rectangle",
+      "url": "https://atcoder.jp/contests/abc075/tasks/abc075_d"
+    }
+  ]
+}
