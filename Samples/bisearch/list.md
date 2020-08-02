@@ -10,7 +10,7 @@
 ## メモ
 
 golangでは`sort.Search`が使える。  
-[sort.Sarch](https://xn--go-hh0g6u.com/pkg/sort/#Search)  
+[sort.Search](https://xn--go-hh0g6u.com/pkg/sort/#Search)  
 sortパッケージだが、別にスライスが必要なわけではない。  
 sort.Searchを使うものをメインにまとめているが、そうでないものは基本的に[めぐる式二分探索](https://twitter.com/meguru_comp/status/697008509376835584)を使っている。  
 sort.SearchではOKが大きい側の場合（条件を満たす最小の値）が求まるので、  
