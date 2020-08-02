@@ -60,6 +60,10 @@ func pow(p, q int) int {
 	return res
 }
 
+func ceil(a, b int) int {
+	return (a + (b - 1)) / b
+}
+
 func MinOf(vars ...int) int {
 	min := vars[0]
 	for _, i := range vars {

@@ -33,7 +33,7 @@ func main() {
 		CsumB[i] = CsumB[i-1] + uint(nextInt())
 	}
 	// 二分探索する
-	// golangだと、srot.Searchでサクッと二分探索できる
+	// golangだと、sort.Searchでサクッと二分探索できる
 	for i := 0; i <= N; i++ {
 		if CsumA[i] > uint(K) {
 			break
