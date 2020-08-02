@@ -32,7 +32,6 @@ func main() {
 	}
 	Wcnt := strings.Count(ci, "W")
 	Rcnt := strings.Count(ci, "R")
-	// var Wcnthalf int
 	// 最悪でもWを全て赤か白にすれば達成できる
 	ans := MinOf(Wcnt, Rcnt)
 	Windex := make([]int, 0)
@@ -52,23 +51,7 @@ func main() {
 		cnt++
 	}
 	ans = MinOf(ans, cnt)
-	// fmt.Println(Rindex, Windex)
 	fmt.Println(ans)
-	// for i := 0; i < N/2; i++ {
-	// 	if ci[i] == 'W' {
-	// 		Wcnthalf++
-	// 	}
-	// }
-	// ans = MinOf(ans, Wcnthalf)
-	// var leftW, rightR int
-	// leftW = strings.Index(ci, "W")
-	// for i := 0; i < N; i++ {
-	// 	if ci[i] == 'R' {
-	// 		rightR = i
-	// 	}
-	// }
-	// fmt.Println(Wcnt)
-	// fmt.Println(ans)
 }
 
 func nextLine() string {
