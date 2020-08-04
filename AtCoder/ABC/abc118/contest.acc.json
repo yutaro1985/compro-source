@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc118",
+    "title": "AtCoder Beginner Contest 118",
+    "url": "https://atcoder.jp/contests/abc118"
+  },
+  "tasks": [
+    {
+      "id": "abc118_a",
+      "label": "A",
+      "title": "B +/- A",
+      "url": "https://atcoder.jp/contests/abc118/tasks/abc118_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc118_b",
+      "label": "B",
+      "title": "Foods Loved by Everyone",
+      "url": "https://atcoder.jp/contests/abc118/tasks/abc118_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc118_c",
+      "label": "C",
+      "title": "Monsters Battle Royale",
+      "url": "https://atcoder.jp/contests/abc118/tasks/abc118_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc118_d",
+      "label": "D",
+      "title": "Match Matching",
+      "url": "https://atcoder.jp/contests/abc118/tasks/abc118_d"
+    }
+  ]
+}
