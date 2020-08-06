@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc138",
+    "title": "AtCoder Beginner Contest 138",
+    "url": "https://atcoder.jp/contests/abc138"
+  },
+  "tasks": [
+    {
+      "id": "abc138_a",
+      "label": "A",
+      "title": "Red or Not",
+      "url": "https://atcoder.jp/contests/abc138/tasks/abc138_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc138_b",
+      "label": "B",
+      "title": "Resistors in Parallel",
+      "url": "https://atcoder.jp/contests/abc138/tasks/abc138_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc138_c",
+      "label": "C",
+      "title": "Alchemist",
+      "url": "https://atcoder.jp/contests/abc138/tasks/abc138_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc138_d",
+      "label": "D",
+      "title": "Ki",
+      "url": "https://atcoder.jp/contests/abc138/tasks/abc138_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc138_e",
+      "label": "E",
+      "title": "Strings of Impurity",
+      "url": "https://atcoder.jp/contests/abc138/tasks/abc138_e"
+    },
+    {
+      "id": "abc138_f",
+      "label": "F",
+      "title": "Coincidence",
+      "url": "https://atcoder.jp/contests/abc138/tasks/abc138_f"
+    }
+  ]
+}
