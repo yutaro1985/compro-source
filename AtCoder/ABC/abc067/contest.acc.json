@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc067",
+    "title": "AtCoder Beginner Contest 067",
+    "url": "https://atcoder.jp/contests/abc067"
+  },
+  "tasks": [
+    {
+      "id": "abc067_a",
+      "label": "A",
+      "title": "Sharing Cookies",
+      "url": "https://atcoder.jp/contests/abc067/tasks/abc067_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc067_b",
+      "label": "B",
+      "title": "Snake Toy",
+      "url": "https://atcoder.jp/contests/abc067/tasks/abc067_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc078_a",
+      "label": "C",
+      "title": "Splitting Pile",
+      "url": "https://atcoder.jp/contests/abc067/tasks/arc078_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc078_b",
+      "label": "D",
+      "title": "Fennec VS. Snuke",
+      "url": "https://atcoder.jp/contests/abc067/tasks/arc078_b"
+    }
+  ]
+}
