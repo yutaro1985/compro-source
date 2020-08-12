@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc047",
+    "title": "AtCoder Beginner Contest 047",
+    "url": "https://atcoder.jp/contests/abc047"
+  },
+  "tasks": [
+    {
+      "id": "abc047_a",
+      "label": "A",
+      "title": "Fighting over Candies",
+      "url": "https://atcoder.jp/contests/abc047/tasks/abc047_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc047_b",
+      "label": "B",
+      "title": "Snuke's Coloring 2 (ABC Edit)",
+      "url": "https://atcoder.jp/contests/abc047/tasks/abc047_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc063_a",
+      "label": "C",
+      "title": "1D Reversi",
+      "url": "https://atcoder.jp/contests/abc047/tasks/arc063_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc063_b",
+      "label": "D",
+      "title": "An Invisible Hand",
+      "url": "https://atcoder.jp/contests/abc047/tasks/arc063_b"
+    }
+  ]
+}
