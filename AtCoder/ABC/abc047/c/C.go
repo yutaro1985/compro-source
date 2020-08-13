@@ -42,7 +42,6 @@ func main() {
 			isblack = true
 		}
 		ans++
-		// fmt.Println(S, ans)
 	}
 	fmt.Println(ans)
 }
