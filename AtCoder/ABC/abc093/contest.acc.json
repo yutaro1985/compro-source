@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc093",
+    "title": "AtCoder Beginner Contest 093",
+    "url": "https://atcoder.jp/contests/abc093"
+  },
+  "tasks": [
+    {
+      "id": "abc093_a",
+      "label": "A",
+      "title": "abc of ABC",
+      "url": "https://atcoder.jp/contests/abc093/tasks/abc093_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc093_b",
+      "label": "B",
+      "title": "Small and Large Integers",
+      "url": "https://atcoder.jp/contests/abc093/tasks/abc093_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc094_a",
+      "label": "C",
+      "title": "Same Integers",
+      "url": "https://atcoder.jp/contests/abc093/tasks/arc094_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc094_b",
+      "label": "D",
+      "title": "Worst Case",
+      "url": "https://atcoder.jp/contests/abc093/tasks/arc094_b"
+    }
+  ]
+}
