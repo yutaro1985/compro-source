@@ -22,8 +22,7 @@ func init() {
 	sc.Buffer(buf, maxBufSize)
 }
 
-// TODO
-// WAの原因を探る
+// TODO #20 WAの原因を探る
 
 func main() {
 	N, K := nextInt(), nextInt()
