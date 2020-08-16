@@ -22,7 +22,7 @@ func init() {
 	sc.Buffer(buf, maxBufSize)
 }
 
-// TODO BFSで実装してみる
+// TODO #21 BFSで実装してみる
 // 解説放送によると、BFSでもできるとのことなので
 
 func main() {
