@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc070",
+    "title": "AtCoder Beginner Contest 070",
+    "url": "https://atcoder.jp/contests/abc070"
+  },
+  "tasks": [
+    {
+      "id": "abc070_a",
+      "label": "A",
+      "title": "Palindromic Number",
+      "url": "https://atcoder.jp/contests/abc070/tasks/abc070_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc070_b",
+      "label": "B",
+      "title": "Two Switches",
+      "url": "https://atcoder.jp/contests/abc070/tasks/abc070_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc070_c",
+      "label": "C",
+      "title": "Multiple Clocks",
+      "url": "https://atcoder.jp/contests/abc070/tasks/abc070_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc070_d",
+      "label": "D",
+      "title": "Transit Tree Path",
+      "url": "https://atcoder.jp/contests/abc070/tasks/abc070_d"
+    }
+  ]
+}
