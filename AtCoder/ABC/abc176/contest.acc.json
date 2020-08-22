@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc176",
+    "title": "AtCoder Beginner Contest 176",
+    "url": "https://atcoder.jp/contests/abc176"
+  },
+  "tasks": [
+    {
+      "id": "abc176_a",
+      "label": "A",
+      "title": "Takoyaki",
+      "url": "https://atcoder.jp/contests/abc176/tasks/abc176_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc176_b",
+      "label": "B",
+      "title": "Multiple of 9",
+      "url": "https://atcoder.jp/contests/abc176/tasks/abc176_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc176_c",
+      "label": "C",
+      "title": "Step",
+      "url": "https://atcoder.jp/contests/abc176/tasks/abc176_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc176_d",
+      "label": "D",
+      "title": "Wizard in Maze",
+      "url": "https://atcoder.jp/contests/abc176/tasks/abc176_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc176_e",
+      "label": "E",
+      "title": "Bomber",
+      "url": "https://atcoder.jp/contests/abc176/tasks/abc176_e"
+    },
+    {
+      "id": "abc176_f",
+      "label": "F",
+      "title": "Brave CHAIN",
+      "url": "https://atcoder.jp/contests/abc176/tasks/abc176_f"
+    }
+  ]
+}
