@@ -38,5 +38,5 @@ func main() {
 		}
 	}
 	ans, _ := stack.Pop()
-	fmt.Println(ans)
+	fmt.Println(ans.(int))
 }
