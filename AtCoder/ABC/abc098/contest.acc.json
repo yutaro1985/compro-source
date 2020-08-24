@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc098",
+    "title": "AtCoder Beginner Contest 098",
+    "url": "https://atcoder.jp/contests/abc098"
+  },
+  "tasks": [
+    {
+      "id": "abc098_a",
+      "label": "A",
+      "title": "Add Sub Mul",
+      "url": "https://atcoder.jp/contests/abc098/tasks/abc098_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc098_b",
+      "label": "B",
+      "title": "Cut and Count",
+      "url": "https://atcoder.jp/contests/abc098/tasks/abc098_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc098_a",
+      "label": "C",
+      "title": "Attention",
+      "url": "https://atcoder.jp/contests/abc098/tasks/arc098_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc098_b",
+      "label": "D",
+      "title": "Xor Sum 2",
+      "url": "https://atcoder.jp/contests/abc098/tasks/arc098_b"
+    }
+  ]
+}
