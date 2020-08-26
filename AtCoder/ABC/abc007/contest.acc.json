@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc007",
+    "title": "AtCoder Beginner Contest 007",
+    "url": "https://atcoder.jp/contests/abc007"
+  },
+  "tasks": [
+    {
+      "id": "abc007_1",
+      "label": "A",
+      "title": "植木算",
+      "url": "https://atcoder.jp/contests/abc007/tasks/abc007_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc007_2",
+      "label": "B",
+      "title": "辞書式順序",
+      "url": "https://atcoder.jp/contests/abc007/tasks/abc007_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc007_3",
+      "label": "C",
+      "title": "幅優先探索",
+      "url": "https://atcoder.jp/contests/abc007/tasks/abc007_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc007_4",
+      "label": "D",
+      "title": "禁止された数字",
+      "url": "https://atcoder.jp/contests/abc007/tasks/abc007_4"
+    }
+  ]
+}

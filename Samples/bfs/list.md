@@ -3,6 +3,7 @@
 - [BFSのメモ](#bfsのメモ)
   - [メモ](#メモ)
   - [ABC](#abc)
+    - [ABC 007 C](#abc-007-c)
     - [ABC 016 C](#abc-016-c)
     - [ABC 088 D](#abc-088-d)
     - [ABC 151 D](#abc-151-d)
@@ -12,6 +13,11 @@
 ## メモ
 
 ## ABC
+
+### ABC 007 C
+
+[C - 幅優先探索](https://atcoder.jp/contests/abc007/tasks/abc007_3)
+[コード](./../AtCoder/ABC/abc007/c/C.go)
 
 ### ABC 016 C
 
