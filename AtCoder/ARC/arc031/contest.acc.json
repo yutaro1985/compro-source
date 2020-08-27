@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc031",
+    "title": "AtCoder Regular Contest 031",
+    "url": "https://atcoder.jp/contests/arc031"
+  },
+  "tasks": [
+    {
+      "id": "arc031_1",
+      "label": "A",
+      "title": "名前",
+      "url": "https://atcoder.jp/contests/arc031/tasks/arc031_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc031_2",
+      "label": "B",
+      "title": "埋め立て",
+      "url": "https://atcoder.jp/contests/arc031/tasks/arc031_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc031_3",
+      "label": "C",
+      "title": "積み木",
+      "url": "https://atcoder.jp/contests/arc031/tasks/arc031_3"
+    },
+    {
+      "id": "arc031_4",
+      "label": "D",
+      "title": "買い物上手",
+      "url": "https://atcoder.jp/contests/arc031/tasks/arc031_4"
+    }
+  ]
+}

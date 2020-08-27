@@ -9,6 +9,8 @@
     - [ABC 151 D](#abc-151-d)
     - [ABC 168 D](#abc-168-d)
     - [ABC 176 D](#abc-176-d)
+  - [ARC](#arc)
+    - [ARC 031 B](#arc-031-b)
 
 ## メモ
 
@@ -44,3 +46,10 @@
 
 [D - Wizard in Maze](https://atcoder.jp/contests/abc176/tasks/abc176_d)
 [コード](../../AtCoder/ABC/abc176/d/D_editorial.go)
+
+## ARC
+
+### ARC 031 B
+
+[B - 埋め立て](https://atcoder.jp/contests/arc031/tasks/arc031_2)
+[コード](../../AtCoder/ARC/arc031/b/B.go)

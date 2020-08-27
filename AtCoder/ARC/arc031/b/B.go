@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"container/heap"
+	"container/list"
 	"fmt"
 	"os"
 	"sort"
@@ -22,18 +23,74 @@ func init() {
 	sc.Buffer(buf, maxBufSize)
 }
 
-var d = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}}
-var d8 = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}, {1, 1}, {1, -1}, {-1, 1}, {-1, -1}}
-
-func main() {
-	N := nextInt()
-	fmt.Println()
-}
-
-// 迷路問題での現在地を表す構造体
 type Position struct {
 	H int
 	W int
+}
+
+func main() {
+	d := []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}}
+	S := make([]string, 10)
+	for i := 0; i < 10; i++ {
+		S[i] = nextLine()
+	}
+	for i := 0; i < 10; i++ {
+		for j := 0; j < 10; j++ {
+			if S[i][j] == 'o' {
+				continue
+			}
+			dist := make([][]int, 10)
+			for k := range dist {
+				dist[k] = make([]int, 10)
+				for l := range dist[k] {
+					dist[k][l] = -1
+				}
+			}
+			dist[i][j] = 0
+			queue := list.New()
+			queue.PushBack(Position{i, j})
+			for queue.Len() != 0 {
+				cur := queue.Front().Value.(Position)
+				queue.Remove(queue.Front())
+				if S[cur.H][cur.W] == 'x' && dist[cur.H][cur.W] == -1 {
+					continue
+				}
+				for _, v := range d {
+					nextP := Position{cur.H + v.H, cur.W + v.W}
+					if nextP.H < 0 || nextP.H >= 10 || nextP.W < 0 || nextP.W >= 10 {
+						continue
+					}
+					if S[nextP.H][nextP.W] == 'x' {
+						continue
+					}
+					if dist[nextP.H][nextP.W] == -1 {
+						dist[nextP.H][nextP.W] = 1
+						queue.PushBack(nextP)
+					}
+				}
+			}
+			var unsuitable bool
+			for y := 0; y < 10; y++ {
+				for x := 0; x < 10; x++ {
+					if dist[y][x] == 0 {
+						continue
+					}
+					if (S[y][x] == 'x' && dist[y][x] == 1) || (S[y][x] == 'o' && dist[y][x] == -1) {
+						unsuitable = true
+						break
+					}
+				}
+				if unsuitable {
+					break
+				}
+			}
+			if !unsuitable {
+				fmt.Println("YES")
+				return
+			}
+		}
+	}
+	fmt.Println("NO")
 }
 
 func nextLine() string {
@@ -150,6 +207,52 @@ func primeFuctorize(n int) map[int]int {
 		pf[n]++
 	}
 	return pf
+}
+
+// ここから拝借
+// https://shoman.hatenablog.com/entry/2020/02/25/185456
+// Stackは[]intのエイリアス
+type Stack []int
+
+// Push adds an element
+func (s *Stack) Push(v int) {
+	*s = append(*s, v)
+}
+
+// Pop removes the top element and return it
+func (s *Stack) Pop() (int, error) {
+	if s.Empty() {
+		return 0, fmt.Errorf("stack is empty")
+	}
+
+	v := (*s)[len(*s)-1]
+	*s = (*s)[:len(*s)-1]
+	return v, nil
+}
+
+// Peek returns the top value
+func (s *Stack) Peek() (int, error) {
+	if s.Empty() {
+		return 0, fmt.Errorf("stack is empty")
+	}
+
+	return (*s)[len(*s)-1], nil
+}
+
+// Size returns the length of stack
+func (s *Stack) Size() int {
+	return len(*s)
+}
+
+// Empty returns true when stack is empty
+func (s *Stack) Empty() bool {
+	return s.Size() == 0
+}
+
+// NewStack generates stack
+func NewStack() *Stack {
+	s := new(Stack)
+	return s
 }
 
 // golangの公式サンプルより
