@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc054",
+    "title": "AtCoder Regular Contest 054",
+    "url": "https://atcoder.jp/contests/arc054"
+  },
+  "tasks": [
+    {
+      "id": "arc054_a",
+      "label": "A",
+      "title": "動く歩道",
+      "url": "https://atcoder.jp/contests/arc054/tasks/arc054_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc054_b",
+      "label": "B",
+      "title": "ムーアの法則",
+      "url": "https://atcoder.jp/contests/arc054/tasks/arc054_b"
+    },
+    {
+      "id": "arc054_c",
+      "label": "C",
+      "title": "鯛焼き",
+      "url": "https://atcoder.jp/contests/arc054/tasks/arc054_c"
+    },
+    {
+      "id": "arc054_d",
+      "label": "D",
+      "title": "バブルソート",
+      "url": "https://atcoder.jp/contests/arc054/tasks/arc054_d"
+    }
+  ]
+}
