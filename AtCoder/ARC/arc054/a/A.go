@@ -31,22 +31,14 @@ func main() {
 	if S < D {
 		if (D-S)*(Y-X) < (L-D+S)*(X+Y) || X >= Y {
 			ans = float64(D-S) / float64(X+Y)
-			// fmt.Println("1")
-			// fmt.Println(D-S, X+Y)
 		} else {
 			ans = float64(L-D+S) / float64(Y-X)
-			// fmt.Println("2")
-			// fmt.Println(L-D+S, Y-X)
 		}
 	} else {
 		if (L-S+D)*(Y-X) < (S-D)*(X+Y) || X >= Y {
 			ans = float64(L-S+D) / float64(X+Y)
-			// fmt.Println("3")
-			// fmt.Println(L-S+D, X+Y)
 		} else {
 			ans = float64(S-D) / float64(Y-X)
-			// fmt.Println("4")
-			// fmt.Println(S-D, Y-X)
 		}
 	}
 	fmt.Println(ans)
