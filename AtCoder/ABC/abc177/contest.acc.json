@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": "abc177",
+    "title": "AtCoder Beginner Contest 177",
+    "url": "https://atcoder.jp/contests/abc177"
+  },
+  "tasks": [
+    {
+      "id": "abc177_a",
+      "label": "A",
+      "title": "Don't be late",
+      "url": "https://atcoder.jp/contests/abc177/tasks/abc177_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc177_b",
+      "label": "B",
+      "title": "Substring",
+      "url": "https://atcoder.jp/contests/abc177/tasks/abc177_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc177_c",
+      "label": "C",
+      "title": "Sum of product of pairs",
+      "url": "https://atcoder.jp/contests/abc177/tasks/abc177_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc177_d",
+      "label": "D",
+      "title": "Friends",
+      "url": "https://atcoder.jp/contests/abc177/tasks/abc177_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc177_e",
+      "label": "E",
+      "title": "Coprime",
+      "url": "https://atcoder.jp/contests/abc177/tasks/abc177_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc177_f",
+      "label": "F",
+      "title": "I hate Shortest Path Problem",
+      "url": "https://atcoder.jp/contests/abc177/tasks/abc177_f"
+    }
+  ]
+}
