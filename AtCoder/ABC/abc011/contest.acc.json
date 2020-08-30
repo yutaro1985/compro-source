@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc011",
+    "title": "AtCoder Beginner Contest 011",
+    "url": "https://atcoder.jp/contests/abc011"
+  },
+  "tasks": [
+    {
+      "id": "abc011_1",
+      "label": "A",
+      "title": "来月は何月？",
+      "url": "https://atcoder.jp/contests/abc011/tasks/abc011_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc011_2",
+      "label": "B",
+      "title": "名前の確認",
+      "url": "https://atcoder.jp/contests/abc011/tasks/abc011_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc011_3",
+      "label": "C",
+      "title": "123引き算",
+      "url": "https://atcoder.jp/contests/abc011/tasks/abc011_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc011_4",
+      "label": "D",
+      "title": "大ジャンプ",
+      "url": "https://atcoder.jp/contests/abc011/tasks/abc011_4"
+    }
+  ]
+}
