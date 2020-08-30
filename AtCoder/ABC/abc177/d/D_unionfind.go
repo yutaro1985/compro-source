@@ -31,7 +31,6 @@ func main() {
 	for i := 0; i < M; i++ {
 		A, B := nextInt()-1, nextInt()-1
 		uf.unite(A, B)
-		fmt.Println(uf)
 	}
 	var ans int
 	for i := 0; i < N; i++ {
