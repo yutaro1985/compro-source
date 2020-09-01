@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc157",
+    "title": "AtCoder Beginner Contest 157",
+    "url": "https://atcoder.jp/contests/abc157"
+  },
+  "tasks": [
+    {
+      "id": "abc157_a",
+      "label": "A",
+      "title": "Duplex Printing",
+      "url": "https://atcoder.jp/contests/abc157/tasks/abc157_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc157_b",
+      "label": "B",
+      "title": "Bingo",
+      "url": "https://atcoder.jp/contests/abc157/tasks/abc157_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc157_c",
+      "label": "C",
+      "title": "Guess The Number",
+      "url": "https://atcoder.jp/contests/abc157/tasks/abc157_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc157_d",
+      "label": "D",
+      "title": "Friend Suggestions",
+      "url": "https://atcoder.jp/contests/abc157/tasks/abc157_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc157_e",
+      "label": "E",
+      "title": "Simple String Queries",
+      "url": "https://atcoder.jp/contests/abc157/tasks/abc157_e"
+    },
+    {
+      "id": "abc157_f",
+      "label": "F",
+      "title": "Yakiniku Optimization Problem",
+      "url": "https://atcoder.jp/contests/abc157/tasks/abc157_f"
+    }
+  ]
+}
