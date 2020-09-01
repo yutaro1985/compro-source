@@ -26,11 +26,16 @@ var d = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}}
 var d8 = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}, {1, 1}, {1, -1}, {-1, 1}, {-1, -1}}
 
 func main() {
-	N := nextInt()
-	fmt.Println()
+	N, M := nextInt(), nextInt()
+	uf := newUnionFind(N)
+	for i := 0; i < M; i++ {
+		A, B := nextInt()-1, nextInt()-1
+		uf.unite(A, B)
+	}
+	fmt.Println(uf.maxlen)
 }
 
-// Position として迷路問題での現在地を表す構造体を定義
+// Position 迷路問題での現在地を表す構造体
 type Position struct {
 	H int
 	W int
