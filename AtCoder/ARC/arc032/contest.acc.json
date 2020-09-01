@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc032",
+    "title": "AtCoder Regular Contest 032",
+    "url": "https://atcoder.jp/contests/arc032"
+  },
+  "tasks": [
+    {
+      "id": "arc032_1",
+      "label": "A",
+      "title": "ホリドッグ",
+      "url": "https://atcoder.jp/contests/arc032/tasks/arc032_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc032_2",
+      "label": "B",
+      "title": "道路工事",
+      "url": "https://atcoder.jp/contests/arc032/tasks/arc032_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc032_3",
+      "label": "C",
+      "title": "仕事計画",
+      "url": "https://atcoder.jp/contests/arc032/tasks/arc032_3"
+    },
+    {
+      "id": "arc032_4",
+      "label": "D",
+      "title": "アットコーダーモンスターズ",
+      "url": "https://atcoder.jp/contests/arc032/tasks/arc032_4"
+    }
+  ]
+}
