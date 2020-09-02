@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc097",
+    "title": "AtCoder Regular Contest 097",
+    "url": "https://atcoder.jp/contests/arc097"
+  },
+  "tasks": [
+    {
+      "id": "arc097_a",
+      "label": "C",
+      "title": "K-th Substring",
+      "url": "https://atcoder.jp/contests/arc097/tasks/arc097_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc097_b",
+      "label": "D",
+      "title": "Equals",
+      "url": "https://atcoder.jp/contests/arc097/tasks/arc097_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc097_c",
+      "label": "E",
+      "title": "Sorted and Sorted",
+      "url": "https://atcoder.jp/contests/arc097/tasks/arc097_c"
+    },
+    {
+      "id": "arc097_d",
+      "label": "F",
+      "title": "Monochrome Cat",
+      "url": "https://atcoder.jp/contests/arc097/tasks/arc097_d"
+    }
+  ]
+}

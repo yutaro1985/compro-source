@@ -8,6 +8,7 @@
     - [ABC177 D](#abc177-d)
   - [ARC](#arc)
     - [ARC 032 B](#arc-032-b)
+    - [ARC 097 D](#arc-097-d)
 
 7
 ## メモ
@@ -39,3 +40,8 @@
 [B - 道路工事](https://atcoder.jp/contests/arc032/tasks/arc032_2)
 [コード](../../AtCoder/ARC/arc032/b/B.go)
 [UnionFind改良](../../AtCoder/ARC/arc032/b/B_uftest.go)
+
+### ARC 097 D
+
+[D - Equals](https://atcoder.jp/contests/arc097/tasks/arc097_b)
+[コード](../../AtCoder/ARC/arc097/d/D.go)
