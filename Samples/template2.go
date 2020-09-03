@@ -14,7 +14,7 @@ const (
 	maxBufSize     = 1e6 + 7
 )
 
-var buf []byte = make([]byte, maxBufSize)
+var buf []byte = make([]byte, initialBufSize)
 var sc = bufio.NewScanner(os.Stdin)
 
 func init() {
