@@ -25,28 +25,48 @@ func init() {
 var d = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}}
 var d8 = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}, {1, 1}, {1, -1}, {-1, 1}, {-1, -1}}
 
-// 解説の例
+// 高速素因数分解
+// https://prd-xxx.hateblo.jp/entry/2020/08/30/163140
+// https://atcoder.jp/contests/abc177/editorial/82
+// osa_k法と言うらしい
 
 func main() {
 	N := nextInt()
 	A := make([]int, N)
-	check := make([]int, int(1e6)+1)
 	for i := 0; i < N; i++ {
 		A[i] = nextInt()
-		check[A[i]]++
 	}
+	base := make([]int, int(1e6)+7)
+	for i := range base {
+		base[i] = i
+	}
+	for i := 2; i*i <= int(1e6)+7; i++ {
+		if base[i] == i {
+			for j := i; j < int(1e6)+7; j += i {
+				if base[j] == j {
+					base[j] = i
+				}
+			}
+		}
+	}
+	used := make(map[int]bool)
 	pw := true
-	for i := 2; i < int(1e6+1); i++ {
-		var cnt int
-		for j := i; j < int(1e6+1); j += i {
-			cnt += check[j]
-			if cnt > 1 {
+	for _, a := range A {
+		pfa := make(map[int]bool)
+		for a > 1 {
+			pfa[base[a]] = true
+			a /= base[a]
+		}
+		for u := range pfa {
+			if _, e := used[u]; e {
 				pw = false
 				break
+			} else {
+				used[u] = true
 			}
-			if !pw {
-				break
-			}
+		}
+		if !pw {
+			break
 		}
 	}
 	if pw {
@@ -59,9 +79,9 @@ func main() {
 	}
 	if gcd == 1 {
 		fmt.Println("setwise coprime")
-		return
+	} else {
+		fmt.Println("not coprime")
 	}
-	fmt.Println("not coprime")
 }
 
 // 迷路問題での現在地を表す構造体

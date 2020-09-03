@@ -25,28 +25,29 @@ func init() {
 var d = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}}
 var d8 = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}, {1, 1}, {1, -1}, {-1, 1}, {-1, -1}}
 
-// 解説の例
+// 通常の素因数分解でも間に合う
+// ただし、全て素因数分解してからやると間に合わない
 
 func main() {
 	N := nextInt()
 	A := make([]int, N)
-	check := make([]int, int(1e6)+1)
 	for i := 0; i < N; i++ {
 		A[i] = nextInt()
-		check[A[i]]++
 	}
 	pw := true
-	for i := 2; i < int(1e6+1); i++ {
-		var cnt int
-		for j := i; j < int(1e6+1); j += i {
-			cnt += check[j]
-			if cnt > 1 {
+	used := make(map[int]bool)
+	for _, a := range A {
+		pf := primeFuctorize(a)
+		for f := range pf {
+			if _, e := used[f]; e {
 				pw = false
 				break
+			} else {
+				used[f] = true
 			}
-			if !pw {
-				break
-			}
+		}
+		if !pw {
+			break
 		}
 	}
 	if pw {
@@ -59,9 +60,9 @@ func main() {
 	}
 	if gcd == 1 {
 		fmt.Println("setwise coprime")
-		return
+	} else {
+		fmt.Println("not coprime")
 	}
-	fmt.Println("not coprime")
 }
 
 // 迷路問題での現在地を表す構造体
