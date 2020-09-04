@@ -26,8 +26,21 @@ var d = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}}
 var d8 = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}, {1, 1}, {1, -1}, {-1, 1}, {-1, -1}}
 
 func main() {
-	N := nextInt()
-	fmt.Println()
+	N, Q := nextInt(), nextInt()
+	uf := newUnionFind(N)
+	for i := 0; i < Q; i++ {
+		P, A, B := nextInt(), nextInt(), nextInt()
+		switch P {
+		case 0:
+			uf.unite(A, B)
+		case 1:
+			if uf.same(A, B) {
+				fmt.Println("Yes")
+			} else {
+				fmt.Println("No")
+			}
+		}
+	}
 }
 
 // Position として迷路問題での現在地を表す構造体を定義
@@ -113,8 +126,6 @@ func fuctorial(a int) int {
 	}
 }
 
-// NextPermutation はsortインターフェース（要はソート済みスライス）から次の順列にスライスを並べ替える
-// https://play.golang.org/p/ljft9xhOEn
 func NextPermutation(x sort.Interface) bool {
 	n := x.Len() - 1
 	if n < 1 {

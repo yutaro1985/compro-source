@@ -3,10 +3,12 @@ package main
 import (
 	"bufio"
 	"container/heap"
+	"container/list"
 	"fmt"
 	"os"
 	"sort"
 	"strconv"
+	"strings"
 )
 
 const (
@@ -26,8 +28,45 @@ var d = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}}
 var d8 = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}, {1, 1}, {1, -1}, {-1, 1}, {-1, -1}}
 
 func main() {
-	N := nextInt()
-	fmt.Println()
+	H, W := nextInt(), nextInt()
+	c := make([]string, H)
+	s, g := Position{}, Position{}
+	seen := make([][]bool, H)
+	for i := 0; i < H; i++ {
+		c[i] = nextLine()
+		seen[i] = make([]bool, W)
+		if strings.Contains(c[i], "s") {
+			s.H = i
+			s.W = strings.Index(c[i], "s")
+		}
+		if strings.Contains(c[i], "g") {
+			g.H = i
+			g.W = strings.Index(c[i], "g")
+		}
+	}
+	queue := list.New()
+	queue.PushBack(s)
+	for queue.Len() != 0 {
+		cur := queue.Front().Value.(Position)
+		queue.Remove(queue.Front())
+		seen[s.H][s.W] = true
+		for _, v := range d {
+			nextP := Position{cur.H + v.H, cur.W + v.W}
+			if nextP.H < 0 || nextP.H >= H || nextP.W < 0 || nextP.W >= W {
+				continue
+			}
+			if c[nextP.H][nextP.W] == '#' || seen[nextP.H][nextP.W] {
+				continue
+			}
+			seen[nextP.H][nextP.W] = true
+			queue.PushBack(nextP)
+		}
+	}
+	if seen[g.H][g.W] {
+		fmt.Println("Yes")
+	} else {
+		fmt.Println("No")
+	}
 }
 
 // Position として迷路問題での現在地を表す構造体を定義
@@ -113,8 +152,6 @@ func fuctorial(a int) int {
 	}
 }
 
-// NextPermutation はsortインターフェース（要はソート済みスライス）から次の順列にスライスを並べ替える
-// https://play.golang.org/p/ljft9xhOEn
 func NextPermutation(x sort.Interface) bool {
 	n := x.Len() - 1
 	if n < 1 {

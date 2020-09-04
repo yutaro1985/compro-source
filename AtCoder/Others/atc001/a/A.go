@@ -7,6 +7,7 @@ import (
 	"os"
 	"sort"
 	"strconv"
+	"strings"
 )
 
 const (
@@ -16,6 +17,9 @@ const (
 
 var buf []byte = make([]byte, initialBufSize)
 var sc = bufio.NewScanner(os.Stdin)
+var H, W int
+var c []string
+var seen [][]bool
 
 func init() {
 	sc.Split(bufio.ScanWords)
@@ -25,9 +29,49 @@ func init() {
 var d = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}}
 var d8 = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}, {1, 1}, {1, -1}, {-1, 1}, {-1, -1}}
 
+// 参考
+// https://qiita.com/drken/items/a803d4fc4a727e02f7ba#%E3%82%B0%E3%83%AA%E3%83%83%E3%83%89%E3%82%B0%E3%83%A9%E3%83%95%E3%81%AE%E5%A0%B4%E5%90%88
+
 func main() {
-	N := nextInt()
-	fmt.Println()
+	// グローバル変数として定義して、main関数の中で値を入れる
+	H, W = nextInt(), nextInt()
+	c = make([]string, H)
+	s, g := Position{}, Position{}
+	seen = make([][]bool, H)
+	for i := 0; i < H; i++ {
+		c[i] = nextLine()
+		seen[i] = make([]bool, W)
+		if strings.Contains(c[i], "s") {
+			s.H = i
+			s.W = strings.Index(c[i], "s")
+		}
+		if strings.Contains(c[i], "g") {
+			g.H = i
+			g.W = strings.Index(c[i], "g")
+		}
+	}
+	dfs(s)
+	if seen[g.H][g.W] {
+		fmt.Println("Yes")
+	} else {
+		fmt.Println("No")
+	}
+}
+
+func dfs(p Position) {
+	seen[p.H][p.W] = true
+	for _, v := range d {
+		nh := p.H + v.H
+		nw := p.W + v.W
+		if nh < 0 || nh >= H || nw < 0 || nw >= W {
+			continue
+		}
+		if c[nh][nw] == '#' || seen[nh][nw] {
+			continue
+		}
+		// 変わらないものは引数にいちいち入れなくても済むようにすべきか…
+		dfs(Position{nh, nw})
+	}
 }
 
 // Position として迷路問題での現在地を表す構造体を定義
@@ -113,8 +157,6 @@ func fuctorial(a int) int {
 	}
 }
 
-// NextPermutation はsortインターフェース（要はソート済みスライス）から次の順列にスライスを並べ替える
-// https://play.golang.org/p/ljft9xhOEn
 func NextPermutation(x sort.Interface) bool {
 	n := x.Len() - 1
 	if n < 1 {

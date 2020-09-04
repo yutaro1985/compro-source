@@ -1,0 +1,37 @@
+{
+  "contest": {
+    "id": "atc001",
+    "title": "AtCoder Typical Contest 001",
+    "url": "https://atcoder.jp/contests/atc001"
+  },
+  "tasks": [
+    {
+      "id": "dfs_a",
+      "label": "A",
+      "title": "深さ優先探索",
+      "url": "https://atcoder.jp/contests/atc001/tasks/dfs_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "unionfind_a",
+      "label": "B",
+      "title": "Union Find",
+      "url": "https://atcoder.jp/contests/atc001/tasks/unionfind_a",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "fft_c",
+      "label": "C",
+      "title": "高速フーリエ変換",
+      "url": "https://atcoder.jp/contests/atc001/tasks/fft_c"
+    }
+  ]
+}
