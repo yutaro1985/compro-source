@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "agc002",
+    "title": "AtCoder Grand Contest 002",
+    "url": "https://atcoder.jp/contests/agc002"
+  },
+  "tasks": [
+    {
+      "id": "agc002_a",
+      "label": "A",
+      "title": "Range Product",
+      "url": "https://atcoder.jp/contests/agc002/tasks/agc002_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc002_b",
+      "label": "B",
+      "title": "Box and Ball",
+      "url": "https://atcoder.jp/contests/agc002/tasks/agc002_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc002_c",
+      "label": "C",
+      "title": "Knot Puzzle",
+      "url": "https://atcoder.jp/contests/agc002/tasks/agc002_c"
+    },
+    {
+      "id": "agc002_d",
+      "label": "D",
+      "title": "Stamp Rally",
+      "url": "https://atcoder.jp/contests/agc002/tasks/agc002_d"
+    },
+    {
+      "id": "agc002_e",
+      "label": "E",
+      "title": "Candy Piles",
+      "url": "https://atcoder.jp/contests/agc002/tasks/agc002_e"
+    },
+    {
+      "id": "agc002_f",
+      "label": "F",
+      "title": "Leftmost Ball",
+      "url": "https://atcoder.jp/contests/agc002/tasks/agc002_f"
+    }
+  ]
+}
