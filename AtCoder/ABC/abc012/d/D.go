@@ -32,7 +32,7 @@ type RideTime struct {
 	duration int
 }
 
-// TODO ダイクストラ法及びワーシャルフロイド法の練習になりそうなのであとでやる
+// TODO #22 ダイクストラ法及びワーシャルフロイド法の練習になりそうなのであとでやる
 
 func main() {
 	N, M := nextInt(), nextInt()
