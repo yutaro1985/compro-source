@@ -25,15 +25,18 @@ func init() {
 var d = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}}
 var d8 = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}, {1, 1}, {1, -1}, {-1, 1}, {-1, -1}}
 
-// 問題によって値は調整する
-const (
-	mod     = int(1e9) + 7
-	maxsize = 51000
-)
+const mod = int(1e9) + 7
+
+// DP
 
 func main() {
-	N := nextInt()
-	fmt.Println()
+	S := nextInt()
+	dp := make([]int, 2001)
+	dp[3] = 1
+	for i := 4; i <= S; i++ {
+		dp[i] = (dp[i-1] + dp[i-3]) % mod
+	}
+	fmt.Println(dp[S])
 }
 
 // Position として迷路問題での現在地を表す構造体を定義
@@ -56,50 +59,29 @@ func nextInt() int {
 	return i
 }
 
-// Math Utilities
-// https://play.golang.org/p/bm7uZi0zCN
-
-// Abs Absolute Value
-func Abs(a int) int {
+func abs(a int) int {
 	if a > 0 {
 		return a
+	} else {
+		return -a
 	}
-	return -a
 }
 
-// Pow Integer power: compute a**b using binary powering algorithm
-// See Donald Knuth, The Art of Computer Programming, Volume 2, Section 4.6.3
-func Pow(a, b int) int {
-	p := 1
-	for b > 0 {
-		if b&1 != 0 {
-			p *= a
-		}
-		b >>= 1
-		a *= a
+func pow(p, q int) int {
+	res := p
+	if q == 0 {
+		return 1
 	}
-	return p
-}
-
-// PowMod Modular integer power: compute a**b mod m using binary powering algorithm
-func PowMod(a, b, m int) int {
-	a = a % m
-	p := 1 % m
-	for b > 0 {
-		if b&1 != 0 {
-			p = (p * a) % m
-		}
-		b >>= 1
-		a = (a * a) % m
+	for i := 0; i < q-1; i++ {
+		res *= p
 	}
-	return p
+	return res
 }
 
 func ceil(a, b int) int {
 	return (a + (b - 1)) / b
 }
 
-// MinOf 与えられたintのうち最小のものを返す
 func MinOf(vars ...int) int {
 	min := vars[0]
 	for _, i := range vars {
@@ -110,7 +92,6 @@ func MinOf(vars ...int) int {
 	return min
 }
 
-// MaxOf 与えられたintのうち最大のものを返す
 func MaxOf(vars ...int) int {
 	max := vars[0]
 	for _, i := range vars {
@@ -213,7 +194,7 @@ func MakeSieve(max int) []int {
 	return sieve
 }
 
-// IH golangの公式サンプルより
+// golangの公式サンプルより
 // https://xn--go-hh0g6u.com/pkg/container/heap/#example__intHeap
 // IntHeap は，整数の最小ヒープです。
 type IH []int
@@ -357,35 +338,4 @@ func (u UnionFind) rootcnt() int {
 		}
 	}
 	return cnt
-}
-
-// COMで使うスライス
-var fac = make([]int, maxsize)
-var finv = make([]int, maxsize)
-var inv = make([]int, maxsize)
-
-// COMinit で COMで使うためのテーブルを作る前処理
-// O(N)
-// https://qiita.com/drken/items/3b4fdf0a78e7a138cd9a#5-%E4%BA%8C%E9%A0%85%E4%BF%82%E6%95%B0-ncr
-func COMinit() {
-	fac[0], fac[1] = 1, 1
-	finv[0], finv[1] = 1, 1
-	inv[1] = 1
-	for i := 2; i < maxsize; i++ {
-		fac[i] = fac[i-1] * i % mod
-		inv[i] = mod - inv[mod%i]*(mod/i)%mod
-		finv[i] = finv[i-1] * inv[i] % mod
-	}
-}
-
-// COM nCkを求める。COMinitを先に実行する
-// COMinitの結果を使ってO(1)で行える
-func COM(n, k int) int {
-	if n < k {
-		return 0
-	}
-	if n < 0 || k < 0 {
-		return 0
-	}
-	return fac[n] * (finv[k] * finv[n-k] % mod) % mod
 }
