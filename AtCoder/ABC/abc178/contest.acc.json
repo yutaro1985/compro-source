@@ -53,7 +53,12 @@
       "id": "abc178_e",
       "label": "E",
       "title": "Dist Max",
-      "url": "https://atcoder.jp/contests/abc178/tasks/abc178_e"
+      "url": "https://atcoder.jp/contests/abc178/tasks/abc178_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "abc178_f",
