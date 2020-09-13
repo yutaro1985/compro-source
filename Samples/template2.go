@@ -331,7 +331,7 @@ func (u *UnionFind) unite(x, y int) {
 	u.parent[xf] += u.parent[yf]
 	u.parent[yf] = xf
 	if u.parent[xf] < 0 {
-		u.maxlen = MaxOf(u.maxlen, abs(u.parent[xf]))
+		u.maxlen = MaxOf(u.maxlen, Abs(u.parent[xf]))
 	}
 }
 
