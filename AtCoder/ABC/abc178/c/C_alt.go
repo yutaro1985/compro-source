@@ -29,14 +29,6 @@ const mod = int(1e9) + 7
 
 func main() {
 	N := nextInt()
-	if N == 1 {
-		fmt.Println(0)
-		return
-	}
-	if N == 2 {
-		fmt.Println(2)
-		return
-	}
 	var ans, notexists, notexists09 int
 	ans = 1
 	notexists = 1
