@@ -1,0 +1,195 @@
+{
+  "contest": {
+    "id": "dp",
+    "title": "Educational DP Contest",
+    "url": "https://atcoder.jp/contests/dp"
+  },
+  "tasks": [
+    {
+      "id": "dp_a",
+      "label": "A",
+      "title": "Frog 1",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "dp_b",
+      "label": "B",
+      "title": "Frog 2",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "dp_c",
+      "label": "C",
+      "title": "Vacation",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "dp_d",
+      "label": "D",
+      "title": "Knapsack 1",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "dp_e",
+      "label": "E",
+      "title": "Knapsack 2",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "dp_f",
+      "label": "F",
+      "title": "LCS",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "dp_g",
+      "label": "G",
+      "title": "Longest Path",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_g"
+    },
+    {
+      "id": "dp_h",
+      "label": "H",
+      "title": "Grid 1",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_h"
+    },
+    {
+      "id": "dp_i",
+      "label": "I",
+      "title": "Coins",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_i"
+    },
+    {
+      "id": "dp_j",
+      "label": "J",
+      "title": "Sushi",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_j"
+    },
+    {
+      "id": "dp_k",
+      "label": "K",
+      "title": "Stones",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_k"
+    },
+    {
+      "id": "dp_l",
+      "label": "L",
+      "title": "Deque",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_l"
+    },
+    {
+      "id": "dp_m",
+      "label": "M",
+      "title": "Candies",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_m"
+    },
+    {
+      "id": "dp_n",
+      "label": "N",
+      "title": "Slimes",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_n"
+    },
+    {
+      "id": "dp_o",
+      "label": "O",
+      "title": "Matching",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_o"
+    },
+    {
+      "id": "dp_p",
+      "label": "P",
+      "title": "Independent Set",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_p"
+    },
+    {
+      "id": "dp_q",
+      "label": "Q",
+      "title": "Flowers",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_q"
+    },
+    {
+      "id": "dp_r",
+      "label": "R",
+      "title": "Walk",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_r"
+    },
+    {
+      "id": "dp_s",
+      "label": "S",
+      "title": "Digit Sum",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_s"
+    },
+    {
+      "id": "dp_t",
+      "label": "T",
+      "title": "Permutation",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_t"
+    },
+    {
+      "id": "dp_u",
+      "label": "U",
+      "title": "Grouping",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_u"
+    },
+    {
+      "id": "dp_v",
+      "label": "V",
+      "title": "Subtree",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_v"
+    },
+    {
+      "id": "dp_w",
+      "label": "W",
+      "title": "Intervals",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_w"
+    },
+    {
+      "id": "dp_x",
+      "label": "X",
+      "title": "Tower",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_x"
+    },
+    {
+      "id": "dp_y",
+      "label": "Y",
+      "title": "Grid 2",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_y"
+    },
+    {
+      "id": "dp_z",
+      "label": "Z",
+      "title": "Frog 3",
+      "url": "https://atcoder.jp/contests/dp/tasks/dp_z"
+    }
+  ]
+}
