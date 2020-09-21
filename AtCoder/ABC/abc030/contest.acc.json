@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "abc030",
+    "title": "AtCoder Beginner Contest 030",
+    "url": "https://atcoder.jp/contests/abc030"
+  },
+  "tasks": [
+    {
+      "id": "abc030_a",
+      "label": "A",
+      "title": "勝率計算",
+      "url": "https://atcoder.jp/contests/abc030/tasks/abc030_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc030_b",
+      "label": "B",
+      "title": "時計盤",
+      "url": "https://atcoder.jp/contests/abc030/tasks/abc030_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc030_c",
+      "label": "C",
+      "title": "飛行機乗り",
+      "url": "https://atcoder.jp/contests/abc030/tasks/abc030_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc030_d",
+      "label": "D",
+      "title": "へんてこ辞書",
+      "url": "https://atcoder.jp/contests/abc030/tasks/abc030_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    }
+  ]
+}
