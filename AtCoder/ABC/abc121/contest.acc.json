@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "abc121",
+    "title": "AtCoder Beginner Contest 121",
+    "url": "https://atcoder.jp/contests/abc121"
+  },
+  "tasks": [
+    {
+      "id": "abc121_a",
+      "label": "A",
+      "title": "White Cells",
+      "url": "https://atcoder.jp/contests/abc121/tasks/abc121_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc121_b",
+      "label": "B",
+      "title": "Can you solve this?",
+      "url": "https://atcoder.jp/contests/abc121/tasks/abc121_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc121_c",
+      "label": "C",
+      "title": "Energy Drink Collector",
+      "url": "https://atcoder.jp/contests/abc121/tasks/abc121_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc121_d",
+      "label": "D",
+      "title": "XOR World",
+      "url": "https://atcoder.jp/contests/abc121/tasks/abc121_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    }
+  ]
+}
