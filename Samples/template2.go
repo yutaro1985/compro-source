@@ -133,11 +133,11 @@ func lcmof2numbers(a int, b int) int {
 }
 
 // マイナスの場合は考慮していない
-func fuctorial(a int) int {
+func factorial(a int) int {
 	if a == 1 || a == 0 {
 		return 1
 	} else {
-		return fuctorial(a-1) * a
+		return factorial(a-1) * a
 	}
 }
 
