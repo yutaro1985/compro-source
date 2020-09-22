@@ -34,7 +34,7 @@ const (
 // ダブリング…だと制約上無理そう
 // k mod Cをbigint使わずに求める方法
 // https://www.slideshare.net/chokudai/abc030
-// TODO 方針は合ってるはずだが正解にならないのであとでデバッグする
+// TODO #23 方針は合ってるはずだが正解にならないのであとでデバッグする
 
 func main() {
 	N, a := nextInt(), nextInt()-1
