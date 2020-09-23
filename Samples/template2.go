@@ -28,7 +28,7 @@ var d8 = []Position{{1, 0}, {-1, 0}, {0, 1}, {0, -1}, {1, 1}, {1, -1}, {-1, 1}, 
 // 問題によって値は調整する
 const (
 	mod     = int(1e9) + 7
-	maxsize = 51000
+	maxsize = 510000
 )
 
 func main() {
