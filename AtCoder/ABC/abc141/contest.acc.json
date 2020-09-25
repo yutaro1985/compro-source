@@ -19,7 +19,12 @@
       "id": "abc141_b",
       "label": "B",
       "title": "Tap Dance",
-      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_b"
+      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "abc141_c",
@@ -35,7 +40,12 @@
       "id": "abc141_d",
       "label": "D",
       "title": "Powerful Discount Tickets",
-      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_d"
+      "url": "https://atcoder.jp/contests/abc141/tasks/abc141_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "abc141_e",
