@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc073",
+    "title": "AtCoder Beginner Contest 073",
+    "url": "https://atcoder.jp/contests/abc073"
+  },
+  "tasks": [
+    {
+      "id": "abc073_a",
+      "label": "A",
+      "title": "September 9",
+      "url": "https://atcoder.jp/contests/abc073/tasks/abc073_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc073_b",
+      "label": "B",
+      "title": "Theater",
+      "url": "https://atcoder.jp/contests/abc073/tasks/abc073_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc073_c",
+      "label": "C",
+      "title": "Write and Erase",
+      "url": "https://atcoder.jp/contests/abc073/tasks/abc073_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc073_d",
+      "label": "D",
+      "title": "joisino's travel",
+      "url": "https://atcoder.jp/contests/abc073/tasks/abc073_d"
+    }
+  ]
+}
