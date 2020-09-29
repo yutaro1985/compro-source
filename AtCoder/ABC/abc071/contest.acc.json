@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "abc071",
+    "title": "AtCoder Beginner Contest 071",
+    "url": "https://atcoder.jp/contests/abc071"
+  },
+  "tasks": [
+    {
+      "id": "abc071_a",
+      "label": "A",
+      "title": "Meal Delivery",
+      "url": "https://atcoder.jp/contests/abc071/tasks/abc071_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc071_b",
+      "label": "B",
+      "title": "Not Found",
+      "url": "https://atcoder.jp/contests/abc071/tasks/abc071_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc081_a",
+      "label": "C",
+      "title": "Make a Rectangle",
+      "url": "https://atcoder.jp/contests/abc071/tasks/arc081_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc081_b",
+      "label": "D",
+      "title": "Coloring Dominoes",
+      "url": "https://atcoder.jp/contests/abc071/tasks/arc081_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    }
+  ]
+}
