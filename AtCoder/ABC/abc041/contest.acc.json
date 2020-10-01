@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc041",
+    "title": "AtCoder Beginner Contest 041",
+    "url": "https://atcoder.jp/contests/abc041"
+  },
+  "tasks": [
+    {
+      "id": "abc041_a",
+      "label": "A",
+      "title": "添字",
+      "url": "https://atcoder.jp/contests/abc041/tasks/abc041_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc041_b",
+      "label": "B",
+      "title": "直方体",
+      "url": "https://atcoder.jp/contests/abc041/tasks/abc041_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc041_c",
+      "label": "C",
+      "title": "背の順",
+      "url": "https://atcoder.jp/contests/abc041/tasks/abc041_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc041_d",
+      "label": "D",
+      "title": "徒競走",
+      "url": "https://atcoder.jp/contests/abc041/tasks/abc041_d"
+    }
+  ]
+}
