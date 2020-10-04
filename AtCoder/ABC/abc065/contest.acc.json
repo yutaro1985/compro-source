@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc065",
+    "title": "AtCoder Beginner Contest 065",
+    "url": "https://atcoder.jp/contests/abc065"
+  },
+  "tasks": [
+    {
+      "id": "abc065_a",
+      "label": "A",
+      "title": "Expired?",
+      "url": "https://atcoder.jp/contests/abc065/tasks/abc065_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc065_b",
+      "label": "B",
+      "title": "Trained?",
+      "url": "https://atcoder.jp/contests/abc065/tasks/abc065_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc076_a",
+      "label": "C",
+      "title": "Reconciled?",
+      "url": "https://atcoder.jp/contests/abc065/tasks/arc076_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc076_b",
+      "label": "D",
+      "title": "Built?",
+      "url": "https://atcoder.jp/contests/abc065/tasks/arc076_b"
+    }
+  ]
+}
