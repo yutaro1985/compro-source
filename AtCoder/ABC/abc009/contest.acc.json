@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc009",
+    "title": "AtCoder Beginner Contest 009",
+    "url": "https://atcoder.jp/contests/abc009"
+  },
+  "tasks": [
+    {
+      "id": "abc009_1",
+      "label": "A",
+      "title": "引越し作業",
+      "url": "https://atcoder.jp/contests/abc009/tasks/abc009_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc009_2",
+      "label": "B",
+      "title": "心配性な富豪、ファミリーレストランに行く。",
+      "url": "https://atcoder.jp/contests/abc009/tasks/abc009_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc009_3",
+      "label": "C",
+      "title": "辞書式順序ふたたび",
+      "url": "https://atcoder.jp/contests/abc009/tasks/abc009_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc009_4",
+      "label": "D",
+      "title": "漸化式",
+      "url": "https://atcoder.jp/contests/abc009/tasks/abc009_4"
+    }
+  ]
+}
