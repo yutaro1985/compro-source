@@ -32,7 +32,7 @@ const (
 	maxsize = 510000
 )
 
-// TODO あとでやる
+// TODO #24 あとでやる
 // 難しい…後回し。
 
 func main() {
