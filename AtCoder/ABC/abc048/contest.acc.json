@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc048",
+    "title": "AtCoder Beginner Contest 048",
+    "url": "https://atcoder.jp/contests/abc048"
+  },
+  "tasks": [
+    {
+      "id": "abc048_a",
+      "label": "A",
+      "title": "AtCoder *** Contest",
+      "url": "https://atcoder.jp/contests/abc048/tasks/abc048_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc048_b",
+      "label": "B",
+      "title": "Between a and b ...",
+      "url": "https://atcoder.jp/contests/abc048/tasks/abc048_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc064_a",
+      "label": "C",
+      "title": "Boxes and Candies",
+      "url": "https://atcoder.jp/contests/abc048/tasks/arc064_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc064_b",
+      "label": "D",
+      "title": "An Ordinary Game",
+      "url": "https://atcoder.jp/contests/abc048/tasks/arc064_b"
+    }
+  ]
+}
