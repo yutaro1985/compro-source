@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": "hhkb2020",
+    "title": "HHKB Programming Contest 2020",
+    "url": "https://atcoder.jp/contests/hhkb2020"
+  },
+  "tasks": [
+    {
+      "id": "hhkb2020_a",
+      "label": "A",
+      "title": "Keyboard",
+      "url": "https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "hhkb2020_b",
+      "label": "B",
+      "title": "Futon",
+      "url": "https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "hhkb2020_c",
+      "label": "C",
+      "title": "Neq Min",
+      "url": "https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "hhkb2020_d",
+      "label": "D",
+      "title": "Squares",
+      "url": "https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "hhkb2020_e",
+      "label": "E",
+      "title": "Lamps",
+      "url": "https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "hhkb2020_f",
+      "label": "F",
+      "title": "Random Max",
+      "url": "https://atcoder.jp/contests/hhkb2020/tasks/hhkb2020_f"
+    }
+  ]
+}
