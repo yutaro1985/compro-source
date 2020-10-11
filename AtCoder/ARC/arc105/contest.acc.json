@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "arc105",
+    "title": "AtCoder Regular Contest 105",
+    "url": "https://atcoder.jp/contests/arc105"
+  },
+  "tasks": [
+    {
+      "id": "arc105_a",
+      "label": "A",
+      "title": "Fourtune Cookies",
+      "url": "https://atcoder.jp/contests/arc105/tasks/arc105_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc105_b",
+      "label": "B",
+      "title": "MAX-=min",
+      "url": "https://atcoder.jp/contests/arc105/tasks/arc105_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc105_c",
+      "label": "C",
+      "title": "Camels and Bridge",
+      "url": "https://atcoder.jp/contests/arc105/tasks/arc105_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc105_d",
+      "label": "D",
+      "title": "Let's Play Nim",
+      "url": "https://atcoder.jp/contests/arc105/tasks/arc105_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc105_e",
+      "label": "E",
+      "title": "Keep Graph Disconnected",
+      "url": "https://atcoder.jp/contests/arc105/tasks/arc105_e"
+    },
+    {
+      "id": "arc105_f",
+      "label": "F",
+      "title": "Lights Out on Connected Graph",
+      "url": "https://atcoder.jp/contests/arc105/tasks/arc105_f"
+    }
+  ]
+}
