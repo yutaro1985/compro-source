@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "indeednow-qualb",
+    "title": "Indeedなう（予選B）",
+    "url": "https://atcoder.jp/contests/indeednow-qualb"
+  },
+  "tasks": [
+    {
+      "id": "indeednow_2015_qualb_1",
+      "label": "A",
+      "title": "高橋くんとマンハッタン",
+      "url": "https://atcoder.jp/contests/indeednow-qualb/tasks/indeednow_2015_qualb_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "indeednow_2015_qualb_2",
+      "label": "B",
+      "title": "高橋くんと文字列操作",
+      "url": "https://atcoder.jp/contests/indeednow-qualb/tasks/indeednow_2015_qualb_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "indeednow_2015_qualc_3",
+      "label": "C",
+      "title": "木",
+      "url": "https://atcoder.jp/contests/indeednow-qualb/tasks/indeednow_2015_qualc_3"
+    },
+    {
+      "id": "indeednow_2015_qualb_4",
+      "label": "D",
+      "title": "高橋くんと数列",
+      "url": "https://atcoder.jp/contests/indeednow-qualb/tasks/indeednow_2015_qualb_4"
+    }
+  ]
+}
