@@ -32,6 +32,7 @@ const (
 // 重複分は分割線を縦横に引いて、縦でも横でも分割可能なパターンを計算する
 // ※こちらはmodintがないと計算がきつい…
 // https://youtu.be/eus_giFYAIs?t=5820
+// TODO #25 modint実装後に再度やる
 
 func f1(N int) int {
 	if N < 0 {
