@@ -35,7 +35,7 @@ const (
 // それはそれとして、典型手法らしいのであとで思い出せるように
 // https://drken1215.hatenablog.com/entry/2020/10/11/155900
 
-// 類似問題あとでやる
+// TODO #26 類似問題あとでやる
 // https://atcoder.jp/contests/abc129/tasks/abc129_d
 
 func main() {
