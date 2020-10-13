@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc081",
+    "title": "AtCoder Beginner Contest 081",
+    "url": "https://atcoder.jp/contests/abc081"
+  },
+  "tasks": [
+    {
+      "id": "abc081_a",
+      "label": "A",
+      "title": "Placing Marbles",
+      "url": "https://atcoder.jp/contests/abc081/tasks/abc081_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc081_b",
+      "label": "B",
+      "title": "Shift only",
+      "url": "https://atcoder.jp/contests/abc081/tasks/abc081_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc086_a",
+      "label": "C",
+      "title": "Not so Diverse",
+      "url": "https://atcoder.jp/contests/abc081/tasks/arc086_a"
+    },
+    {
+      "id": "arc086_b",
+      "label": "D",
+      "title": "Non-decreasing",
+      "url": "https://atcoder.jp/contests/abc081/tasks/arc086_b"
+    }
+  ]
+}
