@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc101",
+    "title": "AtCoder Beginner Contest 101",
+    "url": "https://atcoder.jp/contests/abc101"
+  },
+  "tasks": [
+    {
+      "id": "abc101_a",
+      "label": "A",
+      "title": "Eating Symbols Easy",
+      "url": "https://atcoder.jp/contests/abc101/tasks/abc101_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc101_b",
+      "label": "B",
+      "title": "Digit Sums",
+      "url": "https://atcoder.jp/contests/abc101/tasks/abc101_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc099_a",
+      "label": "C",
+      "title": "Minimization",
+      "url": "https://atcoder.jp/contests/abc101/tasks/arc099_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc099_b",
+      "label": "D",
+      "title": "Snuke Numbers",
+      "url": "https://atcoder.jp/contests/abc101/tasks/arc099_b"
+    }
+  ]
+}
