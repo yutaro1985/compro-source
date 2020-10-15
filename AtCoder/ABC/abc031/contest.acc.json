@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc031",
+    "title": "AtCoder Beginner Contest 031",
+    "url": "https://atcoder.jp/contests/abc031"
+  },
+  "tasks": [
+    {
+      "id": "abc031_a",
+      "label": "A",
+      "title": "ゲーム",
+      "url": "https://atcoder.jp/contests/abc031/tasks/abc031_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc031_b",
+      "label": "B",
+      "title": "運動管理",
+      "url": "https://atcoder.jp/contests/abc031/tasks/abc031_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc031_c",
+      "label": "C",
+      "title": "数列ゲーム",
+      "url": "https://atcoder.jp/contests/abc031/tasks/abc031_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc031_d",
+      "label": "D",
+      "title": "語呂合わせ",
+      "url": "https://atcoder.jp/contests/abc031/tasks/abc031_d"
+    }
+  ]
+}
