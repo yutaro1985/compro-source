@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc014",
+    "title": "AtCoder Beginner Contest 014",
+    "url": "https://atcoder.jp/contests/abc014"
+  },
+  "tasks": [
+    {
+      "id": "abc014_1",
+      "label": "A",
+      "title": "けんしょう先生のお菓子配り",
+      "url": "https://atcoder.jp/contests/abc014/tasks/abc014_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc014_2",
+      "label": "B",
+      "title": "価格の合計",
+      "url": "https://atcoder.jp/contests/abc014/tasks/abc014_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc014_3",
+      "label": "C",
+      "title": "AtColor",
+      "url": "https://atcoder.jp/contests/abc014/tasks/abc014_3"
+    },
+    {
+      "id": "abc014_4",
+      "label": "D",
+      "title": "閉路",
+      "url": "https://atcoder.jp/contests/abc014/tasks/abc014_4"
+    }
+  ]
+}
