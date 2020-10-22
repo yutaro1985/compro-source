@@ -109,3 +109,19 @@ func MaxOf(vars ...int) int {
 	}
 	return max
 }
+
+// ChminInt 第一引数のほうが大きかった場合第二引数の値を代入する。
+// 1つ目の値は参照渡しする
+func ChminInt(a *int, b int) {
+	if *a > b {
+		*a = b
+	}
+}
+
+// ChmanInt 第一引数のほうが小さかった場合第二引数の値を代入する。
+// 1つ目の値は参照渡しする
+func ChmanInt(a *int, b int) {
+	if *a < b {
+		*a = b
+	}
+}
