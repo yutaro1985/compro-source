@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc008",
+    "title": "AtCoder Grand Contest 008",
+    "url": "https://atcoder.jp/contests/agc008"
+  },
+  "tasks": [
+    {
+      "id": "agc008_a",
+      "label": "A",
+      "title": "Simple Calculator",
+      "url": "https://atcoder.jp/contests/agc008/tasks/agc008_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc008_b",
+      "label": "B",
+      "title": "Contiguous Repainting",
+      "url": "https://atcoder.jp/contests/agc008/tasks/agc008_b"
+    },
+    {
+      "id": "agc008_c",
+      "label": "C",
+      "title": "Tetromino Tiling",
+      "url": "https://atcoder.jp/contests/agc008/tasks/agc008_c"
+    },
+    {
+      "id": "agc008_d",
+      "label": "D",
+      "title": "K-th K",
+      "url": "https://atcoder.jp/contests/agc008/tasks/agc008_d"
+    },
+    {
+      "id": "agc008_e",
+      "label": "E",
+      "title": "Next or Nextnext",
+      "url": "https://atcoder.jp/contests/agc008/tasks/agc008_e"
+    },
+    {
+      "id": "agc008_f",
+      "label": "F",
+      "title": "Black Radius",
+      "url": "https://atcoder.jp/contests/agc008/tasks/agc008_f"
+    }
+  ]
+}
