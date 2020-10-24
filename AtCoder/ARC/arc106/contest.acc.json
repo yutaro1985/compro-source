@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "arc106",
+    "title": "AtCoder Regular Contest 106",
+    "url": "https://atcoder.jp/contests/arc106"
+  },
+  "tasks": [
+    {
+      "id": "arc106_a",
+      "label": "A",
+      "title": "106",
+      "url": "https://atcoder.jp/contests/arc106/tasks/arc106_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc106_b",
+      "label": "B",
+      "title": "Values",
+      "url": "https://atcoder.jp/contests/arc106/tasks/arc106_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc106_c",
+      "label": "C",
+      "title": "Solutions",
+      "url": "https://atcoder.jp/contests/arc106/tasks/arc106_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc106_d",
+      "label": "D",
+      "title": "Powers",
+      "url": "https://atcoder.jp/contests/arc106/tasks/arc106_d"
+    },
+    {
+      "id": "arc106_e",
+      "label": "E",
+      "title": "Medals",
+      "url": "https://atcoder.jp/contests/arc106/tasks/arc106_e"
+    },
+    {
+      "id": "arc106_f",
+      "label": "F",
+      "title": "Figures",
+      "url": "https://atcoder.jp/contests/arc106/tasks/arc106_f"
+    }
+  ]
+}
