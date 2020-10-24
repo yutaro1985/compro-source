@@ -49,8 +49,6 @@ func main() {
 		Edges[i] = Edge{nextInt() - 1, nextInt() - 1}
 		uf.unite(Edges[i].c, Edges[i].d)
 	}
-	// fmt.Println(a, b)
-	// fmt.Println(Edges)
 	var subs int
 	sub := make([]int, N)
 	for i := 0; i < N; i++ {
