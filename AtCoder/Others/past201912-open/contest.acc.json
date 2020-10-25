@@ -1,0 +1,124 @@
+{
+  "contest": {
+    "id": "past201912-open",
+    "title": "第一回 アルゴリズム実技検定 過去問",
+    "url": "https://atcoder.jp/contests/past201912-open"
+  },
+  "tasks": [
+    {
+      "id": "past201912_a",
+      "label": "A",
+      "title": "Is It a Number?",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "past201912_b",
+      "label": "B",
+      "title": "Up and Down",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "past201912_c",
+      "label": "C",
+      "title": "The Third",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "past201912_d",
+      "label": "D",
+      "title": "Duplicated?",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "past201912_e",
+      "label": "E",
+      "title": "Restore",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "past201912_f",
+      "label": "F",
+      "title": "DoubleCamelCase Sort",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_f"
+    },
+    {
+      "id": "past201912_g",
+      "label": "G",
+      "title": "Division",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_g"
+    },
+    {
+      "id": "past201912_h",
+      "label": "H",
+      "title": "Bulk Selling",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_h"
+    },
+    {
+      "id": "past201912_i",
+      "label": "I",
+      "title": "Procurement",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_i"
+    },
+    {
+      "id": "past201912_j",
+      "label": "J",
+      "title": "Leveling",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_j"
+    },
+    {
+      "id": "past201912_k",
+      "label": "K",
+      "title": "Conglomerate",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_k"
+    },
+    {
+      "id": "past201912_l",
+      "label": "L",
+      "title": "Gradation",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_l"
+    },
+    {
+      "id": "past201912_m",
+      "label": "M",
+      "title": "Auto Choice",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_m"
+    },
+    {
+      "id": "past201912_n",
+      "label": "N",
+      "title": "Land Clearing",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_n"
+    },
+    {
+      "id": "past201912_o",
+      "label": "O",
+      "title": "Endurance",
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_o"
+    }
+  ]
+}
