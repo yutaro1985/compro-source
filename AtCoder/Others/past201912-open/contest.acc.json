@@ -86,7 +86,12 @@
       "id": "past201912_h",
       "label": "H",
       "title": "Bulk Selling",
-      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_h"
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past201912_i",
