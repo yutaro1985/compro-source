@@ -97,7 +97,12 @@
       "id": "past201912_i",
       "label": "I",
       "title": "Procurement",
-      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_i"
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_i",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past201912_j",
