@@ -64,13 +64,23 @@
       "id": "past201912_f",
       "label": "F",
       "title": "DoubleCamelCase Sort",
-      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_f"
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past201912_g",
       "label": "G",
       "title": "Division",
-      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_g"
+      "url": "https://atcoder.jp/contests/past201912-open/tasks/past201912_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past201912_h",
