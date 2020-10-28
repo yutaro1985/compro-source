@@ -33,7 +33,6 @@ const (
 // オイラーツアー
 // https://www.hamayanhamayan.com/entry/2020/01/01/010045
 
-var orgsort []int
 var Parts []part
 var index int
 
@@ -58,10 +57,6 @@ func main() {
 	Q := nextInt()
 	for i := 0; i < Q; i++ {
 		a, b := nextInt()-1, nextInt()-1
-		if b == president {
-			fmt.Println("Yes")
-			continue
-		}
 		if Parts[a].L >= Parts[b].L && Parts[a].L <= Parts[b].R {
 			fmt.Println("Yes")
 		} else {
@@ -75,25 +70,14 @@ func dfs(v int, org [][]int, seen []int) {
 		Parts[v].L = index
 	}
 	seen[v]++
-	// fmt.Println(seen)
-	orgsort = append(orgsort, v)
-	for i := 0; i < len(org[v]); i++ {
-		if seen[org[v][i]] == 1 {
+	for _, nextv := range org[v] {
+		if seen[nextv] == 1 {
 			continue
 		}
 		index++
-		dfs(org[v][i], org, seen)
-		if i == len(org[v])-1 {
-			Parts[v].R = index
-		}
+		dfs(nextv, org, seen)
+		Parts[v].R = index
 	}
-	// for _, nextv := range org[v] {
-	// 	if seen[nextv] == 1 {
-	// 		continue
-	// 	}
-	// 	index++
-	// 	dfs(nextv, index, org, seen)
-	// }
 }
 
 type part struct {
