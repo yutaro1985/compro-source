@@ -1,0 +1,129 @@
+{
+  "contest": {
+    "id": "past202004-open",
+    "title": "第二回 アルゴリズム実技検定",
+    "url": "https://atcoder.jp/contests/past202004-open"
+  },
+  "tasks": [
+    {
+      "id": "past202004_a",
+      "label": "A",
+      "title": "Elevator",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "past202004_b",
+      "label": "B",
+      "title": "Plurality Voting",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "past202004_c",
+      "label": "C",
+      "title": "Landslide",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "past202004_d",
+      "label": "D",
+      "title": "String Match",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "past202004_e",
+      "label": "E",
+      "title": "Permutation",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "past202004_f",
+      "label": "F",
+      "title": "Tasking",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "past202004_g",
+      "label": "G",
+      "title": "String Query",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_g"
+    },
+    {
+      "id": "past202004_h",
+      "label": "H",
+      "title": "1-9 Grid",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_h"
+    },
+    {
+      "id": "past202004_i",
+      "label": "I",
+      "title": "Elimination",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_i"
+    },
+    {
+      "id": "past202004_j",
+      "label": "J",
+      "title": "Parse",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_j"
+    },
+    {
+      "id": "past202004_k",
+      "label": "K",
+      "title": "Parentheses",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_k"
+    },
+    {
+      "id": "past202004_l",
+      "label": "L",
+      "title": "Lexicographically Minimum",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_l"
+    },
+    {
+      "id": "past202004_m",
+      "label": "M",
+      "title": "Cafeteria",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_m"
+    },
+    {
+      "id": "past202004_n",
+      "label": "N",
+      "title": "Building Construction",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_n"
+    },
+    {
+      "id": "past202004_o",
+      "label": "O",
+      "title": "Variable Spanning Trees",
+      "url": "https://atcoder.jp/contests/past202004-open/tasks/past202004_o"
+    }
+  ]
+}
