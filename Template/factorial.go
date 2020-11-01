@@ -1,8 +1,8 @@
 // マイナスの場合は考慮していない
-func factorial(a int) int {
+func factorialmod(a, m int) int {
 	if a == 1 || a == 0 {
 		return 1
 	} else {
-		return factorial(a-1) * a
+		return (factorialmod(a-1, m) * a) % m
 	}
 }
