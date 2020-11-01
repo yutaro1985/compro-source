@@ -58,13 +58,13 @@ func main() {
 	}
 	var ans int
 	ans = 1
-	for i := 0; i < N; i++ {
-		if ufh.parent[i] < 0 {
-			ans = (ans * factorialmod(-ufh.parent[i], mod)) % mod
-		}
-		if ufv.parent[i] < 0 {
-			ans = (ans * factorialmod(-ufv.parent[i], mod)) % mod
-		}
+	vg := ufv.groups()
+	hg := ufh.groups()
+	for _, v := range vg {
+		ans = (ans * factorialmod(len(v), mod)) % mod
+	}
+	for _, v := range hg {
+		ans = (ans * factorialmod(len(v), mod)) % mod
 	}
 	fmt.Println(ans)
 }
@@ -245,4 +245,28 @@ func (u UnionFind) rootcnt() int {
 		}
 	}
 	return cnt
+}
+
+func (uf UnionFind) groups() [][]int {
+	rootBuf, groupSize := make([]int, uf.N), make([]int, uf.N)
+	for i := 0; i < uf.N; i++ {
+		rootBuf[i] = uf.find(i)
+		groupSize[rootBuf[i]]++
+	}
+	res := make([][]int, uf.N)
+	for i := 0; i < uf.N; i++ {
+		res[i] = make([]int, 0, groupSize[i])
+	}
+	for i := 0; i < uf.N; i++ {
+		res[rootBuf[i]] = append(res[rootBuf[i]], i)
+	}
+	result := make([][]int, 0, uf.N)
+	for i := 0; i < uf.N; i++ {
+		if len(res[i]) != 0 {
+			r := make([]int, len(res[i]))
+			copy(r, res[i])
+			result = append(result, r)
+		}
+	}
+	return result
 }
