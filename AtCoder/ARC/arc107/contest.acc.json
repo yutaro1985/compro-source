@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "arc107",
+    "title": "AtCoder Regular Contest 107",
+    "url": "https://atcoder.jp/contests/arc107"
+  },
+  "tasks": [
+    {
+      "id": "arc107_a",
+      "label": "A",
+      "title": "Simple Math",
+      "url": "https://atcoder.jp/contests/arc107/tasks/arc107_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc107_b",
+      "label": "B",
+      "title": "Quadruple",
+      "url": "https://atcoder.jp/contests/arc107/tasks/arc107_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc107_c",
+      "label": "C",
+      "title": "Shuffle Permutation",
+      "url": "https://atcoder.jp/contests/arc107/tasks/arc107_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc107_d",
+      "label": "D",
+      "title": "Number of Multisets",
+      "url": "https://atcoder.jp/contests/arc107/tasks/arc107_d"
+    },
+    {
+      "id": "arc107_e",
+      "label": "E",
+      "title": "Mex Mat",
+      "url": "https://atcoder.jp/contests/arc107/tasks/arc107_e"
+    },
+    {
+      "id": "arc107_f",
+      "label": "F",
+      "title": "Sum of Abs",
+      "url": "https://atcoder.jp/contests/arc107/tasks/arc107_f"
+    }
+  ]
+}
