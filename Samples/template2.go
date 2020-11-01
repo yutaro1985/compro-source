@@ -118,7 +118,7 @@ func ChminInt(a *int, b int) {
 	}
 }
 
-// ChmanInt 第一引数のほうが小さかった場合第二引数の値を代入する。
+// ChmaxInt 第一引数のほうが小さかった場合第二引数の値を代入する。
 // 1つ目の値は参照渡しする
 func ChmaxInt(a *int, b int) {
 	if *a < b {
