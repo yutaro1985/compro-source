@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc181",
+    "title": "AtCoder Beginner Contest 181",
+    "url": "https://atcoder.jp/contests/abc181"
+  },
+  "tasks": [
+    {
+      "id": "abc181_a",
+      "label": "A",
+      "title": "Heavy Rotation",
+      "url": "https://atcoder.jp/contests/abc181/tasks/abc181_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc181_b",
+      "label": "B",
+      "title": "Trapezoid Sum",
+      "url": "https://atcoder.jp/contests/abc181/tasks/abc181_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc181_c",
+      "label": "C",
+      "title": "Collinearity",
+      "url": "https://atcoder.jp/contests/abc181/tasks/abc181_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc181_d",
+      "label": "D",
+      "title": "Hachi",
+      "url": "https://atcoder.jp/contests/abc181/tasks/abc181_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc181_e",
+      "label": "E",
+      "title": "Transformable Teacher",
+      "url": "https://atcoder.jp/contests/abc181/tasks/abc181_e"
+    },
+    {
+      "id": "abc181_f",
+      "label": "F",
+      "title": "Silver Woods",
+      "url": "https://atcoder.jp/contests/abc181/tasks/abc181_f"
+    }
+  ]
+}
