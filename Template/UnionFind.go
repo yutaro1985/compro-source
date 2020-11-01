@@ -6,11 +6,13 @@
 type UnionFind struct {
 	parent []int
 	maxlen int
+	N      int
 }
 
 // UnionFind のスライス初期化
 func newUnionFind(N int) *UnionFind {
 	u := new(UnionFind)
+	u.N = N
 	u.parent = make([]int, N)
 	u.maxlen = 1
 	for i := range u.parent {
@@ -68,4 +70,28 @@ func (u UnionFind) rootcnt() int {
 		}
 	}
 	return cnt
+}
+
+func (uf UnionFind) groups() [][]int {
+	rootBuf, groupSize := make([]int, uf.N), make([]int, uf.N)
+	for i := 0; i < uf.N; i++ {
+		rootBuf[i] = uf.find(i)
+		groupSize[rootBuf[i]]++
+	}
+	res := make([][]int, uf.N)
+	for i := 0; i < uf.N; i++ {
+		res[i] = make([]int, 0, groupSize[i])
+	}
+	for i := 0; i < uf.N; i++ {
+		res[rootBuf[i]] = append(res[rootBuf[i]], i)
+	}
+	result := make([][]int, 0, uf.N)
+	for i := 0; i < uf.N; i++ {
+		if len(res[i]) != 0 {
+			r := make([]int, len(res[i]))
+			copy(r, res[i])
+			result = append(result, r)
+		}
+	}
+	return result
 }
