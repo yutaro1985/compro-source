@@ -31,7 +31,12 @@
       "id": "codefestival_2016_qualA_c",
       "label": "C",
       "title": "Next Letter",
-      "url": "https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_c"
+      "url": "https://atcoder.jp/contests/code-festival-2016-quala/tasks/codefestival_2016_qualA_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "codefestival_2016_qualA_d",
