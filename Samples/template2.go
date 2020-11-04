@@ -45,6 +45,22 @@ func nextInt() int {
 	return i
 }
 
+func newInts(N int) []int {
+	res := make([]int, N)
+	for i := range res {
+		res[i] = nextInt()
+	}
+	return res
+}
+
+func newStrings(N int) []string {
+	res := make([]string, N)
+	for i := range res {
+		res[i] = nextLine()
+	}
+	return res
+}
+
 // Math Utilities
 // https://play.golang.org/p/bm7uZi0zCN
 
@@ -84,8 +100,18 @@ func PowMod(a, b, m int) int {
 	return p
 }
 
-func ceil(a, b int) int {
+// Ceil a/bを切り上げたものを返す
+func Ceil(a, b int) int {
 	return (a + (b - 1)) / b
+}
+
+// Mod 負の場合を考慮してあまりを取る
+func Mod(a, m int) int {
+	res := a % m
+	if res < 0 {
+		res += m
+	}
+	return res
 }
 
 // MinOf 与えられたintのうち最小のものを返す
