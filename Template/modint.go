@@ -63,3 +63,13 @@ func (mi *mint) divSelf(n mint) *mint {
 	*mi = mi.div(n)
 	return mi
 }
+
+// SingleCOM はmodintを使ってO(K)で一つの二項係数を求める関数
+func SingleCOM(N, K int) mint {
+	res := mint(1)
+	for i := 0; i < K; i++ {
+		res.mulSelf(mint(N - i))
+		res.divSelf(mint(i + 1))
+	}
+	return res
+}
