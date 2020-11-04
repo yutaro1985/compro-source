@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "agc011",
+    "title": "AtCoder Grand Contest 011",
+    "url": "https://atcoder.jp/contests/agc011"
+  },
+  "tasks": [
+    {
+      "id": "agc011_a",
+      "label": "A",
+      "title": "Airport Bus",
+      "url": "https://atcoder.jp/contests/agc011/tasks/agc011_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc011_b",
+      "label": "B",
+      "title": "Colorful Creatures",
+      "url": "https://atcoder.jp/contests/agc011/tasks/agc011_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc011_c",
+      "label": "C",
+      "title": "Squared Graph",
+      "url": "https://atcoder.jp/contests/agc011/tasks/agc011_c"
+    },
+    {
+      "id": "agc011_d",
+      "label": "D",
+      "title": "Half Reflector",
+      "url": "https://atcoder.jp/contests/agc011/tasks/agc011_d"
+    },
+    {
+      "id": "agc011_e",
+      "label": "E",
+      "title": "Increasing Numbers",
+      "url": "https://atcoder.jp/contests/agc011/tasks/agc011_e"
+    },
+    {
+      "id": "agc011_f",
+      "label": "F",
+      "title": "Train Service Planning",
+      "url": "https://atcoder.jp/contests/agc011/tasks/agc011_f"
+    }
+  ]
+}
