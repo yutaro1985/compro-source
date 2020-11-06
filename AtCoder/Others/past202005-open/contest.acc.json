@@ -97,7 +97,12 @@
       "id": "past202005_i",
       "label": "I",
       "title": "Matrix Operations",
-      "url": "https://atcoder.jp/contests/past202005-open/tasks/past202005_i"
+      "url": "https://atcoder.jp/contests/past202005-open/tasks/past202005_i",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past202005_j",
