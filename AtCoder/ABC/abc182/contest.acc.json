@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": "abc182",
+    "title": "AtCoder Beginner Contest 182",
+    "url": "https://atcoder.jp/contests/abc182"
+  },
+  "tasks": [
+    {
+      "id": "abc182_a",
+      "label": "A",
+      "title": "twiblr",
+      "url": "https://atcoder.jp/contests/abc182/tasks/abc182_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc182_b",
+      "label": "B",
+      "title": "Almost GCD",
+      "url": "https://atcoder.jp/contests/abc182/tasks/abc182_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc182_c",
+      "label": "C",
+      "title": "To 3",
+      "url": "https://atcoder.jp/contests/abc182/tasks/abc182_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc182_d",
+      "label": "D",
+      "title": "Wandering",
+      "url": "https://atcoder.jp/contests/abc182/tasks/abc182_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc182_e",
+      "label": "E",
+      "title": "Akari",
+      "url": "https://atcoder.jp/contests/abc182/tasks/abc182_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc182_f",
+      "label": "F",
+      "title": "Valid payments",
+      "url": "https://atcoder.jp/contests/abc182/tasks/abc182_f"
+    }
+  ]
+}
