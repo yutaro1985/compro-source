@@ -45,7 +45,7 @@ func nextInt() int {
 	return i
 }
 
-func newInts(N int) []int {
+func makeInts(N int) []int {
 	res := make([]int, N)
 	for i := range res {
 		res[i] = nextInt()
@@ -53,10 +53,36 @@ func newInts(N int) []int {
 	return res
 }
 
-func newStrings(N int) []string {
+func makeStrings(N int) []string {
 	res := make([]string, N)
 	for i := range res {
 		res[i] = nextLine()
+	}
+	return res
+}
+
+func init2DInts(H, W, N int) [][]int {
+	res := make([][]int, H)
+	for i := 0; i < W; i++ {
+		res[i] = make([]int, W)
+		if N != 0 {
+			for j := 0; j < W; j++ {
+				res[i][j] = N
+			}
+		}
+	}
+	return res
+}
+
+func init2DBools(H, W int, b bool) [][]bool {
+	res := make([][]bool, H)
+	for i := 0; i < W; i++ {
+		res[i] = make([]bool, W)
+		if b {
+			for j := 0; j < W; j++ {
+				res[i][j] = true
+			}
+		}
 	}
 	return res
 }
