@@ -55,14 +55,6 @@ func main() {
 		seenH[v.C][v.D] = INF
 		seenW[v.C][v.D] = INF
 	}
-	// S := make([][]byte, H)
-	// for i := 0; i < H; i++ {
-	// 	S[i] = make([]byte, W)
-	// 	for j := 0; j < W; j++ {
-	// 		S[i][j] = '.'
-	// 	}
-	// }
-
 	for _, b := range Bulbs {
 		if seenH[b.A][b.B] == 0 {
 			seenH[b.A][b.B] = 1
