@@ -72,6 +72,7 @@ func main() {
 			}
 		}
 		if seenW[b.A][b.B] == 0 {
+			seenW[b.A][b.B] = 1
 			for i := b.B; i < W-1; i++ {
 				if seenW[b.A][i+1] == INF {
 					break
