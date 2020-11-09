@@ -1,0 +1,44 @@
+{
+  "contest": {
+    "id": "agc009",
+    "title": "AtCoder Grand Contest 009",
+    "url": "https://atcoder.jp/contests/agc009"
+  },
+  "tasks": [
+    {
+      "id": "agc009_a",
+      "label": "A",
+      "title": "Multiple Array",
+      "url": "https://atcoder.jp/contests/agc009/tasks/agc009_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc009_b",
+      "label": "B",
+      "title": "Tournament",
+      "url": "https://atcoder.jp/contests/agc009/tasks/agc009_b"
+    },
+    {
+      "id": "agc009_c",
+      "label": "C",
+      "title": "Division into Two",
+      "url": "https://atcoder.jp/contests/agc009/tasks/agc009_c"
+    },
+    {
+      "id": "agc009_d",
+      "label": "D",
+      "title": "Uninity",
+      "url": "https://atcoder.jp/contests/agc009/tasks/agc009_d"
+    },
+    {
+      "id": "agc009_e",
+      "label": "E",
+      "title": "Eternal Average",
+      "url": "https://atcoder.jp/contests/agc009/tasks/agc009_e"
+    }
+  ]
+}
