@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc029",
+    "title": "AtCoder Grand Contest 029",
+    "url": "https://atcoder.jp/contests/agc029"
+  },
+  "tasks": [
+    {
+      "id": "agc029_a",
+      "label": "A",
+      "title": "Irreversible operation",
+      "url": "https://atcoder.jp/contests/agc029/tasks/agc029_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc029_b",
+      "label": "B",
+      "title": "Powers of two",
+      "url": "https://atcoder.jp/contests/agc029/tasks/agc029_b"
+    },
+    {
+      "id": "agc029_c",
+      "label": "C",
+      "title": "Lexicographic constraints",
+      "url": "https://atcoder.jp/contests/agc029/tasks/agc029_c"
+    },
+    {
+      "id": "agc029_d",
+      "label": "D",
+      "title": "Grid game",
+      "url": "https://atcoder.jp/contests/agc029/tasks/agc029_d"
+    },
+    {
+      "id": "agc029_e",
+      "label": "E",
+      "title": "Wandering TKHS",
+      "url": "https://atcoder.jp/contests/agc029/tasks/agc029_e"
+    },
+    {
+      "id": "agc029_f",
+      "label": "F",
+      "title": "Construction of a tree",
+      "url": "https://atcoder.jp/contests/agc029/tasks/agc029_f"
+    }
+  ]
+}

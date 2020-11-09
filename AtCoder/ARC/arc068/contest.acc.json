@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc068",
+    "title": "AtCoder Regular Contest 068",
+    "url": "https://atcoder.jp/contests/arc068"
+  },
+  "tasks": [
+    {
+      "id": "arc068_a",
+      "label": "C",
+      "title": "X: Yet Another Die Game",
+      "url": "https://atcoder.jp/contests/arc068/tasks/arc068_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "arc068_b",
+      "label": "D",
+      "title": "Card Eater",
+      "url": "https://atcoder.jp/contests/arc068/tasks/arc068_b"
+    },
+    {
+      "id": "arc068_c",
+      "label": "E",
+      "title": "Snuke Line",
+      "url": "https://atcoder.jp/contests/arc068/tasks/arc068_c"
+    },
+    {
+      "id": "arc068_d",
+      "label": "F",
+      "title": "Solitaire",
+      "url": "https://atcoder.jp/contests/arc068/tasks/arc068_d"
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc011",
+    "title": "AtCoder Regular Contest 011",
+    "url": "https://atcoder.jp/contests/arc011"
+  },
+  "tasks": [
+    {
+      "id": "arc011_1",
+      "label": "A",
+      "title": "鉛筆リサイクルの新技術",
+      "url": "https://atcoder.jp/contests/arc011/tasks/arc011_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc011_2",
+      "label": "B",
+      "title": "ルイス・キャロルの記憶術",
+      "url": "https://atcoder.jp/contests/arc011/tasks/arc011_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc011_3",
+      "label": "C",
+      "title": "ダブレット",
+      "url": "https://atcoder.jp/contests/arc011/tasks/arc011_3"
+    },
+    {
+      "id": "arc011_4",
+      "label": "D",
+      "title": "きつねさんからの挑戦状",
+      "url": "https://atcoder.jp/contests/arc011/tasks/arc011_4"
+    }
+  ]
+}

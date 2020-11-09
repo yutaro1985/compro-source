@@ -1,0 +1,56 @@
+{
+  "contest": {
+    "id": "agc028",
+    "title": "AtCoder Grand Contest 028",
+    "url": "https://atcoder.jp/contests/agc028"
+  },
+  "tasks": [
+    {
+      "id": "agc028_a",
+      "label": "A",
+      "title": "Two Abbreviations",
+      "url": "https://atcoder.jp/contests/agc028/tasks/agc028_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "agc028_b",
+      "label": "B",
+      "title": "Removing Blocks",
+      "url": "https://atcoder.jp/contests/agc028/tasks/agc028_b"
+    },
+    {
+      "id": "agc028_c",
+      "label": "C",
+      "title": "Min Cost Cycle",
+      "url": "https://atcoder.jp/contests/agc028/tasks/agc028_c"
+    },
+    {
+      "id": "agc028_d",
+      "label": "D",
+      "title": "Chords",
+      "url": "https://atcoder.jp/contests/agc028/tasks/agc028_d"
+    },
+    {
+      "id": "agc028_e",
+      "label": "E",
+      "title": "High Elements",
+      "url": "https://atcoder.jp/contests/agc028/tasks/agc028_e"
+    },
+    {
+      "id": "agc028_f",
+      "label": "F",
+      "title": "Reachable Cells",
+      "url": "https://atcoder.jp/contests/agc028/tasks/agc028_f"
+    },
+    {
+      "id": "agc028_f2",
+      "label": "F2",
+      "title": "Reachable Cells",
+      "url": "https://atcoder.jp/contests/agc028/tasks/agc028_f2"
+    }
+  ]
+}
