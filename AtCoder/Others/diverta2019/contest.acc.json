@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "diverta2019",
+    "title": "diverta 2019 Programming Contest",
+    "url": "https://atcoder.jp/contests/diverta2019"
+  },
+  "tasks": [
+    {
+      "id": "diverta2019_a",
+      "label": "A",
+      "title": "Consecutive Integers",
+      "url": "https://atcoder.jp/contests/diverta2019/tasks/diverta2019_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "diverta2019_b",
+      "label": "B",
+      "title": "RGB Boxes",
+      "url": "https://atcoder.jp/contests/diverta2019/tasks/diverta2019_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "diverta2019_c",
+      "label": "C",
+      "title": "AB Substrings",
+      "url": "https://atcoder.jp/contests/diverta2019/tasks/diverta2019_c"
+    },
+    {
+      "id": "diverta2019_d",
+      "label": "D",
+      "title": "DivRem Number",
+      "url": "https://atcoder.jp/contests/diverta2019/tasks/diverta2019_d"
+    },
+    {
+      "id": "diverta2019_e",
+      "label": "E",
+      "title": "XOR Partitioning",
+      "url": "https://atcoder.jp/contests/diverta2019/tasks/diverta2019_e"
+    },
+    {
+      "id": "diverta2019_f",
+      "label": "F",
+      "title": "Edge Ordering",
+      "url": "https://atcoder.jp/contests/diverta2019/tasks/diverta2019_f"
+    }
+  ]
+}
