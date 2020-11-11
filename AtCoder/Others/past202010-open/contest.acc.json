@@ -1,0 +1,104 @@
+{
+  "contest": {
+    "id": "past202010-open",
+    "title": "第四回 アルゴリズム実技検定",
+    "url": "https://atcoder.jp/contests/past202010-open"
+  },
+  "tasks": [
+    {
+      "id": "past202010_a",
+      "label": "A",
+      "title": "中央値",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "past202010_b",
+      "label": "B",
+      "title": "電卓",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_b"
+    },
+    {
+      "id": "past202010_c",
+      "label": "C",
+      "title": "隣接カウント",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_c"
+    },
+    {
+      "id": "past202010_d",
+      "label": "D",
+      "title": "分身",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_d"
+    },
+    {
+      "id": "past202010_e",
+      "label": "E",
+      "title": "アナグラム",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_e"
+    },
+    {
+      "id": "past202010_f",
+      "label": "F",
+      "title": "構文解析",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_f"
+    },
+    {
+      "id": "past202010_g",
+      "label": "G",
+      "title": "村整備",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_g"
+    },
+    {
+      "id": "past202010_h",
+      "label": "H",
+      "title": "マス目のカット",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_h"
+    },
+    {
+      "id": "past202010_i",
+      "label": "I",
+      "title": "ピザ",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_i"
+    },
+    {
+      "id": "past202010_j",
+      "label": "J",
+      "title": "ワープ",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_j"
+    },
+    {
+      "id": "past202010_k",
+      "label": "K",
+      "title": "転倒数",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_k"
+    },
+    {
+      "id": "past202010_l",
+      "label": "L",
+      "title": "マンションの改築",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_l"
+    },
+    {
+      "id": "past202010_m",
+      "label": "M",
+      "title": "筆塗り",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_m"
+    },
+    {
+      "id": "past202010_n",
+      "label": "N",
+      "title": "マス目の穴埋め",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_n"
+    },
+    {
+      "id": "past202010_o",
+      "label": "O",
+      "title": "宝箱",
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_o"
+    }
+  ]
+}
