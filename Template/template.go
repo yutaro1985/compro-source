@@ -63,7 +63,7 @@ func makeStrings(N int) []string {
 
 func init2DInts(H, W, N int) [][]int {
 	res := make([][]int, H)
-	for i := 0; i < W; i++ {
+	for i := 0; i < H; i++ {
 		res[i] = make([]int, W)
 		if N != 0 {
 			for j := 0; j < W; j++ {
@@ -76,7 +76,7 @@ func init2DInts(H, W, N int) [][]int {
 
 func init2DBools(H, W int, b bool) [][]bool {
 	res := make([][]bool, H)
-	for i := 0; i < W; i++ {
+	for i := 0; i < H; i++ {
 		res[i] = make([]bool, W)
 		if b {
 			for j := 0; j < W; j++ {
