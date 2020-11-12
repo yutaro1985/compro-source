@@ -86,13 +86,23 @@
       "id": "past202010_h",
       "label": "H",
       "title": "マス目のカット",
-      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_h"
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past202010_i",
       "label": "I",
       "title": "ピザ",
-      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_i"
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_i",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past202010_j",
