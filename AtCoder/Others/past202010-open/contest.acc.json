@@ -20,37 +20,67 @@
       "id": "past202010_b",
       "label": "B",
       "title": "電卓",
-      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_b"
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past202010_c",
       "label": "C",
       "title": "隣接カウント",
-      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_c"
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past202010_d",
       "label": "D",
       "title": "分身",
-      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_d"
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past202010_e",
       "label": "E",
       "title": "アナグラム",
-      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_e"
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past202010_f",
       "label": "F",
       "title": "構文解析",
-      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_f"
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past202010_g",
       "label": "G",
       "title": "村整備",
-      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_g"
+      "url": "https://atcoder.jp/contests/past202010-open/tasks/past202010_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "past202010_h",
