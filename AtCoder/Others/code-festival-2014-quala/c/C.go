@@ -26,7 +26,7 @@ const (
 	maxsize = 510000
 )
 
-// TODO 本のやり方のうまく行かない原因を探る
+// TODO #27 本のやり方のうまく行かない原因を探る
 
 func main() {
 	A, B := nextInt(), nextInt()
