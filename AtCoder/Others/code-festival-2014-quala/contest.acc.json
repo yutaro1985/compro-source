@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "code-festival-2014-quala",
+    "title": "CODE FESTIVAL 2014 予選A",
+    "url": "https://atcoder.jp/contests/code-festival-2014-quala"
+  },
+  "tasks": [
+    {
+      "id": "code_festival_qualA_a",
+      "label": "A",
+      "title": "CODE FESTIVAL 2014",
+      "url": "https://atcoder.jp/contests/code-festival-2014-quala/tasks/code_festival_qualA_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "code_festival_qualA_b",
+      "label": "B",
+      "title": "とても長い文字列",
+      "url": "https://atcoder.jp/contests/code-festival-2014-quala/tasks/code_festival_qualA_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "code_festival_qualA_c",
+      "label": "C",
+      "title": "2月29日",
+      "url": "https://atcoder.jp/contests/code-festival-2014-quala/tasks/code_festival_qualA_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "code_festival_qualA_d",
+      "label": "D",
+      "title": "壊れた電卓",
+      "url": "https://atcoder.jp/contests/code-festival-2014-quala/tasks/code_festival_qualA_d"
+    }
+  ]
+}
