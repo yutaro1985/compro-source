@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc093",
+    "title": "AtCoder Regular Contest 093",
+    "url": "https://atcoder.jp/contests/arc093"
+  },
+  "tasks": [
+    {
+      "id": "arc093_a",
+      "label": "C",
+      "title": "Traveling Plan",
+      "url": "https://atcoder.jp/contests/arc093/tasks/arc093_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc093_b",
+      "label": "D",
+      "title": "Grid Components",
+      "url": "https://atcoder.jp/contests/arc093/tasks/arc093_b"
+    },
+    {
+      "id": "arc093_c",
+      "label": "E",
+      "title": "Bichrome Spanning Tree",
+      "url": "https://atcoder.jp/contests/arc093/tasks/arc093_c"
+    },
+    {
+      "id": "arc093_d",
+      "label": "F",
+      "title": "Dark Horse",
+      "url": "https://atcoder.jp/contests/arc093/tasks/arc093_d"
+    }
+  ]
+}

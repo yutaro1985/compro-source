@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "abc126",
+    "title": "AtCoder Beginner Contest 126",
+    "url": "https://atcoder.jp/contests/abc126"
+  },
+  "tasks": [
+    {
+      "id": "abc126_a",
+      "label": "A",
+      "title": "Changing a Character",
+      "url": "https://atcoder.jp/contests/abc126/tasks/abc126_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc126_b",
+      "label": "B",
+      "title": "YYMM or MMYY",
+      "url": "https://atcoder.jp/contests/abc126/tasks/abc126_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc126_c",
+      "label": "C",
+      "title": "Dice and Coin",
+      "url": "https://atcoder.jp/contests/abc126/tasks/abc126_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc126_d",
+      "label": "D",
+      "title": "Even Relation",
+      "url": "https://atcoder.jp/contests/abc126/tasks/abc126_d"
+    },
+    {
+      "id": "abc126_e",
+      "label": "E",
+      "title": "1 or 2",
+      "url": "https://atcoder.jp/contests/abc126/tasks/abc126_e"
+    },
+    {
+      "id": "abc126_f",
+      "label": "F",
+      "title": "XOR Matching",
+      "url": "https://atcoder.jp/contests/abc126/tasks/abc126_f"
+    }
+  ]
+}
