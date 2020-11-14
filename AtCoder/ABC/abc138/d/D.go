@@ -48,13 +48,15 @@ func main() {
 	fmt.Println(strings.Trim(fmt.Sprint(counter), "[]"))
 }
 
+// vは頂点の位置。pはvの親の頂点の位置。
 func dfs(v, p int) {
-	if p != -1 {
-		counter[v] += counter[p]
-		// fmt.Println(v, p, counter)
-	}
+	// if p != -1 {
+	// 	counter[v] += counter[p]
+	// 	// fmt.Println(v, p, counter)
+	// }
 	for _, val := range G[v] {
 		if val != p {
+			counter[val] += counter[v]
 			dfs(val, v)
 		}
 	}
