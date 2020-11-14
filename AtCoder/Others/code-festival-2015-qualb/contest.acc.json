@@ -9,7 +9,12 @@
       "id": "codefestival_2015_qualB_a",
       "label": "A",
       "title": "Double String",
-      "url": "https://atcoder.jp/contests/code-festival-2015-qualb/tasks/codefestival_2015_qualB_a"
+      "url": "https://atcoder.jp/contests/code-festival-2015-qualb/tasks/codefestival_2015_qualB_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "codefestival_2015_qualB_b",
@@ -26,7 +31,12 @@
       "id": "codefestival_2015_qualB_c",
       "label": "C",
       "title": "Hotel",
-      "url": "https://atcoder.jp/contests/code-festival-2015-qualb/tasks/codefestival_2015_qualB_c"
+      "url": "https://atcoder.jp/contests/code-festival-2015-qualb/tasks/codefestival_2015_qualB_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "codefestival_2015_qualB_d",
