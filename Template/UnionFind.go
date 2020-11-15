@@ -72,6 +72,7 @@ func (u UnionFind) rootcnt() int {
 	return cnt
 }
 
+// UniouFindを各グループに分けたものを2次元スライスで返す
 func (uf UnionFind) groups() [][]int {
 	rootBuf, groupSize := make([]int, uf.N), make([]int, uf.N)
 	for i := 0; i < uf.N; i++ {
