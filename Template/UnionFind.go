@@ -38,7 +38,7 @@ func (u *UnionFind) unite(x, y int) {
 		return
 	}
 	// 常に大きい方に小さい木をくっつける
-	if u.parent[xf] > u.parent[yf] {
+	if u.parent[xf] >= u.parent[yf] {
 		xf, yf = yf, xf
 	}
 	u.parent[xf] += u.parent[yf]
