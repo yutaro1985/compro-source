@@ -64,7 +64,12 @@
       "id": "abc183_f",
       "label": "F",
       "title": "Confluence",
-      "url": "https://atcoder.jp/contests/abc183/tasks/abc183_f"
+      "url": "https://atcoder.jp/contests/abc183/tasks/abc183_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     }
   ]
 }
