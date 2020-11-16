@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc039",
+    "title": "AtCoder Grand Contest 039",
+    "url": "https://atcoder.jp/contests/agc039"
+  },
+  "tasks": [
+    {
+      "id": "agc039_a",
+      "label": "A",
+      "title": "Connection and Disconnection",
+      "url": "https://atcoder.jp/contests/agc039/tasks/agc039_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc039_b",
+      "label": "B",
+      "title": "Graph Partition",
+      "url": "https://atcoder.jp/contests/agc039/tasks/agc039_b"
+    },
+    {
+      "id": "agc039_c",
+      "label": "C",
+      "title": "Division by Two with Something",
+      "url": "https://atcoder.jp/contests/agc039/tasks/agc039_c"
+    },
+    {
+      "id": "agc039_d",
+      "label": "D",
+      "title": "Incenters",
+      "url": "https://atcoder.jp/contests/agc039/tasks/agc039_d"
+    },
+    {
+      "id": "agc039_e",
+      "label": "E",
+      "title": "Pairing Points",
+      "url": "https://atcoder.jp/contests/agc039/tasks/agc039_e"
+    },
+    {
+      "id": "agc039_f",
+      "label": "F",
+      "title": "Min Product Sum",
+      "url": "https://atcoder.jp/contests/agc039/tasks/agc039_f"
+    }
+  ]
+}
