@@ -1,0 +1,72 @@
+{
+  "contest": {
+    "id": "code-formula-2014-final",
+    "title": "Code Formula 2014 本選",
+    "url": "https://atcoder.jp/contests/code-formula-2014-final"
+  },
+  "tasks": [
+    {
+      "id": "code_formula_2014_final_a",
+      "label": "A",
+      "title": "Code Formula 2015",
+      "url": "https://atcoder.jp/contests/code-formula-2014-final/tasks/code_formula_2014_final_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "code_formula_2014_final_b",
+      "label": "B",
+      "title": "3歩進んで2歩下がる",
+      "url": "https://atcoder.jp/contests/code-formula-2014-final/tasks/code_formula_2014_final_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "code_formula_2014_final_c",
+      "label": "C",
+      "title": "次世代SNS",
+      "url": "https://atcoder.jp/contests/code-formula-2014-final/tasks/code_formula_2014_final_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "code_formula_2014_final_d",
+      "label": "D",
+      "title": "映画の連続視聴",
+      "url": "https://atcoder.jp/contests/code-formula-2014-final/tasks/code_formula_2014_final_d"
+    },
+    {
+      "id": "code_formula_2014_final_e",
+      "label": "E",
+      "title": "ab文字列",
+      "url": "https://atcoder.jp/contests/code-formula-2014-final/tasks/code_formula_2014_final_e"
+    },
+    {
+      "id": "code_formula_2014_final_f",
+      "label": "F",
+      "title": "100個の円",
+      "url": "https://atcoder.jp/contests/code-formula-2014-final/tasks/code_formula_2014_final_f"
+    },
+    {
+      "id": "code_formula_2014_final_g",
+      "label": "G",
+      "title": "ノイハの塔",
+      "url": "https://atcoder.jp/contests/code-formula-2014-final/tasks/code_formula_2014_final_g"
+    },
+    {
+      "id": "code_formula_2014_final_h",
+      "label": "H",
+      "title": "平和協定",
+      "url": "https://atcoder.jp/contests/code-formula-2014-final/tasks/code_formula_2014_final_h"
+    }
+  ]
+}
