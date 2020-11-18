@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc057",
+    "title": "AtCoder Beginner Contest 057",
+    "url": "https://atcoder.jp/contests/abc057"
+  },
+  "tasks": [
+    {
+      "id": "abc057_a",
+      "label": "A",
+      "title": "Remaining Time",
+      "url": "https://atcoder.jp/contests/abc057/tasks/abc057_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc057_b",
+      "label": "B",
+      "title": "Checkpoints",
+      "url": "https://atcoder.jp/contests/abc057/tasks/abc057_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc057_c",
+      "label": "C",
+      "title": "Digits in Multiplication",
+      "url": "https://atcoder.jp/contests/abc057/tasks/abc057_c"
+    },
+    {
+      "id": "abc057_d",
+      "label": "D",
+      "title": "Maximum Average Sets",
+      "url": "https://atcoder.jp/contests/abc057/tasks/abc057_d"
+    }
+  ]
+}
