@@ -1,0 +1,44 @@
+{
+  "contest": {
+    "id": "tenka1-2015-qualb",
+    "title": "天下一プログラマーコンテスト2015予選B",
+    "url": "https://atcoder.jp/contests/tenka1-2015-qualb"
+  },
+  "tasks": [
+    {
+      "id": "tenka1_2015_qualB_a",
+      "label": "A",
+      "title": "天下一プログラマーコンテスト1998",
+      "url": "https://atcoder.jp/contests/tenka1-2015-qualb/tasks/tenka1_2015_qualB_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "tenka1_2015_qualB_b",
+      "label": "B",
+      "title": "天下一リテラル",
+      "url": "https://atcoder.jp/contests/tenka1-2015-qualb/tasks/tenka1_2015_qualB_b"
+    },
+    {
+      "id": "tenka1_2015_qualB_c",
+      "label": "C",
+      "title": "擬二等辺三角形",
+      "url": "https://atcoder.jp/contests/tenka1-2015-qualb/tasks/tenka1_2015_qualB_c"
+    },
+    {
+      "id": "tenka1_2015_qualB_d",
+      "label": "D",
+      "title": "天下一電卓英作文",
+      "url": "https://atcoder.jp/contests/tenka1-2015-qualb/tasks/tenka1_2015_qualB_d"
+    },
+    {
+      "id": "tenka1_2015_qualB_e",
+      "label": "E",
+      "title": "天下一演算",
+      "url": "https://atcoder.jp/contests/tenka1-2015-qualb/tasks/tenka1_2015_qualB_e"
+    }
+  ]
+}
