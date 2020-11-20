@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc106",
+    "title": "AtCoder Beginner Contest 106",
+    "url": "https://atcoder.jp/contests/abc106"
+  },
+  "tasks": [
+    {
+      "id": "abc106_a",
+      "label": "A",
+      "title": "Garden",
+      "url": "https://atcoder.jp/contests/abc106/tasks/abc106_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc106_b",
+      "label": "B",
+      "title": "105",
+      "url": "https://atcoder.jp/contests/abc106/tasks/abc106_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc106_c",
+      "label": "C",
+      "title": "To Infinity",
+      "url": "https://atcoder.jp/contests/abc106/tasks/abc106_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc106_d",
+      "label": "D",
+      "title": "AtCoder Express 2",
+      "url": "https://atcoder.jp/contests/abc106/tasks/abc106_d"
+    }
+  ]
+}
