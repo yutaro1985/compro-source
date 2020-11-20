@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc015",
+    "title": "AtCoder Regular Contest 015",
+    "url": "https://atcoder.jp/contests/arc015"
+  },
+  "tasks": [
+    {
+      "id": "arc015_1",
+      "label": "A",
+      "title": "Celsius と Fahrenheit",
+      "url": "https://atcoder.jp/contests/arc015/tasks/arc015_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc015_2",
+      "label": "B",
+      "title": "真冬日？真夏日？",
+      "url": "https://atcoder.jp/contests/arc015/tasks/arc015_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc015_3",
+      "label": "C",
+      "title": "変わった単位",
+      "url": "https://atcoder.jp/contests/arc015/tasks/arc015_3"
+    },
+    {
+      "id": "arc015_4",
+      "label": "D",
+      "title": "きんいろクッキー",
+      "url": "https://atcoder.jp/contests/arc015/tasks/arc015_4"
+    }
+  ]
+}
