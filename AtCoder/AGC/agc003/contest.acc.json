@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc003",
+    "title": "AtCoder Grand Contest 003",
+    "url": "https://atcoder.jp/contests/agc003"
+  },
+  "tasks": [
+    {
+      "id": "agc003_a",
+      "label": "A",
+      "title": "Wanna go back home",
+      "url": "https://atcoder.jp/contests/agc003/tasks/agc003_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc003_b",
+      "label": "B",
+      "title": "Simplified mahjong",
+      "url": "https://atcoder.jp/contests/agc003/tasks/agc003_b"
+    },
+    {
+      "id": "agc003_c",
+      "label": "C",
+      "title": "BBuBBBlesort!",
+      "url": "https://atcoder.jp/contests/agc003/tasks/agc003_c"
+    },
+    {
+      "id": "agc003_d",
+      "label": "D",
+      "title": "Anticube",
+      "url": "https://atcoder.jp/contests/agc003/tasks/agc003_d"
+    },
+    {
+      "id": "agc003_e",
+      "label": "E",
+      "title": "Sequential operations on Sequence",
+      "url": "https://atcoder.jp/contests/agc003/tasks/agc003_e"
+    },
+    {
+      "id": "agc003_f",
+      "label": "F",
+      "title": "Fraction of Fractal",
+      "url": "https://atcoder.jp/contests/agc003/tasks/agc003_f"
+    }
+  ]
+}
