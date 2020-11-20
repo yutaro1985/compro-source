@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc018",
+    "title": "AtCoder Beginner Contest 018",
+    "url": "https://atcoder.jp/contests/abc018"
+  },
+  "tasks": [
+    {
+      "id": "abc018_1",
+      "label": "A",
+      "title": "豆まき",
+      "url": "https://atcoder.jp/contests/abc018/tasks/abc018_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc018_2",
+      "label": "B",
+      "title": "文字列の反転",
+      "url": "https://atcoder.jp/contests/abc018/tasks/abc018_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc018_3",
+      "label": "C",
+      "title": "菱型カウント",
+      "url": "https://atcoder.jp/contests/abc018/tasks/abc018_3"
+    },
+    {
+      "id": "abc018_4",
+      "label": "D",
+      "title": "バレンタインデー",
+      "url": "https://atcoder.jp/contests/abc018/tasks/abc018_4"
+    }
+  ]
+}
