@@ -9,7 +9,12 @@
       "id": "abc103_a",
       "label": "A",
       "title": "Task Scheduling Problem",
-      "url": "https://atcoder.jp/contests/abc103/tasks/abc103_a"
+      "url": "https://atcoder.jp/contests/abc103/tasks/abc103_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "abc103_b",
@@ -25,7 +30,12 @@
       "id": "abc103_c",
       "label": "C",
       "title": "Modulo Summation",
-      "url": "https://atcoder.jp/contests/abc103/tasks/abc103_c"
+      "url": "https://atcoder.jp/contests/abc103/tasks/abc103_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "abc103_d",
