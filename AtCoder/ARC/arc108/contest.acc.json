@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "arc108",
+    "title": "AtCoder Regular Contest 108",
+    "url": "https://atcoder.jp/contests/arc108"
+  },
+  "tasks": [
+    {
+      "id": "arc108_a",
+      "label": "A",
+      "title": "Sum and Product",
+      "url": "https://atcoder.jp/contests/arc108/tasks/arc108_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc108_b",
+      "label": "B",
+      "title": "Abbreviate Fox",
+      "url": "https://atcoder.jp/contests/arc108/tasks/arc108_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc108_c",
+      "label": "C",
+      "title": "Keep Graph Connected",
+      "url": "https://atcoder.jp/contests/arc108/tasks/arc108_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc108_d",
+      "label": "D",
+      "title": "AB",
+      "url": "https://atcoder.jp/contests/arc108/tasks/arc108_d"
+    },
+    {
+      "id": "arc108_e",
+      "label": "E",
+      "title": "Random IS",
+      "url": "https://atcoder.jp/contests/arc108/tasks/arc108_e"
+    },
+    {
+      "id": "arc108_f",
+      "label": "F",
+      "title": "Paint Tree",
+      "url": "https://atcoder.jp/contests/arc108/tasks/arc108_f"
+    }
+  ]
+}
