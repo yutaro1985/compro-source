@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "abc184",
+    "title": "AtCoder Beginner Contest 184",
+    "url": "https://atcoder.jp/contests/abc184"
+  },
+  "tasks": [
+    {
+      "id": "abc184_a",
+      "label": "A",
+      "title": "Determinant",
+      "url": "https://atcoder.jp/contests/abc184/tasks/abc184_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc184_b",
+      "label": "B",
+      "title": "Quizzes",
+      "url": "https://atcoder.jp/contests/abc184/tasks/abc184_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc184_c",
+      "label": "C",
+      "title": "Super Ryuma",
+      "url": "https://atcoder.jp/contests/abc184/tasks/abc184_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc184_d",
+      "label": "D",
+      "title": "increment of coins",
+      "url": "https://atcoder.jp/contests/abc184/tasks/abc184_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc184_e",
+      "label": "E",
+      "title": "Third Avenue",
+      "url": "https://atcoder.jp/contests/abc184/tasks/abc184_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc184_f",
+      "label": "F",
+      "title": "Programming Contest",
+      "url": "https://atcoder.jp/contests/abc184/tasks/abc184_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    }
+  ]
+}
