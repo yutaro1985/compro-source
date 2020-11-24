@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc006",
+    "title": "AtCoder Grand Contest 006",
+    "url": "https://atcoder.jp/contests/agc006"
+  },
+  "tasks": [
+    {
+      "id": "agc006_a",
+      "label": "A",
+      "title": "Prefix and Suffix",
+      "url": "https://atcoder.jp/contests/agc006/tasks/agc006_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc006_b",
+      "label": "B",
+      "title": "Median Pyramid Easy",
+      "url": "https://atcoder.jp/contests/agc006/tasks/agc006_b"
+    },
+    {
+      "id": "agc006_c",
+      "label": "C",
+      "title": "Rabbit Exercise",
+      "url": "https://atcoder.jp/contests/agc006/tasks/agc006_c"
+    },
+    {
+      "id": "agc006_d",
+      "label": "D",
+      "title": "Median Pyramid Hard",
+      "url": "https://atcoder.jp/contests/agc006/tasks/agc006_d"
+    },
+    {
+      "id": "agc006_e",
+      "label": "E",
+      "title": "Rotate 3x3",
+      "url": "https://atcoder.jp/contests/agc006/tasks/agc006_e"
+    },
+    {
+      "id": "agc006_f",
+      "label": "F",
+      "title": "Blackout",
+      "url": "https://atcoder.jp/contests/agc006/tasks/agc006_f"
+    }
+  ]
+}
