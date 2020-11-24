@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc019",
+    "title": "AtCoder Grand Contest 019",
+    "url": "https://atcoder.jp/contests/agc019"
+  },
+  "tasks": [
+    {
+      "id": "agc019_a",
+      "label": "A",
+      "title": "Ice Tea Store",
+      "url": "https://atcoder.jp/contests/agc019/tasks/agc019_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc019_b",
+      "label": "B",
+      "title": "Reverse and Compare",
+      "url": "https://atcoder.jp/contests/agc019/tasks/agc019_b"
+    },
+    {
+      "id": "agc019_c",
+      "label": "C",
+      "title": "Fountain Walk",
+      "url": "https://atcoder.jp/contests/agc019/tasks/agc019_c"
+    },
+    {
+      "id": "agc019_d",
+      "label": "D",
+      "title": "Shift and Flip",
+      "url": "https://atcoder.jp/contests/agc019/tasks/agc019_d"
+    },
+    {
+      "id": "agc019_e",
+      "label": "E",
+      "title": "Shuffle and Swap",
+      "url": "https://atcoder.jp/contests/agc019/tasks/agc019_e"
+    },
+    {
+      "id": "agc019_f",
+      "label": "F",
+      "title": "Yes or No",
+      "url": "https://atcoder.jp/contests/agc019/tasks/agc019_f"
+    }
+  ]
+}
