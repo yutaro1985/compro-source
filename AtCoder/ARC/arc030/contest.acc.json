@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc030",
+    "title": "AtCoder Regular Contest 030",
+    "url": "https://atcoder.jp/contests/arc030"
+  },
+  "tasks": [
+    {
+      "id": "arc030_1",
+      "label": "A",
+      "title": "閉路グラフ",
+      "url": "https://atcoder.jp/contests/arc030/tasks/arc030_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc030_2",
+      "label": "B",
+      "title": "ツリーグラフ",
+      "url": "https://atcoder.jp/contests/arc030/tasks/arc030_2"
+    },
+    {
+      "id": "arc030_3",
+      "label": "C",
+      "title": "有向グラフ",
+      "url": "https://atcoder.jp/contests/arc030/tasks/arc030_3"
+    },
+    {
+      "id": "arc030_4",
+      "label": "D",
+      "title": "グラフではない",
+      "url": "https://atcoder.jp/contests/arc030/tasks/arc030_4"
+    }
+  ]
+}
