@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc017",
+    "title": "AtCoder Beginner Contest 017",
+    "url": "https://atcoder.jp/contests/abc017"
+  },
+  "tasks": [
+    {
+      "id": "abc017_1",
+      "label": "A",
+      "title": "プロコン",
+      "url": "https://atcoder.jp/contests/abc017/tasks/abc017_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc017_2",
+      "label": "B",
+      "title": "choku語",
+      "url": "https://atcoder.jp/contests/abc017/tasks/abc017_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc017_3",
+      "label": "C",
+      "title": "ハイスコア",
+      "url": "https://atcoder.jp/contests/abc017/tasks/abc017_3"
+    },
+    {
+      "id": "abc017_4",
+      "label": "D",
+      "title": "サプリメント",
+      "url": "https://atcoder.jp/contests/abc017/tasks/abc017_4"
+    }
+  ]
+}
