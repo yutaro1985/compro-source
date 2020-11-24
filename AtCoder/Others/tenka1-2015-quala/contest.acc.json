@@ -1,0 +1,44 @@
+{
+  "contest": {
+    "id": "tenka1-2015-quala",
+    "title": "天下一プログラマーコンテスト2015予選A",
+    "url": "https://atcoder.jp/contests/tenka1-2015-quala"
+  },
+  "tasks": [
+    {
+      "id": "tenka1_2015_qualA_a",
+      "label": "A",
+      "title": "展開図プログラマーコンテスト",
+      "url": "https://atcoder.jp/contests/tenka1-2015-quala/tasks/tenka1_2015_qualA_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "tenka1_2015_qualA_b",
+      "label": "B",
+      "title": "stepモード",
+      "url": "https://atcoder.jp/contests/tenka1-2015-quala/tasks/tenka1_2015_qualA_b"
+    },
+    {
+      "id": "tenka1_2015_qualA_c",
+      "label": "C",
+      "title": "天下一美術館",
+      "url": "https://atcoder.jp/contests/tenka1-2015-quala/tasks/tenka1_2015_qualA_c"
+    },
+    {
+      "id": "tenka1_2015_qualA_d",
+      "label": "D",
+      "title": "ハシポン",
+      "url": "https://atcoder.jp/contests/tenka1-2015-quala/tasks/tenka1_2015_qualA_d"
+    },
+    {
+      "id": "tenka1_2015_qualA_e",
+      "label": "E",
+      "title": "天下一魔法使い",
+      "url": "https://atcoder.jp/contests/tenka1-2015-quala/tasks/tenka1_2015_qualA_e"
+    }
+  ]
+}
