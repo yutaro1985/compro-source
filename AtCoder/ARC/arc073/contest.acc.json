@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc073",
+    "title": "AtCoder Regular Contest 073",
+    "url": "https://atcoder.jp/contests/arc073"
+  },
+  "tasks": [
+    {
+      "id": "arc073_a",
+      "label": "C",
+      "title": "Sentou",
+      "url": "https://atcoder.jp/contests/arc073/tasks/arc073_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc073_b",
+      "label": "D",
+      "title": "Simple Knapsack",
+      "url": "https://atcoder.jp/contests/arc073/tasks/arc073_b"
+    },
+    {
+      "id": "arc073_c",
+      "label": "E",
+      "title": "Ball Coloring",
+      "url": "https://atcoder.jp/contests/arc073/tasks/arc073_c"
+    },
+    {
+      "id": "arc073_d",
+      "label": "F",
+      "title": "Many Moves",
+      "url": "https://atcoder.jp/contests/arc073/tasks/arc073_d"
+    }
+  ]
+}
