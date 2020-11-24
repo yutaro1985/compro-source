@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc013",
+    "title": "AtCoder Regular Contest 013",
+    "url": "https://atcoder.jp/contests/arc013"
+  },
+  "tasks": [
+    {
+      "id": "arc013_1",
+      "label": "A",
+      "title": "梱包できるかな？",
+      "url": "https://atcoder.jp/contests/arc013/tasks/arc013_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc013_2",
+      "label": "B",
+      "title": "引越しできるかな？",
+      "url": "https://atcoder.jp/contests/arc013/tasks/arc013_2"
+    },
+    {
+      "id": "arc013_3",
+      "label": "C",
+      "title": "笑いをとれるかな？",
+      "url": "https://atcoder.jp/contests/arc013/tasks/arc013_3"
+    },
+    {
+      "id": "arc013_4",
+      "label": "D",
+      "title": "切り分けできるかな？",
+      "url": "https://atcoder.jp/contests/arc013/tasks/arc013_4"
+    }
+  ]
+}
