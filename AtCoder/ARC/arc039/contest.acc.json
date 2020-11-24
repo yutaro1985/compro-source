@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc039",
+    "title": "AtCoder Regular Contest 039",
+    "url": "https://atcoder.jp/contests/arc039"
+  },
+  "tasks": [
+    {
+      "id": "arc039_a",
+      "label": "A",
+      "title": "A - B problem",
+      "url": "https://atcoder.jp/contests/arc039/tasks/arc039_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc039_b",
+      "label": "B",
+      "title": "高橋幼稚園",
+      "url": "https://atcoder.jp/contests/arc039/tasks/arc039_b"
+    },
+    {
+      "id": "arc039_c",
+      "label": "C",
+      "title": "幼稚園児高橋君",
+      "url": "https://atcoder.jp/contests/arc039/tasks/arc039_c"
+    },
+    {
+      "id": "arc039_d",
+      "label": "D",
+      "title": "旅行会社高橋君",
+      "url": "https://atcoder.jp/contests/arc039/tasks/arc039_d"
+    }
+  ]
+}
