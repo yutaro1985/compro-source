@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "code-festival-2014-morning-easy",
+    "title": "CODE FESTIVAL 2014 Easy",
+    "url": "https://atcoder.jp/contests/code-festival-2014-morning-easy"
+  },
+  "tasks": [
+    {
+      "id": "code_festival_morning_easy_a",
+      "label": "A",
+      "title": "差の平均",
+      "url": "https://atcoder.jp/contests/code-festival-2014-morning-easy/tasks/code_festival_morning_easy_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "code_festival_morning_easy_b",
+      "label": "B",
+      "title": "チーム作り",
+      "url": "https://atcoder.jp/contests/code-festival-2014-morning-easy/tasks/code_festival_morning_easy_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "code_festival_morning_easy_c",
+      "label": "C",
+      "title": "身体バランス",
+      "url": "https://atcoder.jp/contests/code-festival-2014-morning-easy/tasks/code_festival_morning_easy_c"
+    },
+    {
+      "id": "code_festival_morning_easy_d",
+      "label": "D",
+      "title": "枕決め",
+      "url": "https://atcoder.jp/contests/code-festival-2014-morning-easy/tasks/code_festival_morning_easy_d"
+    }
+  ]
+}
