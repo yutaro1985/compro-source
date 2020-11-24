@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc012",
+    "title": "AtCoder Grand Contest 012",
+    "url": "https://atcoder.jp/contests/agc012"
+  },
+  "tasks": [
+    {
+      "id": "agc012_a",
+      "label": "A",
+      "title": "AtCoder Group Contest",
+      "url": "https://atcoder.jp/contests/agc012/tasks/agc012_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc012_b",
+      "label": "B",
+      "title": "Splatter Painting",
+      "url": "https://atcoder.jp/contests/agc012/tasks/agc012_b"
+    },
+    {
+      "id": "agc012_c",
+      "label": "C",
+      "title": "Tautonym Puzzle",
+      "url": "https://atcoder.jp/contests/agc012/tasks/agc012_c"
+    },
+    {
+      "id": "agc012_d",
+      "label": "D",
+      "title": "Colorful Balls",
+      "url": "https://atcoder.jp/contests/agc012/tasks/agc012_d"
+    },
+    {
+      "id": "agc012_e",
+      "label": "E",
+      "title": "Camel and Oases",
+      "url": "https://atcoder.jp/contests/agc012/tasks/agc012_e"
+    },
+    {
+      "id": "agc012_f",
+      "label": "F",
+      "title": "Prefix Median",
+      "url": "https://atcoder.jp/contests/agc012/tasks/agc012_f"
+    }
+  ]
+}
