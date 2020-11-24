@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc016",
+    "title": "AtCoder Regular Contest 016",
+    "url": "https://atcoder.jp/contests/arc016"
+  },
+  "tasks": [
+    {
+      "id": "arc016_1",
+      "label": "A",
+      "title": "クイズゲーム",
+      "url": "https://atcoder.jp/contests/arc016/tasks/arc016_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc016_2",
+      "label": "B",
+      "title": "音楽ゲーム",
+      "url": "https://atcoder.jp/contests/arc016/tasks/arc016_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc016_3",
+      "label": "C",
+      "title": "ソーシャルゲーム",
+      "url": "https://atcoder.jp/contests/arc016/tasks/arc016_3"
+    },
+    {
+      "id": "arc016_4",
+      "label": "D",
+      "title": "軍艦ゲーム",
+      "url": "https://atcoder.jp/contests/arc016/tasks/arc016_4"
+    }
+  ]
+}
