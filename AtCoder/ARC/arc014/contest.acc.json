@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc014",
+    "title": "AtCoder Regular Contest 014",
+    "url": "https://atcoder.jp/contests/arc014"
+  },
+  "tasks": [
+    {
+      "id": "arc014_1",
+      "label": "A",
+      "title": "君が望むなら世界中全てのたこ焼きを赤と青に染め上げよう",
+      "url": "https://atcoder.jp/contests/arc014/tasks/arc014_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc014_2",
+      "label": "B",
+      "title": "あの日したしりとりの結果を僕達はまだ知らない。",
+      "url": "https://atcoder.jp/contests/arc014/tasks/arc014_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc014_3",
+      "label": "C",
+      "title": "魂の還る場所",
+      "url": "https://atcoder.jp/contests/arc014/tasks/arc014_3"
+    },
+    {
+      "id": "arc014_4",
+      "label": "D",
+      "title": "grepマスター",
+      "url": "https://atcoder.jp/contests/arc014/tasks/arc014_4"
+    }
+  ]
+}
