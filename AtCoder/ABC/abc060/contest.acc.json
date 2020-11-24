@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc060",
+    "title": "AtCoder Beginner Contest 060",
+    "url": "https://atcoder.jp/contests/abc060"
+  },
+  "tasks": [
+    {
+      "id": "abc060_a",
+      "label": "A",
+      "title": "Shiritori",
+      "url": "https://atcoder.jp/contests/abc060/tasks/abc060_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc060_b",
+      "label": "B",
+      "title": "Choose Integers",
+      "url": "https://atcoder.jp/contests/abc060/tasks/abc060_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc073_a",
+      "label": "C",
+      "title": "Sentou",
+      "url": "https://atcoder.jp/contests/abc060/tasks/arc073_a"
+    },
+    {
+      "id": "arc073_b",
+      "label": "D",
+      "title": "Simple Knapsack",
+      "url": "https://atcoder.jp/contests/abc060/tasks/arc073_b"
+    }
+  ]
+}
