@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc004",
+    "title": "AtCoder Grand Contest 004",
+    "url": "https://atcoder.jp/contests/agc004"
+  },
+  "tasks": [
+    {
+      "id": "agc004_a",
+      "label": "A",
+      "title": "Divide a Cuboid",
+      "url": "https://atcoder.jp/contests/agc004/tasks/agc004_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc004_b",
+      "label": "B",
+      "title": "Colorful Slimes",
+      "url": "https://atcoder.jp/contests/agc004/tasks/agc004_b"
+    },
+    {
+      "id": "agc004_c",
+      "label": "C",
+      "title": "AND Grid",
+      "url": "https://atcoder.jp/contests/agc004/tasks/agc004_c"
+    },
+    {
+      "id": "agc004_d",
+      "label": "D",
+      "title": "Teleporter",
+      "url": "https://atcoder.jp/contests/agc004/tasks/agc004_d"
+    },
+    {
+      "id": "agc004_e",
+      "label": "E",
+      "title": "Salvage Robots",
+      "url": "https://atcoder.jp/contests/agc004/tasks/agc004_e"
+    },
+    {
+      "id": "agc004_f",
+      "label": "F",
+      "title": "Namori",
+      "url": "https://atcoder.jp/contests/agc004/tasks/agc004_f"
+    }
+  ]
+}
