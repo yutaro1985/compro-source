@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc032",
+    "title": "AtCoder Grand Contest 032",
+    "url": "https://atcoder.jp/contests/agc032"
+  },
+  "tasks": [
+    {
+      "id": "agc032_a",
+      "label": "A",
+      "title": "Limited Insertion",
+      "url": "https://atcoder.jp/contests/agc032/tasks/agc032_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc032_b",
+      "label": "B",
+      "title": "Balanced Neighbors",
+      "url": "https://atcoder.jp/contests/agc032/tasks/agc032_b"
+    },
+    {
+      "id": "agc032_c",
+      "label": "C",
+      "title": "Three Circuits",
+      "url": "https://atcoder.jp/contests/agc032/tasks/agc032_c"
+    },
+    {
+      "id": "agc032_d",
+      "label": "D",
+      "title": "Rotation Sort",
+      "url": "https://atcoder.jp/contests/agc032/tasks/agc032_d"
+    },
+    {
+      "id": "agc032_e",
+      "label": "E",
+      "title": "Modulo Pairing",
+      "url": "https://atcoder.jp/contests/agc032/tasks/agc032_e"
+    },
+    {
+      "id": "agc032_f",
+      "label": "F",
+      "title": "One Third",
+      "url": "https://atcoder.jp/contests/agc032/tasks/agc032_f"
+    }
+  ]
+}
