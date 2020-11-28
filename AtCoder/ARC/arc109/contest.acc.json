@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "arc109",
+    "title": "AtCoder Regular Contest 109",
+    "url": "https://atcoder.jp/contests/arc109"
+  },
+  "tasks": [
+    {
+      "id": "arc109_a",
+      "label": "A",
+      "title": "Hands",
+      "url": "https://atcoder.jp/contests/arc109/tasks/arc109_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc109_b",
+      "label": "B",
+      "title": "log",
+      "url": "https://atcoder.jp/contests/arc109/tasks/arc109_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc109_c",
+      "label": "C",
+      "title": "Large RPS Tournament",
+      "url": "https://atcoder.jp/contests/arc109/tasks/arc109_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc109_d",
+      "label": "D",
+      "title": "L",
+      "url": "https://atcoder.jp/contests/arc109/tasks/arc109_d"
+    },
+    {
+      "id": "arc109_e",
+      "label": "E",
+      "title": "1D Reversi Builder",
+      "url": "https://atcoder.jp/contests/arc109/tasks/arc109_e"
+    },
+    {
+      "id": "arc109_f",
+      "label": "F",
+      "title": "1D Kingdom  Builder",
+      "url": "https://atcoder.jp/contests/arc109/tasks/arc109_f"
+    }
+  ]
+}
