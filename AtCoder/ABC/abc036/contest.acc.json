@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc036",
+    "title": "AtCoder Beginner Contest 036",
+    "url": "https://atcoder.jp/contests/abc036"
+  },
+  "tasks": [
+    {
+      "id": "abc036_a",
+      "label": "A",
+      "title": "お茶",
+      "url": "https://atcoder.jp/contests/abc036/tasks/abc036_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc036_b",
+      "label": "B",
+      "title": "回転",
+      "url": "https://atcoder.jp/contests/abc036/tasks/abc036_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc036_c",
+      "label": "C",
+      "title": "座圧",
+      "url": "https://atcoder.jp/contests/abc036/tasks/abc036_c"
+    },
+    {
+      "id": "abc036_d",
+      "label": "D",
+      "title": "塗り絵",
+      "url": "https://atcoder.jp/contests/abc036/tasks/abc036_d"
+    }
+  ]
+}
