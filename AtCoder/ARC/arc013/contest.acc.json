@@ -20,7 +20,12 @@
       "id": "arc013_2",
       "label": "B",
       "title": "引越しできるかな？",
-      "url": "https://atcoder.jp/contests/arc013/tasks/arc013_2"
+      "url": "https://atcoder.jp/contests/arc013/tasks/arc013_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "arc013_3",
