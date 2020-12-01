@@ -9,13 +9,23 @@
       "id": "arc033_1",
       "label": "A",
       "title": "隠れた言葉",
-      "url": "https://atcoder.jp/contests/arc033/tasks/arc033_1"
+      "url": "https://atcoder.jp/contests/arc033/tasks/arc033_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "arc033_2",
       "label": "B",
       "title": "メタ構文変数",
-      "url": "https://atcoder.jp/contests/arc033/tasks/arc033_2"
+      "url": "https://atcoder.jp/contests/arc033/tasks/arc033_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "arc033_3",
