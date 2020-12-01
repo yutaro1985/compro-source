@@ -9,13 +9,23 @@
       "id": "arc002_1",
       "label": "A",
       "title": "うるう年",
-      "url": "https://atcoder.jp/contests/arc002/tasks/arc002_1"
+      "url": "https://atcoder.jp/contests/arc002/tasks/arc002_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "arc002_2",
       "label": "B",
       "title": "割り切れる日付",
-      "url": "https://atcoder.jp/contests/arc002/tasks/arc002_2"
+      "url": "https://atcoder.jp/contests/arc002/tasks/arc002_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "arc002_3",
