@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "abc135",
+    "title": "AtCoder Beginner Contest 135",
+    "url": "https://atcoder.jp/contests/abc135"
+  },
+  "tasks": [
+    {
+      "id": "abc135_a",
+      "label": "A",
+      "title": "Harmony",
+      "url": "https://atcoder.jp/contests/abc135/tasks/abc135_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc135_b",
+      "label": "B",
+      "title": "0 or 1 Swap",
+      "url": "https://atcoder.jp/contests/abc135/tasks/abc135_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc135_c",
+      "label": "C",
+      "title": "City Savers",
+      "url": "https://atcoder.jp/contests/abc135/tasks/abc135_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc135_d",
+      "label": "D",
+      "title": "Digits Parade",
+      "url": "https://atcoder.jp/contests/abc135/tasks/abc135_d"
+    },
+    {
+      "id": "abc135_e",
+      "label": "E",
+      "title": "Golf",
+      "url": "https://atcoder.jp/contests/abc135/tasks/abc135_e"
+    },
+    {
+      "id": "abc135_f",
+      "label": "F",
+      "title": "Strings of Eternity",
+      "url": "https://atcoder.jp/contests/abc135/tasks/abc135_f"
+    }
+  ]
+}
