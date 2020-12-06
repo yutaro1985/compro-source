@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "dwango2015-prelims",
+    "title": "dwangoプログラミングコンテスト",
+    "url": "https://atcoder.jp/contests/dwango2015-prelims"
+  },
+  "tasks": [
+    {
+      "id": "dwango2015_prelims_1",
+      "label": "A",
+      "title": "プレミアム会員",
+      "url": "https://atcoder.jp/contests/dwango2015-prelims/tasks/dwango2015_prelims_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "dwango2015_prelims_2",
+      "label": "B",
+      "title": "ニコニコ文字列",
+      "url": "https://atcoder.jp/contests/dwango2015-prelims/tasks/dwango2015_prelims_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "dwango2015_prelims_3",
+      "label": "C",
+      "title": "ゲーマーじゃんけん",
+      "url": "https://atcoder.jp/contests/dwango2015-prelims/tasks/dwango2015_prelims_3"
+    },
+    {
+      "id": "dwango2015_prelims_4",
+      "label": "D",
+      "title": "タクシー",
+      "url": "https://atcoder.jp/contests/dwango2015-prelims/tasks/dwango2015_prelims_4"
+    },
+    {
+      "id": "dwango2015_prelims_5",
+      "label": "E",
+      "title": "電波局",
+      "url": "https://atcoder.jp/contests/dwango2015-prelims/tasks/dwango2015_prelims_5"
+    }
+  ]
+}
