@@ -1,0 +1,21 @@
+# .golangci-lint.yaml
+run:
+  deadline: 5m
+
+linters-settings:
+  errcheck:
+    # ファイルや任意のパッケージの関数のチェックを除外することができる。
+    # https://github.com/kisielk/errcheck#excluding-functions
+    # exclude: /path/to/file.txt
+
+linters:
+  disable-all: true
+  enable:
+    - goimports
+    - golint
+    - govet
+    - misspell
+    - errcheck
+    - staticcheck
+    - prealloc
+    - ineffassign
