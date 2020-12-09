@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc085",
+    "title": "AtCoder Beginner Contest 085",
+    "url": "https://atcoder.jp/contests/abc085"
+  },
+  "tasks": [
+    {
+      "id": "abc085_a",
+      "label": "A",
+      "title": "Already 2018",
+      "url": "https://atcoder.jp/contests/abc085/tasks/abc085_a"
+    },
+    {
+      "id": "abc085_b",
+      "label": "B",
+      "title": "Kagami Mochi",
+      "url": "https://atcoder.jp/contests/abc085/tasks/abc085_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc085_c",
+      "label": "C",
+      "title": "Otoshidama",
+      "url": "https://atcoder.jp/contests/abc085/tasks/abc085_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TaskLabel}.go"
+      }
+    },
+    {
+      "id": "abc085_d",
+      "label": "D",
+      "title": "Katana Thrower",
+      "url": "https://atcoder.jp/contests/abc085/tasks/abc085_d"
+    }
+  ]
+}
