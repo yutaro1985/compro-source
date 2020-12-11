@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "code-festival-2017-quala",
+    "title": "CODE FESTIVAL 2017 qual A",
+    "url": "https://atcoder.jp/contests/code-festival-2017-quala"
+  },
+  "tasks": [
+    {
+      "id": "code_festival_2017_quala_a",
+      "label": "A",
+      "title": "Snuke's favorite YAKINIKU",
+      "url": "https://atcoder.jp/contests/code-festival-2017-quala/tasks/code_festival_2017_quala_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "code_festival_2017_quala_b",
+      "label": "B",
+      "title": "fLIP",
+      "url": "https://atcoder.jp/contests/code-festival-2017-quala/tasks/code_festival_2017_quala_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "code_festival_2017_quala_c",
+      "label": "C",
+      "title": "Palindromic Matrix",
+      "url": "https://atcoder.jp/contests/code-festival-2017-quala/tasks/code_festival_2017_quala_c"
+    },
+    {
+      "id": "code_festival_2017_quala_d",
+      "label": "D",
+      "title": "Four Coloring",
+      "url": "https://atcoder.jp/contests/code-festival-2017-quala/tasks/code_festival_2017_quala_d"
+    },
+    {
+      "id": "code_festival_2017_quala_e",
+      "label": "E",
+      "title": "Modern Painting",
+      "url": "https://atcoder.jp/contests/code-festival-2017-quala/tasks/code_festival_2017_quala_e"
+    },
+    {
+      "id": "code_festival_2017_quala_f",
+      "label": "F",
+      "title": "Squeezing Slimes",
+      "url": "https://atcoder.jp/contests/code-festival-2017-quala/tasks/code_festival_2017_quala_f"
+    }
+  ]
+}
