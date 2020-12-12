@@ -31,7 +31,12 @@
       "id": "abc006_3",
       "label": "C",
       "title": "スフィンクスのなぞなぞ",
-      "url": "https://atcoder.jp/contests/abc006/tasks/abc006_3"
+      "url": "https://atcoder.jp/contests/abc006/tasks/abc006_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "abc006_4",
