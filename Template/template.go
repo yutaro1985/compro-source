@@ -24,6 +24,7 @@ func init() {
 const (
 	mod     = int(1e9) + 7
 	maxsize = 510000
+	INF     = 1 << 60
 )
 
 func main() {
