@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "abc185",
+    "title": "AtCoder Beginner Contest 185",
+    "url": "https://atcoder.jp/contests/abc185"
+  },
+  "tasks": [
+    {
+      "id": "abc185_a",
+      "label": "A",
+      "title": "ABC Preparation",
+      "url": "https://atcoder.jp/contests/abc185/tasks/abc185_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc185_b",
+      "label": "B",
+      "title": "Smartphone Addiction",
+      "url": "https://atcoder.jp/contests/abc185/tasks/abc185_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc185_c",
+      "label": "C",
+      "title": "Duodecim Ferra",
+      "url": "https://atcoder.jp/contests/abc185/tasks/abc185_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc185_d",
+      "label": "D",
+      "title": "Stamp",
+      "url": "https://atcoder.jp/contests/abc185/tasks/abc185_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc185_e",
+      "label": "E",
+      "title": "Sequence Matching",
+      "url": "https://atcoder.jp/contests/abc185/tasks/abc185_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc185_f",
+      "label": "F",
+      "title": "Range Xor Query",
+      "url": "https://atcoder.jp/contests/abc185/tasks/abc185_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    }
+  ]
+}
