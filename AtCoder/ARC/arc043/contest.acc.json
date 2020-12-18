@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc043",
+    "title": "AtCoder Regular Contest 043",
+    "url": "https://atcoder.jp/contests/arc043"
+  },
+  "tasks": [
+    {
+      "id": "arc043_a",
+      "label": "A",
+      "title": "点数変換",
+      "url": "https://atcoder.jp/contests/arc043/tasks/arc043_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc043_b",
+      "label": "B",
+      "title": "難易度",
+      "url": "https://atcoder.jp/contests/arc043/tasks/arc043_b"
+    },
+    {
+      "id": "arc043_c",
+      "label": "C",
+      "title": "転倒距離",
+      "url": "https://atcoder.jp/contests/arc043/tasks/arc043_c"
+    },
+    {
+      "id": "arc043_d",
+      "label": "D",
+      "title": "引っ越し",
+      "url": "https://atcoder.jp/contests/arc043/tasks/arc043_d"
+    }
+  ]
+}
