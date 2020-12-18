@@ -37,7 +37,6 @@ func main() {
 		sum += S[i]
 	}
 	sort.Float64s(S)
-	// fmt.Println(A, B, sum, A*float64(N), B/sum)
 	d := S[len(S)-1] - S[0]
 	if d == 0 {
 		fmt.Println(-1)
