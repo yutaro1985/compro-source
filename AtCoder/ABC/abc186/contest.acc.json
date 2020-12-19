@@ -64,7 +64,12 @@
       "id": "abc186_f",
       "label": "F",
       "title": "Rook on Grid",
-      "url": "https://atcoder.jp/contests/abc186/tasks/abc186_f"
+      "url": "https://atcoder.jp/contests/abc186/tasks/abc186_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     }
   ]
 }
