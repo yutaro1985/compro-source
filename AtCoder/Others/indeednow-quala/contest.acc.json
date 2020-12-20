@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "indeednow-quala",
+    "title": "Indeedなう（予選A）",
+    "url": "https://atcoder.jp/contests/indeednow-quala"
+  },
+  "tasks": [
+    {
+      "id": "indeednow_2015_quala_1",
+      "label": "A",
+      "title": "掛け算の筆算",
+      "url": "https://atcoder.jp/contests/indeednow-quala/tasks/indeednow_2015_quala_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "indeednow_2015_quala_2",
+      "label": "B",
+      "title": "Indeedなう！",
+      "url": "https://atcoder.jp/contests/indeednow-quala/tasks/indeednow_2015_quala_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "indeednow_2015_quala_3",
+      "label": "C",
+      "title": "説明会",
+      "url": "https://atcoder.jp/contests/indeednow-quala/tasks/indeednow_2015_quala_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "indeednow_2015_quala_4",
+      "label": "D",
+      "title": "パズル",
+      "url": "https://atcoder.jp/contests/indeednow-quala/tasks/indeednow_2015_quala_4"
+    }
+  ]
+}
