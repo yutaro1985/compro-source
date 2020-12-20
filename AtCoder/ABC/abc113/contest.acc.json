@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc113",
+    "title": "AtCoder Beginner Contest 113",
+    "url": "https://atcoder.jp/contests/abc113"
+  },
+  "tasks": [
+    {
+      "id": "abc113_a",
+      "label": "A",
+      "title": "Discount Fare",
+      "url": "https://atcoder.jp/contests/abc113/tasks/abc113_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc113_b",
+      "label": "B",
+      "title": "Palace",
+      "url": "https://atcoder.jp/contests/abc113/tasks/abc113_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc113_c",
+      "label": "C",
+      "title": "ID",
+      "url": "https://atcoder.jp/contests/abc113/tasks/abc113_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc113_d",
+      "label": "D",
+      "title": "Number of Amidakuji",
+      "url": "https://atcoder.jp/contests/abc113/tasks/abc113_d"
+    }
+  ]
+}
