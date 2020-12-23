@@ -31,7 +31,12 @@
       "id": "abc057_c",
       "label": "C",
       "title": "Digits in Multiplication",
-      "url": "https://atcoder.jp/contests/abc057/tasks/abc057_c"
+      "url": "https://atcoder.jp/contests/abc057/tasks/abc057_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "abc057_d",
