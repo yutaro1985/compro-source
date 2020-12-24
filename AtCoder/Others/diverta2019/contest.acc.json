@@ -31,7 +31,12 @@
       "id": "diverta2019_c",
       "label": "C",
       "title": "AB Substrings",
-      "url": "https://atcoder.jp/contests/diverta2019/tasks/diverta2019_c"
+      "url": "https://atcoder.jp/contests/diverta2019/tasks/diverta2019_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "diverta2019_d",
