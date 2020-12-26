@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc043",
+    "title": "AtCoder Grand Contest 043",
+    "url": "https://atcoder.jp/contests/agc043"
+  },
+  "tasks": [
+    {
+      "id": "agc043_a",
+      "label": "A",
+      "title": "Range Flip Find Route",
+      "url": "https://atcoder.jp/contests/agc043/tasks/agc043_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc043_b",
+      "label": "B",
+      "title": "123 Triangle",
+      "url": "https://atcoder.jp/contests/agc043/tasks/agc043_b"
+    },
+    {
+      "id": "agc043_c",
+      "label": "C",
+      "title": "Giant Graph",
+      "url": "https://atcoder.jp/contests/agc043/tasks/agc043_c"
+    },
+    {
+      "id": "agc043_d",
+      "label": "D",
+      "title": "Merge Triplets",
+      "url": "https://atcoder.jp/contests/agc043/tasks/agc043_d"
+    },
+    {
+      "id": "agc043_e",
+      "label": "E",
+      "title": "Topology",
+      "url": "https://atcoder.jp/contests/agc043/tasks/agc043_e"
+    },
+    {
+      "id": "agc043_f",
+      "label": "F",
+      "title": "Jewelry Box",
+      "url": "https://atcoder.jp/contests/agc043/tasks/agc043_f"
+    }
+  ]
+}
