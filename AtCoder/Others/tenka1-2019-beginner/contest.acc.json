@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "tenka1-2019-beginner",
+    "title": "Tenka1 Programmer Beginner Contest 2019",
+    "url": "https://atcoder.jp/contests/tenka1-2019-beginner"
+  },
+  "tasks": [
+    {
+      "id": "tenka1_2019_a",
+      "label": "A",
+      "title": "On the Way",
+      "url": "https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1_2019_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "tenka1_2019_b",
+      "label": "B",
+      "title": "*e**** ********e* *e****e* ****e**",
+      "url": "https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1_2019_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "tenka1_2019_c",
+      "label": "C",
+      "title": "Stones",
+      "url": "https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1_2019_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "tenka1_2019_d",
+      "label": "D",
+      "title": "Three Colors",
+      "url": "https://atcoder.jp/contests/tenka1-2019-beginner/tasks/tenka1_2019_d"
+    }
+  ]
+}
