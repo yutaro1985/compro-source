@@ -31,7 +31,12 @@
       "id": "arc101_a",
       "label": "C",
       "title": "Candles",
-      "url": "https://atcoder.jp/contests/abc107/tasks/arc101_a"
+      "url": "https://atcoder.jp/contests/abc107/tasks/arc101_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "arc101_b",
