@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc110",
+    "title": "AtCoder Beginner Contest 110",
+    "url": "https://atcoder.jp/contests/abc110"
+  },
+  "tasks": [
+    {
+      "id": "abc110_a",
+      "label": "A",
+      "title": "Maximize the Formula",
+      "url": "https://atcoder.jp/contests/abc110/tasks/abc110_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc110_b",
+      "label": "B",
+      "title": "1 Dimensional World's Tale",
+      "url": "https://atcoder.jp/contests/abc110/tasks/abc110_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc110_c",
+      "label": "C",
+      "title": "String Transformation",
+      "url": "https://atcoder.jp/contests/abc110/tasks/abc110_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc110_d",
+      "label": "D",
+      "title": "Factorization",
+      "url": "https://atcoder.jp/contests/abc110/tasks/abc110_d"
+    }
+  ]
+}
