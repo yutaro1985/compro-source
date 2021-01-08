@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc035",
+    "title": "AtCoder Regular Contest 035",
+    "url": "https://atcoder.jp/contests/arc035"
+  },
+  "tasks": [
+    {
+      "id": "arc035_a",
+      "label": "A",
+      "title": "高橋くんと回文",
+      "url": "https://atcoder.jp/contests/arc035/tasks/arc035_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc035_b",
+      "label": "B",
+      "title": "アットコーダー王国のコンテスト事情",
+      "url": "https://atcoder.jp/contests/arc035/tasks/arc035_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc035_c",
+      "label": "C",
+      "title": "アットコーダー王国の交通事情",
+      "url": "https://atcoder.jp/contests/arc035/tasks/arc035_c"
+    },
+    {
+      "id": "arc035_d",
+      "label": "D",
+      "title": "高橋くんとマラソンコース",
+      "url": "https://atcoder.jp/contests/arc035/tasks/arc035_d"
+    }
+  ]
+}
