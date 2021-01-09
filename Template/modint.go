@@ -35,6 +35,17 @@ func (mi mint) pow(n mint) mint {
 	}
 	return p
 }
+func (mi mint) factorial() mint {
+	// var n mint
+	if mi < 0 {
+		fmt.Println("[ERROR] Input nums 0 or greater.")
+		os.Exit(1)
+	}
+	if mi == 1 || mi == 0 {
+		return 1
+	}
+	return (mi - 1).factorial().mul(mi)
+}
 func (mi mint) add(n mint) mint {
 	return (mi + n).mod()
 }
