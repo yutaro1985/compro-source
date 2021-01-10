@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": "abc188",
+    "title": "AtCoder Beginner Contest 188",
+    "url": "https://atcoder.jp/contests/abc188"
+  },
+  "tasks": [
+    {
+      "id": "abc188_a",
+      "label": "A",
+      "title": "Three-Point Shot",
+      "url": "https://atcoder.jp/contests/abc188/tasks/abc188_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc188_b",
+      "label": "B",
+      "title": "Orthogonality",
+      "url": "https://atcoder.jp/contests/abc188/tasks/abc188_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc188_c",
+      "label": "C",
+      "title": "ABC Tournament",
+      "url": "https://atcoder.jp/contests/abc188/tasks/abc188_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc188_d",
+      "label": "D",
+      "title": "Snuke Prime",
+      "url": "https://atcoder.jp/contests/abc188/tasks/abc188_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc188_e",
+      "label": "E",
+      "title": "Peddler",
+      "url": "https://atcoder.jp/contests/abc188/tasks/abc188_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc188_f",
+      "label": "F",
+      "title": "+1-1x2",
+      "url": "https://atcoder.jp/contests/abc188/tasks/abc188_f"
+    }
+  ]
+}
