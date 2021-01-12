@@ -42,14 +42,7 @@ func main() {
 	idx := sort.Search(len(b), func(i int) bool {
 		return b[i] <= max
 	})
-	// for idx+1 < N && b[idx] == b[idx+1] {
-	// 	idx++
-	// }
-	// fmt.Println(idx)
-	// fmt.Println(a)
-	// fmt.Println(b)
 	var ans int
-	// fmt.Println(idx)
 	for i := 0; i < idx; i++ {
 		H -= b[i]
 		ans++
@@ -58,8 +51,6 @@ func main() {
 			return
 		}
 	}
-	// fmt.Println(H, max, Ceil(H, max))
-	// ans := N - idx
 	ans += Ceil(H, max)
 	fmt.Println(ans)
 }
