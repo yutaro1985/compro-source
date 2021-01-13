@@ -1,0 +1,119 @@
+{
+  "contest": {
+    "id": "vtubercup2021",
+    "title": "Vtuber杯2021",
+    "url": "https://atcoder.jp/contests/vtubercup2021"
+  },
+  "tasks": [
+    {
+      "id": "abc170_b",
+      "label": "A",
+      "title": "Crane and Turtle",
+      "url": "https://atcoder.jp/contests/vtubercup2021/tasks/abc170_b",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc167_b",
+      "label": "B",
+      "title": "Easy Linear Programming",
+      "url": "https://atcoder.jp/contests/vtubercup2021/tasks/abc167_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc145_b",
+      "label": "C",
+      "title": "Echo",
+      "url": "https://atcoder.jp/contests/vtubercup2021/tasks/abc145_b",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc156_b",
+      "label": "D",
+      "title": "Digits",
+      "url": "https://atcoder.jp/contests/vtubercup2021/tasks/abc156_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc085_b",
+      "label": "E",
+      "title": "Kagami Mochi",
+      "url": "https://atcoder.jp/contests/vtubercup2021/tasks/abc085_b",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc079_c",
+      "label": "F",
+      "title": "Train Ticket",
+      "url": "https://atcoder.jp/contests/vtubercup2021/tasks/abc079_c",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc138_c",
+      "label": "G",
+      "title": "Alchemist",
+      "url": "https://atcoder.jp/contests/vtubercup2021/tasks/abc138_c",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc187_c",
+      "label": "H",
+      "title": "1-SAT",
+      "url": "https://atcoder.jp/contests/vtubercup2021/tasks/abc187_c",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc168_c",
+      "label": "I",
+      "title": ": (Colon)",
+      "url": "https://atcoder.jp/contests/vtubercup2021/tasks/abc168_c",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc073_c",
+      "label": "J",
+      "title": "Write and Erase",
+      "url": "https://atcoder.jp/contests/vtubercup2021/tasks/abc073_c",
+      "directory": {
+        "path": "j",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    }
+  ]
+}
