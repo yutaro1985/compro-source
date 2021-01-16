@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "keyence2021",
+    "title": "KEYENCE Programming Contest 2021",
+    "url": "https://atcoder.jp/contests/keyence2021"
+  },
+  "tasks": [
+    {
+      "id": "keyence2021_a",
+      "label": "A",
+      "title": "Two Sequences 2",
+      "url": "https://atcoder.jp/contests/keyence2021/tasks/keyence2021_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "keyence2021_b",
+      "label": "B",
+      "title": "Mex Boxes",
+      "url": "https://atcoder.jp/contests/keyence2021/tasks/keyence2021_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "keyence2021_c",
+      "label": "C",
+      "title": "Robot on Grid",
+      "url": "https://atcoder.jp/contests/keyence2021/tasks/keyence2021_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "keyence2021_d",
+      "label": "D",
+      "title": "Choosing Up Sides",
+      "url": "https://atcoder.jp/contests/keyence2021/tasks/keyence2021_d"
+    },
+    {
+      "id": "keyence2021_e",
+      "label": "E",
+      "title": "Greedy Ant",
+      "url": "https://atcoder.jp/contests/keyence2021/tasks/keyence2021_e"
+    },
+    {
+      "id": "keyence2021_f",
+      "label": "F",
+      "title": "Keyence Repetition",
+      "url": "https://atcoder.jp/contests/keyence2021/tasks/keyence2021_f"
+    }
+  ]
+}
