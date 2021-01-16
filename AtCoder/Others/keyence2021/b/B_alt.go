@@ -34,12 +34,12 @@ func main() {
 	for i := 0; i < N; i++ {
 		ai := nextInt()
 		a[ai]++
-		ChminInt(&a[ai], K)
+		// ChminInt(&a[ai], K)
 	}
 	boxes := make([][]int, K)
 	var ans int
 	for i := 0; i < N; i++ {
-		for j := 0; j < a[i]; j++ {
+		for j := 0; j < MinOf(a[i], K); j++ {
 			boxes[j%K] = append(boxes[j%K], i)
 		}
 	}
