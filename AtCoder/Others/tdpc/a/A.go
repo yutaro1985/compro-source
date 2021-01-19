@@ -29,7 +29,26 @@ const (
 
 func main() {
 	N := nextInt()
-	fmt.Println()
+	p := makeInts(N)
+	DP := init2DBools(N+1, 10001, false)
+	DP[0][0] = true
+	for i := 0; i < N; i++ {
+		for j := 0; j < 10001; j++ {
+			if DP[i][j] {
+				DP[i+1][j] = true
+				if j+p[i] <= 10000 {
+					DP[i+1][j+p[i]] = true
+				}
+			}
+		}
+	}
+	var ans int
+	for i := 0; i < len(DP[N]); i++ {
+		if DP[N][i] {
+			ans++
+		}
+	}
+	fmt.Println(ans)
 }
 
 func nextLine() string {
