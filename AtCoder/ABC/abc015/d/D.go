@@ -30,6 +30,7 @@ type screenshots struct {
 func main() {
 	W, N, K := nextInt(), nextInt(), nextInt()
 	shots := make([]screenshots, N)
+	var ans int
 	for i := 0; i < N; i++ {
 		shots[i].A = nextInt()
 		shots[i].B = nextInt()
@@ -45,20 +46,21 @@ func main() {
 		for j := 0; j <= W; j++ {
 			for k := 0; k < K; k++ {
 				ChmaxInt(&DP[i+1][j][k], DP[i][j][k])
+				ChmaxInt(&ans, DP[i+1][j][k])
 				if j+shots[i].A <= W {
 					ChmaxInt(&DP[i+1][j+shots[i].A][k+1], DP[i][j][k]+shots[i].B)
+					ChmaxInt(&ans, DP[i+1][j+shots[i].A][k+1])
 				}
 			}
 		}
 	}
-	var ans int
-	for i := 0; i <= N; i++ {
-		for j := 0; j <= W; j++ {
-			for k := 0; k <= K; k++ {
-				ChmaxInt(&ans, DP[i][j][k])
-			}
-		}
-	}
+	// for i := 0; i <= N; i++ {
+	// 	for j := 0; j <= W; j++ {
+	// 		for k := 0; k <= K; k++ {
+	// 			ChmaxInt(&ans, DP[i][j][k])
+	// 		}
+	// 	}
+	// }
 	fmt.Println(ans)
 }
 
