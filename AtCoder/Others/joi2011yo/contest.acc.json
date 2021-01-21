@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "joi2011yo",
+    "title": "第１０回日本情報オリンピック 予選（オンライン）",
+    "url": "https://atcoder.jp/contests/joi2011yo"
+  },
+  "tasks": [
+    {
+      "id": "joi2011yo_a",
+      "label": "A",
+      "title": "合計時間 (Total Time)",
+      "url": "https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "joi2011yo_b",
+      "label": "B",
+      "title": "指輪 (Ring)",
+      "url": "https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "joi2011yo_c",
+      "label": "C",
+      "title": "タイル (Tile)",
+      "url": "https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "joi2011yo_d",
+      "label": "D",
+      "title": "1年生 (A First Grader)",
+      "url": "https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "joi2011yo_e",
+      "label": "E",
+      "title": "チーズ (Cheese)",
+      "url": "https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_e"
+    },
+    {
+      "id": "joi2011yo_f",
+      "label": "F",
+      "title": "JOI旗 (JOI Flag)",
+      "url": "https://atcoder.jp/contests/joi2011yo/tasks/joi2011yo_f"
+    }
+  ]
+}
