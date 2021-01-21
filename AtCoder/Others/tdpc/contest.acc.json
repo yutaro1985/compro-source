@@ -32,7 +32,12 @@
       "id": "tdpc_dice",
       "label": "D",
       "title": "サイコロ",
-      "url": "https://atcoder.jp/contests/tdpc/tasks/tdpc_dice"
+      "url": "https://atcoder.jp/contests/tdpc/tasks/tdpc_dice",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "tdpc_number",
