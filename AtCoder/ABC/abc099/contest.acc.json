@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc099",
+    "title": "AtCoder Beginner Contest 099",
+    "url": "https://atcoder.jp/contests/abc099"
+  },
+  "tasks": [
+    {
+      "id": "abc099_a",
+      "label": "A",
+      "title": "ABD",
+      "url": "https://atcoder.jp/contests/abc099/tasks/abc099_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc099_b",
+      "label": "B",
+      "title": "Stone Monument",
+      "url": "https://atcoder.jp/contests/abc099/tasks/abc099_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc099_c",
+      "label": "C",
+      "title": "Strange Bank",
+      "url": "https://atcoder.jp/contests/abc099/tasks/abc099_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc099_d",
+      "label": "D",
+      "title": "Good Grid",
+      "url": "https://atcoder.jp/contests/abc099/tasks/abc099_d"
+    }
+  ]
+}
