@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "abc189",
+    "title": "AtCoder Beginner Contest 189",
+    "url": "https://atcoder.jp/contests/abc189"
+  },
+  "tasks": [
+    {
+      "id": "abc189_a",
+      "label": "A",
+      "title": "Slot",
+      "url": "https://atcoder.jp/contests/abc189/tasks/abc189_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc189_b",
+      "label": "B",
+      "title": "Alcoholic",
+      "url": "https://atcoder.jp/contests/abc189/tasks/abc189_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc189_c",
+      "label": "C",
+      "title": "Mandarin Orange",
+      "url": "https://atcoder.jp/contests/abc189/tasks/abc189_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc189_d",
+      "label": "D",
+      "title": "Logical Expression",
+      "url": "https://atcoder.jp/contests/abc189/tasks/abc189_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc189_e",
+      "label": "E",
+      "title": "Rotate and Flip",
+      "url": "https://atcoder.jp/contests/abc189/tasks/abc189_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc189_f",
+      "label": "F",
+      "title": "Sugoroku2",
+      "url": "https://atcoder.jp/contests/abc189/tasks/abc189_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    }
+  ]
+}
