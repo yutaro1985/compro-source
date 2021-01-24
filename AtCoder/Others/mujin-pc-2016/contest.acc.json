@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "mujin-pc-2016",
+    "title": "MUJIN プログラミングチャレンジ Programming Challenge",
+    "url": "https://atcoder.jp/contests/mujin-pc-2016"
+  },
+  "tasks": [
+    {
+      "id": "mujin_pc_2016_a",
+      "label": "A",
+      "title": "MUJIN",
+      "url": "https://atcoder.jp/contests/mujin-pc-2016/tasks/mujin_pc_2016_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "mujin_pc_2016_b",
+      "label": "B",
+      "title": "Robot Arm",
+      "url": "https://atcoder.jp/contests/mujin-pc-2016/tasks/mujin_pc_2016_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "mujin_pc_2016_c",
+      "label": "C",
+      "title": "Orange Graph",
+      "url": "https://atcoder.jp/contests/mujin-pc-2016/tasks/mujin_pc_2016_c"
+    },
+    {
+      "id": "mujin_pc_2016_d",
+      "label": "D",
+      "title": "Parenthesis Sequence",
+      "url": "https://atcoder.jp/contests/mujin-pc-2016/tasks/mujin_pc_2016_d"
+    },
+    {
+      "id": "mujin_pc_2016_e",
+      "label": "E",
+      "title": "Hexagon",
+      "url": "https://atcoder.jp/contests/mujin-pc-2016/tasks/mujin_pc_2016_e"
+    }
+  ]
+}
