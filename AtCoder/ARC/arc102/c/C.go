@@ -28,7 +28,7 @@ const (
 	INF     = 1 << 60
 )
 
-// TODO 考察系なので後でもう一度やる
+// TODO #30 考察系なので後でもう一度やる
 
 func main() {
 	N, K := nextInt(), nextInt()
