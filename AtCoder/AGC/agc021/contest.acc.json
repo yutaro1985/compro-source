@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc021",
+    "title": "AtCoder Grand Contest 021",
+    "url": "https://atcoder.jp/contests/agc021"
+  },
+  "tasks": [
+    {
+      "id": "agc021_a",
+      "label": "A",
+      "title": "Digit Sum 2",
+      "url": "https://atcoder.jp/contests/agc021/tasks/agc021_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc021_b",
+      "label": "B",
+      "title": "Holes",
+      "url": "https://atcoder.jp/contests/agc021/tasks/agc021_b"
+    },
+    {
+      "id": "agc021_c",
+      "label": "C",
+      "title": "Tiling",
+      "url": "https://atcoder.jp/contests/agc021/tasks/agc021_c"
+    },
+    {
+      "id": "agc021_d",
+      "label": "D",
+      "title": "Reversed LCS",
+      "url": "https://atcoder.jp/contests/agc021/tasks/agc021_d"
+    },
+    {
+      "id": "agc021_e",
+      "label": "E",
+      "title": "Ball Eat Chameleons",
+      "url": "https://atcoder.jp/contests/agc021/tasks/agc021_e"
+    },
+    {
+      "id": "agc021_f",
+      "label": "F",
+      "title": "Trinity",
+      "url": "https://atcoder.jp/contests/agc021/tasks/agc021_f"
+    }
+  ]
+}
