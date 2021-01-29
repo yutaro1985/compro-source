@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc108",
+    "title": "AtCoder Beginner Contest 108",
+    "url": "https://atcoder.jp/contests/abc108"
+  },
+  "tasks": [
+    {
+      "id": "abc108_a",
+      "label": "A",
+      "title": "Pair",
+      "url": "https://atcoder.jp/contests/abc108/tasks/abc108_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc108_b",
+      "label": "B",
+      "title": "Ruined Square",
+      "url": "https://atcoder.jp/contests/abc108/tasks/abc108_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc102_a",
+      "label": "C",
+      "title": "Triangular Relationship",
+      "url": "https://atcoder.jp/contests/abc108/tasks/arc102_a"
+    },
+    {
+      "id": "arc102_b",
+      "label": "D",
+      "title": "All Your Paths are Different Lengths",
+      "url": "https://atcoder.jp/contests/abc108/tasks/arc102_b"
+    }
+  ]
+}
