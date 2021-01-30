@@ -53,13 +53,23 @@
       "id": "abc190_e",
       "label": "E",
       "title": "Magical Ornament",
-      "url": "https://atcoder.jp/contests/abc190/tasks/abc190_e"
+      "url": "https://atcoder.jp/contests/abc190/tasks/abc190_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "abc190_f",
       "label": "F",
       "title": "Shift and Inversions",
-      "url": "https://atcoder.jp/contests/abc190/tasks/abc190_f"
+      "url": "https://atcoder.jp/contests/abc190/tasks/abc190_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     }
   ]
 }
