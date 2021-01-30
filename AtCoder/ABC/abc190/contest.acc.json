@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc190",
+    "title": "AtCoder Beginner Contest 190",
+    "url": "https://atcoder.jp/contests/abc190"
+  },
+  "tasks": [
+    {
+      "id": "abc190_a",
+      "label": "A",
+      "title": "Very Very Primitive Game",
+      "url": "https://atcoder.jp/contests/abc190/tasks/abc190_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc190_b",
+      "label": "B",
+      "title": "Magic 3",
+      "url": "https://atcoder.jp/contests/abc190/tasks/abc190_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc190_c",
+      "label": "C",
+      "title": "Bowls and Dishes",
+      "url": "https://atcoder.jp/contests/abc190/tasks/abc190_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc190_d",
+      "label": "D",
+      "title": "Staircase Sequences",
+      "url": "https://atcoder.jp/contests/abc190/tasks/abc190_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc190_e",
+      "label": "E",
+      "title": "Magical Ornament",
+      "url": "https://atcoder.jp/contests/abc190/tasks/abc190_e"
+    },
+    {
+      "id": "abc190_f",
+      "label": "F",
+      "title": "Shift and Inversions",
+      "url": "https://atcoder.jp/contests/abc190/tasks/abc190_f"
+    }
+  ]
+}
