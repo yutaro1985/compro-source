@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "abc124",
+    "title": "AtCoder Beginner Contest 124",
+    "url": "https://atcoder.jp/contests/abc124"
+  },
+  "tasks": [
+    {
+      "id": "abc124_a",
+      "label": "A",
+      "title": "Buttons",
+      "url": "https://atcoder.jp/contests/abc124/tasks/abc124_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc124_b",
+      "label": "B",
+      "title": "Great Ocean View",
+      "url": "https://atcoder.jp/contests/abc124/tasks/abc124_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc124_c",
+      "label": "C",
+      "title": "Coloring Colorfully",
+      "url": "https://atcoder.jp/contests/abc124/tasks/abc124_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc124_d",
+      "label": "D",
+      "title": "Handstand",
+      "url": "https://atcoder.jp/contests/abc124/tasks/abc124_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    }
+  ]
+}
