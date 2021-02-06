@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc112",
+    "title": "AtCoder Beginner Contest 112",
+    "url": "https://atcoder.jp/contests/abc112"
+  },
+  "tasks": [
+    {
+      "id": "abc112_a",
+      "label": "A",
+      "title": "Programming Education",
+      "url": "https://atcoder.jp/contests/abc112/tasks/abc112_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc112_b",
+      "label": "B",
+      "title": "Time Limit Exceeded",
+      "url": "https://atcoder.jp/contests/abc112/tasks/abc112_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc112_c",
+      "label": "C",
+      "title": "Pyramid",
+      "url": "https://atcoder.jp/contests/abc112/tasks/abc112_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "abc112_d",
+      "label": "D",
+      "title": "Partition",
+      "url": "https://atcoder.jp/contests/abc112/tasks/abc112_d"
+    }
+  ]
+}
