@@ -3,6 +3,7 @@ package main
 import (
 	"bufio"
 	"fmt"
+	"math"
 	"os"
 	"sort"
 	"strconv"
@@ -28,27 +29,65 @@ const (
 	INF     = 1 << 60
 )
 
+// 誤差が合わない…
+
 func main() {
-	H, W := nextInt(), nextInt()
-	S := makeStrings(H)
+	var X, Y, R float64
+	fmt.Scan(&X, &Y, &R)
+	X = math.Round(X * 10000)
+	Y = math.Round(Y * 10000)
+	R = math.Round(R * 10000)
+	Xi := int(X)
+	Yi := int(Y)
+	Ri := int(R)
 	var ans int
-	for i := 0; i+1 < H; i++ {
-		for j := 0; j+1 < W; j++ {
-			var cnt int
-			for k := 0; k < 2; k++ {
-				for l := 0; l < 2; l++ {
-					if S[i+k][j+l] == '#' {
-						cnt++
-					}
-				}
-			}
-			switch cnt {
-			case 1, 3:
-				ans++
-			}
+	// for i := ceil(Xi - Ri); i <= floor(Xi+Ri); i += 10000 {
+	for i := -int(2e9 + 10000); i <= int(2e9+10000); i += 10000 {
+		d := Ri*Ri - (Xi-i)*(Xi-i)
+		if d < 0 {
+			continue
 		}
+		// ok, ng := 0, int(1e10)
+		// for (ng - ok) > 1 {
+		// 	mid := (ok + ng) / 2
+		// 	if mid*mid+(Xi-i)*(Xi-i) <= Ri*Ri {
+		// 		ok = mid
+		// 	} else {
+		// 		ng = mid
+		// 	}
+		// }
+		// p := ok
+		p := sort.Search(int(1e10), func(j int) bool {
+			return d < j*j
+		})
+		p--
+		// top := int(math.Round(math.Floor(float64(Yi+p) / 1e4)))
+		// bottom := int(math.Round(math.Ceil(float64(Yi-p) / 1e4)))
+		top := floor(Yi + p)
+		bottom := ceil(Yi - p)
+		ans += (top-bottom)/10000 + 1
+		// fmt.Println(i, ans, top-bottom+1, top, bottom, p)
 	}
+	// ans = math.Round(ans)
 	fmt.Println(ans)
+}
+
+const d4 = 10000
+
+func ceil(a int) int {
+	b := a / d4 * d4
+	if a%d4 > 0 {
+		b += d4
+	}
+	return b
+}
+
+func floor(a int) int {
+	b := a / d4 * d4
+	if a%d4 < 0 {
+		b -= d4
+	}
+	return b
 }
 
 func nextLine() string {
@@ -159,10 +198,10 @@ func PowMod(a, b, m int) int {
 	return p
 }
 
-// Ceil a/bを切り上げたものを返す
-func Ceil(a, b int) int {
-	return (a + (b - 1)) / b
-}
+// // Ceil a/bを切り上げたものを返す
+// func Ceil(a, b int) int {
+// 	return (a + (b - 1)) / b
+// }
 
 // Mod 負の場合を考慮してあまりを取る
 func Mod(a, m int) int {
