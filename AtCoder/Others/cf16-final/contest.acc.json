@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": "cf16-final",
+    "title": "CODE FESTIVAL 2016 Final",
+    "url": "https://atcoder.jp/contests/cf16-final"
+  },
+  "tasks": [
+    {
+      "id": "codefestival_2016_final_a",
+      "label": "A",
+      "title": "Where's Snuke?",
+      "url": "https://atcoder.jp/contests/cf16-final/tasks/codefestival_2016_final_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "codefestival_2016_final_b",
+      "label": "B",
+      "title": "Exactly N points",
+      "url": "https://atcoder.jp/contests/cf16-final/tasks/codefestival_2016_final_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "codefestival_2016_final_c",
+      "label": "C",
+      "title": "Interpretation",
+      "url": "https://atcoder.jp/contests/cf16-final/tasks/codefestival_2016_final_c"
+    },
+    {
+      "id": "codefestival_2016_final_d",
+      "label": "D",
+      "title": "Pair Cards",
+      "url": "https://atcoder.jp/contests/cf16-final/tasks/codefestival_2016_final_d"
+    },
+    {
+      "id": "codefestival_2016_final_e",
+      "label": "E",
+      "title": "Cookies",
+      "url": "https://atcoder.jp/contests/cf16-final/tasks/codefestival_2016_final_e"
+    },
+    {
+      "id": "codefestival_2016_final_f",
+      "label": "F",
+      "title": "Road of the King",
+      "url": "https://atcoder.jp/contests/cf16-final/tasks/codefestival_2016_final_f"
+    },
+    {
+      "id": "codefestival_2016_final_g",
+      "label": "G",
+      "title": "Zigzag MST",
+      "url": "https://atcoder.jp/contests/cf16-final/tasks/codefestival_2016_final_g"
+    },
+    {
+      "id": "codefestival_2016_final_h",
+      "label": "H",
+      "title": "Tokaido",
+      "url": "https://atcoder.jp/contests/cf16-final/tasks/codefestival_2016_final_h"
+    },
+    {
+      "id": "codefestival_2016_final_i",
+      "label": "I",
+      "title": "Reverse Grid",
+      "url": "https://atcoder.jp/contests/cf16-final/tasks/codefestival_2016_final_i"
+    },
+    {
+      "id": "codefestival_2016_final_j",
+      "label": "J",
+      "title": "Neue Spiel",
+      "url": "https://atcoder.jp/contests/cf16-final/tasks/codefestival_2016_final_j"
+    }
+  ]
+}
