@@ -16,6 +16,7 @@ func (pq PriorityQueue) Len() int { return len(pq) }
 
 func (pq PriorityQueue) Less(i, j int) bool {
 	// Pop が最小ではなく最大の優先度を持つ項目を返して欲しいので，ここでは > を使っています。
+	// ダイクストラ法などでは最小の値を取りたいので逆向きにする
 	return pq[i].priority > pq[j].priority
 }
 
