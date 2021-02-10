@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc016",
+    "title": "AtCoder Grand Contest 016",
+    "url": "https://atcoder.jp/contests/agc016"
+  },
+  "tasks": [
+    {
+      "id": "agc016_a",
+      "label": "A",
+      "title": "Shrinking",
+      "url": "https://atcoder.jp/contests/agc016/tasks/agc016_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc016_b",
+      "label": "B",
+      "title": "Colorful Hats",
+      "url": "https://atcoder.jp/contests/agc016/tasks/agc016_b"
+    },
+    {
+      "id": "agc016_c",
+      "label": "C",
+      "title": "+/- Rectangle",
+      "url": "https://atcoder.jp/contests/agc016/tasks/agc016_c"
+    },
+    {
+      "id": "agc016_d",
+      "label": "D",
+      "title": "XOR Replace",
+      "url": "https://atcoder.jp/contests/agc016/tasks/agc016_d"
+    },
+    {
+      "id": "agc016_e",
+      "label": "E",
+      "title": "Poor Turkeys",
+      "url": "https://atcoder.jp/contests/agc016/tasks/agc016_e"
+    },
+    {
+      "id": "agc016_f",
+      "label": "F",
+      "title": "Games on DAG",
+      "url": "https://atcoder.jp/contests/agc016/tasks/agc016_f"
+    }
+  ]
+}
