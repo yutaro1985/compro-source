@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "arc112",
+    "title": "AtCoder Regular Contest 112",
+    "url": "https://atcoder.jp/contests/arc112"
+  },
+  "tasks": [
+    {
+      "id": "arc112_a",
+      "label": "A",
+      "title": "B = C",
+      "url": "https://atcoder.jp/contests/arc112/tasks/arc112_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc112_b",
+      "label": "B",
+      "title": "-- - B",
+      "url": "https://atcoder.jp/contests/arc112/tasks/arc112_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc112_c",
+      "label": "C",
+      "title": "DFS Game",
+      "url": "https://atcoder.jp/contests/arc112/tasks/arc112_c"
+    },
+    {
+      "id": "arc112_d",
+      "label": "D",
+      "title": "Skate",
+      "url": "https://atcoder.jp/contests/arc112/tasks/arc112_d"
+    },
+    {
+      "id": "arc112_e",
+      "label": "E",
+      "title": "Cigar Box",
+      "url": "https://atcoder.jp/contests/arc112/tasks/arc112_e"
+    },
+    {
+      "id": "arc112_f",
+      "label": "F",
+      "title": "Die Siedler",
+      "url": "https://atcoder.jp/contests/arc112/tasks/arc112_f"
+    }
+  ]
+}
