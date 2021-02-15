@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc031",
+    "title": "AtCoder Grand Contest 031",
+    "url": "https://atcoder.jp/contests/agc031"
+  },
+  "tasks": [
+    {
+      "id": "agc031_a",
+      "label": "A",
+      "title": "Colorful Subsequence",
+      "url": "https://atcoder.jp/contests/agc031/tasks/agc031_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc031_b",
+      "label": "B",
+      "title": "Reversi",
+      "url": "https://atcoder.jp/contests/agc031/tasks/agc031_b"
+    },
+    {
+      "id": "agc031_c",
+      "label": "C",
+      "title": "Differ by 1 Bit",
+      "url": "https://atcoder.jp/contests/agc031/tasks/agc031_c"
+    },
+    {
+      "id": "agc031_d",
+      "label": "D",
+      "title": "A Sequence of Permutations",
+      "url": "https://atcoder.jp/contests/agc031/tasks/agc031_d"
+    },
+    {
+      "id": "agc031_e",
+      "label": "E",
+      "title": "Snuke the Phantom Thief",
+      "url": "https://atcoder.jp/contests/agc031/tasks/agc031_e"
+    },
+    {
+      "id": "agc031_f",
+      "label": "F",
+      "title": "Walk on Graph",
+      "url": "https://atcoder.jp/contests/agc031/tasks/agc031_f"
+    }
+  ]
+}
