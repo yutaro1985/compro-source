@@ -31,7 +31,12 @@
       "id": "abc120_c",
       "label": "C",
       "title": "Unification",
-      "url": "https://atcoder.jp/contests/abc120/tasks/abc120_c"
+      "url": "https://atcoder.jp/contests/abc120/tasks/abc120_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "abc120_d",
