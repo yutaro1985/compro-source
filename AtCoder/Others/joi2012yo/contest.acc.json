@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "joi2012yo",
+    "title": "第１１回日本情報オリンピック 予選（オンライン）",
+    "url": "https://atcoder.jp/contests/joi2012yo"
+  },
+  "tasks": [
+    {
+      "id": "joi2012yo_a",
+      "label": "A",
+      "title": "ランチ (Lunch)",
+      "url": "https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "joi2012yo_b",
+      "label": "B",
+      "title": "サッカー (Soccer)",
+      "url": "https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "joi2012yo_c",
+      "label": "C",
+      "title": "最高のピザ (Best Pizza)",
+      "url": "https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "joi2012yo_d",
+      "label": "D",
+      "title": "パスタ (Pasta)",
+      "url": "https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "joi2012yo_e",
+      "label": "E",
+      "title": "イルミネーション (Illumination)",
+      "url": "https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_e"
+    },
+    {
+      "id": "joi2012yo_f",
+      "label": "F",
+      "title": "ジグザグ数 (Zig-Zag Numbers)",
+      "url": "https://atcoder.jp/contests/joi2012yo/tasks/joi2012yo_f"
+    }
+  ]
+}
