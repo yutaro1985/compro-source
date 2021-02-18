@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "joi2013yo",
+    "title": "第１２回日本情報オリンピック 予選（オンライン）",
+    "url": "https://atcoder.jp/contests/joi2013yo"
+  },
+  "tasks": [
+    {
+      "id": "joi2013yo_a",
+      "label": "A",
+      "title": "宿題 (Homework)",
+      "url": "https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "joi2013yo_b",
+      "label": "B",
+      "title": "数当てゲーム (Unique Number)",
+      "url": "https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "joi2013yo_c",
+      "label": "C",
+      "title": "看板 (Signboard)",
+      "url": "https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "joi2013yo_d",
+      "label": "D",
+      "title": "暑い日々 (Hot days)",
+      "url": "https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "joi2013yo_e",
+      "label": "E",
+      "title": "魚の生息範囲 (Fish)",
+      "url": "https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_e"
+    },
+    {
+      "id": "joi2013yo_f",
+      "label": "F",
+      "title": "お土産購入計画 (Gifts)",
+      "url": "https://atcoder.jp/contests/joi2013yo/tasks/joi2013yo_f"
+    }
+  ]
+}
