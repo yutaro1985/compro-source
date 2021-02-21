@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "arc113",
+    "title": "AtCoder Regular Contest 113",
+    "url": "https://atcoder.jp/contests/arc113"
+  },
+  "tasks": [
+    {
+      "id": "arc113_a",
+      "label": "A",
+      "title": "A*B*C",
+      "url": "https://atcoder.jp/contests/arc113/tasks/arc113_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc113_b",
+      "label": "B",
+      "title": "A^B^C",
+      "url": "https://atcoder.jp/contests/arc113/tasks/arc113_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc113_c",
+      "label": "C",
+      "title": "String Invasion",
+      "url": "https://atcoder.jp/contests/arc113/tasks/arc113_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc113_d",
+      "label": "D",
+      "title": "Sky Reflector",
+      "url": "https://atcoder.jp/contests/arc113/tasks/arc113_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc113_e",
+      "label": "E",
+      "title": "Rvom and Rsrev",
+      "url": "https://atcoder.jp/contests/arc113/tasks/arc113_e"
+    },
+    {
+      "id": "arc113_f",
+      "label": "F",
+      "title": "Social Distance",
+      "url": "https://atcoder.jp/contests/arc113/tasks/arc113_f"
+    }
+  ]
+}
