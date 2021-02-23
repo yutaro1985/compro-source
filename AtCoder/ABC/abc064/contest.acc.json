@@ -42,7 +42,12 @@
       "id": "abc064_d",
       "label": "D",
       "title": "Insertion",
-      "url": "https://atcoder.jp/contests/abc064/tasks/abc064_d"
+      "url": "https://atcoder.jp/contests/abc064/tasks/abc064_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     }
   ]
 }
