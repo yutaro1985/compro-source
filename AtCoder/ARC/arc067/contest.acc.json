@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc067",
+    "title": "AtCoder Regular Contest 067",
+    "url": "https://atcoder.jp/contests/arc067"
+  },
+  "tasks": [
+    {
+      "id": "arc067_a",
+      "label": "C",
+      "title": "Factors of Factorial",
+      "url": "https://atcoder.jp/contests/arc067/tasks/arc067_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc067_b",
+      "label": "D",
+      "title": "Walk and Teleport",
+      "url": "https://atcoder.jp/contests/arc067/tasks/arc067_b"
+    },
+    {
+      "id": "arc067_c",
+      "label": "E",
+      "title": "Grouping",
+      "url": "https://atcoder.jp/contests/arc067/tasks/arc067_c"
+    },
+    {
+      "id": "arc067_d",
+      "label": "F",
+      "title": "Yakiniku Restaurants",
+      "url": "https://atcoder.jp/contests/arc067/tasks/arc067_d"
+    }
+  ]
+}
