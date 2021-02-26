@@ -1,0 +1,44 @@
+{
+  "contest": {
+    "id": "dwacon6th-prelims",
+    "title": "Dwango Programming Contest 6th",
+    "url": "https://atcoder.jp/contests/dwacon6th-prelims"
+  },
+  "tasks": [
+    {
+      "id": "dwacon6th_prelims_a",
+      "label": "A",
+      "title": "Falling Asleep",
+      "url": "https://atcoder.jp/contests/dwacon6th-prelims/tasks/dwacon6th_prelims_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "dwacon6th_prelims_b",
+      "label": "B",
+      "title": "Fusing Slimes",
+      "url": "https://atcoder.jp/contests/dwacon6th-prelims/tasks/dwacon6th_prelims_b"
+    },
+    {
+      "id": "dwacon6th_prelims_c",
+      "label": "C",
+      "title": "Cookie Distribution",
+      "url": "https://atcoder.jp/contests/dwacon6th-prelims/tasks/dwacon6th_prelims_c"
+    },
+    {
+      "id": "dwacon6th_prelims_d",
+      "label": "D",
+      "title": "Arrangement",
+      "url": "https://atcoder.jp/contests/dwacon6th-prelims/tasks/dwacon6th_prelims_d"
+    },
+    {
+      "id": "dwacon6th_prelims_e",
+      "label": "E",
+      "title": "Span Covering",
+      "url": "https://atcoder.jp/contests/dwacon6th-prelims/tasks/dwacon6th_prelims_e"
+    }
+  ]
+}
