@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc038",
+    "title": "AtCoder Grand Contest 038",
+    "url": "https://atcoder.jp/contests/agc038"
+  },
+  "tasks": [
+    {
+      "id": "agc038_a",
+      "label": "A",
+      "title": "01 Matrix",
+      "url": "https://atcoder.jp/contests/agc038/tasks/agc038_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "agc038_b",
+      "label": "B",
+      "title": "Sorting a Segment",
+      "url": "https://atcoder.jp/contests/agc038/tasks/agc038_b"
+    },
+    {
+      "id": "agc038_c",
+      "label": "C",
+      "title": "LCMs",
+      "url": "https://atcoder.jp/contests/agc038/tasks/agc038_c"
+    },
+    {
+      "id": "agc038_d",
+      "label": "D",
+      "title": "Unique Path",
+      "url": "https://atcoder.jp/contests/agc038/tasks/agc038_d"
+    },
+    {
+      "id": "agc038_e",
+      "label": "E",
+      "title": "Gachapon",
+      "url": "https://atcoder.jp/contests/agc038/tasks/agc038_e"
+    },
+    {
+      "id": "agc038_f",
+      "label": "F",
+      "title": "Two Permutations",
+      "url": "https://atcoder.jp/contests/agc038/tasks/agc038_f"
+    }
+  ]
+}
