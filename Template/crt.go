@@ -1,5 +1,6 @@
 // Crt は中国剰余定理の実装
 // common_mathを一緒に使用すること。
+// 答えがない場合は(0,0)が返る
 // https://github.com/monkukui/ac-library-go/blob/master/math/math.go
 func Crt(r, m []int64) (int64, int64) {
 	if len(r) != len(m) {

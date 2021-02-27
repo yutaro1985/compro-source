@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"sort"
 	"strconv"
 )
 
@@ -94,6 +95,11 @@ func init2DBools(H, W int, b bool) [][]bool {
 		}
 	}
 	return res
+}
+
+// ReverseSort はsort.Interfaceの形を渡すと逆順にソートする
+func ReverseSort(data sort.Interface) {
+	sort.Sort(sort.Reverse(data))
 }
 
 // Math Utilities
