@@ -20,7 +20,12 @@
       "id": "arc005_2",
       "label": "B",
       "title": "P-CASカードと高橋君",
-      "url": "https://atcoder.jp/contests/arc005/tasks/arc005_2"
+      "url": "https://atcoder.jp/contests/arc005/tasks/arc005_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "arc005_3",
