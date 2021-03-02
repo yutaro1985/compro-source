@@ -31,7 +31,12 @@
       "id": "abc024_c",
       "label": "C",
       "title": "民族大移動",
-      "url": "https://atcoder.jp/contests/abc024/tasks/abc024_c"
+      "url": "https://atcoder.jp/contests/abc024/tasks/abc024_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "abc024_d",
