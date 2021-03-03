@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc020",
+    "title": "AtCoder Regular Contest 020",
+    "url": "https://atcoder.jp/contests/arc020"
+  },
+  "tasks": [
+    {
+      "id": "arc020_1",
+      "label": "A",
+      "title": "石を滑らせるゲーム",
+      "url": "https://atcoder.jp/contests/arc020/tasks/arc020_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc020_2",
+      "label": "B",
+      "title": "縞模様",
+      "url": "https://atcoder.jp/contests/arc020/tasks/arc020_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "arc020_3",
+      "label": "C",
+      "title": "A mod B Problem",
+      "url": "https://atcoder.jp/contests/arc020/tasks/arc020_3"
+    },
+    {
+      "id": "arc020_4",
+      "label": "D",
+      "title": "お菓子の国の旅行",
+      "url": "https://atcoder.jp/contests/arc020/tasks/arc020_4"
+    }
+  ]
+}
