@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "code-festival-2016-qualc",
+    "title": "CODE FESTIVAL 2016 qual C",
+    "url": "https://atcoder.jp/contests/code-festival-2016-qualc"
+  },
+  "tasks": [
+    {
+      "id": "codefestival_2016_qualC_a",
+      "label": "A",
+      "title": "CF",
+      "url": "https://atcoder.jp/contests/code-festival-2016-qualc/tasks/codefestival_2016_qualC_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "codefestival_2016_qualC_b",
+      "label": "B",
+      "title": "K Cakes",
+      "url": "https://atcoder.jp/contests/code-festival-2016-qualc/tasks/codefestival_2016_qualC_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "codefestival_2016_qualC_c",
+      "label": "C",
+      "title": "Two Alpinists",
+      "url": "https://atcoder.jp/contests/code-festival-2016-qualc/tasks/codefestival_2016_qualC_c"
+    },
+    {
+      "id": "codefestival_2016_qualC_d",
+      "label": "D",
+      "title": "Friction",
+      "url": "https://atcoder.jp/contests/code-festival-2016-qualc/tasks/codefestival_2016_qualC_d"
+    },
+    {
+      "id": "codefestival_2016_qualC_e",
+      "label": "E",
+      "title": "Encyclopedia of Permutations",
+      "url": "https://atcoder.jp/contests/code-festival-2016-qualc/tasks/codefestival_2016_qualC_e"
+    }
+  ]
+}
