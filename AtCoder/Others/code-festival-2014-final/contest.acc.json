@@ -51,7 +51,12 @@
       "id": "code_festival_final_e",
       "label": "E",
       "title": "常ならずグラフ",
-      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_e"
+      "url": "https://atcoder.jp/contests/code-festival-2014-final/tasks/code_festival_final_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "code_festival_final_f",
