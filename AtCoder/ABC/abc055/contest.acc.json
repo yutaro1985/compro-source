@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc055",
+    "title": "AtCoder Beginner Contest 055",
+    "url": "https://atcoder.jp/contests/abc055"
+  },
+  "tasks": [
+    {
+      "id": "abc055_a",
+      "label": "A",
+      "title": "Restaurant",
+      "url": "https://atcoder.jp/contests/abc055/tasks/abc055_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc055_b",
+      "label": "B",
+      "title": "Training Camp",
+      "url": "https://atcoder.jp/contests/abc055/tasks/abc055_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc069_a",
+      "label": "C",
+      "title": "Scc Puzzle",
+      "url": "https://atcoder.jp/contests/abc055/tasks/arc069_a"
+    },
+    {
+      "id": "arc069_b",
+      "label": "D",
+      "title": "Menagerie",
+      "url": "https://atcoder.jp/contests/abc055/tasks/arc069_b"
+    }
+  ]
+}
