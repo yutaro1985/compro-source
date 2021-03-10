@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "diverta2019-2",
+    "title": "diverta 2019 Programming Contest 2",
+    "url": "https://atcoder.jp/contests/diverta2019-2"
+  },
+  "tasks": [
+    {
+      "id": "diverta2019_2_a",
+      "label": "A",
+      "title": "Ball Distribution",
+      "url": "https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "diverta2019_2_b",
+      "label": "B",
+      "title": "Picking Up",
+      "url": "https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "diverta2019_2_c",
+      "label": "C",
+      "title": "Successive Subtraction",
+      "url": "https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_c"
+    },
+    {
+      "id": "diverta2019_2_d",
+      "label": "D",
+      "title": "Squirrel Merchant",
+      "url": "https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_d"
+    },
+    {
+      "id": "diverta2019_2_e",
+      "label": "E",
+      "title": "Balanced Piles",
+      "url": "https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_e"
+    },
+    {
+      "id": "diverta2019_2_f",
+      "label": "F",
+      "title": "Diverta City",
+      "url": "https://atcoder.jp/contests/diverta2019-2/tasks/diverta2019_2_f"
+    }
+  ]
+}
