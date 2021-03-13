@@ -53,13 +53,23 @@
       "id": "abc195_e",
       "label": "E",
       "title": "Lucky 7 Battle",
-      "url": "https://atcoder.jp/contests/abc195/tasks/abc195_e"
+      "url": "https://atcoder.jp/contests/abc195/tasks/abc195_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
     },
     {
       "id": "abc195_f",
       "label": "F",
       "title": "Coprime Present",
-      "url": "https://atcoder.jp/contests/abc195/tasks/abc195_f"
+      "url": "https://atcoder.jp/contests/abc195/tasks/abc195_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "F.go"
+      }
     }
   ]
 }
