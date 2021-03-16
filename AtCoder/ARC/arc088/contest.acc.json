@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc088",
+    "title": "AtCoder Regular Contest 088",
+    "url": "https://atcoder.jp/contests/arc088"
+  },
+  "tasks": [
+    {
+      "id": "arc088_a",
+      "label": "C",
+      "title": "Multiple Gift",
+      "url": "https://atcoder.jp/contests/arc088/tasks/arc088_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "arc088_b",
+      "label": "D",
+      "title": "Wide Flip",
+      "url": "https://atcoder.jp/contests/arc088/tasks/arc088_b"
+    },
+    {
+      "id": "arc088_c",
+      "label": "E",
+      "title": "Papple Sort",
+      "url": "https://atcoder.jp/contests/arc088/tasks/arc088_c"
+    },
+    {
+      "id": "arc088_d",
+      "label": "F",
+      "title": "Christmas Tree",
+      "url": "https://atcoder.jp/contests/arc088/tasks/arc088_d"
+    }
+  ]
+}
