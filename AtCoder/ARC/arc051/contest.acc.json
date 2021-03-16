@@ -20,7 +20,12 @@
       "id": "arc051_b",
       "label": "B",
       "title": "互除法",
-      "url": "https://atcoder.jp/contests/arc051/tasks/arc051_b"
+      "url": "https://atcoder.jp/contests/arc051/tasks/arc051_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
     },
     {
       "id": "arc051_c",
