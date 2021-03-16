@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc115",
+    "title": "AtCoder Beginner Contest 115",
+    "url": "https://atcoder.jp/contests/abc115"
+  },
+  "tasks": [
+    {
+      "id": "abc115_a",
+      "label": "A",
+      "title": "Christmas Eve Eve Eve",
+      "url": "https://atcoder.jp/contests/abc115/tasks/abc115_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc115_b",
+      "label": "B",
+      "title": "Christmas Eve Eve",
+      "url": "https://atcoder.jp/contests/abc115/tasks/abc115_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc115_c",
+      "label": "C",
+      "title": "Christmas Eve",
+      "url": "https://atcoder.jp/contests/abc115/tasks/abc115_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc115_d",
+      "label": "D",
+      "title": "Christmas",
+      "url": "https://atcoder.jp/contests/abc115/tasks/abc115_d"
+    }
+  ]
+}
