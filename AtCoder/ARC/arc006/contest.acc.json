@@ -31,7 +31,12 @@
       "id": "arc006_3",
       "label": "C",
       "title": "積み重ね",
-      "url": "https://atcoder.jp/contests/arc006/tasks/arc006_3"
+      "url": "https://atcoder.jp/contests/arc006/tasks/arc006_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
     },
     {
       "id": "arc006_4",
