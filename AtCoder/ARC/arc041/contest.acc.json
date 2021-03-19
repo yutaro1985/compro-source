@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc041",
+    "title": "AtCoder Regular Contest 041",
+    "url": "https://atcoder.jp/contests/arc041"
+  },
+  "tasks": [
+    {
+      "id": "arc041_a",
+      "label": "A",
+      "title": "コインの反転",
+      "url": "https://atcoder.jp/contests/arc041/tasks/arc041_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc041_b",
+      "label": "B",
+      "title": "アメーバ",
+      "url": "https://atcoder.jp/contests/arc041/tasks/arc041_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc041_c",
+      "label": "C",
+      "title": "ウサギ跳び",
+      "url": "https://atcoder.jp/contests/arc041/tasks/arc041_c"
+    },
+    {
+      "id": "arc041_d",
+      "label": "D",
+      "title": "辺彩色",
+      "url": "https://atcoder.jp/contests/arc041/tasks/arc041_d"
+    }
+  ]
+}
