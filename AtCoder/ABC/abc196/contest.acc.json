@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "abc196",
+    "title": "AtCoder Beginner Contest 196",
+    "url": "https://atcoder.jp/contests/abc196"
+  },
+  "tasks": [
+    {
+      "id": "abc196_a",
+      "label": "A",
+      "title": "Difference Max",
+      "url": "https://atcoder.jp/contests/abc196/tasks/abc196_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc196_b",
+      "label": "B",
+      "title": "Round Down",
+      "url": "https://atcoder.jp/contests/abc196/tasks/abc196_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc196_c",
+      "label": "C",
+      "title": "Doubled",
+      "url": "https://atcoder.jp/contests/abc196/tasks/abc196_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc196_d",
+      "label": "D",
+      "title": "Hanjo",
+      "url": "https://atcoder.jp/contests/abc196/tasks/abc196_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc196_e",
+      "label": "E",
+      "title": "Filters",
+      "url": "https://atcoder.jp/contests/abc196/tasks/abc196_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc196_f",
+      "label": "F",
+      "title": "Substring 2",
+      "url": "https://atcoder.jp/contests/abc196/tasks/abc196_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "F.go"
+      }
+    }
+  ]
+}
