@@ -1,0 +1,79 @@
+{
+  "contest": {
+    "id": "apc001",
+    "title": "AtCoder Petrozavodsk Contest 001",
+    "url": "https://atcoder.jp/contests/apc001"
+  },
+  "tasks": [
+    {
+      "id": "apc001_a",
+      "label": "A",
+      "title": "Two Integers",
+      "url": "https://atcoder.jp/contests/apc001/tasks/apc001_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "apc001_b",
+      "label": "B",
+      "title": "Two Arrays",
+      "url": "https://atcoder.jp/contests/apc001/tasks/apc001_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "apc001_c",
+      "label": "C",
+      "title": "Vacant Seat",
+      "url": "https://atcoder.jp/contests/apc001/tasks/apc001_c"
+    },
+    {
+      "id": "apc001_d",
+      "label": "D",
+      "title": "Forest",
+      "url": "https://atcoder.jp/contests/apc001/tasks/apc001_d"
+    },
+    {
+      "id": "apc001_e",
+      "label": "E",
+      "title": "Antennas on Tree",
+      "url": "https://atcoder.jp/contests/apc001/tasks/apc001_e"
+    },
+    {
+      "id": "apc001_f",
+      "label": "F",
+      "title": "XOR Tree",
+      "url": "https://atcoder.jp/contests/apc001/tasks/apc001_f"
+    },
+    {
+      "id": "apc001_g",
+      "label": "G",
+      "title": "Colorful Doors",
+      "url": "https://atcoder.jp/contests/apc001/tasks/apc001_g"
+    },
+    {
+      "id": "apc001_h",
+      "label": "H",
+      "title": "Generalized Insertion Sort",
+      "url": "https://atcoder.jp/contests/apc001/tasks/apc001_h"
+    },
+    {
+      "id": "apc001_i",
+      "label": "I",
+      "title": "Simple APSP Problem",
+      "url": "https://atcoder.jp/contests/apc001/tasks/apc001_i"
+    },
+    {
+      "id": "apc001_j",
+      "label": "J",
+      "title": "Rectangles",
+      "url": "https://atcoder.jp/contests/apc001/tasks/apc001_j"
+    }
+  ]
+}
