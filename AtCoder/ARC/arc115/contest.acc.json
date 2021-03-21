@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "arc115",
+    "title": "AtCoder Regular Contest 115",
+    "url": "https://atcoder.jp/contests/arc115"
+  },
+  "tasks": [
+    {
+      "id": "arc115_a",
+      "label": "A",
+      "title": "Two Choices",
+      "url": "https://atcoder.jp/contests/arc115/tasks/arc115_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc115_b",
+      "label": "B",
+      "title": "Plus Matrix",
+      "url": "https://atcoder.jp/contests/arc115/tasks/arc115_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc115_c",
+      "label": "C",
+      "title": "ℕ Coloring",
+      "url": "https://atcoder.jp/contests/arc115/tasks/arc115_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "arc115_d",
+      "label": "D",
+      "title": "Odd Degree",
+      "url": "https://atcoder.jp/contests/arc115/tasks/arc115_d"
+    },
+    {
+      "id": "arc115_e",
+      "label": "E",
+      "title": "LEQ and NEQ",
+      "url": "https://atcoder.jp/contests/arc115/tasks/arc115_e"
+    },
+    {
+      "id": "arc115_f",
+      "label": "F",
+      "title": "Migration",
+      "url": "https://atcoder.jp/contests/arc115/tasks/arc115_f"
+    }
+  ]
+}
