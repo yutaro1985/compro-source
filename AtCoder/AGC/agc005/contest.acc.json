@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc005",
+    "title": "AtCoder Grand Contest 005",
+    "url": "https://atcoder.jp/contests/agc005"
+  },
+  "tasks": [
+    {
+      "id": "agc005_a",
+      "label": "A",
+      "title": "STring",
+      "url": "https://atcoder.jp/contests/agc005/tasks/agc005_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "agc005_b",
+      "label": "B",
+      "title": "Minimum Sum",
+      "url": "https://atcoder.jp/contests/agc005/tasks/agc005_b"
+    },
+    {
+      "id": "agc005_c",
+      "label": "C",
+      "title": "Tree Restoring",
+      "url": "https://atcoder.jp/contests/agc005/tasks/agc005_c"
+    },
+    {
+      "id": "agc005_d",
+      "label": "D",
+      "title": "~K Perm Counting",
+      "url": "https://atcoder.jp/contests/agc005/tasks/agc005_d"
+    },
+    {
+      "id": "agc005_e",
+      "label": "E",
+      "title": "Sugigma: The Showdown",
+      "url": "https://atcoder.jp/contests/agc005/tasks/agc005_e"
+    },
+    {
+      "id": "agc005_f",
+      "label": "F",
+      "title": "Many Easy Problems",
+      "url": "https://atcoder.jp/contests/agc005/tasks/agc005_f"
+    }
+  ]
+}
