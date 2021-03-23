@@ -37,17 +37,6 @@ func main() {
 		} else {
 			ans = append(ans, X[i])
 		}
-		// if X[i] == 'S' {
-		// 	ans = append(ans, X[i])
-		// } else {
-		// 	if len(ans) == 0 {
-		// 		ans = append(ans, X[i])
-		// 	} else if ans[len(ans)-2] == 'T' {
-
-		// 	}	else		 {
-		// 		ans = ans[:len(ans)-1]
-		// 	}
-		// }
 	}
 	fmt.Println(len(ans))
 }
