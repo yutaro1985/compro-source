@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc140",
+    "title": "AtCoder Beginner Contest 140",
+    "url": "https://atcoder.jp/contests/abc140"
+  },
+  "tasks": [
+    {
+      "id": "abc140_a",
+      "label": "A",
+      "title": "Password",
+      "url": "https://atcoder.jp/contests/abc140/tasks/abc140_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc140_b",
+      "label": "B",
+      "title": "Buffet",
+      "url": "https://atcoder.jp/contests/abc140/tasks/abc140_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc140_c",
+      "label": "C",
+      "title": "Maximal Value",
+      "url": "https://atcoder.jp/contests/abc140/tasks/abc140_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc140_d",
+      "label": "D",
+      "title": "Face Produces Unhappiness",
+      "url": "https://atcoder.jp/contests/abc140/tasks/abc140_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc140_e",
+      "label": "E",
+      "title": "Second Sum",
+      "url": "https://atcoder.jp/contests/abc140/tasks/abc140_e"
+    },
+    {
+      "id": "abc140_f",
+      "label": "F",
+      "title": "Many Slimes",
+      "url": "https://atcoder.jp/contests/abc140/tasks/abc140_f"
+    }
+  ]
+}
