@@ -20,7 +20,12 @@
       "id": "arc067_b",
       "label": "D",
       "title": "Walk and Teleport",
-      "url": "https://atcoder.jp/contests/arc067/tasks/arc067_b"
+      "url": "https://atcoder.jp/contests/arc067/tasks/arc067_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     },
     {
       "id": "arc067_c",
