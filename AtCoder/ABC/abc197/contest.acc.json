@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": "abc197",
+    "title": "AtCoder Beginner Contest 197（Sponsored by Panasonic）",
+    "url": "https://atcoder.jp/contests/abc197"
+  },
+  "tasks": [
+    {
+      "id": "abc197_a",
+      "label": "A",
+      "title": "Rotate",
+      "url": "https://atcoder.jp/contests/abc197/tasks/abc197_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc197_b",
+      "label": "B",
+      "title": "Visibility",
+      "url": "https://atcoder.jp/contests/abc197/tasks/abc197_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc197_c",
+      "label": "C",
+      "title": "ORXOR",
+      "url": "https://atcoder.jp/contests/abc197/tasks/abc197_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc197_d",
+      "label": "D",
+      "title": "Opposite",
+      "url": "https://atcoder.jp/contests/abc197/tasks/abc197_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc197_e",
+      "label": "E",
+      "title": "Traveler",
+      "url": "https://atcoder.jp/contests/abc197/tasks/abc197_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc197_f",
+      "label": "F",
+      "title": "Construct a Palindrome",
+      "url": "https://atcoder.jp/contests/abc197/tasks/abc197_f"
+    }
+  ]
+}
