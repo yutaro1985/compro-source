@@ -31,33 +31,22 @@ const (
 func main() {
 	N := nextInt()
 	A := makeInts(N)
+
 	ans := INF
 	for bit := 0; bit < 1<<N; bit++ {
-		nums := make([]int, 0)
-		nums = append(nums, A[0])
-		prev := bit >> 0 & 1
-		for i := 1; i < N; i++ {
+		var or, xor int
+		for i := 0; i < N; i++ {
+			or |= A[i]
+			// fmt.Println("or", or)
 			if bit>>i&1 == 1 {
-				if prev == 1 {
-					nums[len(nums)-1] |= A[i]
-				} else {
-					nums = append(nums, A[i])
-				}
-			} else {
-				if prev == 0 {
-					nums[len(nums)-1] |= A[i]
-				} else {
-					nums = append(nums, A[i])
-				}
+				xor ^= or
+				or = 0
 			}
 		}
-		xor := nums[0]
-		for i := 1; i < len(nums); i++ {
-			xor ^= nums[i]
-		}
+		// fmt.Println("xor", xor)
+		xor ^= or
 		ChminInt(&ans, xor)
 	}
-
 	fmt.Println(ans)
 }
 
