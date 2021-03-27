@@ -47,6 +47,19 @@ func nextInt() int {
 	return i
 }
 
+func nextFloat64() float64 {
+	sc.Scan()
+	f, e := strconv.ParseFloat(sc.Text(), 64)
+	if e != nil {
+		panic(e)
+	}
+	return f
+}
+
+func nextComplex128() complex128 {
+	return complex(nextFloat64(), nextFloat64())
+}
+
 func makeInts(N int) []int {
 	res := make([]int, N)
 	for i := range res {
