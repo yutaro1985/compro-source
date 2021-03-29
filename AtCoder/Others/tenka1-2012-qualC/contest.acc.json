@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "tenka1-2012-qualC",
+    "title": "天下一プログラマーコンテスト2012 予選C",
+    "url": "https://atcoder.jp/contests/tenka1-2012-qualC"
+  },
+  "tasks": [
+    {
+      "id": "tenka1_2012_9",
+      "label": "A",
+      "title": "与えられた数より小さい素数の個数について",
+      "url": "https://atcoder.jp/contests/tenka1-2012-qualC/tasks/tenka1_2012_9",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "tenka1_2012_10",
+      "label": "B",
+      "title": "ロイヤルストレートフラッシュ",
+      "url": "https://atcoder.jp/contests/tenka1-2012-qualC/tasks/tenka1_2012_10",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "tenka1_2012_11",
+      "label": "C",
+      "title": "席替え",
+      "url": "https://atcoder.jp/contests/tenka1-2012-qualC/tasks/tenka1_2012_11"
+    },
+    {
+      "id": "tenka1_2012_12",
+      "label": "D",
+      "title": "ゆうびんやさんのお花畑",
+      "url": "https://atcoder.jp/contests/tenka1-2012-qualC/tasks/tenka1_2012_12"
+    }
+  ]
+}
