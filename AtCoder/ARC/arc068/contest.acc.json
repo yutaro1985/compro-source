@@ -20,7 +20,12 @@
       "id": "arc068_b",
       "label": "D",
       "title": "Card Eater",
-      "url": "https://atcoder.jp/contests/arc068/tasks/arc068_b"
+      "url": "https://atcoder.jp/contests/arc068/tasks/arc068_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     },
     {
       "id": "arc068_c",
