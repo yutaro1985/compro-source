@@ -42,7 +42,12 @@
       "id": "abc115_d",
       "label": "D",
       "title": "Christmas",
-      "url": "https://atcoder.jp/contests/abc115/tasks/abc115_d"
+      "url": "https://atcoder.jp/contests/abc115/tasks/abc115_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     }
   ]
 }
