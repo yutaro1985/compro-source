@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "tenka1-2018-beginner",
+    "title": "Tenka1 Programmer Beginner Contest",
+    "url": "https://atcoder.jp/contests/tenka1-2018-beginner"
+  },
+  "tasks": [
+    {
+      "id": "tenka1_2018_a",
+      "label": "A",
+      "title": "Measure",
+      "url": "https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "tenka1_2018_b",
+      "label": "B",
+      "title": "Exchange",
+      "url": "https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "tenka1_2018_c",
+      "label": "C",
+      "title": "Align",
+      "url": "https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "tenka1_2018_d",
+      "label": "D",
+      "title": "Crossing",
+      "url": "https://atcoder.jp/contests/tenka1-2018-beginner/tasks/tenka1_2018_d"
+    }
+  ]
+}
