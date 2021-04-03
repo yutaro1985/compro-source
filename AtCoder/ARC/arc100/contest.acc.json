@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc100",
+    "title": "AtCoder Regular Contest 100",
+    "url": "https://atcoder.jp/contests/arc100"
+  },
+  "tasks": [
+    {
+      "id": "arc100_a",
+      "label": "C",
+      "title": "Linear Approximation",
+      "url": "https://atcoder.jp/contests/arc100/tasks/arc100_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "arc100_b",
+      "label": "D",
+      "title": "Equal Cut",
+      "url": "https://atcoder.jp/contests/arc100/tasks/arc100_b"
+    },
+    {
+      "id": "arc100_c",
+      "label": "E",
+      "title": "Or Plus Max",
+      "url": "https://atcoder.jp/contests/arc100/tasks/arc100_c"
+    },
+    {
+      "id": "arc100_d",
+      "label": "F",
+      "title": "Colorful Sequences",
+      "url": "https://atcoder.jp/contests/arc100/tasks/arc100_d"
+    }
+  ]
+}
