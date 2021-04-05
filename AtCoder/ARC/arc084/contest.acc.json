@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc084",
+    "title": "AtCoder Regular Contest 084",
+    "url": "https://atcoder.jp/contests/arc084"
+  },
+  "tasks": [
+    {
+      "id": "arc084_a",
+      "label": "C",
+      "title": "Snuke Festival",
+      "url": "https://atcoder.jp/contests/arc084/tasks/arc084_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "arc084_b",
+      "label": "D",
+      "title": "Small Multiple",
+      "url": "https://atcoder.jp/contests/arc084/tasks/arc084_b"
+    },
+    {
+      "id": "arc084_c",
+      "label": "E",
+      "title": "Finite Encyclopedia of Integer Sequences",
+      "url": "https://atcoder.jp/contests/arc084/tasks/arc084_c"
+    },
+    {
+      "id": "arc084_d",
+      "label": "F",
+      "title": "XorShift",
+      "url": "https://atcoder.jp/contests/arc084/tasks/arc084_d"
+    }
+  ]
+}
