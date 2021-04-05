@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc036",
+    "title": "AtCoder Regular Contest 036",
+    "url": "https://atcoder.jp/contests/arc036"
+  },
+  "tasks": [
+    {
+      "id": "arc036_a",
+      "label": "A",
+      "title": "ぐっすり",
+      "url": "https://atcoder.jp/contests/arc036/tasks/arc036_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc036_b",
+      "label": "B",
+      "title": "山のデータ",
+      "url": "https://atcoder.jp/contests/arc036/tasks/arc036_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc036_c",
+      "label": "C",
+      "title": "偶然ジェネレータ",
+      "url": "https://atcoder.jp/contests/arc036/tasks/arc036_c"
+    },
+    {
+      "id": "arc036_d",
+      "label": "D",
+      "title": "偶数メートル",
+      "url": "https://atcoder.jp/contests/arc036/tasks/arc036_d"
+    }
+  ]
+}
