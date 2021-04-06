@@ -31,7 +31,12 @@
       "id": "abc035_c",
       "label": "C",
       "title": "オセロ",
-      "url": "https://atcoder.jp/contests/abc035/tasks/abc035_c"
+      "url": "https://atcoder.jp/contests/abc035/tasks/abc035_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
     },
     {
       "id": "abc035_d",
