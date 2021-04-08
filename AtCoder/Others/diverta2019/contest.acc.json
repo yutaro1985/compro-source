@@ -42,7 +42,12 @@
       "id": "diverta2019_d",
       "label": "D",
       "title": "DivRem Number",
-      "url": "https://atcoder.jp/contests/diverta2019/tasks/diverta2019_d"
+      "url": "https://atcoder.jp/contests/diverta2019/tasks/diverta2019_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     },
     {
       "id": "diverta2019_e",
