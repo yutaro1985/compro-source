@@ -20,7 +20,12 @@
       "id": "agc034_b",
       "label": "B",
       "title": "ABC",
-      "url": "https://atcoder.jp/contests/agc034/tasks/agc034_b"
+      "url": "https://atcoder.jp/contests/agc034/tasks/agc034_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
     },
     {
       "id": "agc034_c",
