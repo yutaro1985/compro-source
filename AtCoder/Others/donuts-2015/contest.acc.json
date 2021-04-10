@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "donuts-2015",
+    "title": "Donutsプロコンチャレンジ2015",
+    "url": "https://atcoder.jp/contests/donuts-2015"
+  },
+  "tasks": [
+    {
+      "id": "donuts_2015_1",
+      "label": "A",
+      "title": "ドーナツの体積",
+      "url": "https://atcoder.jp/contests/donuts-2015/tasks/donuts_2015_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "donuts_2015_2",
+      "label": "B",
+      "title": "Tokyo 7th シスターズ",
+      "url": "https://atcoder.jp/contests/donuts-2015/tasks/donuts_2015_2"
+    },
+    {
+      "id": "donuts_2015_3",
+      "label": "C",
+      "title": "行列のできるドーナツ屋",
+      "url": "https://atcoder.jp/contests/donuts-2015/tasks/donuts_2015_3"
+    },
+    {
+      "id": "donuts_2015_4",
+      "label": "D",
+      "title": "ドーナツの箱詰め",
+      "url": "https://atcoder.jp/contests/donuts-2015/tasks/donuts_2015_4"
+    }
+  ]
+}
