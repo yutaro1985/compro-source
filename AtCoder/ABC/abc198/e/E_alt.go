@@ -28,47 +28,45 @@ const (
 	INF     = 1 << 60
 )
 
-// var dist []int
-// var G [][]int
-// var Colors map[int]int
-// var ans []int
-// var C []int
+var dist []int
+var G [][]int
+var Colors map[int]int
+var ans []int
+var C []int
 
 func main() {
 	N := nextInt()
-	C := makeInts(N)
-	G := make([][]int, N)
+	C = makeInts(N)
+	G = make([][]int, N)
 	for i := 0; i < N-1; i++ {
 		A, B := nextInt()-1, nextInt()-1
 		G[A] = append(G[A], B)
 		G[B] = append(G[B], A)
 	}
-	dist := initInts(N, -1)
+	dist = initInts(N, -1)
 	dist[0] = 0
-	ans := make([]int, 0)
 	ans = append(ans, 1)
-	Colors := make([]int, 1e5+7)
+	Colors = make(map[int]int)
 	Colors[C[0]]++
-	var dfs func(v int)
-	dfs = func(v int) {
-		for _, nv := range G[v] {
-			if dist[nv] != -1 {
-				continue
-			}
-			dist[nv] = dist[v] + 1
-			if Colors[C[nv]] == 0 {
-				ans = append(ans, nv+1)
-			}
-			Colors[C[nv]]++
-			dfs(nv)
-			Colors[C[nv]]--
-		}
-	}
-
 	dfs(0)
 	sort.Ints(ans)
 	for _, v := range ans {
 		fmt.Println(v)
+	}
+}
+
+func dfs(v int) {
+	for _, nv := range G[v] {
+		if dist[nv] != -1 {
+			continue
+		}
+		dist[nv] = dist[v] + 1
+		if Colors[C[nv]] == 0 {
+			ans = append(ans, nv+1)
+		}
+		Colors[C[nv]]++
+		dfs(nv)
+		Colors[C[nv]]--
 	}
 }
 
