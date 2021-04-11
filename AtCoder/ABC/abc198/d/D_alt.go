@@ -33,6 +33,8 @@ type Pair struct {
 	N int
 }
 
+// なんかTLEしたりしなかったりの速度なので、あとで再実装
+
 func main() {
 	S1, S2, S3 := nextLine(), nextLine(), nextLine()
 	letters := make(map[byte]int)
@@ -65,7 +67,7 @@ func main() {
 		for i := 0; i < len(nums); i++ {
 			nums[i].N = perm[i]
 		}
-		memo := make([]int, 1000)
+		memo := make(map[byte]int)
 		for i := 0; i < len(nums); i++ {
 			memo[nums[i].S] = nums[i].N
 		}
