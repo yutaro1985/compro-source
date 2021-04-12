@@ -39,7 +39,12 @@
       "id": "panasonic2020_d",
       "label": "D",
       "title": "String Equivalence",
-      "url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_d"
+      "url": "https://atcoder.jp/contests/panasonic2020/tasks/panasonic2020_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     },
     {
       "id": "panasonic2020_e",
