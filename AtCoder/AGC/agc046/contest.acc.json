@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc046",
+    "title": "AtCoder Grand Contest 046",
+    "url": "https://atcoder.jp/contests/agc046"
+  },
+  "tasks": [
+    {
+      "id": "agc046_a",
+      "label": "A",
+      "title": "Takahashikun, The Strider",
+      "url": "https://atcoder.jp/contests/agc046/tasks/agc046_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "agc046_b",
+      "label": "B",
+      "title": "Extension",
+      "url": "https://atcoder.jp/contests/agc046/tasks/agc046_b"
+    },
+    {
+      "id": "agc046_c",
+      "label": "C",
+      "title": "Shift",
+      "url": "https://atcoder.jp/contests/agc046/tasks/agc046_c"
+    },
+    {
+      "id": "agc046_d",
+      "label": "D",
+      "title": "Secret Passage",
+      "url": "https://atcoder.jp/contests/agc046/tasks/agc046_d"
+    },
+    {
+      "id": "agc046_e",
+      "label": "E",
+      "title": "Permutation Cover",
+      "url": "https://atcoder.jp/contests/agc046/tasks/agc046_e"
+    },
+    {
+      "id": "agc046_f",
+      "label": "F",
+      "title": "Forbidden Tournament",
+      "url": "https://atcoder.jp/contests/agc046/tasks/agc046_f"
+    }
+  ]
+}
