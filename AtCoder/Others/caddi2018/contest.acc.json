@@ -20,7 +20,12 @@
       "id": "caddi2018_b",
       "label": "D",
       "title": "Harlequin",
-      "url": "https://atcoder.jp/contests/caddi2018/tasks/caddi2018_b"
+      "url": "https://atcoder.jp/contests/caddi2018/tasks/caddi2018_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     },
     {
       "id": "caddi2018_c",
