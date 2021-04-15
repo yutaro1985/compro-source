@@ -42,7 +42,12 @@
       "id": "abc129_d",
       "label": "D",
       "title": "Lamp",
-      "url": "https://atcoder.jp/contests/abc129/tasks/abc129_d"
+      "url": "https://atcoder.jp/contests/abc129/tasks/abc129_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     },
     {
       "id": "abc129_e",
