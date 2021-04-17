@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "jsc2021",
+    "title": "Japanese Student Championship 2021",
+    "url": "https://atcoder.jp/contests/jsc2021"
+  },
+  "tasks": [
+    {
+      "id": "jsc2021_a",
+      "label": "A",
+      "title": "Competition",
+      "url": "https://atcoder.jp/contests/jsc2021/tasks/jsc2021_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "jsc2021_b",
+      "label": "B",
+      "title": "Xor of Sequences",
+      "url": "https://atcoder.jp/contests/jsc2021/tasks/jsc2021_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "jsc2021_c",
+      "label": "C",
+      "title": "Max GCD 2",
+      "url": "https://atcoder.jp/contests/jsc2021/tasks/jsc2021_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "jsc2021_d",
+      "label": "D",
+      "title": "Nowhere P",
+      "url": "https://atcoder.jp/contests/jsc2021/tasks/jsc2021_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "jsc2021_e",
+      "label": "E",
+      "title": "Level K Palindrome",
+      "url": "https://atcoder.jp/contests/jsc2021/tasks/jsc2021_e"
+    },
+    {
+      "id": "jsc2021_f",
+      "label": "F",
+      "title": "Max Matrix",
+      "url": "https://atcoder.jp/contests/jsc2021/tasks/jsc2021_f"
+    },
+    {
+      "id": "jsc2021_g",
+      "label": "G",
+      "title": "Spanning Tree",
+      "url": "https://atcoder.jp/contests/jsc2021/tasks/jsc2021_g"
+    },
+    {
+      "id": "jsc2021_h",
+      "label": "H",
+      "title": "Shipping",
+      "url": "https://atcoder.jp/contests/jsc2021/tasks/jsc2021_h"
+    }
+  ]
+}
