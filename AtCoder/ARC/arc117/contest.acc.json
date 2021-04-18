@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "arc117",
+    "title": "AtCoder Regular Contest 117",
+    "url": "https://atcoder.jp/contests/arc117"
+  },
+  "tasks": [
+    {
+      "id": "arc117_a",
+      "label": "A",
+      "title": "God Sequence",
+      "url": "https://atcoder.jp/contests/arc117/tasks/arc117_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc117_b",
+      "label": "B",
+      "title": "ARC Wrecker",
+      "url": "https://atcoder.jp/contests/arc117/tasks/arc117_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc117_c",
+      "label": "C",
+      "title": "Tricolor Pyramid",
+      "url": "https://atcoder.jp/contests/arc117/tasks/arc117_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "arc117_d",
+      "label": "D",
+      "title": "Miracle Tree",
+      "url": "https://atcoder.jp/contests/arc117/tasks/arc117_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "arc117_e",
+      "label": "E",
+      "title": "Zero-Sum Ranges 2",
+      "url": "https://atcoder.jp/contests/arc117/tasks/arc117_e"
+    },
+    {
+      "id": "arc117_f",
+      "label": "F",
+      "title": "Gateau",
+      "url": "https://atcoder.jp/contests/arc117/tasks/arc117_f"
+    }
+  ]
+}
