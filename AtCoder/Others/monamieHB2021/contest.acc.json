@@ -1,0 +1,44 @@
+{
+  "contest": {
+    "id": "monamieHB2021",
+    "title": "evima's Birthday Contest 2021 Day 1",
+    "url": "https://atcoder.jp/contests/monamieHB2021"
+  },
+  "tasks": [
+    {
+      "id": "monamieHB2021_a",
+      "label": "A",
+      "title": "Crab or Shrimp",
+      "url": "https://atcoder.jp/contests/monamieHB2021/tasks/monamieHB2021_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "monamieHB2021_b",
+      "label": "B",
+      "title": "Lovely Sequence",
+      "url": "https://atcoder.jp/contests/monamieHB2021/tasks/monamieHB2021_b"
+    },
+    {
+      "id": "monamieHB2021_c",
+      "label": "C",
+      "title": "Ball in the Box",
+      "url": "https://atcoder.jp/contests/monamieHB2021/tasks/monamieHB2021_c"
+    },
+    {
+      "id": "monamieHB2021_d",
+      "label": "D",
+      "title": "Nice Couples",
+      "url": "https://atcoder.jp/contests/monamieHB2021/tasks/monamieHB2021_d"
+    },
+    {
+      "id": "monamieHB2021_e",
+      "label": "E",
+      "title": "Min Cost Sort",
+      "url": "https://atcoder.jp/contests/monamieHB2021/tasks/monamieHB2021_e"
+    }
+  ]
+}

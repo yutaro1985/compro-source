@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc010",
+    "title": "AtCoder Regular Contest 010",
+    "url": "https://atcoder.jp/contests/arc010"
+  },
+  "tasks": [
+    {
+      "id": "arc010_1",
+      "label": "A",
+      "title": "名刺交換",
+      "url": "https://atcoder.jp/contests/arc010/tasks/arc010_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc010_2",
+      "label": "B",
+      "title": "超大型連休",
+      "url": "https://atcoder.jp/contests/arc010/tasks/arc010_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc010_3",
+      "label": "C",
+      "title": "積み上げパズル",
+      "url": "https://atcoder.jp/contests/arc010/tasks/arc010_3"
+    },
+    {
+      "id": "arc010_4",
+      "label": "D",
+      "title": "情報伝播",
+      "url": "https://atcoder.jp/contests/arc010/tasks/arc010_4"
+    }
+  ]
+}
