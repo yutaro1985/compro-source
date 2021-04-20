@@ -1,0 +1,218 @@
+{
+  "contest": {
+    "id": "typical90",
+    "title": "競プロ典型 90 問",
+    "url": "https://atcoder.jp/contests/typical90"
+  },
+  "tasks": [
+    {
+      "id": "typical90_a",
+      "label": "001",
+      "title": "Yokan Party（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_a",
+      "directory": {
+        "path": "001",
+        "testdir": "tests",
+        "submit": "001.go"
+      }
+    },
+    {
+      "id": "typical90_b",
+      "label": "002",
+      "title": "Encyclopedia of Parentheses（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_b",
+      "directory": {
+        "path": "002",
+        "testdir": "tests",
+        "submit": "002.go"
+      }
+    },
+    {
+      "id": "typical90_c",
+      "label": "003",
+      "title": "Longest Circular Road（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_c",
+      "directory": {
+        "path": "003",
+        "testdir": "tests",
+        "submit": "003.go"
+      }
+    },
+    {
+      "id": "typical90_d",
+      "label": "004",
+      "title": "Cross Sum（★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_d",
+      "directory": {
+        "path": "004",
+        "testdir": "tests",
+        "submit": "004.go"
+      }
+    },
+    {
+      "id": "typical90_e",
+      "label": "005",
+      "title": "Restricted Digits（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_e",
+      "directory": {
+        "path": "005",
+        "testdir": "tests",
+        "submit": "005.go"
+      }
+    },
+    {
+      "id": "typical90_f",
+      "label": "006",
+      "title": "Smallest Subsequence（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_f",
+      "directory": {
+        "path": "006",
+        "testdir": "tests",
+        "submit": "006.go"
+      }
+    },
+    {
+      "id": "typical90_g",
+      "label": "007",
+      "title": "CP Classes（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_g",
+      "directory": {
+        "path": "007",
+        "testdir": "tests",
+        "submit": "007.go"
+      }
+    },
+    {
+      "id": "typical90_h",
+      "label": "008",
+      "title": "AtCounter（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_h",
+      "directory": {
+        "path": "008",
+        "testdir": "tests",
+        "submit": "008.go"
+      }
+    },
+    {
+      "id": "typical90_i",
+      "label": "009",
+      "title": "Three Point Angle（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_i",
+      "directory": {
+        "path": "009",
+        "testdir": "tests",
+        "submit": "009.go"
+      }
+    },
+    {
+      "id": "typical90_j",
+      "label": "010",
+      "title": "Score Sum Queries（★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_j",
+      "directory": {
+        "path": "010",
+        "testdir": "tests",
+        "submit": "010.go"
+      }
+    },
+    {
+      "id": "typical90_k",
+      "label": "011",
+      "title": "Gravy Jobs（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_k",
+      "directory": {
+        "path": "011",
+        "testdir": "tests",
+        "submit": "011.go"
+      }
+    },
+    {
+      "id": "typical90_l",
+      "label": "012",
+      "title": "Red Painting（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_l",
+      "directory": {
+        "path": "012",
+        "testdir": "tests",
+        "submit": "012.go"
+      }
+    },
+    {
+      "id": "typical90_m",
+      "label": "013",
+      "title": "Passing（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_m",
+      "directory": {
+        "path": "013",
+        "testdir": "tests",
+        "submit": "013.go"
+      }
+    },
+    {
+      "id": "typical90_n",
+      "label": "014",
+      "title": "We Used to Sing a Song Together（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_n",
+      "directory": {
+        "path": "014",
+        "testdir": "tests",
+        "submit": "014.go"
+      }
+    },
+    {
+      "id": "typical90_o",
+      "label": "015",
+      "title": "Don't be too close（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_o",
+      "directory": {
+        "path": "015",
+        "testdir": "tests",
+        "submit": "015.go"
+      }
+    },
+    {
+      "id": "typical90_p",
+      "label": "016",
+      "title": "Minimum Coins（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_p",
+      "directory": {
+        "path": "016",
+        "testdir": "tests",
+        "submit": "016.go"
+      }
+    },
+    {
+      "id": "typical90_q",
+      "label": "017",
+      "title": "Crossing Segments（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_q",
+      "directory": {
+        "path": "017",
+        "testdir": "tests",
+        "submit": "017.go"
+      }
+    },
+    {
+      "id": "typical90_r",
+      "label": "018",
+      "title": "Statue of Chokudai（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_r",
+      "directory": {
+        "path": "018",
+        "testdir": "tests",
+        "submit": "018.go"
+      }
+    },
+    {
+      "id": "typical90_s",
+      "label": "019",
+      "title": "Pick Two（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_s",
+      "directory": {
+        "path": "019",
+        "testdir": "tests",
+        "submit": "019.go"
+      }
+    }
+  ]
+}
