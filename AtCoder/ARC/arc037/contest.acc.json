@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc037",
+    "title": "AtCoder Regular Contest 037",
+    "url": "https://atcoder.jp/contests/arc037"
+  },
+  "tasks": [
+    {
+      "id": "arc037_a",
+      "label": "A",
+      "title": "全優",
+      "url": "https://atcoder.jp/contests/arc037/tasks/arc037_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc037_b",
+      "label": "B",
+      "title": "バウムテスト",
+      "url": "https://atcoder.jp/contests/arc037/tasks/arc037_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc037_c",
+      "label": "C",
+      "title": "億マス計算",
+      "url": "https://atcoder.jp/contests/arc037/tasks/arc037_c"
+    },
+    {
+      "id": "arc037_d",
+      "label": "D",
+      "title": "Chaotic Polygons",
+      "url": "https://atcoder.jp/contests/arc037/tasks/arc037_d"
+    }
+  ]
+}
