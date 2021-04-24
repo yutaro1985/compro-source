@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": "abc199",
+    "title": "AtCoder Beginner Contest 199（Sponsored by Panasonic）",
+    "url": "https://atcoder.jp/contests/abc199"
+  },
+  "tasks": [
+    {
+      "id": "abc199_a",
+      "label": "A",
+      "title": "Square Inequality",
+      "url": "https://atcoder.jp/contests/abc199/tasks/abc199_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc199_b",
+      "label": "B",
+      "title": "Intersection",
+      "url": "https://atcoder.jp/contests/abc199/tasks/abc199_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc199_c",
+      "label": "C",
+      "title": "IPFL",
+      "url": "https://atcoder.jp/contests/abc199/tasks/abc199_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc199_d",
+      "label": "D",
+      "title": "RGB Coloring 2",
+      "url": "https://atcoder.jp/contests/abc199/tasks/abc199_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc199_e",
+      "label": "E",
+      "title": "Permutation",
+      "url": "https://atcoder.jp/contests/abc199/tasks/abc199_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc199_f",
+      "label": "F",
+      "title": "Graph Smoothing",
+      "url": "https://atcoder.jp/contests/abc199/tasks/abc199_f"
+    }
+  ]
+}
