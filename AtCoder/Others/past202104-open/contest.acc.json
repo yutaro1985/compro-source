@@ -1,0 +1,134 @@
+{
+  "contest": {
+    "id": "past202104-open",
+    "title": "第六回 アルゴリズム実技検定",
+    "url": "https://atcoder.jp/contests/past202104-open"
+  },
+  "tasks": [
+    {
+      "id": "past202104_a",
+      "label": "A",
+      "title": "POSTal Code",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "past202104_b",
+      "label": "B",
+      "title": "PASTal Code",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "past202104_c",
+      "label": "C",
+      "title": "Buying a Cellphone",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "past202104_d",
+      "label": "D",
+      "title": "K Integers Summations",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "past202104_e",
+      "label": "E",
+      "title": "Third from Front",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "past202104_f",
+      "label": "F",
+      "title": "Safety System",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "F.go"
+      }
+    },
+    {
+      "id": "past202104_g",
+      "label": "G",
+      "title": "One Step at a Time",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "G.go"
+      }
+    },
+    {
+      "id": "past202104_h",
+      "label": "H",
+      "title": "Can Can Mart",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_h"
+    },
+    {
+      "id": "past202104_i",
+      "label": "I",
+      "title": "PAST to Fishing",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_i"
+    },
+    {
+      "id": "past202104_j",
+      "label": "J",
+      "title": "Points to Cost",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_j"
+    },
+    {
+      "id": "past202104_k",
+      "label": "K",
+      "title": "Common Coupon",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_k"
+    },
+    {
+      "id": "past202104_l",
+      "label": "L",
+      "title": "Urban Planning",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_l"
+    },
+    {
+      "id": "past202104_m",
+      "label": "M",
+      "title": "Equal Queries",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_m"
+    },
+    {
+      "id": "past202104_n",
+      "label": "N",
+      "title": "Activities",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_n"
+    },
+    {
+      "id": "past202104_o",
+      "label": "O",
+      "title": "Shortest Distance Query",
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_o"
+    }
+  ]
+}
