@@ -86,7 +86,12 @@
       "id": "past202104_h",
       "label": "H",
       "title": "Can Can Mart",
-      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_h"
+      "url": "https://atcoder.jp/contests/past202104-open/tasks/past202104_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "H.go"
+      }
     },
     {
       "id": "past202104_i",
