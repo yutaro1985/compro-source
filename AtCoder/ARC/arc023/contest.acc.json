@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc023",
+    "title": "AtCoder Regular Contest 023",
+    "url": "https://atcoder.jp/contests/arc023"
+  },
+  "tasks": [
+    {
+      "id": "arc023_1",
+      "label": "A",
+      "title": "経過日数",
+      "url": "https://atcoder.jp/contests/arc023/tasks/arc023_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc023_2",
+      "label": "B",
+      "title": "謎の人物X",
+      "url": "https://atcoder.jp/contests/arc023/tasks/arc023_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc023_3",
+      "label": "C",
+      "title": "タコヤ木",
+      "url": "https://atcoder.jp/contests/arc023/tasks/arc023_3"
+    },
+    {
+      "id": "arc023_4",
+      "label": "D",
+      "title": "GCD区間",
+      "url": "https://atcoder.jp/contests/arc023/tasks/arc023_4"
+    }
+  ]
+}
