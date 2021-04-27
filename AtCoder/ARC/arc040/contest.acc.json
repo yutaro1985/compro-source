@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc040",
+    "title": "AtCoder Regular Contest 040",
+    "url": "https://atcoder.jp/contests/arc040"
+  },
+  "tasks": [
+    {
+      "id": "arc040_a",
+      "label": "A",
+      "title": "床塗り",
+      "url": "https://atcoder.jp/contests/arc040/tasks/arc040_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc040_b",
+      "label": "B",
+      "title": "直線塗り",
+      "url": "https://atcoder.jp/contests/arc040/tasks/arc040_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc040_c",
+      "label": "C",
+      "title": "Z塗り",
+      "url": "https://atcoder.jp/contests/arc040/tasks/arc040_c"
+    },
+    {
+      "id": "arc040_d",
+      "label": "D",
+      "title": "カクカク塗り",
+      "url": "https://atcoder.jp/contests/arc040/tasks/arc040_d"
+    }
+  ]
+}
