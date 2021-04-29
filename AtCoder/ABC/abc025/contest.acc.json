@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc025",
+    "title": "AtCoder Beginner Contest 025",
+    "url": "https://atcoder.jp/contests/abc025"
+  },
+  "tasks": [
+    {
+      "id": "abc025_a",
+      "label": "A",
+      "title": "25個の文字列",
+      "url": "https://atcoder.jp/contests/abc025/tasks/abc025_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc025_b",
+      "label": "B",
+      "title": "双子とスイカ割り",
+      "url": "https://atcoder.jp/contests/abc025/tasks/abc025_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc025_c",
+      "label": "C",
+      "title": "双子と○×ゲーム",
+      "url": "https://atcoder.jp/contests/abc025/tasks/abc025_c"
+    },
+    {
+      "id": "abc025_d",
+      "label": "D",
+      "title": "25個の整数",
+      "url": "https://atcoder.jp/contests/abc025/tasks/abc025_d"
+    }
+  ]
+}
