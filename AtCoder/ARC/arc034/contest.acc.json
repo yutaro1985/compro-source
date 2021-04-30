@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc034",
+    "title": "AtCoder Regular Contest 034",
+    "url": "https://atcoder.jp/contests/arc034"
+  },
+  "tasks": [
+    {
+      "id": "arc034_1",
+      "label": "A",
+      "title": "首席",
+      "url": "https://atcoder.jp/contests/arc034/tasks/arc034_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc034_2",
+      "label": "B",
+      "title": "方程式",
+      "url": "https://atcoder.jp/contests/arc034/tasks/arc034_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc034_3",
+      "label": "C",
+      "title": "約数かつ倍数",
+      "url": "https://atcoder.jp/contests/arc034/tasks/arc034_3"
+    },
+    {
+      "id": "arc034_4",
+      "label": "D",
+      "title": "インフレゲーム",
+      "url": "https://atcoder.jp/contests/arc034/tasks/arc034_4"
+    }
+  ]
+}
