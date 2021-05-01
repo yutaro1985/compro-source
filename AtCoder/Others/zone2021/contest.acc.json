@@ -1,0 +1,75 @@
+{
+  "contest": {
+    "id": "zone2021",
+    "title": "ZONe Energy Programming Contest",
+    "url": "https://atcoder.jp/contests/zone2021"
+  },
+  "tasks": [
+    {
+      "id": "zone2021_a",
+      "label": "A",
+      "title": "UFO Invasion",
+      "url": "https://atcoder.jp/contests/zone2021/tasks/zone2021_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "zone2021_b",
+      "label": "B",
+      "title": "Sign of Friendship",
+      "url": "https://atcoder.jp/contests/zone2021/tasks/zone2021_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "zone2021_c",
+      "label": "C",
+      "title": "MAD TEAM",
+      "url": "https://atcoder.jp/contests/zone2021/tasks/zone2021_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "zone2021_d",
+      "label": "D",
+      "title": "Message from Aliens",
+      "url": "https://atcoder.jp/contests/zone2021/tasks/zone2021_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "zone2021_e",
+      "label": "E",
+      "title": "Sneaking",
+      "url": "https://atcoder.jp/contests/zone2021/tasks/zone2021_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "zone2021_f",
+      "label": "F",
+      "title": "Encounter and Farewell",
+      "url": "https://atcoder.jp/contests/zone2021/tasks/zone2021_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "F.go"
+      }
+    }
+  ]
+}
