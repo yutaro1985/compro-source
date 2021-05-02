@@ -20,7 +20,12 @@
       "id": "arc004_2",
       "label": "B",
       "title": "2点間距離の最大と最小 ( Maximum and Minimum )",
-      "url": "https://atcoder.jp/contests/arc004/tasks/arc004_2"
+      "url": "https://atcoder.jp/contests/arc004/tasks/arc004_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
     },
     {
       "id": "arc004_3",
