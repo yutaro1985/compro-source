@@ -20,7 +20,12 @@
       "id": "arc042_b",
       "label": "B",
       "title": "アリの高橋くん",
-      "url": "https://atcoder.jp/contests/arc042/tasks/arc042_b"
+      "url": "https://atcoder.jp/contests/arc042/tasks/arc042_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
     },
     {
       "id": "arc042_c",
