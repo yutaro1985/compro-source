@@ -20,7 +20,12 @@
       "id": "arc091_b",
       "label": "D",
       "title": "Remainder Reminder",
-      "url": "https://atcoder.jp/contests/arc091/tasks/arc091_b"
+      "url": "https://atcoder.jp/contests/arc091/tasks/arc091_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     },
     {
       "id": "arc091_c",
