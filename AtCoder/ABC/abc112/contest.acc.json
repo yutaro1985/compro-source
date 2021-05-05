@@ -42,7 +42,12 @@
       "id": "abc112_d",
       "label": "D",
       "title": "Partition",
-      "url": "https://atcoder.jp/contests/abc112/tasks/abc112_d"
+      "url": "https://atcoder.jp/contests/abc112/tasks/abc112_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     }
   ]
 }
