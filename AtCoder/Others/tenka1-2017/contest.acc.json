@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "tenka1-2017",
+    "title": "Tenka1 Programmer Contest",
+    "url": "https://atcoder.jp/contests/tenka1-2017"
+  },
+  "tasks": [
+    {
+      "id": "tenka1_2017_c",
+      "label": "C",
+      "title": "4/N",
+      "url": "https://atcoder.jp/contests/tenka1-2017/tasks/tenka1_2017_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "tenka1_2017_d",
+      "label": "D",
+      "title": "IntegerotS",
+      "url": "https://atcoder.jp/contests/tenka1-2017/tasks/tenka1_2017_d"
+    },
+    {
+      "id": "tenka1_2017_e",
+      "label": "E",
+      "title": "CARtesian Coodinate",
+      "url": "https://atcoder.jp/contests/tenka1-2017/tasks/tenka1_2017_e"
+    },
+    {
+      "id": "tenka1_2017_f",
+      "label": "F",
+      "title": "ModularPowerEquation!!",
+      "url": "https://atcoder.jp/contests/tenka1-2017/tasks/tenka1_2017_f"
+    }
+  ]
+}
