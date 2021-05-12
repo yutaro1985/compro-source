@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "abc044",
+    "title": "AtCoder Beginner Contest 044",
+    "url": "https://atcoder.jp/contests/abc044"
+  },
+  "tasks": [
+    {
+      "id": "abc044_a",
+      "label": "A",
+      "title": "Tak and Hotels (ABC Edit)",
+      "url": "https://atcoder.jp/contests/abc044/tasks/abc044_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc044_b",
+      "label": "B",
+      "title": "Beautiful Strings",
+      "url": "https://atcoder.jp/contests/abc044/tasks/abc044_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc060_a",
+      "label": "C",
+      "title": "Tak and Cards",
+      "url": "https://atcoder.jp/contests/abc044/tasks/arc060_a"
+    },
+    {
+      "id": "arc060_b",
+      "label": "D",
+      "title": "Digit Sum",
+      "url": "https://atcoder.jp/contests/abc044/tasks/arc060_b"
+    }
+  ]
+}
