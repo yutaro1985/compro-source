@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": "abc201",
+    "title": "Mynavi Programming Contest 2021（AtCoder Beginner Contest 201）",
+    "url": "https://atcoder.jp/contests/abc201"
+  },
+  "tasks": [
+    {
+      "id": "abc201_a",
+      "label": "A",
+      "title": "Tiny Arithmetic Sequence",
+      "url": "https://atcoder.jp/contests/abc201/tasks/abc201_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc201_b",
+      "label": "B",
+      "title": "Do you know the second highest mountain?",
+      "url": "https://atcoder.jp/contests/abc201/tasks/abc201_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc201_c",
+      "label": "C",
+      "title": "Secret Number",
+      "url": "https://atcoder.jp/contests/abc201/tasks/abc201_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc201_d",
+      "label": "D",
+      "title": "Game in Momotetsu World",
+      "url": "https://atcoder.jp/contests/abc201/tasks/abc201_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc201_e",
+      "label": "E",
+      "title": "Xor Distances",
+      "url": "https://atcoder.jp/contests/abc201/tasks/abc201_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc201_f",
+      "label": "F",
+      "title": "Insertion Sort",
+      "url": "https://atcoder.jp/contests/abc201/tasks/abc201_f"
+    }
+  ]
+}
