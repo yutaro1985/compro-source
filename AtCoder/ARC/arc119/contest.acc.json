@@ -1,0 +1,60 @@
+{
+  "contest": {
+    "id": "arc119",
+    "title": "AtCoder Regular Contest 119",
+    "url": "https://atcoder.jp/contests/arc119"
+  },
+  "tasks": [
+    {
+      "id": "arc119_a",
+      "label": "A",
+      "title": "119 × 2^23 + 1",
+      "url": "https://atcoder.jp/contests/arc119/tasks/arc119_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc119_b",
+      "label": "B",
+      "title": "Electric Board",
+      "url": "https://atcoder.jp/contests/arc119/tasks/arc119_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc119_c",
+      "label": "C",
+      "title": "ARC Wrecker 2",
+      "url": "https://atcoder.jp/contests/arc119/tasks/arc119_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "arc119_d",
+      "label": "D",
+      "title": "Grid Repainting 3",
+      "url": "https://atcoder.jp/contests/arc119/tasks/arc119_d"
+    },
+    {
+      "id": "arc119_e",
+      "label": "E",
+      "title": "Pancakes",
+      "url": "https://atcoder.jp/contests/arc119/tasks/arc119_e"
+    },
+    {
+      "id": "arc119_f",
+      "label": "F",
+      "title": "AtCoder Express 3",
+      "url": "https://atcoder.jp/contests/arc119/tasks/arc119_f"
+    }
+  ]
+}
