@@ -42,7 +42,12 @@
       "id": "abc109_d",
       "label": "D",
       "title": "Make Them Even",
-      "url": "https://atcoder.jp/contests/abc109/tasks/abc109_d"
+      "url": "https://atcoder.jp/contests/abc109/tasks/abc109_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     }
   ]
 }
