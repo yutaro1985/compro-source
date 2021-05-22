@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": "abc202",
+    "title": "AISing Programming Contest 2021（AtCoder Beginner Contest 202）",
+    "url": "https://atcoder.jp/contests/abc202"
+  },
+  "tasks": [
+    {
+      "id": "abc202_a",
+      "label": "A",
+      "title": "Three Dice",
+      "url": "https://atcoder.jp/contests/abc202/tasks/abc202_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc202_b",
+      "label": "B",
+      "title": "180°",
+      "url": "https://atcoder.jp/contests/abc202/tasks/abc202_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc202_c",
+      "label": "C",
+      "title": "Made Up",
+      "url": "https://atcoder.jp/contests/abc202/tasks/abc202_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc202_d",
+      "label": "D",
+      "title": "aab aba baa",
+      "url": "https://atcoder.jp/contests/abc202/tasks/abc202_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc202_e",
+      "label": "E",
+      "title": "Count Descendants",
+      "url": "https://atcoder.jp/contests/abc202/tasks/abc202_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc202_f",
+      "label": "F",
+      "title": "Integer Convex Hull",
+      "url": "https://atcoder.jp/contests/abc202/tasks/abc202_f"
+    }
+  ]
+}
