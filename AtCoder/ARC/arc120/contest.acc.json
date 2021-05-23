@@ -1,0 +1,66 @@
+{
+  "contest": {
+    "id": "arc120",
+    "title": "AtCoder Regular Contest 120",
+    "url": "https://atcoder.jp/contests/arc120"
+  },
+  "tasks": [
+    {
+      "id": "arc120_a",
+      "label": "A",
+      "title": "Max Add",
+      "url": "https://atcoder.jp/contests/arc120/tasks/arc120_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc120_b",
+      "label": "B",
+      "title": "Uniformly Distributed",
+      "url": "https://atcoder.jp/contests/arc120/tasks/arc120_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc120_c",
+      "label": "C",
+      "title": "Swaps 2",
+      "url": "https://atcoder.jp/contests/arc120/tasks/arc120_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "arc120_d",
+      "label": "D",
+      "title": "Bracket Score 2",
+      "url": "https://atcoder.jp/contests/arc120/tasks/arc120_d"
+    },
+    {
+      "id": "arc120_e",
+      "label": "E",
+      "title": "1D Party",
+      "url": "https://atcoder.jp/contests/arc120/tasks/arc120_e"
+    },
+    {
+      "id": "arc120_f",
+      "label": "F",
+      "title": "Wine Thief",
+      "url": "https://atcoder.jp/contests/arc120/tasks/arc120_f"
+    },
+    {
+      "id": "arc120_f2",
+      "label": "F2",
+      "title": "Wine Thief",
+      "url": "https://atcoder.jp/contests/arc120/tasks/arc120_f2"
+    }
+  ]
+}
