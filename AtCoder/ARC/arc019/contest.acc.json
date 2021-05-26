@@ -1,0 +1,43 @@
+{
+  "contest": {
+    "id": "arc019",
+    "title": "AtCoder Regular Contest 019",
+    "url": "https://atcoder.jp/contests/arc019"
+  },
+  "tasks": [
+    {
+      "id": "arc019_1",
+      "label": "A",
+      "title": "お買い物クライシス",
+      "url": "https://atcoder.jp/contests/arc019/tasks/arc019_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc019_2",
+      "label": "B",
+      "title": "こだわりの名前",
+      "url": "https://atcoder.jp/contests/arc019/tasks/arc019_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc019_3",
+      "label": "C",
+      "title": "最後の森",
+      "url": "https://atcoder.jp/contests/arc019/tasks/arc019_3"
+    },
+    {
+      "id": "arc019_4",
+      "label": "D",
+      "title": "ほんとうのたたかい",
+      "url": "https://atcoder.jp/contests/arc019/tasks/arc019_4"
+    }
+  ]
+}
