@@ -1,0 +1,54 @@
+{
+  "contest": {
+    "id": "soundhound2018-summer-qual",
+    "title": "SoundHound Inc. Programming Contest 2018 -Masters Tournament-",
+    "url": "https://atcoder.jp/contests/soundhound2018-summer-qual"
+  },
+  "tasks": [
+    {
+      "id": "soundhound2018_summer_qual_a",
+      "label": "A",
+      "title": "F",
+      "url": "https://atcoder.jp/contests/soundhound2018-summer-qual/tasks/soundhound2018_summer_qual_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "soundhound2018_summer_qual_b",
+      "label": "B",
+      "title": "Acrostic",
+      "url": "https://atcoder.jp/contests/soundhound2018-summer-qual/tasks/soundhound2018_summer_qual_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "soundhound2018_summer_qual_c",
+      "label": "C",
+      "title": "Ordinary Beauty",
+      "url": "https://atcoder.jp/contests/soundhound2018-summer-qual/tasks/soundhound2018_summer_qual_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "soundhound2018_summer_qual_d",
+      "label": "D",
+      "title": "Saving Snuuk",
+      "url": "https://atcoder.jp/contests/soundhound2018-summer-qual/tasks/soundhound2018_summer_qual_d"
+    },
+    {
+      "id": "soundhound2018_summer_qual_e",
+      "label": "E",
+      "title": "+ Graph",
+      "url": "https://atcoder.jp/contests/soundhound2018-summer-qual/tasks/soundhound2018_summer_qual_e"
+    }
+  ]
+}
