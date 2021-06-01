@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc203",
+    "title": "AtCoder Beginner Contest 203（Sponsored by Panasonic）",
+    "url": "https://atcoder.jp/contests/abc203"
+  },
+  "tasks": [
+    {
+      "id": "abc203_a",
+      "label": "A",
+      "title": "Chinchirorin",
+      "url": "https://atcoder.jp/contests/abc203/tasks/abc203_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc203_b",
+      "label": "B",
+      "title": "AtCoder Condominium",
+      "url": "https://atcoder.jp/contests/abc203/tasks/abc203_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc203_c",
+      "label": "C",
+      "title": "Friends and Travel costs",
+      "url": "https://atcoder.jp/contests/abc203/tasks/abc203_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc203_d",
+      "label": "D",
+      "title": "Pond",
+      "url": "https://atcoder.jp/contests/abc203/tasks/abc203_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc203_e",
+      "label": "E",
+      "title": "White Pawn",
+      "url": "https://atcoder.jp/contests/abc203/tasks/abc203_e"
+    },
+    {
+      "id": "abc203_f",
+      "label": "F",
+      "title": "Weed",
+      "url": "https://atcoder.jp/contests/abc203/tasks/abc203_f"
+    }
+  ]
+}
