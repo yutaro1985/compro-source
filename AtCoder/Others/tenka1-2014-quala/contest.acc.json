@@ -1,0 +1,49 @@
+{
+  "contest": {
+    "id": "tenka1-2014-quala",
+    "title": "天下一プログラマーコンテスト2014予選A",
+    "url": "https://atcoder.jp/contests/tenka1-2014-quala"
+  },
+  "tasks": [
+    {
+      "id": "tenka1_2014_qualA_a",
+      "label": "A",
+      "title": "天下一序数",
+      "url": "https://atcoder.jp/contests/tenka1-2014-quala/tasks/tenka1_2014_qualA_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "tenka1_2014_qualA_b",
+      "label": "B",
+      "title": "かぶりん！",
+      "url": "https://atcoder.jp/contests/tenka1-2014-quala/tasks/tenka1_2014_qualA_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "tenka1_2014_qualA_c",
+      "label": "C",
+      "title": "天下一文字列集合",
+      "url": "https://atcoder.jp/contests/tenka1-2014-quala/tasks/tenka1_2014_qualA_c"
+    },
+    {
+      "id": "tenka1_2014_qualA_d",
+      "label": "D",
+      "title": " EMLauncher",
+      "url": "https://atcoder.jp/contests/tenka1-2014-quala/tasks/tenka1_2014_qualA_d"
+    },
+    {
+      "id": "tenka1_2014_qualA_e",
+      "label": "E",
+      "title": "パズルの移動",
+      "url": "https://atcoder.jp/contests/tenka1-2014-quala/tasks/tenka1_2014_qualA_e"
+    }
+  ]
+}
