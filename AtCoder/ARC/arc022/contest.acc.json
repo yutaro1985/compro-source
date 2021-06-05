@@ -1,0 +1,38 @@
+{
+  "contest": {
+    "id": "arc022",
+    "title": "AtCoder Regular Contest 022",
+    "url": "https://atcoder.jp/contests/arc022"
+  },
+  "tasks": [
+    {
+      "id": "arc022_1",
+      "label": "A",
+      "title": "スーパーICT高校生",
+      "url": "https://atcoder.jp/contests/arc022/tasks/arc022_1",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc022_2",
+      "label": "B",
+      "title": "細長いお菓子",
+      "url": "https://atcoder.jp/contests/arc022/tasks/arc022_2"
+    },
+    {
+      "id": "arc022_3",
+      "label": "C",
+      "title": "ロミオとジュリエット",
+      "url": "https://atcoder.jp/contests/arc022/tasks/arc022_3"
+    },
+    {
+      "id": "arc022_4",
+      "label": "D",
+      "title": "スプリンクラー",
+      "url": "https://atcoder.jp/contests/arc022/tasks/arc022_4"
+    }
+  ]
+}
