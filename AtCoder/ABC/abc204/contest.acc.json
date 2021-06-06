@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": "abc204",
+    "title": "AtCoder Beginner Contest 204",
+    "url": "https://atcoder.jp/contests/abc204"
+  },
+  "tasks": [
+    {
+      "id": "abc204_a",
+      "label": "A",
+      "title": "Rock-paper-scissors",
+      "url": "https://atcoder.jp/contests/abc204/tasks/abc204_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc204_b",
+      "label": "B",
+      "title": "Nuts",
+      "url": "https://atcoder.jp/contests/abc204/tasks/abc204_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc204_c",
+      "label": "C",
+      "title": "Tour",
+      "url": "https://atcoder.jp/contests/abc204/tasks/abc204_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc204_d",
+      "label": "D",
+      "title": "Cooking",
+      "url": "https://atcoder.jp/contests/abc204/tasks/abc204_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc204_e",
+      "label": "E",
+      "title": "Rush Hour 2",
+      "url": "https://atcoder.jp/contests/abc204/tasks/abc204_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc204_f",
+      "label": "F",
+      "title": "Hanjo 2",
+      "url": "https://atcoder.jp/contests/abc204/tasks/abc204_f"
+    }
+  ]
+}
