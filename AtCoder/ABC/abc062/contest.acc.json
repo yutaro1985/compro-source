@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc062",
+    "title": "AtCoder Beginner Contest 062",
+    "url": "https://atcoder.jp/contests/abc062"
+  },
+  "tasks": [
+    {
+      "id": "abc062_a",
+      "label": "A",
+      "title": "Grouping",
+      "url": "https://atcoder.jp/contests/abc062/tasks/abc062_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc062_b",
+      "label": "B",
+      "title": "Picture Frame",
+      "url": "https://atcoder.jp/contests/abc062/tasks/abc062_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc074_a",
+      "label": "C",
+      "title": "Chocolate Bar",
+      "url": "https://atcoder.jp/contests/abc062/tasks/arc074_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "arc074_b",
+      "label": "D",
+      "title": "3N Numbers",
+      "url": "https://atcoder.jp/contests/abc062/tasks/arc074_b"
+    }
+  ]
+}
