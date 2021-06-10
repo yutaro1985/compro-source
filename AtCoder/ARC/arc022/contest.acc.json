@@ -20,7 +20,12 @@
       "id": "arc022_2",
       "label": "B",
       "title": "細長いお菓子",
-      "url": "https://atcoder.jp/contests/arc022/tasks/arc022_2"
+      "url": "https://atcoder.jp/contests/arc022/tasks/arc022_2",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
     },
     {
       "id": "arc022_3",
