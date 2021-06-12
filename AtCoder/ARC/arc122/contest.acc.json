@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "arc122",
+    "title": "Tokio Marine & Nichido Fire Insurance Programming Contest 2021（AtCoder Regular Contest 122)",
+    "url": "https://atcoder.jp/contests/arc122"
+  },
+  "tasks": [
+    {
+      "id": "arc122_a",
+      "label": "A",
+      "title": "Many Formulae",
+      "url": "https://atcoder.jp/contests/arc122/tasks/arc122_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc122_b",
+      "label": "B",
+      "title": "Insurance",
+      "url": "https://atcoder.jp/contests/arc122/tasks/arc122_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc122_c",
+      "label": "C",
+      "title": "Calculator",
+      "url": "https://atcoder.jp/contests/arc122/tasks/arc122_c"
+    },
+    {
+      "id": "arc122_d",
+      "label": "D",
+      "title": "XOR Game",
+      "url": "https://atcoder.jp/contests/arc122/tasks/arc122_d"
+    },
+    {
+      "id": "arc122_e",
+      "label": "E",
+      "title": "Increasing LCMs",
+      "url": "https://atcoder.jp/contests/arc122/tasks/arc122_e"
+    },
+    {
+      "id": "arc122_f",
+      "label": "F",
+      "title": "Domination",
+      "url": "https://atcoder.jp/contests/arc122/tasks/arc122_f"
+    }
+  ]
+}
