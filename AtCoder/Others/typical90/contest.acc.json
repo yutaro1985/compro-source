@@ -213,6 +213,578 @@
         "testdir": "tests",
         "submit": "019.go"
       }
+    },
+    {
+      "id": "typical90_s",
+      "label": "019",
+      "title": "Pick Two（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_s",
+      "directory": {
+        "path": "019",
+        "testdir": "tests",
+        "submit": "019.go"
+      }
+    },
+    {
+      "id": "typical90_s",
+      "label": "019",
+      "title": "Pick Two（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_s",
+      "directory": {
+        "path": "019",
+        "testdir": "tests",
+        "submit": "019.go"
+      }
+    },
+    {
+      "id": "typical90_s",
+      "label": "019",
+      "title": "Pick Two（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_s",
+      "directory": {
+        "path": "019",
+        "testdir": "tests",
+        "submit": "019.go"
+      }
+    },
+    {
+      "id": "typical90_s",
+      "label": "019",
+      "title": "Pick Two（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_s",
+      "directory": {
+        "path": "019",
+        "testdir": "tests",
+        "submit": "019.go"
+      }
+    },
+    {
+      "id": "typical90_s",
+      "label": "019",
+      "title": "Pick Two（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_s",
+      "directory": {
+        "path": "019",
+        "testdir": "tests",
+        "submit": "019.go"
+      }
+    },
+    {
+      "id": "typical90_s",
+      "label": "019",
+      "title": "Pick Two（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_s",
+      "directory": {
+        "path": "019",
+        "testdir": "tests",
+        "submit": "019.go"
+      }
+    },
+    {
+      "id": "typical90_s",
+      "label": "019",
+      "title": "Pick Two（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_s",
+      "directory": {
+        "path": "019",
+        "testdir": "tests",
+        "submit": "019.go"
+      }
+    },
+    {
+      "id": "typical90_t",
+      "label": "020",
+      "title": "Log Inequality（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_t",
+      "directory": {
+        "path": "020",
+        "testdir": "tests",
+        "submit": "020.go"
+      }
+    },
+    {
+      "id": "typical90_u",
+      "label": "021",
+      "title": "Come Back in One Piece（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_u",
+      "directory": {
+        "path": "021",
+        "testdir": "tests",
+        "submit": "021.go"
+      }
+    },
+    {
+      "id": "typical90_v",
+      "label": "022",
+      "title": "Cubic Cake（★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_v",
+      "directory": {
+        "path": "022",
+        "testdir": "tests",
+        "submit": "022.go"
+      }
+    },
+    {
+      "id": "typical90_w",
+      "label": "023",
+      "title": "Avoid War（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_w",
+      "directory": {
+        "path": "023",
+        "testdir": "tests",
+        "submit": "023.go"
+      }
+    },
+    {
+      "id": "typical90_x",
+      "label": "024",
+      "title": "Select +／- One（★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_x",
+      "directory": {
+        "path": "024",
+        "testdir": "tests",
+        "submit": "024.go"
+      }
+    },
+    {
+      "id": "typical90_y",
+      "label": "025",
+      "title": "Digit Product Equation（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_y",
+      "directory": {
+        "path": "025",
+        "testdir": "tests",
+        "submit": "025.go"
+      }
+    },
+    {
+      "id": "typical90_z",
+      "label": "026",
+      "title": "Independent Set on a Tree（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_z",
+      "directory": {
+        "path": "026",
+        "testdir": "tests",
+        "submit": "026.go"
+      }
+    },
+    {
+      "id": "typical90_aa",
+      "label": "027",
+      "title": "Sign Up Requests （★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_aa",
+      "directory": {
+        "path": "027",
+        "testdir": "tests",
+        "submit": "027.go"
+      }
+    },
+    {
+      "id": "typical90_ab",
+      "label": "028",
+      "title": "Cluttered Paper（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ab",
+      "directory": {
+        "path": "028",
+        "testdir": "tests",
+        "submit": "028.go"
+      }
+    },
+    {
+      "id": "typical90_ac",
+      "label": "029",
+      "title": "Long Bricks（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ac",
+      "directory": {
+        "path": "029",
+        "testdir": "tests",
+        "submit": "029.go"
+      }
+    },
+    {
+      "id": "typical90_ad",
+      "label": "030",
+      "title": "K Factors（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ad",
+      "directory": {
+        "path": "030",
+        "testdir": "tests",
+        "submit": "030.go"
+      }
+    },
+    {
+      "id": "typical90_ae",
+      "label": "031",
+      "title": "VS AtCoder（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ae",
+      "directory": {
+        "path": "031",
+        "testdir": "tests",
+        "submit": "031.go"
+      }
+    },
+    {
+      "id": "typical90_af",
+      "label": "032",
+      "title": "AtCoder Ekiden（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_af",
+      "directory": {
+        "path": "032",
+        "testdir": "tests",
+        "submit": "032.go"
+      }
+    },
+    {
+      "id": "typical90_ag",
+      "label": "033",
+      "title": "Not Too Bright（★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ag",
+      "directory": {
+        "path": "033",
+        "testdir": "tests",
+        "submit": "033.go"
+      }
+    },
+    {
+      "id": "typical90_ah",
+      "label": "034",
+      "title": "There are few types of elements（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ah",
+      "directory": {
+        "path": "034",
+        "testdir": "tests",
+        "submit": "034.go"
+      }
+    },
+    {
+      "id": "typical90_ai",
+      "label": "035",
+      "title": "Preserve Connectivity（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ai",
+      "directory": {
+        "path": "035",
+        "testdir": "tests",
+        "submit": "035.go"
+      }
+    },
+    {
+      "id": "typical90_aj",
+      "label": "036",
+      "title": "Max Manhattan Distance（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_aj",
+      "directory": {
+        "path": "036",
+        "testdir": "tests",
+        "submit": "036.go"
+      }
+    },
+    {
+      "id": "typical90_ak",
+      "label": "037",
+      "title": "Don't Leave the Spice（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ak",
+      "directory": {
+        "path": "037",
+        "testdir": "tests",
+        "submit": "037.go"
+      }
+    },
+    {
+      "id": "typical90_al",
+      "label": "038",
+      "title": "Large LCM（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_al",
+      "directory": {
+        "path": "038",
+        "testdir": "tests",
+        "submit": "038.go"
+      }
+    },
+    {
+      "id": "typical90_am",
+      "label": "039",
+      "title": "Tree Distance（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_am",
+      "directory": {
+        "path": "039",
+        "testdir": "tests",
+        "submit": "039.go"
+      }
+    },
+    {
+      "id": "typical90_an",
+      "label": "040",
+      "title": "Get More Money（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_an",
+      "directory": {
+        "path": "040",
+        "testdir": "tests",
+        "submit": "040.go"
+      }
+    },
+    {
+      "id": "typical90_ao",
+      "label": "041",
+      "title": "Piles in AtCoder Farm（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ao",
+      "directory": {
+        "path": "041",
+        "testdir": "tests",
+        "submit": "041.go"
+      }
+    },
+    {
+      "id": "typical90_ap",
+      "label": "042",
+      "title": "Multiple of 9（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ap",
+      "directory": {
+        "path": "042",
+        "testdir": "tests",
+        "submit": "042.go"
+      }
+    },
+    {
+      "id": "typical90_aq",
+      "label": "043",
+      "title": "Maze Challenge with Lack of Sleep（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_aq",
+      "directory": {
+        "path": "043",
+        "testdir": "tests",
+        "submit": "043.go"
+      }
+    },
+    {
+      "id": "typical90_ar",
+      "label": "044",
+      "title": "Shift and Swapping（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ar",
+      "directory": {
+        "path": "044",
+        "testdir": "tests",
+        "submit": "044.go"
+      }
+    },
+    {
+      "id": "typical90_as",
+      "label": "045",
+      "title": "Simple Grouping（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_as",
+      "directory": {
+        "path": "045",
+        "testdir": "tests",
+        "submit": "045.go"
+      }
+    },
+    {
+      "id": "typical90_at",
+      "label": "046",
+      "title": "I Love 46（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_at",
+      "directory": {
+        "path": "046",
+        "testdir": "tests",
+        "submit": "046.go"
+      }
+    },
+    {
+      "id": "typical90_au",
+      "label": "047",
+      "title": "Monochromatic Diagonal（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_au",
+      "directory": {
+        "path": "047",
+        "testdir": "tests",
+        "submit": "047.go"
+      }
+    },
+    {
+      "id": "typical90_av",
+      "label": "048",
+      "title": "I will not drop out（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_av",
+      "directory": {
+        "path": "048",
+        "testdir": "tests",
+        "submit": "048.go"
+      }
+    },
+    {
+      "id": "typical90_aw",
+      "label": "049",
+      "title": "Flip Digits 2（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_aw",
+      "directory": {
+        "path": "049",
+        "testdir": "tests",
+        "submit": "049.go"
+      }
+    },
+    {
+      "id": "typical90_ax",
+      "label": "050",
+      "title": "Stair Jump（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ax",
+      "directory": {
+        "path": "050",
+        "testdir": "tests",
+        "submit": "050.go"
+      }
+    },
+    {
+      "id": "typical90_ay",
+      "label": "051",
+      "title": "Typical Shop（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ay",
+      "directory": {
+        "path": "051",
+        "testdir": "tests",
+        "submit": "051.go"
+      }
+    },
+    {
+      "id": "typical90_az",
+      "label": "052",
+      "title": "Dice Product（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_az",
+      "directory": {
+        "path": "052",
+        "testdir": "tests",
+        "submit": "052.go"
+      }
+    },
+    {
+      "id": "typical90_ba",
+      "label": "053",
+      "title": "Discrete Dowsing（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ba",
+      "directory": {
+        "path": "053",
+        "testdir": "tests",
+        "submit": "053.go"
+      }
+    },
+    {
+      "id": "typical90_bb",
+      "label": "054",
+      "title": "Takahashi Number（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bb",
+      "directory": {
+        "path": "054",
+        "testdir": "tests",
+        "submit": "054.go"
+      }
+    },
+    {
+      "id": "typical90_bd",
+      "label": "056",
+      "title": "Lucky Bag（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bd",
+      "directory": {
+        "path": "056",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "typical90_be",
+      "label": "057",
+      "title": "Flip Flap（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_be",
+      "directory": {
+        "path": "057",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "typical90_bf",
+      "label": "058",
+      "title": "Original Calculator（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bf",
+      "directory": {
+        "path": "058",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "typical90_bg",
+      "label": "059",
+      "title": "Many Graph Queries（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bg",
+      "directory": {
+        "path": "059",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "typical90_bh",
+      "label": "060",
+      "title": "Chimera（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bh",
+      "directory": {
+        "path": "060",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "typical90_bi",
+      "label": "061",
+      "title": "Deck（★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bi",
+      "directory": {
+        "path": "061",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "typical90_bj",
+      "label": "062",
+      "title": "Paint All（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bj",
+      "directory": {
+        "path": "062",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "typical90_bk",
+      "label": "063",
+      "title": "Monochromatic Subgrid（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bk",
+      "directory": {
+        "path": "063",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "typical90_bl",
+      "label": "064",
+      "title": "Uplift（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bl",
+      "directory": {
+        "path": "064",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
+    },
+    {
+      "id": "typical90_bm",
+      "label": "065",
+      "title": "RGB Balls 2（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bm",
+      "directory": {
+        "path": "065",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     }
   ]
 }
