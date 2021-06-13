@@ -110,6 +110,14 @@ func init2DBools(H, W int, b bool) [][]bool {
 	return res
 }
 
+// LocalPrint はisLocalが1のときだけ標準出力するデバッグ用関数
+func LocalPrint(i ...interface{}) {
+	if os.Getenv("isLocal") == "1" {
+		fmt.Printf("%s", "Local: ")
+		fmt.Println(i...)
+	}
+}
+
 // ReverseSort はsort.Interfaceの形を渡すと逆順にソートする
 func ReverseSort(data sort.Interface) {
 	sort.Sort(sort.Reverse(data))
