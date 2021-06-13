@@ -77,6 +77,9 @@ func (mi *mint) divSelf(n mint) *mint {
 
 // SingleCOM はmodintを使ってO(K)で一つの二項係数を求める関数
 func SingleCOM(N, K int) mint {
+	if K < 0 || K > N {
+		return 0
+	}
 	res := mint(1)
 	for i := 0; i < K; i++ {
 		res.mulSelf(mint(N - i))
