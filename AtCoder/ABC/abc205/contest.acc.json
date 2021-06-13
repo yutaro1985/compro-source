@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc205",
+    "title": "AtCoder Beginner Contest 205",
+    "url": "https://atcoder.jp/contests/abc205"
+  },
+  "tasks": [
+    {
+      "id": "abc205_a",
+      "label": "A",
+      "title": "kcal",
+      "url": "https://atcoder.jp/contests/abc205/tasks/abc205_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc205_b",
+      "label": "B",
+      "title": "Permutation Check",
+      "url": "https://atcoder.jp/contests/abc205/tasks/abc205_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc205_c",
+      "label": "C",
+      "title": "POW",
+      "url": "https://atcoder.jp/contests/abc205/tasks/abc205_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc205_d",
+      "label": "D",
+      "title": "Kth Excluded",
+      "url": "https://atcoder.jp/contests/abc205/tasks/abc205_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc205_e",
+      "label": "E",
+      "title": "White and Black Balls",
+      "url": "https://atcoder.jp/contests/abc205/tasks/abc205_e"
+    },
+    {
+      "id": "abc205_f",
+      "label": "F",
+      "title": "Grid and Tokens",
+      "url": "https://atcoder.jp/contests/abc205/tasks/abc205_f"
+    }
+  ]
+}
