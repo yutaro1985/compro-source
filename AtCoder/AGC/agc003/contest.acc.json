@@ -20,7 +20,12 @@
       "id": "agc003_b",
       "label": "B",
       "title": "Simplified mahjong",
-      "url": "https://atcoder.jp/contests/agc003/tasks/agc003_b"
+      "url": "https://atcoder.jp/contests/agc003/tasks/agc003_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "{TASKLABEL}.go"
+      }
     },
     {
       "id": "agc003_c",
