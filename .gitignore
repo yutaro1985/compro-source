@@ -4,3 +4,4 @@ geckodriver.log
 test
 tests
 .vscode/
+.envrc
