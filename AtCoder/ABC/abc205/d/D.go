@@ -36,15 +36,20 @@ func main() {
 	for i := 1; i < N; i++ {
 		Ad[i] = uint(A[i]-A[i-1]-1) + Ad[i-1]
 	}
+	// LocalPrint(Ad)
 	for ; Q > 0; Q-- {
 		K := nextInt()
 		if Ad[N-1] < uint(K) {
 			fmt.Println(uint(A[N-1]+K) - Ad[N-1])
+		} else if uint(K) <= Ad[0] {
+			fmt.Println(K)
 		} else {
 			idx := sort.Search(N, func(i int) bool {
 				return Ad[i] >= uint(K)
 			})
-			fmt.Println(uint(A[idx]-1) - (Ad[idx] - uint(K)))
+			// LocalPrint("idx", idx)
+			// fmt.Println(uint(A[idx]-1) + (uint(K) - Ad[idx]))
+			fmt.Println(uint(A[idx-1]) + uint(K) - Ad[idx-1])
 		}
 	}
 }
@@ -124,6 +129,14 @@ func init2DBools(H, W int, b bool) [][]bool {
 		}
 	}
 	return res
+}
+
+// LocalPrint はisLocalが1のときだけ標準出力するデバッグ用関数
+func LocalPrint(i ...interface{}) {
+	if os.Getenv("isLocal") == "1" {
+		fmt.Printf("%s", "Local: ")
+		fmt.Println(i...)
+	}
 }
 
 // ReverseSort はsort.Interfaceの形を渡すと逆順にソートする
