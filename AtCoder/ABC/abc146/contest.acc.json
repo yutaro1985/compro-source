@@ -42,7 +42,12 @@
       "id": "abc146_d",
       "label": "D",
       "title": "Coloring Edges on Tree",
-      "url": "https://atcoder.jp/contests/abc146/tasks/abc146_d"
+      "url": "https://atcoder.jp/contests/abc146/tasks/abc146_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     },
     {
       "id": "abc146_e",
