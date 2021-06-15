@@ -785,6 +785,28 @@
         "testdir": "tests",
         "submit": "{TASKLABEL}.go"
       }
+    },
+    {
+      "id": "typical90_bn",
+      "label": "066",
+      "title": "Various Arrays（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bn",
+      "directory": {
+        "path": "066",
+        "testdir": "tests",
+        "submit": "066.go"
+      }
+    },
+    {
+      "id": "typical90_bo",
+      "label": "067",
+      "title": "Base 8 to 9（★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bo",
+      "directory": {
+        "path": "067",
+        "testdir": "tests",
+        "submit": "067.go"
+      }
     }
   ]
 }
