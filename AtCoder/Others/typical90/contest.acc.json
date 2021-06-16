@@ -677,6 +677,17 @@
       }
     },
     {
+      "id": "typical90_bc",
+      "label": "055",
+      "title": "Select 5（★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bc",
+      "directory": {
+        "path": "055",
+        "testdir": "tests",
+        "submit": "055.go"
+      }
+    },
+    {
       "id": "typical90_bd",
       "label": "056",
       "title": "Lucky Bag（★5）",
