@@ -29,30 +29,18 @@ const (
 )
 
 func main() {
-	N, P, Q := nextInt(), nextInt(), nextInt()
-	A := make([]int, N)
+	cards := make(map[string]int)
+	N := nextInt()
 	for i := 0; i < N; i++ {
-		A[i] = nextInt() % P
+		cards[nextLine()]++
+	}
+	M := nextInt()
+	for i := 0; i < M; i++ {
+		cards[nextLine()]--
 	}
 	var ans int
-	t := 1
-	for i := 0; i < N; i++ {
-		ti := t * A[i] % P
-		for j := i + 1; j < N; j++ {
-			tj := ti * A[j] % P
-			for k := j + 1; k < N; k++ {
-				tk := tj * A[k] % P
-				for l := k + 1; l < N; l++ {
-					tl := tk * A[l] % P
-					for m := l + 1; m < N; m++ {
-						tm := tl * A[m] % P
-						if tm == Q {
-							ans++
-						}
-					}
-				}
-			}
-		}
+	for _, v := range cards {
+		ChmaxInt(&ans, v)
 	}
 	fmt.Println(ans)
 }

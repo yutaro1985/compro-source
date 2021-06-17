@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc091",
+    "title": "AtCoder Beginner Contest 091",
+    "url": "https://atcoder.jp/contests/abc091"
+  },
+  "tasks": [
+    {
+      "id": "abc091_a",
+      "label": "A",
+      "title": "Two Coins",
+      "url": "https://atcoder.jp/contests/abc091/tasks/abc091_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc091_b",
+      "label": "B",
+      "title": "Two Colors Card Game",
+      "url": "https://atcoder.jp/contests/abc091/tasks/abc091_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc092_a",
+      "label": "C",
+      "title": "2D Plane 2N Points",
+      "url": "https://atcoder.jp/contests/abc091/tasks/arc092_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "arc092_b",
+      "label": "D",
+      "title": "Two Sequences",
+      "url": "https://atcoder.jp/contests/abc091/tasks/arc092_b"
+    }
+  ]
+}
