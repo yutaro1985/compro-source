@@ -818,6 +818,28 @@
         "testdir": "tests",
         "submit": "067.go"
       }
+    },
+    {
+      "id": "typical90_bp",
+      "label": "068",
+      "title": "Paired Information（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bp",
+      "directory": {
+        "path": "068",
+        "testdir": "tests",
+        "submit": "068.go"
+      }
+    },
+    {
+      "id": "typical90_bq",
+      "label": "069",
+      "title": "Colorful Blocks 2（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bq",
+      "directory": {
+        "path": "069",
+        "testdir": "tests",
+        "submit": "069.go"
+      }
     }
   ]
 }
