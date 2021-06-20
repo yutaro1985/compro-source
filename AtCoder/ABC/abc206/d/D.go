@@ -33,15 +33,9 @@ func main() {
 	A := makeInts(N)
 	Af := make([]int, N/2)
 	Al := make([]int, N/2)
-	var cnt int
-	check := make(map[int]int)
 	for i := 0; i < N/2; i++ {
 		Af[i] = A[i]
-		check[Af[i]]++
 		Al[i] = A[N-1-i]
-		if check[Al[i]] > 0 {
-			cnt++
-		}
 	}
 	uf := newUnionFind(2e5 + 7)
 	var ans int
