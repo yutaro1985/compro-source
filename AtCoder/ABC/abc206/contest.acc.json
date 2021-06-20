@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc206",
+    "title": "AtCoder Beginner Contest 206（Sponsored by Panasonic）",
+    "url": "https://atcoder.jp/contests/abc206"
+  },
+  "tasks": [
+    {
+      "id": "abc206_a",
+      "label": "A",
+      "title": "Maxi-Buying",
+      "url": "https://atcoder.jp/contests/abc206/tasks/abc206_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc206_b",
+      "label": "B",
+      "title": "Savings",
+      "url": "https://atcoder.jp/contests/abc206/tasks/abc206_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc206_c",
+      "label": "C",
+      "title": "Swappable",
+      "url": "https://atcoder.jp/contests/abc206/tasks/abc206_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc206_d",
+      "label": "D",
+      "title": "KAIBUNsyo",
+      "url": "https://atcoder.jp/contests/abc206/tasks/abc206_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc206_e",
+      "label": "E",
+      "title": "Divide Both",
+      "url": "https://atcoder.jp/contests/abc206/tasks/abc206_e"
+    },
+    {
+      "id": "abc206_f",
+      "label": "F",
+      "title": "Interval Game 2",
+      "url": "https://atcoder.jp/contests/abc206/tasks/abc206_f"
+    }
+  ]
+}
