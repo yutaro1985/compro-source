@@ -840,6 +840,39 @@
         "testdir": "tests",
         "submit": "069.go"
       }
+    },
+    {
+      "id": "typical90_br",
+      "label": "070",
+      "title": "Plant Planning（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_br",
+      "directory": {
+        "path": "070",
+        "testdir": "tests",
+        "submit": "070.go"
+      }
+    },
+    {
+      "id": "typical90_bs",
+      "label": "071",
+      "title": "Fuzzy Priority（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bs",
+      "directory": {
+        "path": "071",
+        "testdir": "tests",
+        "submit": "071.go"
+      }
+    },
+    {
+      "id": "typical90_bt",
+      "label": "072",
+      "title": "Loop Railway Plan（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bt",
+      "directory": {
+        "path": "072",
+        "testdir": "tests",
+        "submit": "072.go"
+      }
     }
   ]
 }

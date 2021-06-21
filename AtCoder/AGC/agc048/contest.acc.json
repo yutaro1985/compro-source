@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "agc048",
+    "title": "AtCoder Grand Contest 048",
+    "url": "https://atcoder.jp/contests/agc048"
+  },
+  "tasks": [
+    {
+      "id": "agc048_a",
+      "label": "A",
+      "title": "atcoder < S",
+      "url": "https://atcoder.jp/contests/agc048/tasks/agc048_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "agc048_b",
+      "label": "B",
+      "title": "Bracket Score",
+      "url": "https://atcoder.jp/contests/agc048/tasks/agc048_b"
+    },
+    {
+      "id": "agc048_c",
+      "label": "C",
+      "title": "Penguin Skating",
+      "url": "https://atcoder.jp/contests/agc048/tasks/agc048_c"
+    },
+    {
+      "id": "agc048_d",
+      "label": "D",
+      "title": "Pocky Game",
+      "url": "https://atcoder.jp/contests/agc048/tasks/agc048_d"
+    },
+    {
+      "id": "agc048_e",
+      "label": "E",
+      "title": "Strange Relation",
+      "url": "https://atcoder.jp/contests/agc048/tasks/agc048_e"
+    },
+    {
+      "id": "agc048_f",
+      "label": "F",
+      "title": "01 Record",
+      "url": "https://atcoder.jp/contests/agc048/tasks/agc048_f"
+    }
+  ]
+}
