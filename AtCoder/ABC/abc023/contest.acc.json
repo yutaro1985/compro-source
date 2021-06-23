@@ -37,7 +37,12 @@
       "id": "abc023_d",
       "label": "D",
       "title": "射撃王",
-      "url": "https://atcoder.jp/contests/abc023/tasks/abc023_d"
+      "url": "https://atcoder.jp/contests/abc023/tasks/abc023_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     }
   ]
 }
