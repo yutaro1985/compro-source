@@ -873,6 +873,39 @@
         "testdir": "tests",
         "submit": "072.go"
       }
+    },
+    {
+      "id": "typical90_bu",
+      "label": "073",
+      "title": "We Need Both a and b（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bu",
+      "directory": {
+        "path": "073",
+        "testdir": "tests",
+        "submit": "073.go"
+      }
+    },
+    {
+      "id": "typical90_bv",
+      "label": "074",
+      "title": "ABC String 2（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bv",
+      "directory": {
+        "path": "074",
+        "testdir": "tests",
+        "submit": "074.go"
+      }
+    },
+    {
+      "id": "typical90_bw",
+      "label": "075",
+      "title": "Magic For Balls（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bw",
+      "directory": {
+        "path": "075",
+        "testdir": "tests",
+        "submit": "075.go"
+      }
     }
   ]
 }

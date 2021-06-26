@@ -31,7 +31,12 @@
       "id": "indeednow_2015_qualc_3",
       "label": "C",
       "title": "木",
-      "url": "https://atcoder.jp/contests/indeednow-qualb/tasks/indeednow_2015_qualc_3"
+      "url": "https://atcoder.jp/contests/indeednow-qualb/tasks/indeednow_2015_qualc_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
     },
     {
       "id": "indeednow_2015_qualb_4",
