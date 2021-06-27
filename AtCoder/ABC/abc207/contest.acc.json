@@ -1,0 +1,70 @@
+{
+  "contest": {
+    "id": "abc207",
+    "title": "AtCoder Beginner Contest 207",
+    "url": "https://atcoder.jp/contests/abc207"
+  },
+  "tasks": [
+    {
+      "id": "abc207_a",
+      "label": "A",
+      "title": "Repression",
+      "url": "https://atcoder.jp/contests/abc207/tasks/abc207_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc207_b",
+      "label": "B",
+      "title": "Hydrate",
+      "url": "https://atcoder.jp/contests/abc207/tasks/abc207_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc207_c",
+      "label": "C",
+      "title": "Many Segments",
+      "url": "https://atcoder.jp/contests/abc207/tasks/abc207_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc207_d",
+      "label": "D",
+      "title": "Congruence Points",
+      "url": "https://atcoder.jp/contests/abc207/tasks/abc207_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc207_e",
+      "label": "E",
+      "title": "Mod i",
+      "url": "https://atcoder.jp/contests/abc207/tasks/abc207_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc207_f",
+      "label": "F",
+      "title": "Tree Patrolling",
+      "url": "https://atcoder.jp/contests/abc207/tasks/abc207_f"
+    }
+  ]
+}
