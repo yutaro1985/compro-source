@@ -1,0 +1,53 @@
+{
+  "contest": {
+    "id": "abc095",
+    "title": "AtCoder Beginner Contest 095",
+    "url": "https://atcoder.jp/contests/abc095"
+  },
+  "tasks": [
+    {
+      "id": "abc095_a",
+      "label": "A",
+      "title": "Something on It",
+      "url": "https://atcoder.jp/contests/abc095/tasks/abc095_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc095_b",
+      "label": "B",
+      "title": "Bitter Alchemy",
+      "url": "https://atcoder.jp/contests/abc095/tasks/abc095_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc096_a",
+      "label": "C",
+      "title": "Half and Half",
+      "url": "https://atcoder.jp/contests/abc095/tasks/arc096_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "arc096_b",
+      "label": "D",
+      "title": "Static Sushi",
+      "url": "https://atcoder.jp/contests/abc095/tasks/arc096_b",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    }
+  ]
+}
