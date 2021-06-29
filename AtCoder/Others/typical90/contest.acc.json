@@ -906,6 +906,39 @@
         "testdir": "tests",
         "submit": "075.go"
       }
+    },
+    {
+      "id": "typical90_bx",
+      "label": "076",
+      "title": "Cake Cut（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bx",
+      "directory": {
+        "path": "076",
+        "testdir": "tests",
+        "submit": "076.go"
+      }
+    },
+    {
+      "id": "typical90_by",
+      "label": "077",
+      "title": "Planes on a 2D Plane（★7）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_by",
+      "directory": {
+        "path": "077",
+        "testdir": "tests",
+        "submit": "077.go"
+      }
+    },
+    {
+      "id": "typical90_bz",
+      "label": "078",
+      "title": "Easy Graph Problem（★2）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_bz",
+      "directory": {
+        "path": "078",
+        "testdir": "tests",
+        "submit": "078.go"
+      }
     }
   ]
 }
