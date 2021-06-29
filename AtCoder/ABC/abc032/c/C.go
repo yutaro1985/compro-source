@@ -28,32 +28,33 @@ const (
 	INF     = 1 << 60
 )
 
+// しゃくとり法
+
 func main() {
-	N := nextInt()
-	A := makeInts(N)
-	A = append(A, A...)
-	var sum int
+	N, K := nextInt(), nextInt()
+	var ans int
+	s := makeInts(N)
 	for i := 0; i < N; i++ {
-		sum += A[i]
-	}
-	if sum < 10 {
-		fmt.Println("No")
-		return
-	}
-	Csum := make([]int, len(A)+1)
-	for i := 0; i < len(A); i++ {
-		Csum[i+1] = Csum[i] + A[i]
-	}
-	for l := 0; l < N; l++ {
-		idx := sort.Search(len(A), func(i int) bool {
-			return Csum[i]-Csum[l] >= sum/10
-		})
-		if Csum[idx]-Csum[l] == sum/10 {
-			fmt.Println("Yes")
+		if s[i] == 0 {
+			fmt.Println(N)
 			return
 		}
 	}
-	fmt.Println("No")
+	var tmp, r int
+	tmp = 1
+	for l := 0; l < N; l++ {
+		for r < N && tmp*s[r] <= K {
+			tmp *= s[r]
+			r++
+		}
+		ChmaxInt(&ans, r-l)
+		if l == r {
+			r++
+		} else {
+			tmp /= s[l]
+		}
+	}
+	fmt.Println(ans)
 }
 
 func nextLine() string {

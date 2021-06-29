@@ -31,7 +31,12 @@
       "id": "abc032_c",
       "label": "C",
       "title": "列",
-      "url": "https://atcoder.jp/contests/abc032/tasks/abc032_c"
+      "url": "https://atcoder.jp/contests/abc032/tasks/abc032_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
     },
     {
       "id": "abc032_d",
