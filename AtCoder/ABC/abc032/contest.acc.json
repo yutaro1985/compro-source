@@ -42,7 +42,12 @@
       "id": "abc032_d",
       "label": "D",
       "title": "ナップサック問題",
-      "url": "https://atcoder.jp/contests/abc032/tasks/abc032_d"
+      "url": "https://atcoder.jp/contests/abc032/tasks/abc032_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     }
   ]
 }
