@@ -939,6 +939,50 @@
         "testdir": "tests",
         "submit": "078.go"
       }
+    },
+    {
+      "id": "typical90_ca",
+      "label": "079",
+      "title": "Two by Two（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ca",
+      "directory": {
+        "path": "079",
+        "testdir": "tests",
+        "submit": "079.go"
+      }
+    },
+    {
+      "id": "typical90_cb",
+      "label": "080",
+      "title": "Let's Share Bit（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cb",
+      "directory": {
+        "path": "080",
+        "testdir": "tests",
+        "submit": "080.go"
+      }
+    },
+    {
+      "id": "typical90_cc",
+      "label": "081",
+      "title": "Friendly Group（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cc",
+      "directory": {
+        "path": "081",
+        "testdir": "tests",
+        "submit": "081.go"
+      }
+    },
+    {
+      "id": "typical90_cd",
+      "label": "082",
+      "title": "Counting Numbers（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cd",
+      "directory": {
+        "path": "082",
+        "testdir": "tests",
+        "submit": "082.go"
+      }
     }
   ]
 }
