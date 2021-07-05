@@ -983,6 +983,28 @@
         "testdir": "tests",
         "submit": "082.go"
       }
+    },
+    {
+      "id": "typical90_ce",
+      "label": "083",
+      "title": "Colorful Graph（★6）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ce",
+      "directory": {
+        "path": "083",
+        "testdir": "tests",
+        "submit": "083.go"
+      }
+    },
+    {
+      "id": "typical90_cf",
+      "label": "084",
+      "title": "There are two types of characters（★3）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cf",
+      "directory": {
+        "path": "084",
+        "testdir": "tests",
+        "submit": "084.go"
+      }
     }
   ]
 }
