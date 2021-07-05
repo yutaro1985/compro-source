@@ -31,7 +31,12 @@
       "id": "abc014_3",
       "label": "C",
       "title": "AtColor",
-      "url": "https://atcoder.jp/contests/abc014/tasks/abc014_3"
+      "url": "https://atcoder.jp/contests/abc014/tasks/abc014_3",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
     },
     {
       "id": "abc014_4",
