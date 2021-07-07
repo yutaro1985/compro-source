@@ -42,7 +42,12 @@
       "id": "abc128_d",
       "label": "D",
       "title": "equeue",
-      "url": "https://atcoder.jp/contests/abc128/tasks/abc128_d"
+      "url": "https://atcoder.jp/contests/abc128/tasks/abc128_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
     },
     {
       "id": "abc128_e",
