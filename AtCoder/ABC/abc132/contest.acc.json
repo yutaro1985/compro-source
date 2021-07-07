@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc132",
+    "title": "AtCoder Beginner Contest 132",
+    "url": "https://atcoder.jp/contests/abc132"
+  },
+  "tasks": [
+    {
+      "id": "abc132_a",
+      "label": "A",
+      "title": "Fifty-Fifty",
+      "url": "https://atcoder.jp/contests/abc132/tasks/abc132_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc132_b",
+      "label": "B",
+      "title": "Ordinary Number",
+      "url": "https://atcoder.jp/contests/abc132/tasks/abc132_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc132_c",
+      "label": "C",
+      "title": "Divide the Problems",
+      "url": "https://atcoder.jp/contests/abc132/tasks/abc132_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc132_d",
+      "label": "D",
+      "title": "Blue and Red Balls",
+      "url": "https://atcoder.jp/contests/abc132/tasks/abc132_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc132_e",
+      "label": "E",
+      "title": "Hopscotch Addict",
+      "url": "https://atcoder.jp/contests/abc132/tasks/abc132_e"
+    },
+    {
+      "id": "abc132_f",
+      "label": "F",
+      "title": "Small Products",
+      "url": "https://atcoder.jp/contests/abc132/tasks/abc132_f"
+    }
+  ]
+}
