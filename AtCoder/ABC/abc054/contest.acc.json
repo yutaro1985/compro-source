@@ -31,7 +31,12 @@
       "id": "abc054_c",
       "label": "C",
       "title": "One-stroke Path",
-      "url": "https://atcoder.jp/contests/abc054/tasks/abc054_c"
+      "url": "https://atcoder.jp/contests/abc054/tasks/abc054_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
     },
     {
       "id": "abc054_d",
