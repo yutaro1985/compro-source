@@ -1005,6 +1005,17 @@
         "testdir": "tests",
         "submit": "084.go"
       }
+    },
+    {
+      "id": "typical90_cg",
+      "label": "085",
+      "title": "Multiplication 085（★4）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_cg",
+      "directory": {
+        "path": "085",
+        "testdir": "tests",
+        "submit": "085.go"
+      }
     }
   ]
 }
