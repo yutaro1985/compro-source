@@ -1016,6 +1016,28 @@
         "testdir": "tests",
         "submit": "085.go"
       }
+    },
+    {
+      "id": "typical90_ch",
+      "label": "086",
+      "title": "Snuke's Favorite Arrays（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ch",
+      "directory": {
+        "path": "086",
+        "testdir": "tests",
+        "submit": "086.go"
+      }
+    },
+    {
+      "id": "typical90_ci",
+      "label": "087",
+      "title": "Chokudai's Demand（★5）",
+      "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ci",
+      "directory": {
+        "path": "087",
+        "testdir": "tests",
+        "submit": "087.go"
+      }
     }
   ]
 }

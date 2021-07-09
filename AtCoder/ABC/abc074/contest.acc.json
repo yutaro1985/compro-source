@@ -1,0 +1,48 @@
+{
+  "contest": {
+    "id": "abc074",
+    "title": "AtCoder Beginner Contest 074",
+    "url": "https://atcoder.jp/contests/abc074"
+  },
+  "tasks": [
+    {
+      "id": "abc074_a",
+      "label": "A",
+      "title": "Bichrome Cells",
+      "url": "https://atcoder.jp/contests/abc074/tasks/abc074_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc074_b",
+      "label": "B",
+      "title": "Collecting Balls (Easy Version)",
+      "url": "https://atcoder.jp/contests/abc074/tasks/abc074_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc083_a",
+      "label": "C",
+      "title": "Sugar Water",
+      "url": "https://atcoder.jp/contests/abc074/tasks/arc083_a",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "arc083_b",
+      "label": "D",
+      "title": "Restoring Road Network",
+      "url": "https://atcoder.jp/contests/abc074/tasks/arc083_b"
+    }
+  ]
+}
