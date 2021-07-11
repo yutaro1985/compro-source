@@ -1,0 +1,65 @@
+{
+  "contest": {
+    "id": "abc209",
+    "title": "AtCoder Beginner Contest 209",
+    "url": "https://atcoder.jp/contests/abc209"
+  },
+  "tasks": [
+    {
+      "id": "abc209_a",
+      "label": "A",
+      "title": "Counting",
+      "url": "https://atcoder.jp/contests/abc209/tasks/abc209_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc209_b",
+      "label": "B",
+      "title": "Can you buy them all?",
+      "url": "https://atcoder.jp/contests/abc209/tasks/abc209_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc209_c",
+      "label": "C",
+      "title": "Not Equal",
+      "url": "https://atcoder.jp/contests/abc209/tasks/abc209_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc209_d",
+      "label": "D",
+      "title": "Collision",
+      "url": "https://atcoder.jp/contests/abc209/tasks/abc209_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc209_e",
+      "label": "E",
+      "title": "Shiritori",
+      "url": "https://atcoder.jp/contests/abc209/tasks/abc209_e"
+    },
+    {
+      "id": "abc209_f",
+      "label": "F",
+      "title": "Deforestation",
+      "url": "https://atcoder.jp/contests/abc209/tasks/abc209_f"
+    }
+  ]
+}
