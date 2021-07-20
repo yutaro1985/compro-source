@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "arc123",
+    "title": "AtCoder Regular Contest 123",
+    "url": "https://atcoder.jp/contests/arc123"
+  },
+  "tasks": [
+    {
+      "id": "arc123_a",
+      "label": "A",
+      "title": "Arithmetic Sequence",
+      "url": "https://atcoder.jp/contests/arc123/tasks/arc123_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc123_b",
+      "label": "B",
+      "title": "Increasing Triples",
+      "url": "https://atcoder.jp/contests/arc123/tasks/arc123_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc123_c",
+      "label": "C",
+      "title": "1, 2, 3 - Decomposition",
+      "url": "https://atcoder.jp/contests/arc123/tasks/arc123_c"
+    },
+    {
+      "id": "arc123_d",
+      "label": "D",
+      "title": "Inc, Dec - Decomposition",
+      "url": "https://atcoder.jp/contests/arc123/tasks/arc123_d"
+    },
+    {
+      "id": "arc123_e",
+      "label": "E",
+      "title": "Training",
+      "url": "https://atcoder.jp/contests/arc123/tasks/arc123_e"
+    },
+    {
+      "id": "arc123_f",
+      "label": "F",
+      "title": "Insert Addition",
+      "url": "https://atcoder.jp/contests/arc123/tasks/arc123_f"
+    }
+  ]
+}
