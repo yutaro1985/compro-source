@@ -1,0 +1,139 @@
+{
+  "contest": {
+    "id": "past202107-open",
+    "title": "第七回 アルゴリズム実技検定",
+    "url": "https://atcoder.jp/contests/past202107-open"
+  },
+  "tasks": [
+    {
+      "id": "past202107_a",
+      "label": "A",
+      "title": "check digit",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "past202107_b",
+      "label": "B",
+      "title": "Vapor Pressure",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "past202107_c",
+      "label": "C",
+      "title": "Validation",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "past202107_d",
+      "label": "D",
+      "title": "Replace",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "past202107_e",
+      "label": "E",
+      "title": "Aoki's Trick",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "past202107_f",
+      "label": "F",
+      "title": "Double Booking",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "F.go"
+      }
+    },
+    {
+      "id": "past202107_g",
+      "label": "G",
+      "title": "Power Expression",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "G.go"
+      }
+    },
+    {
+      "id": "past202107_h",
+      "label": "H",
+      "title": "Line Chart",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "H.go"
+      }
+    },
+    {
+      "id": "past202107_i",
+      "label": "I",
+      "title": "Nevus",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_i"
+    },
+    {
+      "id": "past202107_j",
+      "label": "J",
+      "title": "Never Ending Journey",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_j"
+    },
+    {
+      "id": "past202107_k",
+      "label": "K",
+      "title": "Flying Trip",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_k"
+    },
+    {
+      "id": "past202107_l",
+      "label": "L",
+      "title": "Multiple Min Query",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_l"
+    },
+    {
+      "id": "past202107_m",
+      "label": "M",
+      "title": "Divide",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_m"
+    },
+    {
+      "id": "past202107_n",
+      "label": "N",
+      "title": "Monochrome Design",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_n"
+    },
+    {
+      "id": "past202107_o",
+      "label": "O",
+      "title": "Computer",
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_o"
+    }
+  ]
+}
