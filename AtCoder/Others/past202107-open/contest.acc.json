@@ -103,7 +103,12 @@
       "id": "past202107_j",
       "label": "J",
       "title": "Never Ending Journey",
-      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_j"
+      "url": "https://atcoder.jp/contests/past202107-open/tasks/past202107_j",
+      "directory": {
+        "path": "j",
+        "testdir": "tests",
+        "submit": "J.go"
+      }
     },
     {
       "id": "past202107_k",
