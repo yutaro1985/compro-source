@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": "abc213",
+    "title": "AtCoder Beginner Contest 213",
+    "url": "https://atcoder.jp/contests/abc213"
+  },
+  "tasks": [
+    {
+      "id": "abc213_a",
+      "label": "A",
+      "title": "Bitwise Exclusive Or",
+      "url": "https://atcoder.jp/contests/abc213/tasks/abc213_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc213_b",
+      "label": "B",
+      "title": "Booby Prize",
+      "url": "https://atcoder.jp/contests/abc213/tasks/abc213_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc213_c",
+      "label": "C",
+      "title": "Reorder Cards",
+      "url": "https://atcoder.jp/contests/abc213/tasks/abc213_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc213_d",
+      "label": "D",
+      "title": "Takahashi Tour",
+      "url": "https://atcoder.jp/contests/abc213/tasks/abc213_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc213_e",
+      "label": "E",
+      "title": "Stronger Takahashi",
+      "url": "https://atcoder.jp/contests/abc213/tasks/abc213_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc213_f",
+      "label": "F",
+      "title": "Common Prefixes",
+      "url": "https://atcoder.jp/contests/abc213/tasks/abc213_f"
+    },
+    {
+      "id": "abc213_g",
+      "label": "G",
+      "title": "Connectivity 2",
+      "url": "https://atcoder.jp/contests/abc213/tasks/abc213_g"
+    },
+    {
+      "id": "abc213_h",
+      "label": "H",
+      "title": "Stroll",
+      "url": "https://atcoder.jp/contests/abc213/tasks/abc213_h"
+    }
+  ]
+}
