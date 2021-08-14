@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": "abc214",
+    "title": "AtCoder Beginner Contest 214",
+    "url": "https://atcoder.jp/contests/abc214"
+  },
+  "tasks": [
+    {
+      "id": "abc214_a",
+      "label": "A",
+      "title": "New Generation ABC",
+      "url": "https://atcoder.jp/contests/abc214/tasks/abc214_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc214_b",
+      "label": "B",
+      "title": "How many?",
+      "url": "https://atcoder.jp/contests/abc214/tasks/abc214_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc214_c",
+      "label": "C",
+      "title": "Distribution",
+      "url": "https://atcoder.jp/contests/abc214/tasks/abc214_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc214_d",
+      "label": "D",
+      "title": "Sum of Maximum Weights",
+      "url": "https://atcoder.jp/contests/abc214/tasks/abc214_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc214_e",
+      "label": "E",
+      "title": "Packing Under Range Regulations",
+      "url": "https://atcoder.jp/contests/abc214/tasks/abc214_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc214_f",
+      "label": "F",
+      "title": "Substrings",
+      "url": "https://atcoder.jp/contests/abc214/tasks/abc214_f"
+    },
+    {
+      "id": "abc214_g",
+      "label": "G",
+      "title": "Three Permutations",
+      "url": "https://atcoder.jp/contests/abc214/tasks/abc214_g"
+    },
+    {
+      "id": "abc214_h",
+      "label": "H",
+      "title": "Collecting",
+      "url": "https://atcoder.jp/contests/abc214/tasks/abc214_h"
+    }
+  ]
+}
