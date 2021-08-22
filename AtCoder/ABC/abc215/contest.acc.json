@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": "abc215",
+    "title": "AtCoder Beginner Contest 215",
+    "url": "https://atcoder.jp/contests/abc215"
+  },
+  "tasks": [
+    {
+      "id": "abc215_a",
+      "label": "A",
+      "title": "Your First Judge",
+      "url": "https://atcoder.jp/contests/abc215/tasks/abc215_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc215_b",
+      "label": "B",
+      "title": "log2(N)",
+      "url": "https://atcoder.jp/contests/abc215/tasks/abc215_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc215_c",
+      "label": "C",
+      "title": "One More aab aba baa",
+      "url": "https://atcoder.jp/contests/abc215/tasks/abc215_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc215_d",
+      "label": "D",
+      "title": "Coprime 2",
+      "url": "https://atcoder.jp/contests/abc215/tasks/abc215_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc215_e",
+      "label": "E",
+      "title": "Chain Contestant",
+      "url": "https://atcoder.jp/contests/abc215/tasks/abc215_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc215_f",
+      "label": "F",
+      "title": "Dist Max 2",
+      "url": "https://atcoder.jp/contests/abc215/tasks/abc215_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "F.go"
+      }
+    },
+    {
+      "id": "abc215_g",
+      "label": "G",
+      "title": "Colorful Candies 2",
+      "url": "https://atcoder.jp/contests/abc215/tasks/abc215_g"
+    },
+    {
+      "id": "abc215_h",
+      "label": "H",
+      "title": "Cabbage Master",
+      "url": "https://atcoder.jp/contests/abc215/tasks/abc215_h"
+    }
+  ]
+}
