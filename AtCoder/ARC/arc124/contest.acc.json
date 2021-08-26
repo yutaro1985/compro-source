@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "arc124",
+    "title": "AtCoder Regular Contest 124",
+    "url": "https://atcoder.jp/contests/arc124"
+  },
+  "tasks": [
+    {
+      "id": "arc124_a",
+      "label": "A",
+      "title": "LR Constraints",
+      "url": "https://atcoder.jp/contests/arc124/tasks/arc124_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc124_b",
+      "label": "B",
+      "title": "XOR Matching 2",
+      "url": "https://atcoder.jp/contests/arc124/tasks/arc124_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc124_c",
+      "label": "C",
+      "title": "LCM of GCDs",
+      "url": "https://atcoder.jp/contests/arc124/tasks/arc124_c"
+    },
+    {
+      "id": "arc124_d",
+      "label": "D",
+      "title": "Yet Another Sorting Problem",
+      "url": "https://atcoder.jp/contests/arc124/tasks/arc124_d"
+    },
+    {
+      "id": "arc124_e",
+      "label": "E",
+      "title": "Pass to Next",
+      "url": "https://atcoder.jp/contests/arc124/tasks/arc124_e"
+    },
+    {
+      "id": "arc124_f",
+      "label": "F",
+      "title": "Chance Meeting",
+      "url": "https://atcoder.jp/contests/arc124/tasks/arc124_f"
+    }
+  ]
+}
