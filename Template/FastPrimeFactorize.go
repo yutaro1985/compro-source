@@ -12,6 +12,7 @@ func FastPrimeFactorize(n int, sieve []int) map[int]int {
 
 // MakeSieve は高速素数判定に使う篩を作る。
 // Sieve[i] < i なら合成数なので、Sieveは素数判定にも使える
+// ただし、Sieve[1] = 1 なので1の場合に注意
 func MakeSieve(max int) []int {
 	sieve := make([]int, max)
 	for i := range sieve {
