@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": "abc218",
+    "title": "AtCoder Beginner Contest 218",
+    "url": "https://atcoder.jp/contests/abc218"
+  },
+  "tasks": [
+    {
+      "id": "abc218_a",
+      "label": "A",
+      "title": "Weather Forecast",
+      "url": "https://atcoder.jp/contests/abc218/tasks/abc218_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc218_b",
+      "label": "B",
+      "title": "qwerty",
+      "url": "https://atcoder.jp/contests/abc218/tasks/abc218_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc218_c",
+      "label": "C",
+      "title": "Shapes",
+      "url": "https://atcoder.jp/contests/abc218/tasks/abc218_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc218_d",
+      "label": "D",
+      "title": "Rectangles",
+      "url": "https://atcoder.jp/contests/abc218/tasks/abc218_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc218_e",
+      "label": "E",
+      "title": "Destruction",
+      "url": "https://atcoder.jp/contests/abc218/tasks/abc218_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc218_f",
+      "label": "F",
+      "title": "Blocked Roads",
+      "url": "https://atcoder.jp/contests/abc218/tasks/abc218_f"
+    },
+    {
+      "id": "abc218_g",
+      "label": "G",
+      "title": "Game on Tree 2",
+      "url": "https://atcoder.jp/contests/abc218/tasks/abc218_g"
+    },
+    {
+      "id": "abc218_h",
+      "label": "H",
+      "title": "Red and Blue Lamps",
+      "url": "https://atcoder.jp/contests/abc218/tasks/abc218_h"
+    }
+  ]
+}
