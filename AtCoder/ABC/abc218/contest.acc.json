@@ -64,7 +64,12 @@
       "id": "abc218_f",
       "label": "F",
       "title": "Blocked Roads",
-      "url": "https://atcoder.jp/contests/abc218/tasks/abc218_f"
+      "url": "https://atcoder.jp/contests/abc218/tasks/abc218_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "F.go"
+      }
     },
     {
       "id": "abc218_g",
