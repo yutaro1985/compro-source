@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": "abc219",
+    "title": "Sciseed Programming Contest 2021（AtCoder Beginner Contest 219）",
+    "url": "https://atcoder.jp/contests/abc219"
+  },
+  "tasks": [
+    {
+      "id": "abc219_a",
+      "label": "A",
+      "title": "AtCoder Quiz 2",
+      "url": "https://atcoder.jp/contests/abc219/tasks/abc219_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc219_b",
+      "label": "B",
+      "title": "Maritozzo",
+      "url": "https://atcoder.jp/contests/abc219/tasks/abc219_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc219_c",
+      "label": "C",
+      "title": "Neo-lexicographic Ordering",
+      "url": "https://atcoder.jp/contests/abc219/tasks/abc219_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc219_d",
+      "label": "D",
+      "title": "Strange Lunchbox",
+      "url": "https://atcoder.jp/contests/abc219/tasks/abc219_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc219_e",
+      "label": "E",
+      "title": "Moat",
+      "url": "https://atcoder.jp/contests/abc219/tasks/abc219_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc219_f",
+      "label": "F",
+      "title": "Cleaning Robot",
+      "url": "https://atcoder.jp/contests/abc219/tasks/abc219_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "F.go"
+      }
+    },
+    {
+      "id": "abc219_g",
+      "label": "G",
+      "title": "Propagation",
+      "url": "https://atcoder.jp/contests/abc219/tasks/abc219_g"
+    },
+    {
+      "id": "abc219_h",
+      "label": "H",
+      "title": "Candles",
+      "url": "https://atcoder.jp/contests/abc219/tasks/abc219_h"
+    }
+  ]
+}
