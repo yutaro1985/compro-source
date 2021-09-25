@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "arc125",
+    "title": "AtCoder Regular Contest 125",
+    "url": "https://atcoder.jp/contests/arc125"
+  },
+  "tasks": [
+    {
+      "id": "arc125_a",
+      "label": "A",
+      "title": "Dial Up",
+      "url": "https://atcoder.jp/contests/arc125/tasks/arc125_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc125_b",
+      "label": "B",
+      "title": "Squares",
+      "url": "https://atcoder.jp/contests/arc125/tasks/arc125_b"
+    },
+    {
+      "id": "arc125_c",
+      "label": "C",
+      "title": "LIS to Original Sequence",
+      "url": "https://atcoder.jp/contests/arc125/tasks/arc125_c"
+    },
+    {
+      "id": "arc125_d",
+      "label": "D",
+      "title": "Unique Subsequence",
+      "url": "https://atcoder.jp/contests/arc125/tasks/arc125_d"
+    },
+    {
+      "id": "arc125_e",
+      "label": "E",
+      "title": "Snack",
+      "url": "https://atcoder.jp/contests/arc125/tasks/arc125_e"
+    },
+    {
+      "id": "arc125_f",
+      "label": "F",
+      "title": "Tree Degree Subset Sum",
+      "url": "https://atcoder.jp/contests/arc125/tasks/arc125_f"
+    }
+  ]
+}
