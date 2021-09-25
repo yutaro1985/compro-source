@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "arc127",
+    "title": "AtCoder Regular Contest 127",
+    "url": "https://atcoder.jp/contests/arc127"
+  },
+  "tasks": [
+    {
+      "id": "arc127_a",
+      "label": "A",
+      "title": "Leading 1s",
+      "url": "https://atcoder.jp/contests/arc127/tasks/arc127_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc127_b",
+      "label": "B",
+      "title": "Ternary Strings",
+      "url": "https://atcoder.jp/contests/arc127/tasks/arc127_b"
+    },
+    {
+      "id": "arc127_c",
+      "label": "C",
+      "title": "Binary Strings",
+      "url": "https://atcoder.jp/contests/arc127/tasks/arc127_c"
+    },
+    {
+      "id": "arc127_d",
+      "label": "D",
+      "title": "Sum of Min of Xor",
+      "url": "https://atcoder.jp/contests/arc127/tasks/arc127_d"
+    },
+    {
+      "id": "arc127_e",
+      "label": "E",
+      "title": "Priority Queue",
+      "url": "https://atcoder.jp/contests/arc127/tasks/arc127_e"
+    },
+    {
+      "id": "arc127_f",
+      "label": "F",
+      "title": "±AB",
+      "url": "https://atcoder.jp/contests/arc127/tasks/arc127_f"
+    }
+  ]
+}
