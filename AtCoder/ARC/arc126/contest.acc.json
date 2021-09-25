@@ -1,0 +1,50 @@
+{
+  "contest": {
+    "id": "arc126",
+    "title": "AtCoder Regular Contest 126",
+    "url": "https://atcoder.jp/contests/arc126"
+  },
+  "tasks": [
+    {
+      "id": "arc126_a",
+      "label": "A",
+      "title": "Make 10",
+      "url": "https://atcoder.jp/contests/arc126/tasks/arc126_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc126_b",
+      "label": "B",
+      "title": "Cross-free Matching",
+      "url": "https://atcoder.jp/contests/arc126/tasks/arc126_b"
+    },
+    {
+      "id": "arc126_c",
+      "label": "C",
+      "title": "Maximize GCD",
+      "url": "https://atcoder.jp/contests/arc126/tasks/arc126_c"
+    },
+    {
+      "id": "arc126_d",
+      "label": "D",
+      "title": "Pure Straight",
+      "url": "https://atcoder.jp/contests/arc126/tasks/arc126_d"
+    },
+    {
+      "id": "arc126_e",
+      "label": "E",
+      "title": "Infinite Operations",
+      "url": "https://atcoder.jp/contests/arc126/tasks/arc126_e"
+    },
+    {
+      "id": "arc126_f",
+      "label": "F",
+      "title": "Affine Sort",
+      "url": "https://atcoder.jp/contests/arc126/tasks/arc126_f"
+    }
+  ]
+}
