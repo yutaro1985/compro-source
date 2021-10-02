@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc221",
+    "title": "AtCoder Beginner Contest 221",
+    "url": "https://atcoder.jp/contests/abc221"
+  },
+  "tasks": [
+    {
+      "id": "abc221_a",
+      "label": "A",
+      "title": "Seismic magnitude scales",
+      "url": "https://atcoder.jp/contests/abc221/tasks/abc221_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc221_b",
+      "label": "B",
+      "title": "typo",
+      "url": "https://atcoder.jp/contests/abc221/tasks/abc221_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc221_c",
+      "label": "C",
+      "title": "Select Mul",
+      "url": "https://atcoder.jp/contests/abc221/tasks/abc221_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc221_d",
+      "label": "D",
+      "title": "Online games",
+      "url": "https://atcoder.jp/contests/abc221/tasks/abc221_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc221_e",
+      "label": "E",
+      "title": "LEQ",
+      "url": "https://atcoder.jp/contests/abc221/tasks/abc221_e"
+    },
+    {
+      "id": "abc221_f",
+      "label": "F",
+      "title": "Diameter set",
+      "url": "https://atcoder.jp/contests/abc221/tasks/abc221_f"
+    },
+    {
+      "id": "abc221_g",
+      "label": "G",
+      "title": "Jumping sequence",
+      "url": "https://atcoder.jp/contests/abc221/tasks/abc221_g"
+    },
+    {
+      "id": "abc221_h",
+      "label": "H",
+      "title": "Count Multiset",
+      "url": "https://atcoder.jp/contests/abc221/tasks/abc221_h"
+    }
+  ]
+}
