@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc222",
+    "title": "Exawizards Programming Contest 2021（AtCoder Beginner Contest 222）",
+    "url": "https://atcoder.jp/contests/abc222"
+  },
+  "tasks": [
+    {
+      "id": "abc222_a",
+      "label": "A",
+      "title": "Four Digits",
+      "url": "https://atcoder.jp/contests/abc222/tasks/abc222_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc222_b",
+      "label": "B",
+      "title": "Failing Grade",
+      "url": "https://atcoder.jp/contests/abc222/tasks/abc222_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc222_c",
+      "label": "C",
+      "title": "Swiss-System Tournament",
+      "url": "https://atcoder.jp/contests/abc222/tasks/abc222_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc222_d",
+      "label": "D",
+      "title": "Between Two Arrays",
+      "url": "https://atcoder.jp/contests/abc222/tasks/abc222_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc222_e",
+      "label": "E",
+      "title": "Red and Blue Tree",
+      "url": "https://atcoder.jp/contests/abc222/tasks/abc222_e"
+    },
+    {
+      "id": "abc222_f",
+      "label": "F",
+      "title": "Expensive Expense",
+      "url": "https://atcoder.jp/contests/abc222/tasks/abc222_f"
+    },
+    {
+      "id": "abc222_g",
+      "label": "G",
+      "title": "222",
+      "url": "https://atcoder.jp/contests/abc222/tasks/abc222_g"
+    },
+    {
+      "id": "abc222_h",
+      "label": "H",
+      "title": "Beautiful Binary Tree",
+      "url": "https://atcoder.jp/contests/abc222/tasks/abc222_h"
+    }
+  ]
+}
