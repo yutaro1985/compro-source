@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc223",
+    "title": "AtCoder Beginner Contest 223",
+    "url": "https://atcoder.jp/contests/abc223"
+  },
+  "tasks": [
+    {
+      "id": "abc223_a",
+      "label": "A",
+      "title": "Exact Price",
+      "url": "https://atcoder.jp/contests/abc223/tasks/abc223_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc223_b",
+      "label": "B",
+      "title": "String Shifting",
+      "url": "https://atcoder.jp/contests/abc223/tasks/abc223_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc223_c",
+      "label": "C",
+      "title": "Doukasen",
+      "url": "https://atcoder.jp/contests/abc223/tasks/abc223_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc223_d",
+      "label": "D",
+      "title": "Restricted Permutation",
+      "url": "https://atcoder.jp/contests/abc223/tasks/abc223_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc223_e",
+      "label": "E",
+      "title": "Placing Rectangles",
+      "url": "https://atcoder.jp/contests/abc223/tasks/abc223_e"
+    },
+    {
+      "id": "abc223_f",
+      "label": "F",
+      "title": "Parenthesis Checking",
+      "url": "https://atcoder.jp/contests/abc223/tasks/abc223_f"
+    },
+    {
+      "id": "abc223_g",
+      "label": "G",
+      "title": "Vertex Deletion",
+      "url": "https://atcoder.jp/contests/abc223/tasks/abc223_g"
+    },
+    {
+      "id": "abc223_h",
+      "label": "H",
+      "title": "Xor Query",
+      "url": "https://atcoder.jp/contests/abc223/tasks/abc223_h"
+    }
+  ]
+}
