@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "arc128",
+    "title": "Daiwa Securities Co. Ltd. Programming Contest 2021（AtCoder Regular Contest 128）",
+    "url": "https://atcoder.jp/contests/arc128"
+  },
+  "tasks": [
+    {
+      "id": "arc128_a",
+      "label": "A",
+      "title": "Gold and Silver",
+      "url": "https://atcoder.jp/contests/arc128/tasks/arc128_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc128_b",
+      "label": "B",
+      "title": "Balls of Three Colors",
+      "url": "https://atcoder.jp/contests/arc128/tasks/arc128_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc128_c",
+      "label": "C",
+      "title": "Max Dot",
+      "url": "https://atcoder.jp/contests/arc128/tasks/arc128_c"
+    },
+    {
+      "id": "arc128_d",
+      "label": "D",
+      "title": "Neq Neq",
+      "url": "https://atcoder.jp/contests/arc128/tasks/arc128_d"
+    },
+    {
+      "id": "arc128_e",
+      "label": "E",
+      "title": "K Different Values",
+      "url": "https://atcoder.jp/contests/arc128/tasks/arc128_e"
+    },
+    {
+      "id": "arc128_f",
+      "label": "F",
+      "title": "Game against Robot",
+      "url": "https://atcoder.jp/contests/arc128/tasks/arc128_f"
+    }
+  ]
+}
