@@ -2,12 +2,12 @@ package main
 
 import (
 	"bufio"
+	"container/heap"
 	"fmt"
-	"math"
-	"math/big"
 	"os"
 	"sort"
 	"strconv"
+	"strings"
 )
 
 const (
@@ -30,50 +30,98 @@ const (
 	INF     = 1 << 60
 )
 
-type Point struct {
-	A, B float64
+type Pair struct {
+	A, B int
 }
 
 func main() {
-	N := nextInt()
-	P := make([]Point, N)
-	Csum := make([]float64, N+1)
-	CsumR := make([]float64, N+1)
-	for i := 0; i < N; i++ {
-		P[i] = Point{nextFloat64(), nextFloat64()}
-		Csum[i+1] = Csum[i] + P[i].A/P[i].B
+	N, M := nextInt(), nextInt()
+	t := newTopologicalSort(N)
+	for i := 0; i < M; i++ {
+		u, v := nextInt()-1, nextInt()-1
+		t.addEdge(u, v)
 	}
-	for i := 0; i < N; i++ {
-		CsumR[N-1-i] = CsumR[N-i] + P[N-1-i].A/P[N-1-i].B
-	}
-	var idx int
-	var ans float64
-	for i := 0; i <= N; i++ {
-		A := big.NewFloat(Csum[i])
-		B := big.NewFloat(CsumR[i])
-		if A.Cmp(B) >= 0 {
-			idx = i
-			break
-		}
-	}
-	for i := 0; i < idx-1; i++ {
-		ans += P[i].A
-	}
-	if Csum[idx] == CsumR[idx] {
-		fmt.Println(ans + P[idx-1].A)
+	if !t.sort() {
+		fmt.Println(-1)
 		return
 	}
-	r := P[idx-1].A
-	v := P[idx-1].B
-	r -= v * math.Abs(Csum[idx-1]-CsumR[idx])
-	A := big.NewFloat(Csum[idx-1])
-	B := big.NewFloat(CsumR[idx])
-	if A.Cmp(B) >= 0 {
-		ans += r / (v * 2) * v
-	} else {
-		ans += P[idx-1].A - r/(v*2)*v
+	ans := make([]int, 0)
+	for _, v := range t.order {
+		ans = append(ans, v+1)
 	}
-	fmt.Println(ans)
+	fmt.Println(strings.Trim(fmt.Sprint(ans), "[]"))
+}
+
+// TopoligicalSort はトポロジカルソートを行う構造体
+type TopologicalSort struct {
+	Edges  [][]int
+	order  []int
+	degree []int
+}
+
+func newTopologicalSort(N int) *TopologicalSort {
+	t := new(TopologicalSort)
+	t.Edges = make([][]int, N)
+	t.order = make([]int, 0)
+	t.degree = make([]int, N)
+	return t
+}
+
+func (t *TopologicalSort) addEdge(u, v int) {
+	t.Edges[u] = append(t.Edges[u], v)
+	t.degree[v]++
+}
+
+func (t *TopologicalSort) sort() bool {
+	N := len(t.Edges)
+	pq := make(IH, 0)
+	heap.Init(&pq)
+	for i := 0; i < N; i++ {
+		if t.degree[i] == 0 {
+			pq.HPush(i)
+		}
+	}
+	for pq.Len() > 0 {
+		v := pq.HPop().(int)
+		for _, u := range t.Edges[v] {
+			t.degree[u]--
+			if t.degree[u] == 0 {
+				pq.HPush(u)
+			}
+		}
+		t.order = append(t.order, v)
+	}
+	return len(t.order) == N
+}
+
+// IH golangの公式サンプルより
+// https://xn--go-hh0g6u.com/pkg/container/heap/#example__intHeap
+type IH []int
+
+func (h IH) Len() int { return len(h) }
+
+func (h IH) Less(i, j int) bool { return h[i] < h[j] }
+func (h IH) Swap(i, j int)      { h[i], h[j] = h[j], h[i] }
+
+func (h *IH) Push(x interface{}) {
+	*h = append(*h, x.(int))
+}
+
+func (h *IH) HPush(x interface{}) {
+	heap.Push(h, x)
+}
+
+func (h *IH) Pop() interface{} {
+	old := *h
+	n := len(old)
+	x := old[n-1]
+	*h = old[0 : n-1]
+	return x
+}
+
+func (h *IH) HPop() interface{} {
+	x := heap.Pop(h).(int)
+	return x
 }
 
 func nextLine() string {

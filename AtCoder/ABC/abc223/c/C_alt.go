@@ -4,7 +4,6 @@ import (
 	"bufio"
 	"fmt"
 	"math"
-	"math/big"
 	"os"
 	"sort"
 	"strconv"
@@ -37,41 +36,21 @@ type Point struct {
 func main() {
 	N := nextInt()
 	P := make([]Point, N)
-	Csum := make([]float64, N+1)
-	CsumR := make([]float64, N+1)
 	for i := 0; i < N; i++ {
 		P[i] = Point{nextFloat64(), nextFloat64()}
-		Csum[i+1] = Csum[i] + P[i].A/P[i].B
 	}
+	var ans, t float64
 	for i := 0; i < N; i++ {
-		CsumR[N-1-i] = CsumR[N-i] + P[N-1-i].A/P[N-1-i].B
+		t += P[i].A / P[i].B
 	}
-	var idx int
-	var ans float64
-	for i := 0; i <= N; i++ {
-		A := big.NewFloat(Csum[i])
-		B := big.NewFloat(CsumR[i])
-		if A.Cmp(B) >= 0 {
-			idx = i
+	t /= 2
+	for i := 0; i < N; i++ {
+		if math.Min(t, P[i].A/P[i].B) == t {
+			ans += t * P[i].B
 			break
 		}
-	}
-	for i := 0; i < idx-1; i++ {
 		ans += P[i].A
-	}
-	if Csum[idx] == CsumR[idx] {
-		fmt.Println(ans + P[idx-1].A)
-		return
-	}
-	r := P[idx-1].A
-	v := P[idx-1].B
-	r -= v * math.Abs(Csum[idx-1]-CsumR[idx])
-	A := big.NewFloat(Csum[idx-1])
-	B := big.NewFloat(CsumR[idx])
-	if A.Cmp(B) >= 0 {
-		ans += r / (v * 2) * v
-	} else {
-		ans += P[idx-1].A - r/(v*2)*v
+		t -= P[i].A / P[i].B
 	}
 	fmt.Println(ans)
 }
