@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": "abc226",
+    "title": "AtCoder Beginner Contest 226",
+    "url": "https://atcoder.jp/contests/abc226"
+  },
+  "tasks": [
+    {
+      "id": "abc226_a",
+      "label": "A",
+      "title": "Round decimals",
+      "url": "https://atcoder.jp/contests/abc226/tasks/abc226_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc226_b",
+      "label": "B",
+      "title": "Counting Arrays",
+      "url": "https://atcoder.jp/contests/abc226/tasks/abc226_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc226_c",
+      "label": "C",
+      "title": "Martial artist",
+      "url": "https://atcoder.jp/contests/abc226/tasks/abc226_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc226_d",
+      "label": "D",
+      "title": "Teleportation",
+      "url": "https://atcoder.jp/contests/abc226/tasks/abc226_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc226_e",
+      "label": "E",
+      "title": "Just one",
+      "url": "https://atcoder.jp/contests/abc226/tasks/abc226_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc226_f",
+      "label": "F",
+      "title": "Score of Permutations",
+      "url": "https://atcoder.jp/contests/abc226/tasks/abc226_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "F.go"
+      }
+    },
+    {
+      "id": "abc226_g",
+      "label": "G",
+      "title": "The baggage",
+      "url": "https://atcoder.jp/contests/abc226/tasks/abc226_g"
+    },
+    {
+      "id": "abc226_h",
+      "label": "H",
+      "title": "Random Kth Max",
+      "url": "https://atcoder.jp/contests/abc226/tasks/abc226_h"
+    }
+  ]
+}
