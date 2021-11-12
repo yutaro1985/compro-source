@@ -23,7 +23,8 @@ func init() {
 
 // 問題によって値は調整する
 const (
-	mod     = int(1e9) + 7
+	mod = int(1e9) + 7
+	// mod     = 998244353
 	maxsize = 510000
 	INF     = 1 << 60
 )
