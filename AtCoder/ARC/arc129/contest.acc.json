@@ -1,0 +1,55 @@
+{
+  "contest": {
+    "id": "arc129",
+    "title": "AtCoder Regular Contest 129",
+    "url": "https://atcoder.jp/contests/arc129"
+  },
+  "tasks": [
+    {
+      "id": "arc129_a",
+      "label": "A",
+      "title": "Smaller XOR",
+      "url": "https://atcoder.jp/contests/arc129/tasks/arc129_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "arc129_b",
+      "label": "B",
+      "title": "Range Point Distance",
+      "url": "https://atcoder.jp/contests/arc129/tasks/arc129_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "arc129_c",
+      "label": "C",
+      "title": "Multiple of 7",
+      "url": "https://atcoder.jp/contests/arc129/tasks/arc129_c"
+    },
+    {
+      "id": "arc129_d",
+      "label": "D",
+      "title": "-1+2-1",
+      "url": "https://atcoder.jp/contests/arc129/tasks/arc129_d"
+    },
+    {
+      "id": "arc129_e",
+      "label": "E",
+      "title": "Yet Another Minimization",
+      "url": "https://atcoder.jp/contests/arc129/tasks/arc129_e"
+    },
+    {
+      "id": "arc129_f",
+      "label": "F",
+      "title": "Let's Play Tag",
+      "url": "https://atcoder.jp/contests/arc129/tasks/arc129_f"
+    }
+  ]
+}
