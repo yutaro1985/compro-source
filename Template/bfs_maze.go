@@ -12,7 +12,7 @@ for q.Len() > 0 {
 		if seen[nextP.H][nextP.W] {
 			continue
 		}
-		if dist[nextP.H][nextP.W] != -1 {
+		if dist[nextP.H][nextP.W] == -1 {
 			dist[nextP.H][nextP.W] = dist[P.H][P.W] + 1
 			seen[nextP.H][nextP.W] = true
 			q.PushBack(nextP)
