@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc238",
+    "title": "Monoxer Programming Contest 2022（AtCoder Beginner Contest 238）",
+    "url": "https://atcoder.jp/contests/abc238"
+  },
+  "tasks": [
+    {
+      "id": "abc238_a",
+      "label": "A",
+      "title": "Exponential or Quadratic",
+      "url": "https://atcoder.jp/contests/abc238/tasks/abc238_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc238_b",
+      "label": "B",
+      "title": "Pizza",
+      "url": "https://atcoder.jp/contests/abc238/tasks/abc238_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc238_c",
+      "label": "C",
+      "title": "digitnum",
+      "url": "https://atcoder.jp/contests/abc238/tasks/abc238_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc238_d",
+      "label": "D",
+      "title": "AND and SUM",
+      "url": "https://atcoder.jp/contests/abc238/tasks/abc238_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc238_e",
+      "label": "E",
+      "title": "Range Sums",
+      "url": "https://atcoder.jp/contests/abc238/tasks/abc238_e"
+    },
+    {
+      "id": "abc238_f",
+      "label": "F",
+      "title": "Two Exams",
+      "url": "https://atcoder.jp/contests/abc238/tasks/abc238_f"
+    },
+    {
+      "id": "abc238_g",
+      "label": "G",
+      "title": "Cubic?",
+      "url": "https://atcoder.jp/contests/abc238/tasks/abc238_g"
+    },
+    {
+      "id": "abc238_h",
+      "label": "Ex",
+      "title": "Removing People",
+      "url": "https://atcoder.jp/contests/abc238/tasks/abc238_h"
+    }
+  ]
+}
