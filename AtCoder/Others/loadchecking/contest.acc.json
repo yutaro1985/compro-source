@@ -1,0 +1,20 @@
+{
+  "contest": {
+    "id": "loadchecking",
+    "title": "負荷チェックコンテスト",
+    "url": "https://atcoder.jp/contests/loadchecking"
+  },
+  "tasks": [
+    {
+      "id": "loadchecking_a",
+      "label": "A",
+      "title": "好きな順列",
+      "url": "https://atcoder.jp/contests/loadchecking/tasks/loadchecking_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    }
+  ]
+}
