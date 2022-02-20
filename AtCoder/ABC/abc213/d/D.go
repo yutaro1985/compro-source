@@ -31,6 +31,8 @@ const (
 
 var ans []int
 
+// オイラーツアー
+
 func main() {
 	N := nextInt()
 	G := make([][]int, N)
