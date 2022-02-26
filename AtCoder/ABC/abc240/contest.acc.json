@@ -1,0 +1,87 @@
+{
+  "contest": {
+    "id": "abc240",
+    "title": "AtCoder Beginner Contest 240",
+    "url": "https://atcoder.jp/contests/abc240"
+  },
+  "tasks": [
+    {
+      "id": "abc240_a",
+      "label": "A",
+      "title": "Edge Checker",
+      "url": "https://atcoder.jp/contests/abc240/tasks/abc240_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc240_b",
+      "label": "B",
+      "title": "Count Distinct Integers",
+      "url": "https://atcoder.jp/contests/abc240/tasks/abc240_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc240_c",
+      "label": "C",
+      "title": "Jumping Takahashi",
+      "url": "https://atcoder.jp/contests/abc240/tasks/abc240_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc240_d",
+      "label": "D",
+      "title": "Strange Balls",
+      "url": "https://atcoder.jp/contests/abc240/tasks/abc240_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc240_e",
+      "label": "E",
+      "title": "Ranges on Tree",
+      "url": "https://atcoder.jp/contests/abc240/tasks/abc240_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc240_f",
+      "label": "F",
+      "title": "Sum Sum Max",
+      "url": "https://atcoder.jp/contests/abc240/tasks/abc240_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "F.go"
+      }
+    },
+    {
+      "id": "abc240_g",
+      "label": "G",
+      "title": "Teleporting Takahashi",
+      "url": "https://atcoder.jp/contests/abc240/tasks/abc240_g"
+    },
+    {
+      "id": "abc240_h",
+      "label": "Ex",
+      "title": "Sequence of Substrings",
+      "url": "https://atcoder.jp/contests/abc240/tasks/abc240_h"
+    }
+  ]
+}

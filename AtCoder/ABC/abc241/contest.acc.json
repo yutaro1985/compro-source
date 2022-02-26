@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": "abc241",
+    "title": "AtCoder Beginner Contest 241（Sponsored by Panasonic）",
+    "url": "https://atcoder.jp/contests/abc241"
+  },
+  "tasks": [
+    {
+      "id": "abc241_a",
+      "label": "A",
+      "title": "Digit Machine",
+      "url": "https://atcoder.jp/contests/abc241/tasks/abc241_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc241_b",
+      "label": "B",
+      "title": "Pasta",
+      "url": "https://atcoder.jp/contests/abc241/tasks/abc241_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc241_c",
+      "label": "C",
+      "title": "Connect 6",
+      "url": "https://atcoder.jp/contests/abc241/tasks/abc241_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc241_d",
+      "label": "D",
+      "title": "Sequence Query",
+      "url": "https://atcoder.jp/contests/abc241/tasks/abc241_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc241_e",
+      "label": "E",
+      "title": "Putting Candies",
+      "url": "https://atcoder.jp/contests/abc241/tasks/abc241_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc241_f",
+      "label": "F",
+      "title": "Skate",
+      "url": "https://atcoder.jp/contests/abc241/tasks/abc241_f"
+    },
+    {
+      "id": "abc241_g",
+      "label": "G",
+      "title": "Round Robin",
+      "url": "https://atcoder.jp/contests/abc241/tasks/abc241_g"
+    },
+    {
+      "id": "abc241_h",
+      "label": "Ex",
+      "title": "Card Deck Score",
+      "url": "https://atcoder.jp/contests/abc241/tasks/abc241_h"
+    }
+  ]
+}
