@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc242",
+    "title": "AtCoder Beginner Contest 242",
+    "url": "https://atcoder.jp/contests/abc242"
+  },
+  "tasks": [
+    {
+      "id": "abc242_a",
+      "label": "A",
+      "title": "T-shirt",
+      "url": "https://atcoder.jp/contests/abc242/tasks/abc242_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc242_b",
+      "label": "B",
+      "title": "Minimize Ordering",
+      "url": "https://atcoder.jp/contests/abc242/tasks/abc242_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc242_c",
+      "label": "C",
+      "title": "1111gal password",
+      "url": "https://atcoder.jp/contests/abc242/tasks/abc242_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc242_d",
+      "label": "D",
+      "title": "ABC Transform",
+      "url": "https://atcoder.jp/contests/abc242/tasks/abc242_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc242_e",
+      "label": "E",
+      "title": "(∀x∀)",
+      "url": "https://atcoder.jp/contests/abc242/tasks/abc242_e"
+    },
+    {
+      "id": "abc242_f",
+      "label": "F",
+      "title": "Black and White Rooks",
+      "url": "https://atcoder.jp/contests/abc242/tasks/abc242_f"
+    },
+    {
+      "id": "abc242_g",
+      "label": "G",
+      "title": "Range Pairing Query",
+      "url": "https://atcoder.jp/contests/abc242/tasks/abc242_g"
+    },
+    {
+      "id": "abc242_h",
+      "label": "Ex",
+      "title": "Random Painting",
+      "url": "https://atcoder.jp/contests/abc242/tasks/abc242_h"
+    }
+  ]
+}
