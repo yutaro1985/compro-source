@@ -1,7 +1,6 @@
 AtCoder/ABS/test.go
 paiza/
 geckodriver.log
-test
-tests
+test*.go
 .vscode/
 .envrc
