@@ -441,8 +441,7 @@
       "url": "https://atcoder.jp/contests/typical90/tasks/typical90_ag",
       "directory": {
         "path": "033",
-        "testdir": "tests",
-        "submit": "033.go"
+        "testdir": "tests"
       }
     },
     {
