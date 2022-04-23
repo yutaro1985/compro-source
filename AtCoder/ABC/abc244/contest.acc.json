@@ -1,0 +1,82 @@
+{
+  "contest": {
+    "id": "abc244",
+    "title": "AtCoder Beginner Contest 244",
+    "url": "https://atcoder.jp/contests/abc244"
+  },
+  "tasks": [
+    {
+      "id": "abc244_a",
+      "label": "A",
+      "title": "Last Letter",
+      "url": "https://atcoder.jp/contests/abc244/tasks/abc244_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc244_b",
+      "label": "B",
+      "title": "Go Straight and Turn Right",
+      "url": "https://atcoder.jp/contests/abc244/tasks/abc244_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc244_c",
+      "label": "C",
+      "title": "Yamanote Line Game",
+      "url": "https://atcoder.jp/contests/abc244/tasks/abc244_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc244_d",
+      "label": "D",
+      "title": "Swap Hats",
+      "url": "https://atcoder.jp/contests/abc244/tasks/abc244_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc244_e",
+      "label": "E",
+      "title": "King Bombee",
+      "url": "https://atcoder.jp/contests/abc244/tasks/abc244_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "abc244_f",
+      "label": "F",
+      "title": "Shortest Good Path",
+      "url": "https://atcoder.jp/contests/abc244/tasks/abc244_f"
+    },
+    {
+      "id": "abc244_g",
+      "label": "G",
+      "title": "Construct Good Path",
+      "url": "https://atcoder.jp/contests/abc244/tasks/abc244_g"
+    },
+    {
+      "id": "abc244_h",
+      "label": "Ex",
+      "title": "Linear Maximization",
+      "url": "https://atcoder.jp/contests/abc244/tasks/abc244_h"
+    }
+  ]
+}
