@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc260",
+    "title": "AtCoder Beginner Contest 260",
+    "url": "https://atcoder.jp/contests/abc260"
+  },
+  "tasks": [
+    {
+      "id": "abc260_a",
+      "label": "A",
+      "title": "A Unique Letter",
+      "url": "https://atcoder.jp/contests/abc260/tasks/abc260_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc260_b",
+      "label": "B",
+      "title": "Better Students Are Needed!",
+      "url": "https://atcoder.jp/contests/abc260/tasks/abc260_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc260_c",
+      "label": "C",
+      "title": "Changing Jewels",
+      "url": "https://atcoder.jp/contests/abc260/tasks/abc260_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc260_d",
+      "label": "D",
+      "title": "Draw Your Cards",
+      "url": "https://atcoder.jp/contests/abc260/tasks/abc260_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc260_e",
+      "label": "E",
+      "title": "At Least One",
+      "url": "https://atcoder.jp/contests/abc260/tasks/abc260_e"
+    },
+    {
+      "id": "abc260_f",
+      "label": "F",
+      "title": "Find 4-cycle",
+      "url": "https://atcoder.jp/contests/abc260/tasks/abc260_f"
+    },
+    {
+      "id": "abc260_g",
+      "label": "G",
+      "title": "Scalene Triangle Area",
+      "url": "https://atcoder.jp/contests/abc260/tasks/abc260_g"
+    },
+    {
+      "id": "abc260_h",
+      "label": "Ex",
+      "title": "Colorfulness",
+      "url": "https://atcoder.jp/contests/abc260/tasks/abc260_h"
+    }
+  ]
+}
