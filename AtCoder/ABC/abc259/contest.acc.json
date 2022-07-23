@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc259",
+    "title": "AtCoder Beginner Contest 259",
+    "url": "https://atcoder.jp/contests/abc259"
+  },
+  "tasks": [
+    {
+      "id": "abc259_a",
+      "label": "A",
+      "title": "Growth Record",
+      "url": "https://atcoder.jp/contests/abc259/tasks/abc259_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc259_b",
+      "label": "B",
+      "title": "Counterclockwise Rotation",
+      "url": "https://atcoder.jp/contests/abc259/tasks/abc259_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc259_c",
+      "label": "C",
+      "title": "XX to XXX",
+      "url": "https://atcoder.jp/contests/abc259/tasks/abc259_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc259_d",
+      "label": "D",
+      "title": "Circumferences",
+      "url": "https://atcoder.jp/contests/abc259/tasks/abc259_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc259_e",
+      "label": "E",
+      "title": "LCM on Whiteboard",
+      "url": "https://atcoder.jp/contests/abc259/tasks/abc259_e"
+    },
+    {
+      "id": "abc259_f",
+      "label": "F",
+      "title": "Select Edges",
+      "url": "https://atcoder.jp/contests/abc259/tasks/abc259_f"
+    },
+    {
+      "id": "abc259_g",
+      "label": "G",
+      "title": "Grid Card Game",
+      "url": "https://atcoder.jp/contests/abc259/tasks/abc259_g"
+    },
+    {
+      "id": "abc259_h",
+      "label": "Ex",
+      "title": "Yet Another Path Counting",
+      "url": "https://atcoder.jp/contests/abc259/tasks/abc259_h"
+    }
+  ]
+}
