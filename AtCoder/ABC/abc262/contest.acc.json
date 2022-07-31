@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc262",
+    "title": "AtCoder Beginner Contest 262",
+    "url": "https://atcoder.jp/contests/abc262"
+  },
+  "tasks": [
+    {
+      "id": "abc262_a",
+      "label": "A",
+      "title": "World Cup",
+      "url": "https://atcoder.jp/contests/abc262/tasks/abc262_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc262_b",
+      "label": "B",
+      "title": "Triangle (Easier)",
+      "url": "https://atcoder.jp/contests/abc262/tasks/abc262_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc262_c",
+      "label": "C",
+      "title": "Min Max Pair",
+      "url": "https://atcoder.jp/contests/abc262/tasks/abc262_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc262_d",
+      "label": "D",
+      "title": "I Hate Non-integer Number",
+      "url": "https://atcoder.jp/contests/abc262/tasks/abc262_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc262_e",
+      "label": "E",
+      "title": "Red and Blue Graph",
+      "url": "https://atcoder.jp/contests/abc262/tasks/abc262_e"
+    },
+    {
+      "id": "abc262_f",
+      "label": "F",
+      "title": "Erase and Rotate",
+      "url": "https://atcoder.jp/contests/abc262/tasks/abc262_f"
+    },
+    {
+      "id": "abc262_g",
+      "label": "G",
+      "title": "LIS with Stack",
+      "url": "https://atcoder.jp/contests/abc262/tasks/abc262_g"
+    },
+    {
+      "id": "abc262_h",
+      "label": "Ex",
+      "title": "Max Limited Sequence",
+      "url": "https://atcoder.jp/contests/abc262/tasks/abc262_h"
+    }
+  ]
+}
