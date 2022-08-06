@@ -35,7 +35,7 @@
       "directory": {
         "path": "c",
         "testdir": "tests",
-        "submit": "{TaskLabel}.go"
+        "submit": "C.go"
       }
     },
     {
@@ -46,7 +46,7 @@
       "directory": {
         "path": "d",
         "testdir": "tests",
-        "submit": "{TaskLabel}.go"
+        "submit": "D.go"
       }
     }
   ]
