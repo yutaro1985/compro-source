@@ -48,9 +48,14 @@ func main() {
 		Left[x] = L*x - Csum[x]
 	}
 	Right := make([]int, N+1)
-	for y := N; y >= 0; y-- {
-		Right[y] = R*(N-y) + Csum[y]
+	// for y := N; y >= 0; y-- {
+	// 	Right[y] = R*(N-y) + Csum[y]
+	// }
+	// LocalPrint(Right)
+	for y := 0; y <= N; y++ {
+		Right[N-y] = R*y + Csum[N-y]
 	}
+	// LocalPrint(Right)
 	Rmin := make([]int, N+1)
 	copy(Rmin, Right)
 	for i := N - 1; i >= 0; i-- {
