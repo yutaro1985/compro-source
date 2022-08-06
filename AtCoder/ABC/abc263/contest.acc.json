@@ -1,0 +1,77 @@
+{
+  "contest": {
+    "id": "abc263",
+    "title": "LINE Verda Programming Contest（AtCoder Beginner Contest 263）",
+    "url": "https://atcoder.jp/contests/abc263"
+  },
+  "tasks": [
+    {
+      "id": "abc263_a",
+      "label": "A",
+      "title": "Full House",
+      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc263_b",
+      "label": "B",
+      "title": "Ancestor",
+      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc263_c",
+      "label": "C",
+      "title": "Monotonically Increasing",
+      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc263_d",
+      "label": "D",
+      "title": "Left Right Operation",
+      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc263_e",
+      "label": "E",
+      "title": "Sugoroku 3",
+      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_e"
+    },
+    {
+      "id": "abc263_f",
+      "label": "F",
+      "title": "Tournament",
+      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_f"
+    },
+    {
+      "id": "abc263_g",
+      "label": "G",
+      "title": "Erasing Prime Pairs",
+      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_g"
+    },
+    {
+      "id": "abc263_h",
+      "label": "Ex",
+      "title": "Intersection 2",
+      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_h"
+    }
+  ]
+}
