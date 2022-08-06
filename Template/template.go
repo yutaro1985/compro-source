@@ -4,6 +4,7 @@ import (
 	"bufio"
 	"fmt"
 	"os"
+	"reflect"
 	"sort"
 	"strconv"
 )
@@ -122,6 +123,15 @@ func LocalPrint(i ...interface{}) {
 // ReverseSort はsort.Interfaceの形を渡すと逆順にソートする
 func ReverseSort(data sort.Interface) {
 	sort.Sort(sort.Reverse(data))
+}
+
+// ReverseSlice はSliceを逆順に並べ替える
+func ReverseSlice(s interface{}) {
+	n := reflect.ValueOf(s).Len()
+	swap := reflect.Swapper(s)
+	for i, j := 0, n-1; i < j; i, j = i+1, j-1 {
+		swap(i, j)
+	}
 }
 
 // Math Utilities
