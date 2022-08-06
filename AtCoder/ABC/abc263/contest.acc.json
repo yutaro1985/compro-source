@@ -53,7 +53,12 @@
       "id": "abc263_e",
       "label": "E",
       "title": "Sugoroku 3",
-      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_e"
+      "url": "https://atcoder.jp/contests/abc263/tasks/abc263_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
     },
     {
       "id": "abc263_f",
