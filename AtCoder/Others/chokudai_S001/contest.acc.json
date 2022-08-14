@@ -1,0 +1,141 @@
+{
+  "contest": {
+    "id": "chokudai_S001",
+    "title": "Chokudai SpeedRun 001",
+    "url": "https://atcoder.jp/contests/chokudai_S001"
+  },
+  "tasks": [
+    {
+      "id": "chokudai_S001_a",
+      "label": "A",
+      "title": "最大値",
+      "url": "https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "chokudai_S001_b",
+      "label": "B",
+      "title": "和",
+      "url": "https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "chokudai_S001_c",
+      "label": "C",
+      "title": "カンマ区切り",
+      "url": "https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "chokudai_S001_d",
+      "label": "D",
+      "title": "ソート",
+      "url": "https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "chokudai_S001_e",
+      "label": "E",
+      "title": "1は何番目？",
+      "url": "https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_e",
+      "directory": {
+        "path": "e",
+        "testdir": "tests",
+        "submit": "E.go"
+      }
+    },
+    {
+      "id": "chokudai_S001_f",
+      "label": "F",
+      "title": "見える数",
+      "url": "https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_f",
+      "directory": {
+        "path": "f",
+        "testdir": "tests",
+        "submit": "F.go"
+      }
+    },
+    {
+      "id": "chokudai_S001_g",
+      "label": "G",
+      "title": "あまり",
+      "url": "https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_g",
+      "directory": {
+        "path": "g",
+        "testdir": "tests",
+        "submit": "G.go"
+      }
+    },
+    {
+      "id": "chokudai_S001_h",
+      "label": "H",
+      "title": "LIS",
+      "url": "https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_h",
+      "directory": {
+        "path": "h",
+        "testdir": "tests",
+        "submit": "H.go"
+      }
+    },
+    {
+      "id": "chokudai_S001_i",
+      "label": "I",
+      "title": "和がNの区間",
+      "url": "https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_i",
+      "directory": {
+        "path": "i",
+        "testdir": "tests",
+        "submit": "I.go"
+      }
+    },
+    {
+      "id": "chokudai_S001_j",
+      "label": "J",
+      "title": "転倒数",
+      "url": "https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_j",
+      "directory": {
+        "path": "j",
+        "testdir": "tests",
+        "submit": "J.go"
+      }
+    },
+    {
+      "id": "chokudai_S001_k",
+      "label": "K",
+      "title": "辞書順で何番目？",
+      "url": "https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_k",
+      "directory": {
+        "path": "k",
+        "testdir": "tests",
+        "submit": "K.go"
+      }
+    },
+    {
+      "id": "chokudai_S001_l",
+      "label": "L",
+      "title": "N回スワップ",
+      "url": "https://atcoder.jp/contests/chokudai_S001/tasks/chokudai_S001_l",
+      "directory": {
+        "path": "l",
+        "testdir": "tests",
+        "submit": "L.go"
+      }
+    }
+  ]
+}
