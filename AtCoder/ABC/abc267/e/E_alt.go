@@ -62,8 +62,10 @@ func main() {
 		ChmaxInt(&ans, C)
 		deleted[x] = true
 		for _, v := range G[x] {
-			Cost[v] -= A[x]
-			pq.HPush(Item{Cost[v], v, 0})
+			if !deleted[v] {
+				Cost[v] -= A[x]
+				pq.HPush(Item{Cost[v], v, 0})
+			}
 		}
 	}
 	fmt.Println(ans)
