@@ -55,6 +55,10 @@ func main() {
 		}
 		if cur == N {
 			ans = append(ans, tmp)
+			if !check[tmp] && len(tmp) >= 3 && len(tmp) <= 16 {
+				fmt.Println(tmp)
+				os.Exit(0)
+			}
 			return
 		}
 
@@ -73,13 +77,13 @@ func main() {
 			break
 		}
 	}
-	for _, v := range ans {
-		// LocalPrint(v)
-		if !check[v] && len(v) >= 3 && len(v) <= 16 {
-			fmt.Println(v)
-			return
-		}
-	}
+	// for _, v := range ans {
+	// 	// LocalPrint(v)
+	// 	if !check[v] && len(v) >= 3 && len(v) <= 16 {
+	// 		fmt.Println(v)
+	// 		return
+	// 	}
+	// }
 	fmt.Println(-1)
 }
 
