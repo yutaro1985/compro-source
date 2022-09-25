@@ -31,7 +31,9 @@ const (
 )
 
 func main() {
-	fmt.Println(nextInt() + nextInt())
+	N := nextLine()
+	ans, _ := strconv.ParseInt(N, 2, 64)
+	fmt.Println(ans)
 }
 
 func nextLine() string {

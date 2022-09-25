@@ -31,8 +31,14 @@ const (
 )
 
 func main() {
-	N := nextInt()
-	fmt.Println()
+	N, X := nextInt(), nextInt()
+	for i := 0; i < N; i++ {
+		if nextInt() == X {
+			fmt.Println("Yes")
+			return
+		}
+	}
+	fmt.Println("No")
 }
 
 func nextLine() string {

@@ -31,8 +31,17 @@ const (
 )
 
 func main() {
-	N := nextInt()
-	fmt.Println()
+	N, K := nextInt(), nextInt()
+	var ans int
+	for i := 1; i <= N; i++ {
+		for j := 1; j <= N; j++ {
+			k := K - (i + j)
+			if 0 < k && k <= N {
+				ans++
+			}
+		}
+	}
+	fmt.Println(ans)
 }
 
 func nextLine() string {

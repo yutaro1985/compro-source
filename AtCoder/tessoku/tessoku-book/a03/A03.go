@@ -31,8 +31,18 @@ const (
 )
 
 func main() {
-	N := nextInt()
-	fmt.Println()
+	N, K := nextInt(), nextInt()
+	P := makeInts(N)
+	Q := makeInts(N)
+	for i := 0; i < N; i++ {
+		for j := 0; j < N; j++ {
+			if P[i]+Q[j] == K {
+				fmt.Println("Yes")
+				return
+			}
+		}
+	}
+	fmt.Println("No")
 }
 
 func nextLine() string {

@@ -7,6 +7,7 @@ import (
 	"reflect"
 	"sort"
 	"strconv"
+	"strings"
 )
 
 const (
@@ -31,7 +32,10 @@ const (
 )
 
 func main() {
-	fmt.Println(nextInt() + nextInt())
+	N := nextInt()
+	ans := strconv.FormatInt(int64(N), 2)
+	ans = strings.Repeat("0", 10-len(ans)) + ans
+	fmt.Println(ans)
 }
 
 func nextLine() string {

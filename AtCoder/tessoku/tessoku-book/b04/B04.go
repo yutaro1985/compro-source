@@ -31,8 +31,23 @@ const (
 )
 
 func main() {
-	N := nextInt()
-	fmt.Println()
+	N := ReverseString(nextLine())
+	var ans int
+	for i := 0; i < len(N); i++ {
+		if N[i] == '1' {
+			ans += 1 << i
+		}
+	}
+	fmt.Println(ans)
+}
+
+// ReverseString は文字列を反転させたものを返す
+func ReverseString(S string) string {
+	res := []rune(S)
+	for i, j := 0, len(S)-1; i < j; i, j = i+1, j-1 {
+		res[i], res[j] = res[j], res[i]
+	}
+	return string(res)
 }
 
 func nextLine() string {

@@ -7,6 +7,7 @@ import (
 	"reflect"
 	"sort"
 	"strconv"
+	"strings"
 )
 
 const (
@@ -32,7 +33,14 @@ const (
 
 func main() {
 	N := nextInt()
-	fmt.Println()
+	var ans string
+	for i := 0; N > 0; i++ {
+		m := strconv.Itoa(N % 2)
+		N /= 2
+		ans = m + ans
+	}
+	ans = strings.Repeat("0", 10-len(ans)) + ans
+	fmt.Println(ans)
 }
 
 func nextLine() string {

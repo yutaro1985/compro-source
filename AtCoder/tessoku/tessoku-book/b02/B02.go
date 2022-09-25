@@ -31,8 +31,21 @@ const (
 )
 
 func main() {
-	N := nextInt()
-	fmt.Println()
+	A, B := nextInt(), nextInt()
+	divisors := make(map[int]bool)
+	for i := 1; i*i <= 100; i++ {
+		if 100%i == 0 {
+			divisors[i] = true
+			divisors[100/i] = true
+		}
+	}
+	for i := A; i <= B; i++ {
+		if divisors[i] {
+			fmt.Println("Yes")
+			return
+		}
+	}
+	fmt.Println("No")
 }
 
 func nextLine() string {

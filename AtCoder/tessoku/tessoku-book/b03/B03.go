@@ -32,7 +32,18 @@ const (
 
 func main() {
 	N := nextInt()
-	fmt.Println()
+	A := makeInts(N)
+	for i := 0; i < N; i++ {
+		for j := i + 1; j < N; j++ {
+			for k := j + 1; k < N; k++ {
+				if A[i]+A[j]+A[k] == 1000 {
+					fmt.Println("Yes")
+					return
+				}
+			}
+		}
+	}
+	fmt.Println("No")
 }
 
 func nextLine() string {
