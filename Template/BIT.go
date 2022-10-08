@@ -35,3 +35,17 @@ func (b BIT) rangeSum(x, y int) int {
 		return b.sum(y) - b.sum(x-1)
 	}
 }
+
+func (b BIT) lowerbound(x int) int {
+	idx, k := 0, 1
+	for k < len(b.v) {
+		k <<= 1
+	}
+	for k >>= 1; k > 0; k >>= 1 {
+		if idx+k-1 < len(b.v) && b.v[idx+k-1] < x {
+			x -= b.v[idx+k-1]
+			idx += k
+		}
+	}
+	return idx
+}
