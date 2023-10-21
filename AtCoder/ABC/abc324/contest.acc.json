@@ -1,0 +1,71 @@
+{
+  "contest": {
+    "id": "abc324",
+    "title": "Japan Registry Services (JPRS) Programming Contest 2023 (AtCoder Beginner Contest 324)",
+    "url": "https://atcoder.jp/contests/abc324"
+  },
+  "tasks": [
+    {
+      "id": "abc324_a",
+      "label": "A",
+      "title": "Same",
+      "url": "https://atcoder.jp/contests/abc324/tasks/abc324_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc324_b",
+      "label": "B",
+      "title": "3-smooth Numbers",
+      "url": "https://atcoder.jp/contests/abc324/tasks/abc324_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc324_c",
+      "label": "C",
+      "title": "Error Correction",
+      "url": "https://atcoder.jp/contests/abc324/tasks/abc324_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc324_d",
+      "label": "D",
+      "title": "Square Permutation",
+      "url": "https://atcoder.jp/contests/abc324/tasks/abc324_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc324_e",
+      "label": "E",
+      "title": "Joint Two Strings",
+      "url": "https://atcoder.jp/contests/abc324/tasks/abc324_e"
+    },
+    {
+      "id": "abc324_f",
+      "label": "F",
+      "title": "Beautiful Path",
+      "url": "https://atcoder.jp/contests/abc324/tasks/abc324_f"
+    },
+    {
+      "id": "abc324_g",
+      "label": "G",
+      "title": "Generate Arrays",
+      "url": "https://atcoder.jp/contests/abc324/tasks/abc324_g"
+    }
+  ]
+}
