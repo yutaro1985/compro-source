@@ -31,8 +31,21 @@ const (
 )
 
 func main() {
+	T := nextInt()
 	N := nextInt()
-	fmt.Println()
+	imos := make([]int, T+1)
+	for i := 0; i < N; i++ {
+		L := nextInt()
+		R := nextInt()
+		imos[L]++
+		imos[R]--
+	}
+	for i := 0; i < T; i++ {
+		imos[i+1] += imos[i]
+	}
+	for i := 0; i < T; i++ {
+		fmt.Println(imos[i])
+	}
 }
 
 func nextLine() string {

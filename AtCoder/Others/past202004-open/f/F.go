@@ -149,7 +149,7 @@ func ChmaxInt(a *int, b int) {
 }
 
 // golangの公式サンプルより
-// https://xn--go-hh0g6u.com/pkg/container/heap/#example__priorityQueue
+// https://cs.opensource.google/go/go/+/refs/tags/go1.22.1:src/container/heap/example_pq_test.go
 
 // Item は，優先キューで管理する項目です。
 type Item struct {

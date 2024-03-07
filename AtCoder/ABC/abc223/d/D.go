@@ -95,7 +95,7 @@ func (t *TopologicalSort) sort() bool {
 }
 
 // IH golangの公式サンプルより
-// https://xn--go-hh0g6u.com/pkg/container/heap/#example__intHeap
+// https://cs.opensource.google/go/go/+/refs/tags/go1.22.1:src/container/heap/example_intheap_test.go
 type IH []int
 
 func (h IH) Len() int { return len(h) }

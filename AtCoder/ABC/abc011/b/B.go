@@ -154,7 +154,7 @@ func primeFuctorize(n int) map[int]int {
 }
 
 // golangの公式サンプルより
-// https://xn--go-hh0g6u.com/pkg/container/heap/#example__intHeap
+// https://cs.opensource.google/go/go/+/refs/tags/go1.22.1:src/container/heap/example_intheap_test.go
 // IntHeap は，整数の最小ヒープです。
 type IH []int
 
@@ -177,7 +177,7 @@ func (h *IH) Pop() interface{} {
 }
 
 // golangの公式サンプルより
-// https://xn--go-hh0g6u.com/pkg/container/heap/#example__priorityQueue
+// https://cs.opensource.google/go/go/+/refs/tags/go1.22.1:src/container/heap/example_pq_test.go
 
 // Item は，優先キューで管理する項目です。
 type Item struct {

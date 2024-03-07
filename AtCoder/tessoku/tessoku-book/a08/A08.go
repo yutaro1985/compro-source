@@ -30,6 +30,8 @@ const (
 	INF     = 1 << 60
 )
 
+// 二次元累積和
+
 func main() {
 	N := nextInt()
 	fmt.Println()

@@ -31,8 +31,23 @@ const (
 )
 
 func main() {
-	N := nextInt()
-	fmt.Println()
+	N, Q := nextInt(), nextInt()
+	A := makeInts(N)
+	Csum := cumulativeSum(A)
+	LocalPrint(Csum)
+	for ; Q > 0; Q-- {
+		L, R := nextInt()-1, nextInt()
+		fmt.Println(Csum[R] - Csum[L])
+	}
+}
+
+func cumulativeSum(A []int) []int {
+	res := make([]int, 0, len(A)+1)
+	res = append(res, 0)
+	for _, v := range A {
+		res = append(res, res[len(res)-1]+v)
+	}
+	return res
 }
 
 func nextLine() string {

@@ -32,7 +32,32 @@ const (
 
 func main() {
 	N := nextInt()
-	fmt.Println()
+	A := makeInts(N)
+	Csum := CumulativeSum(A)
+	Q := nextInt()
+	for ; Q > 0; Q-- {
+		L, R := nextInt()-1, nextInt()
+		win := Csum[R] - Csum[L]
+		lose := R - L - win
+		switch {
+		case win > lose:
+			fmt.Println("win")
+		case win == lose:
+			fmt.Println("draw")
+		case win < lose:
+			fmt.Println("lose")
+		}
+	}
+}
+
+// CumulativeSum はあるint型配列Aの累積和配列を返す
+func CumulativeSum(A []int) []int {
+	res := make([]int, 0, len(A)+1)
+	res = append(res, 0)
+	for _, v := range A {
+		res = append(res, res[len(res)-1]+v)
+	}
+	return res
 }
 
 func nextLine() string {

@@ -145,7 +145,7 @@ func ChmaxInt(a *int, b int) {
 }
 
 // IH golangの公式サンプルより
-// https://xn--go-hh0g6u.com/pkg/container/heap/#example__intHeap
+// https://cs.opensource.google/go/go/+/refs/tags/go1.22.1:src/container/heap/example_intheap_test.go
 // IntHeap は，整数の最小ヒープです。
 type IH []int
 
