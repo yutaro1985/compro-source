@@ -10,7 +10,7 @@ func (mi mint) mod() mint {
 func (mi mint) inv() mint {
 	// https://qiita.com/drken/items/3b4fdf0a78e7a138cd9a#3-5-%E6%8B%A1%E5%BC%B5-euclid-%E3%81%AE%E4%BA%92%E9%99%A4%E6%B3%95%E3%81%AB%E3%82%88%E3%82%8B%E9%80%86%E5%85%83%E8%A8%88%E7%AE%97
 	b, u, v := mint(mod), mint(1), mint(0)
-	for b != 0 {
+	for b > 0 {
 		t := mi / b
 		mi -= t * b
 		mi, b = b, mi
