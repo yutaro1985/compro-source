@@ -1,0 +1,71 @@
+{
+  "contest": {
+    "id": "abc360",
+    "title": "AtCoder Beginner Contest 360",
+    "url": "https://atcoder.jp/contests/abc360"
+  },
+  "tasks": [
+    {
+      "id": "abc360_a",
+      "label": "A",
+      "title": "A Healthy Breakfast",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc360_b",
+      "label": "B",
+      "title": "Vertical Reading",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc360_c",
+      "label": "C",
+      "title": "Move It",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc360_d",
+      "label": "D",
+      "title": "Ghost Ants",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc360_e",
+      "label": "E",
+      "title": "Random Swaps of Balls",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_e"
+    },
+    {
+      "id": "abc360_f",
+      "label": "F",
+      "title": "InterSections",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_f"
+    },
+    {
+      "id": "abc360_g",
+      "label": "G",
+      "title": "Suitable Edit for LIS",
+      "url": "https://atcoder.jp/contests/abc360/tasks/abc360_g"
+    }
+  ]
+}
