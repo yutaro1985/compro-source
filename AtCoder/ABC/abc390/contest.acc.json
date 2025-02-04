@@ -1,0 +1,71 @@
+{
+  "contest": {
+    "id": "abc390",
+    "title": "AtCoder Beginner Contest 390",
+    "url": "https://atcoder.jp/contests/abc390"
+  },
+  "tasks": [
+    {
+      "id": "abc390_a",
+      "label": "A",
+      "title": "12435",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc390_b",
+      "label": "B",
+      "title": "Geometric Sequence",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc390_c",
+      "label": "C",
+      "title": "Paint to make a rectangle",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc390_d",
+      "label": "D",
+      "title": "Stone XOR",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc390_e",
+      "label": "E",
+      "title": "Vitamin Balance",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_e"
+    },
+    {
+      "id": "abc390_f",
+      "label": "F",
+      "title": "Double Sum 3",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_f"
+    },
+    {
+      "id": "abc390_g",
+      "label": "G",
+      "title": "Permutation Concatenation",
+      "url": "https://atcoder.jp/contests/abc390/tasks/abc390_g"
+    }
+  ]
+}
