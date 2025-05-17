@@ -1,0 +1,71 @@
+{
+  "contest": {
+    "id": "abc406",
+    "title": "Panasonic Programming Contest 2025（AtCoder Beginner Contest 406）",
+    "url": "https://atcoder.jp/contests/abc406"
+  },
+  "tasks": [
+    {
+      "id": "abc406_a",
+      "label": "A",
+      "title": "Not Acceptable",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_a",
+      "directory": {
+        "path": "a",
+        "testdir": "tests",
+        "submit": "A.go"
+      }
+    },
+    {
+      "id": "abc406_b",
+      "label": "B",
+      "title": "Product Calculator",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_b",
+      "directory": {
+        "path": "b",
+        "testdir": "tests",
+        "submit": "B.go"
+      }
+    },
+    {
+      "id": "abc406_c",
+      "label": "C",
+      "title": "~",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_c",
+      "directory": {
+        "path": "c",
+        "testdir": "tests",
+        "submit": "C.go"
+      }
+    },
+    {
+      "id": "abc406_d",
+      "label": "D",
+      "title": "Garbage Removal",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_d",
+      "directory": {
+        "path": "d",
+        "testdir": "tests",
+        "submit": "D.go"
+      }
+    },
+    {
+      "id": "abc406_e",
+      "label": "E",
+      "title": "Popcount Sum 3",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_e"
+    },
+    {
+      "id": "abc406_f",
+      "label": "F",
+      "title": "Compare Tree Weights",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_f"
+    },
+    {
+      "id": "abc406_g",
+      "label": "G",
+      "title": "Travelling Salesman Problem",
+      "url": "https://atcoder.jp/contests/abc406/tasks/abc406_g"
+    }
+  ]
+}
